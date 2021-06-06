@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" coreVersion="7.0" field="golden">
+  <EditHistory editNumber="6" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="30" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="39" len="1 1"/>
+    <ReplaceWithShape endSegment="-1 -2 -1 -2 1 2" startSegment="0 0 0 0 0 0">vZome VEF 6 field golden
+
+12
+(0,0) (1/2,0) (0,0) (1/2,-3/2)
+(0,0) (0,1) (-1/2,1/2) (1/2,-1)
+(0,0) (0,1) (1/2,-1/2) (1/2,-1)
+(0,0) (3/2,0) (0,0) (-1/2,-1/2)
+(0,0) (1,1) (-1/2,1/2) (-1/2,0)
+(0,0) (1,1) (1/2,-1/2) (-1/2,0)
+(0,0) (2,1) (-1/2,1/2) (-1/2,-1)
+(0,0) (2,1) (1/2,-1/2) (-1/2,-1)
+(0,0) (3/2,2) (0,0) (-1/2,-1/2)
+(0,0) (3,1) (-1/2,1/2) (-3/2,0)
+(0,0) (3,1) (1/2,-1/2) (-3/2,0)
+(0,0) (5/2,2) (0,0) (-3/2,1/2)
+
+
+
+0
+
+
+
+12
+3  3 6 4 
+3  3 7 6 
+3  4 6 8 
+3  5 4 8 
+3  5 7 3 
+3  5 8 7 
+4  0 2 5 3 
+4  0 3 4 1 
+4  2 1 4 5 
+4  8 6 9 11 
+4  10 7 8 11 
+4  10 9 6 7 
+
+
+
+0
+
+
+</ReplaceWithShape>
+    <ReplaceWithShape endSegment="-2 -3 -1 -2 0 0" startSegment="0 0 0 0 0 0">vZome VEF 6 field golden
+
+20
+(0,0) (-1/2,3/2) (1/2,0) (0,0)
+(0,0) (1/2,0) (1,-1) (-1/2,1/2)
+(0,0) (1/2,0) (1,-1) (1/2,-1/2)
+(0,0) (0,1) (1/2,-1/2) (1/2,-1)
+(0,0) (0,1) (1/2,-1/2) (-1/2,1)
+(0,0) (0,5/2) (3/2,-1/2) (0,0)
+(0,0) (1,1) (2,-3/2) (-1/2,1/2)
+(0,0) (1,1) (2,-3/2) (1/2,-1/2)
+(0,0) (1/2,2) (3/2,-1) (1/2,-1)
+(0,0) (1/2,2) (3/2,-1) (-1/2,1)
+(0,0) (5/2,0) (1/2,2) (1/2,-1)
+(0,0) (5/2,0) (1/2,2) (-1/2,1)
+(0,0) (2,1) (0,5/2) (-1/2,1/2)
+(0,0) (2,1) (0,5/2) (1/2,-1/2)
+(0,0) (3,-1/2) (1/2,3/2) (0,0)
+(0,0) (3,1) (3/2,3/2) (1/2,-1)
+(0,0) (3,1) (3/2,3/2) (-1/2,1)
+(0,0) (5/2,2) (1,2) (-1/2,1/2)
+(0,0) (5/2,2) (1,2) (1/2,-1/2)
+(0,0) (7/2,1/2) (3/2,1) (0,0)
+
+
+
+0
+
+
+
+20
+3  5 10 6 
+3  6 10 12 
+3  6 12 8 
+3  7 9 13 
+3  7 11 5 
+3  7 13 11 
+3  8 12 14 
+3  9 8 14 
+3  11 10 5 
+3  13 9 14 
+4  1 0 5 6 
+4  1 6 8 3 
+4  7 2 4 9 
+4  7 5 0 2 
+4  9 4 3 8 
+4  11 16 15 10 
+4  12 10 15 17 
+4  13 14 19 18 
+4  13 18 16 11 
+4  14 12 17 19 
+
+
+
+0
+
+
+</ReplaceWithShape>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="17" len="2 4" symm="octahedral"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+    <Direction color="53,181,179" name="turquoise"/>
+    <Direction color="36,35,38" name="black"/>
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="255,255,255" name="15913" prototype="1/2 -1/2 3/2 0 0 1/2"/>
+    <Direction color="255,255,255" name="15911" prototype="1/2 0 0 0 -1 -1/2"/>
+    <Direction color="255,255,255" name="15912" prototype="-1/2 0 0 1 0 1/2"/>
+    <Direction color="245,163,1" name="yellow"/>
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="144,127,227" name="lavender"/>
+    <Direction color="116,104,1" name="olive"/>
+    <Direction color="141,2,41" name="maroon"/>
+    <Direction color="255,255,255" name="6" prototype="1 -3/4 3/4 -1/4 -5/4 0"/>
+    <Direction color="255,255,255" name="5" prototype="-5/2 1 -5/2 5/2 0 0"/>
+    <Direction color="105,54,1" name="brown"/>
+    <Direction color="255,255,255" name="2" prototype="1/4 -1/2 1/2 1/4 5/4 -5/4"/>
+    <Direction color="255,255,255" name="1" prototype="-1 1/2 1/2 1/2 -1/2 1"/>
+    <Direction color="197,3,20" name="red"/>
+    <Direction color="255,255,255" name="4" prototype="3 -2 1/2 0 5/2 -1/2"/>
+    <Direction color="113,64,178" name="purple"/>
+    <Direction color="255,255,255" name="3" prototype="0 1/2 -2 1/2 -3 5/2"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+      <Direction color="6,96,141" name="blue"/>
+      <Direction color="2,130,53" name="green"/>
+      <Direction color="187,144,85" name="sand"/>
+      <Direction color="12,84,55" name="spruce"/>
+      <Direction color="197,3,20" name="red"/>
+      <Direction color="254,124,123" name="coral"/>
+      <Direction color="36,35,38" name="black"/>
+      <Direction color="141,2,41" name="maroon"/>
+      <Direction color="245,163,1" name="yellow"/>
+      <Direction color="218,225,83" name="sulfur"/>
+      <Direction color="251,94,160" name="rose"/>
+      <Direction color="53,181,179" name="turquoise"/>
+      <Direction color="129,191,30" name="apple"/>
+      <Direction color="144,56,14" name="cinnamon"/>
+      <Direction color="113,64,178" name="purple"/>
+      <Direction color="236,89,1" name="orange"/>
+      <Direction color="52,48,136" name="navy"/>
+      <Direction color="105,54,1" name="brown"/>
+      <Direction color="144,127,227" name="lavender"/>
+      <Direction color="116,104,1" name="olive"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

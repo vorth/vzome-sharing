@@ -6,7 +6,7 @@
 
 [Github Source][3] - view this content as source in Github.  Feel free to edit `README.md` (this content), if you want to modify and share the page.
 
-[Github Pages][4] - view this content as rendered in Github Pages.
+[Github Pages][4] - view this content as rendered in Github Pages.  Remember there may be a delay before changes appear here; see above.
 
 ![Image](Nan-hypercube-projections-SV.png)
 

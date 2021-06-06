@@ -1,4 +1,4 @@
-### linearMap-coincidence-test.vZome
+### linearMap-coincidence-test
 
 [vZome Online (immediate)][1] - this link works as soon as vZome has pushed the files to Github; it can be shared immediately, but it will not show a preview image when auto-expanded in Twitter, Discord, Facebook, etc.
 

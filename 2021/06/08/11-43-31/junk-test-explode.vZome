@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" coreVersion="7.0" field="golden">
+  <EditHistory editNumber="23" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 1"/>
+    <SelectManifestation point="1 2 1 2 1 2"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 2 3 0 0"/>
+    <SelectManifestation point="-1 -1 2 3 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 1 2 1 2" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="1 2 1 2 1 2" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll/>
+    <realizeMetaParts/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <EndBlock/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="361.00054931640625" far="722.0010986328125" near="0.9025014042854309" parallel="false" stereoAngle="0.0" width="162.4502410888672">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.03162148594856262" y="0.9990693926811218" z="0.02933393605053425"/>
+      <LookDirection x="0.31025516986846924" y="0.0377102755010128" z="-0.9499050974845886"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="small dodecahedra">
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="187,144,85" name="sand"/>
+    <Direction color="12,84,55" name="spruce"/>
+    <Direction color="197,3,20" name="red"/>
+    <Direction color="254,124,123" name="coral"/>
+    <Direction color="36,35,38" name="black"/>
+    <Direction color="141,2,41" name="maroon"/>
+    <Direction color="245,163,1" name="yellow"/>
+    <Direction color="218,225,83" name="sulfur"/>
+    <Direction color="251,94,160" name="rose"/>
+    <Direction color="53,181,179" name="turquoise"/>
+    <Direction color="129,191,30" name="apple"/>
+    <Direction color="144,56,14" name="cinnamon"/>
+    <Direction color="113,64,178" name="purple"/>
+    <Direction color="236,89,1" name="orange"/>
+    <Direction color="52,48,136" name="navy"/>
+    <Direction color="105,54,1" name="brown"/>
+    <Direction color="255,255,255" name="52" prototype="1/2 0 0 0 0 1"/>
+    <Direction color="144,127,227" name="lavender"/>
+    <Direction color="255,255,255" name="51" prototype="0 1/2 0 -1 0 0"/>
+    <Direction color="116,104,1" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="6,96,141" name="blue"/>
+      <Direction color="144,127,227" name="lavender"/>
+      <Direction color="53,181,179" name="turquoise"/>
+      <Direction color="36,35,38" name="black"/>
+      <Direction color="2,130,53" name="green"/>
+      <Direction color="116,104,1" name="olive"/>
+      <Direction color="141,2,41" name="maroon"/>
+      <Direction color="105,54,1" name="brown"/>
+      <Direction color="245,163,1" name="yellow"/>
+      <Direction color="197,3,20" name="red"/>
+      <Direction color="113,64,178" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

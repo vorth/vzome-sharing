@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" coreVersion="7.0" field="golden">
+  <EditHistory editNumber="26" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" index="21" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="0" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="1 2 -2 -3 1 1"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <DeselectAll/>
+    <StrutCreation anchor="2 3 1 2 0 0" dir="yellow" index="8" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 6 1 2 1 1"/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <DeselectAll/>
+    <StrutCreation anchor="2 3 1 2 0 0" dir="yellow" index="6" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 4 3 5 0 0"/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <SelectManifestation point="4 6 1 2 1 1"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="3 4 3 5 0 0"/>
+      <polygonVertex at="2 3 1 2 0 0"/>
+      <polygonVertex at="4 6 1 2 1 1"/>
+    </SelectManifestation>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="110.92778778076172" far="221.85557556152344" near="0.27731946110725403" parallel="false" stereoAngle="0.0" width="49.917503356933594">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.1333189606666565" y="0.9343699216842651" z="-0.3304225206375122"/>
+      <LookDirection x="-0.161727637052536" y="-0.3494403064250946" z="-0.9228948950767517"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="187,144,85" name="sand"/>
+    <Direction color="12,84,55" name="spruce"/>
+    <Direction color="197,3,20" name="red"/>
+    <Direction color="254,124,123" name="coral"/>
+    <Direction color="36,35,38" name="black"/>
+    <Direction color="141,2,41" name="maroon"/>
+    <Direction color="245,163,1" name="yellow"/>
+    <Direction color="218,225,83" name="sulfur"/>
+    <Direction color="251,94,160" name="rose"/>
+    <Direction color="53,181,179" name="turquoise"/>
+    <Direction color="129,191,30" name="apple"/>
+    <Direction color="144,56,14" name="cinnamon"/>
+    <Direction color="113,64,178" name="purple"/>
+    <Direction color="236,89,1" name="orange"/>
+    <Direction color="52,48,136" name="navy"/>
+    <Direction color="105,54,1" name="brown"/>
+    <Direction color="144,127,227" name="lavender"/>
+    <Direction color="116,104,1" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="6,96,141" name="blue"/>
+      <Direction color="144,127,227" name="lavender"/>
+      <Direction color="53,181,179" name="turquoise"/>
+      <Direction color="36,35,38" name="black"/>
+      <Direction color="2,130,53" name="green"/>
+      <Direction color="116,104,1" name="olive"/>
+      <Direction color="141,2,41" name="maroon"/>
+      <Direction color="105,54,1" name="brown"/>
+      <Direction color="245,163,1" name="yellow"/>
+      <Direction color="197,3,20" name="red"/>
+      <Direction color="113,64,178" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

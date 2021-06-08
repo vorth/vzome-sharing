@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" coreVersion="7.0" field="golden">
+  <EditHistory editNumber="242" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 1"/>
+    <SelectManifestation point="1 2 1 2 1 2"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 1 2 1 2" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 2 3 2 3"/>
+    <SelectAll/>
+    <EndBlock/>
+    <ConvexHull3d mode="noPanels"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 -2 -3 2 3"/>
+    <SelectManifestation point="0 0 1 2 3 5"/>
+    <SelectManifestation point="0 0 1 2 3 5"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 1 2 3 5"/>
+    <SelectManifestation point="2 3 -2 -3 2 3"/>
+    <SelectManifestation point="2 3 2 3 2 3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 1 2 3 5" index="51" len="2 4"/>
+    <StrutCreation anchor="-2 -3 2 3 2 3" index="10" len="2 4"/>
+    <SelectAll/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="1 2 3 5 4 6" index="9" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 4 7 4 7" startSegment="1 2 3 5 4 6"/>
+    <SelectManifestation point="2 3 4 7 4 7"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="1 2 3 5 4 6" index="7" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 1 4 6 5 8" startSegment="1 2 3 5 4 6"/>
+    <SelectManifestation point="1 1 4 6 5 8"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 3 4 7 4 7" index="41" len="2 2"/>
+    <SelectManifestation endSegment="1 1 4 6 5 8" startSegment="2 3 4 7 4 7"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-1 -1 4 6 5 8" index="10" len="2 4"/>
+    <StrutCreation anchor="1 1 4 6 5 8" index="7" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 5 8 7 11"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="3 5 6 10 5 8" index="41" len="2 2"/>
+    <StrutCreation anchor="0 0 5 8 7 11" index="23" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 6 9 6 9"/>
+    <SelectManifestation point="1 2 5 9 6 10"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-1 -2 3 5 4 6" index="0" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 3 5 4 6" startSegment="-1 -2 3 5 4 6"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 3 5 4 6" startSegment="-1 -2 3 5 4 6"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 5 8 1 1" index="2" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 5 8 3 5" startSegment="0 0 5 8 1 1"/>
+    <SelectManifestation point="0 0 5 8 3 5"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="1 1 4 6 5 8" dir="green" index="10" len="2 2"/>
+    <StrutCreation anchor="2 3 4 7 4 7" dir="green" index="7" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 6 9 6 9" startSegment="2 3 4 7 4 7"/>
+    <SelectManifestation endSegment="1 2 5 9 6 10" startSegment="1 1 4 6 5 8"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 3 6 9 6 9" dir="green" index="7" len="2 4"/>
+    <StrutCreation anchor="1 2 5 9 6 10" dir="green" index="10" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 8 13 8 13"/>
+    <SelectManifestation endSegment="2 3 8 13 8 13" startSegment="1 2 5 9 6 10"/>
+    <SelectManifestation endSegment="2 3 8 13 8 13" startSegment="2 3 6 9 6 9"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 10 16 5 8"/>
+    <SelectManifestation point="2 3 8 13 8 13"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 4 6 5 8"/>
+    <SelectManifestation point="-1 -1 4 6 5 8"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-1 -1 4 6 5 8" dir="green" index="25" len="2 4"/>
+    <StrutCreation anchor="1 1 4 6 5 8" dir="green" index="19" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 1 2 3 5" startSegment="1 1 4 6 5 8"/>
+    <SelectManifestation endSegment="0 0 1 2 3 5" startSegment="-1 -1 4 6 5 8"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 1 2 3 5" dir="green" index="19" len="4 6"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 -3 -5 0 0" startSegment="0 0 1 2 3 5"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 1 2 3 5" dir="green" index="25" len="4 6"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 -3 -5 0 0" startSegment="0 0 1 2 3 5"/>
+    <SelectManifestation endSegment="-1 -2 -3 -5 0 0" startSegment="0 0 1 2 3 5"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-2 -4 5 8 3 5" dir="green" index="28" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-2 -3 2 3 2 3" startSegment="-2 -4 5 8 3 5"/>
+    <SelectManifestation endSegment="-2 -3 2 3 2 3" startSegment="-2 -3 4 7 4 7"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <Delete/>
+    <StrutCreation anchor="-2 -3 4 7 4 7" dir="green" index="22" len="2 2"/>
+    <StrutCreation anchor="-1 -4 3 5 2 4" dir="green" index="28" len="0 2"/>
+    <StrutCreation anchor="-2 -3 2 5 2 5" dir="green" index="22" len="0 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-2 -3 2 3 2 3" startSegment="-2 -3 2 5 2 5"/>
+    <SelectManifestation endSegment="-2 -3 2 3 2 3" startSegment="-1 -4 3 5 2 4"/>
+    <SelectManifestation point="-1 -4 3 5 2 4"/>
+    <SelectManifestation point="-2 -3 2 5 2 5"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <setItemColor blue="102" green="255" red="102"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-2 -3 2 5 2 5" startSegment="-2 -3 4 7 4 7"/>
+    <SelectManifestation endSegment="-1 -4 3 5 2 4" startSegment="-2 -4 5 8 3 5"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-2 -3 2 3 2 3" dir="green" index="28" len="0 2"/>
+    <StrutCreation anchor="-1 -2 -3 -5 0 0" dir="green" index="1" len="0 2"/>
+    <SelectManifestation endSegment="-1 -2 -3 -5 0 0" startSegment="-2 -3 2 3 2 3"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -2 1 1 2 2"/>
+    <SelectManifestation point="0 -3 -2 -3 0 1"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 -3 -5 0 0" startSegment="0 0 1 2 3 5"/>
+    <SelectManifestation endSegment="-1 -2 -3 -5 0 0" startSegment="0 0 1 2 3 5"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <Delete/>
+    <StrutCreation anchor="0 0 1 2 3 5" dir="green" index="19" len="0 2"/>
+    <StrutCreation anchor="-1 -2 -3 -5 0 0" dir="green" index="10" len="0 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 0 -1 1 2 4"/>
+    <SelectManifestation point="0 -2 -1 -4 1 1"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -3 -2 -3 0 1" startSegment="-3 -2 1 1 2 2"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -2 -1 -4 1 1"/>
+    <SelectManifestation point="0 -3 -2 -3 0 1"/>
+    <SelectManifestation point="-1 0 -1 1 2 4"/>
+    <SelectManifestation point="1 0 -1 1 2 4"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -2 -1 -4 1 1" startSegment="-1 0 -1 1 2 4"/>
+    <SelectManifestation endSegment="0 2 -1 -4 1 1" startSegment="1 0 -1 1 2 4"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation endSegment="0 -2 -1 -4 1 1" startSegment="-1 0 -1 1 2 4"/>
+    <SelectManifestation endSegment="0 2 -1 -4 1 1" startSegment="1 0 -1 1 2 4"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <setItemColor blue="102" green="255" red="102"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 3 5 2 3" startSegment="0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-2 -3 6 9 6 9" dir="green" index="7" len="2 2"/>
+    <StrutCreation anchor="-1 -2 5 9 6 10" dir="green" index="4" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-2 -3 8 13 8 13" startSegment="-2 -3 6 9 6 9"/>
+    <SelectManifestation endSegment="-2 -3 8 13 8 13" startSegment="-1 -2 5 9 6 10"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 8 11 8 11"/>
+    <SelectManifestation point="-1 -3 6 12 7 12"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -3 8 11 8 11"/>
+    <SelectManifestation point="-2 -3 8 13 8 13"/>
+    <SelectManifestation point="-1 -3 6 12 7 12"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 8 11 8 11"/>
+    <SelectManifestation point="-1 -3 6 12 7 12"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <setItemColor blue="255" green="102" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 3 5 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 -2 -3 -2 -3"/>
+    <EndBlock/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="138.2245330810547" far="276.44866943359375" near="0.34556135535240173" parallel="false" stereoAngle="0.0" width="62.201011657714844">
+      <LookAtPoint x="0.0" y="11.090169906616211" z="6.85410213470459"/>
+      <UpDirection x="0.9812052845954895" y="0.04905441030859947" z="0.18664468824863434"/>
+      <LookDirection x="-0.14588457345962524" y="-0.4446110427379608" z="0.8837612867355347"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="187,144,85" name="sand"/>
+    <Direction color="12,84,55" name="spruce"/>
+    <Direction color="197,3,20" name="red"/>
+    <Direction color="254,124,123" name="coral"/>
+    <Direction color="36,35,38" name="black"/>
+    <Direction color="141,2,41" name="maroon"/>
+    <Direction color="245,163,1" name="yellow"/>
+    <Direction color="218,225,83" name="sulfur"/>
+    <Direction color="251,94,160" name="rose"/>
+    <Direction color="53,181,179" name="turquoise"/>
+    <Direction color="129,191,30" name="apple"/>
+    <Direction color="144,56,14" name="cinnamon"/>
+    <Direction color="113,64,178" name="purple"/>
+    <Direction color="236,89,1" name="orange"/>
+    <Direction color="52,48,136" name="navy"/>
+    <Direction color="105,54,1" name="brown"/>
+    <Direction color="144,127,227" name="lavender"/>
+    <Direction color="116,104,1" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="6,96,141" name="blue"/>
+      <Direction color="144,127,227" name="lavender"/>
+      <Direction color="53,181,179" name="turquoise"/>
+      <Direction color="36,35,38" name="black"/>
+      <Direction color="2,130,53" name="green"/>
+      <Direction color="116,104,1" name="olive"/>
+      <Direction color="141,2,41" name="maroon"/>
+      <Direction color="105,54,1" name="brown"/>
+      <Direction color="245,163,1" name="yellow"/>
+      <Direction color="197,3,20" name="red"/>
+      <Direction color="113,64,178" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

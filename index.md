@@ -7,7 +7,7 @@ and a GitHub repository named `vzome-sharing`, with GitHub Pages enabled for the
 
 1. Log into your GitHub account
 2. Create a public repository named `vzome-sharing` in your account.  In the "Create a new repository" page, click on the "Add a README file" checkbox.
-3. Once the new repository is created, go to its "Settings" tab, and click on "Pages" option on the left.  Select the `master` branch, with the default "/ (root)" folder, and click "Save".  Within a few minutes you should see a green banner that provides a link to the page for the repository; essentially you have just created a website, whose source is the content of the `vzome-sharing` repository.
+3. Once the new repository is created, go to its "Settings" tab, and click on "Pages" option on the left.  Select the `main` branch, with the default "/ (root)" folder, and click "Save".  Within a few minutes you should see a green banner that provides a link to the page for the repository; essentially you have just created a website, whose source is the content of the `vzome-sharing` repository.
 
 # How it works
 

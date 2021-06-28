@@ -30,7 +30,10 @@ in the generated folders.
 
 # Why GitHub Pages?
 
-Originally, the vZome sharing feature was implemented using [GitHub Gists][gists].  We are now using GitHub Pages rather than gists for several reasons:
+Originally, the vZome sharing feature was implemented using [GitHub Gists][gists].
+Unlike most cloud services for file sharing, Gists support *open, public* access to files,
+in particular with *raw access* (serving up the actual file, rather than a webpage *about* the file).
+However, vZome is now using GitHub Pages rather than gists for several reasons:
 
 First, we need to upload PNG files next to our vZome files, to support link embedding. 
 Those PNG files must be served up with the right MIME type, so that they work when used from an HTML page.

@@ -1,4 +1,3 @@
-# Sharing Designs from vZome
 
 [vZome][vzome] supports sharing designs using [Github Pages][pages].
 In addition to vZome itself, all you need is a [GitHub][github] account (these are free),
@@ -10,7 +9,7 @@ The steps are easy:
 2. Create a public repository named `vzome-sharing` in your account.  In the "Create a new repository" page, click on the "Add a README file" checkbox.
 3. Once the new repository is created, go to its "Settings" tab, and click on "Pages" option on the left.  Select the `master` branch, with the default "/ (root)" folder, and click "Save".  Within a few minutes you should see a green banner that provides a link to the page for the repository; essentially you have just created a website, whose source is the content of the `vzome-sharing` repository.
 
-## How it works
+# How it works
 
 vZome will publish designs for sharing by adding dated, timestamped folders to your `vzome-sharing` repository.
 [Here is an example][example] of such a folder.
@@ -20,7 +19,16 @@ While sharing, vZome creates the folder, uploads the `.vZome` design file and a 
 Since your repository is enabled for Github Pages, each time you share a design GitHub Pages will rebuild the website corresponding to your repository.
 This may take a few minutes, and there is a limit on how many times the website will be rebuilt within an hour.
 
-## Why GitHub Pages?
+# Customizing your page
+
+You can use your `vzome-sharing` repository to build a custom website, which is the intended purpose of GitHub Pages.
+That is how this page you are reading was created.  You probably want to choose a *theme* in the "Pages" settings for your repository,
+and perhaps set some *theme properties* in the the `_config.yml` file that will appear in your repository.
+Then add as many HTML or Markdown pages as you like.  Best of all, those pages can link to your vZome designs in the same repository,
+as raw vZome files and thumbnail images, as links to the generated `README.md` files, or even to additional webpages you author
+in the generated folders.
+
+# Why GitHub Pages?
 
 Originally, the vZome sharing feature was implemented using [GitHub Gists][gists].  We are now using GitHub Pages rather than gists for several reasons:
 
@@ -35,7 +43,7 @@ Poke around [the repository above][example], to see what I mean.
 Finally, the whole point is to share files on the web, and that is what GitHub Pages is for!
 You are free to create your own web pages there, creating your own stories about geometry or whatever.
 Best of all, you'll be able to use [vZome Online][online] components directly in these pages, once those components are enabled for use in this way.
-This means you can create pages similar to [this one][bhall], yourself.
+This means you will be able create [custom pages with vZome designs][bhall], yourself.
 
 
 [vzome]: https://vzome.com/home/

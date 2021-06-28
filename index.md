@@ -25,7 +25,7 @@ You can use your `vzome-sharing` repository to build a custom website, which is 
 That is how this page you are reading was created.  You probably want to choose a *theme* in the "Pages" settings for your repository,
 and perhaps set some *theme properties* in the the `_config.yml` file that will appear in your repository.
 Then add as many HTML or Markdown pages as you like.  Best of all, those pages can link to your vZome designs in the same repository,
-as raw vZome files and thumbnail images, as links to the generated `README.md` files, or even to additional webpages you author
+as raw vZome files and thumbnail images, as links to the generated `README.md` files, or even as links to additional webpages you author
 in the generated folders.
 
 # Why GitHub Pages?

@@ -56,5 +56,3 @@ This means you will be able create [custom pages with vZome designs][bhall], you
 [gists]: https://gist.github.com/
 [online]: https://vzome.com/app/
 [bhall]: https://vzome.com/app/bhall/basic
-
-

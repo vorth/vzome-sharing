@@ -3,7 +3,7 @@
 In addition to vZome itself, all you need is a [GitHub][github] account (these are free),
 and a GitHub repository named `vzome-sharing`, with GitHub Pages enabled for the repository.
 
-The steps are easy:
+# Simple steps:
 
 1. Log into your GitHub account
 2. Create a public repository named `vzome-sharing` in your account.  In the "Create a new repository" page, click on the "Add a README file" checkbox.

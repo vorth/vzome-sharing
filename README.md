@@ -11,5 +11,5 @@ This repository is used by vZome to share my designs, when I use the "share" but
 
 [Github Pages][page] - view this content as rendered in Github Pages.
 
-[source]: https://github.com/vorth/vzome-sharing/edit/master
+[source]: https://github.com/vorth/vzome-sharing/
 [page]: https://vorth.github.io/vzome-sharing/

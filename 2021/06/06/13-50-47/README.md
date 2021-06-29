@@ -8,9 +8,12 @@
 
 [Github Pages][4] - view this content as rendered in Github Pages.  Remember there may be a delay before changes appear here; see above.
 
+[Hand-modified vZome Online][5] - this is a test of spaces in file names.
+
 ![Image](24-cell-root3.png)
 
 [1]: https://vzome.com/app/?url=https://raw.githubusercontent.com/vorth/vzome-sharing/master/2021/06/06/13-50-47/24-cell-root3.vZome
 [2]: https://vzome.com/app/embed.py?url=https://vorth.github.io/vzome-sharing/2021/06/06/13-50-47/24-cell-root3.vZome
 [3]: https://github.com/vorth/vzome-sharing/tree/master/2021/06/06/13-50-47
 [4]: https://vorth.github.io/vzome-sharing/2021/06/06/13-50-47
+[5]: https://vzome.com/app/?url=https://raw.githubusercontent.com/vorth/vzome-sharing/master/2021/06/06/24-cell%20root3.vZome

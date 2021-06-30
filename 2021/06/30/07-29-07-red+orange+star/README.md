@@ -55,6 +55,8 @@ this is how you would share that web page.
 ---
 
 ![Image](red orange star.png)
+
+
 [quick]: https://vzome.com/app/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvorth%2Fvzome-sharing%2Fmain%2F2021%2F06%2F30%2F07-29-07-red%2Borange%2Bstar%2Fred+orange+star.vZome
 [embed]: https://vzome.com/app/embed.py?url=https%3A%2F%2Fvorth.github.io%2Fvzome-sharing%2F2021%2F06%2F30%2F07-29-07-red%2Borange%2Bstar%2Fred+orange+star.vZome
 [source]: https://github.com/vorth/vzome-sharing/tree/main/2021/06/30/07-29-07-red+orange+star/

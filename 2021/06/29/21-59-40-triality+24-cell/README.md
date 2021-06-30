@@ -1,6 +1,6 @@
 ## Your vZome design is uploaded
 
-[Embeddable vZome Online view][embed]
+### [Embeddable vZome Online view][embed]
 
 ***This is the best link to share***!  The link is *embeddable* because it will render in social media (e.g. Discord, Twitter, FaceBook...) with a proper title and a preview image.
 
@@ -13,13 +13,13 @@ If this happens, just wait a bit and reload the vZome Online page.
 
 ---
 
-[Quick vZome Online view][quick]
+### [Quick vZome Online view][quick]
 
 Use this link only if you're in a hurry, and you don't care about link embedding with a preview image.  If you can see this page, then the link will work immediately.
 
 ---
 
-[Raw vZome file][raw]
+### [Raw vZome file][raw]
 
 This is just the link to the raw vZome file, and is **not** good for
 sharing on social media.
@@ -29,7 +29,7 @@ vZome desktop ("Open URL...") or vZome Online ("Remote vZome URL").
 
 ---
 
-[Download-friendly raw vZome file][rawPages]
+### [Download-friendly raw vZome file][rawPages]
 
 This link is slightly better for direct downloading.
 However, like the embeddable vZome Online link, it won't be ready until
@@ -38,14 +38,14 @@ It will also work in vZome desktop and vZome Online.
 
 ---
 
-[Github source folder][source]
+### [Github source folder][source]
 
 Use this to navigate to the folder in your `vzome-sharing` GitHub repository
 that contains your uploaded vZome file, as well as this README.
 
 ---
 
-[Github Pages version][pages]
+### [Github Pages version][pages]
 
 This README file will also be served by GitHub Pages (after it refreshes),
 so you can use this link to view the same content there.
@@ -58,7 +58,7 @@ this is how you would share that web page.
 
 
 
-[img]: triality%2024-cell.png
+[img]: triality+24-cell.png
 [quick]: https://vzome.com/app/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvorth%2Fvzome-sharing%2Fmain%2F2021%2F06%2F29%2F21-59-40-triality%2B24-cell%2Ftriality+24-cell.vZome
 [embed]: https://vzome.com/app/embed.py?url=https%3A%2F%2Fvorth.github.io%2Fvzome-sharing%2F2021%2F06%2F29%2F21-59-40-triality%2B24-cell%2Ftriality+24-cell.vZome
 [source]: https://github.com/vorth/vzome-sharing/tree/main/2021/06/29/21-59-40-triality+24-cell/

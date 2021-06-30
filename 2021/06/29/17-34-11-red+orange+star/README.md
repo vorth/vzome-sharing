@@ -16,8 +16,8 @@ Your vZome design has successfully uploaded to GitHub.  You may now share it usi
 
 ![Image](red orange star.png)
 
-[1]: https://vzome.com/app/?url=https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/06/29/17-34-11-red+orange+star/red%20orange%20star.vZome
-[2]: https://vzome.com/app/embed.py?url=https://vorth.github.io/vzome-sharing/2021/06/29/17-34-11-red+orange+star/red%20orange%20star.vZome
+[1]: https://vzome.com/app/?url=https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/06/29/17-34-11-red%2Borange%2Bstar/red%2520orange%2520star.vZome
+[2]: https://vzome.com/app/embed.py?url=https://vorth.github.io/vzome-sharing/2021/06/29/17-34-11-red%2Borange%2Bstar/red%2520orange%2520star.vZome
 [3]: https://github.com/vorth/vzome-sharing/tree/main/2021/06/29/17-34-11-red+orange+star/
 [4]: https://vorth.github.io/vzome-sharing/2021/06/29/17-34-11-red+orange+star/
 [5]: https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/06/29/17-34-11-red+orange+star/red%20orange%20star.vZome

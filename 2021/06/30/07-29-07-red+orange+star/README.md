@@ -54,7 +54,7 @@ this is how you would share that web page.
 
 ---
 
-![Image](red orange star.png)
+![Image](<red orange star.png>)
 
 
 [quick]: https://vzome.com/app/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvorth%2Fvzome-sharing%2Fmain%2F2021%2F06%2F30%2F07-29-07-red%2Borange%2Bstar%2Fred+orange+star.vZome

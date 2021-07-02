@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" coreVersion="7.0" field="golden">
+  <EditHistory editNumber="591" lastStickyEdit="591">
+    <StrutCreation anchor="0 0 0 0 0 0" index="2" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="1" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="0" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="6" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="15" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="1 1 2 3 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="1 1 2 3 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <LinearTransformTool name="linear map.2/red 0-1"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="1" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="15" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 -1 -1 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="1 2 -1 -1 0 0"/>
+    <SelectManifestation point="1 2 -1 -1 0 0"/>
+    <SelectManifestation endSegment="-1 -1 2 3 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <LinearTransformTool name="linear map.6/red 0-2"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="0" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="2" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 -1 -1 2 3" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-1 -1 2 3 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="2 3 0 0 -1 -1" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <LinearTransformTool name="linear map.7/yellow 0-1"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="1" len="2 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="51" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 2 2 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-2 -2 2 2 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <LinearTransformTool name="linear map.14/red 1-2"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="6" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="7" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="8" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 4 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 2 4 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="2 4 2 4 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 4 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="2 4 2 4 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 2 4 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <LinearTransformTool name="linear map.16/yellow 1-0"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="purple" index="45" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="orange" index="36" len="1 2"/>
+    <StrutCreation anchor="-2 -3 1 1 0 0" index="2" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 -2 -3 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-2 -3 1 1 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-2 -3 1 1 2 3" startSegment="-2 -3 1 1 0 0"/>
+    <EndBlock/>
+    <LinearTransformTool name="linear map.17/red 1-0"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="47" len="2 3"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="purple" index="0" len="2 3"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="orange" index="36" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-2 -3 -3 -5 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="5 8 2 3 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 -2 -3" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-2 -3 -3 -5 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 -2 -3" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="5 8 2 3 0 0" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <LinearTransformTool name="linear map.19/red 2-0"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="36" len="2 4"/>
+    <StrutCreation anchor="-2 -4 -2 -4 0 0" index="47" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 4 0 0 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-2 -4 -2 -4 -2 -2" startSegment="-2 -4 -2 -4 0 0"/>
+    <SelectManifestation endSegment="-2 -4 -2 -4 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <LinearTransformTool name="linear map.21/red 2-1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <RunZomicScript> symmetry through center symmetry { move short red +0 repeat 7 red +0 short yellow +6 build
+      short blue -14 repeat 3 { short red -3 short red -4 branch short blue +14 } short red -3 short blue -14 
+      short red +4 branch { short blue -14 short red -3 } short red +3 branch short blue +14 short red +4 short
+      red +3 short blue +14 } reflect through center scale -1 symmetry around yellow 0 branch { from repeat 6 long
+      red -0 repeat 6 { symmetry around red -0 branch { move repeat 2 size 6 yellow -6 purple +1 build symmetry
+      through +10 branch { from half blue -10 blue +10 long half blue -2 branch orange -0 orange -35 branch blue
+      -2 yellow +0 blue +11 } } from long red -0 } } 
+</RunZomicScript>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 25 41 4 5"/>
+    <SelectManifestation point="1 2 24 40 2 3"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="7 13 23 38 6 9"/>
+    <SelectManifestation point="7 12 25 42 7 10"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 15/2 49/2 81/2 9/2 6"/>
+    <SelectManifestation point="5 10 24 40 2 3"/>
+    <DeselectAll/>
+    <SelectManifestation point="9 15 22 37 8 12"/>
+    <SelectManifestation point="10 17 21 34 8 12"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="9 15 22 37 8 12"/>
+    <SelectManifestation point="7 13 23 38 6 9"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="5 9 23 38 4 5" startSegment="7 12 22 37 5 7"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 1 2 1 1" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 1 2 1 1" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <RotationTool name="rotation.4/red axis" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="15/2 13 23 77/2 13/2 19/2"/>
+    <SelectManifestation point="4 15/2 49/2 81/2 9/2 6"/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="5 9 23 38 4 5" startSegment="7 12 22 37 5 7"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 23 38 16 24"/>
+    <SelectManifestation point="-1 -2 24 40 14 21"/>
+    <SelectManifestation point="1 2 24 40 14 21"/>
+    <SelectManifestation point="0 0 22 37 17 26"/>
+    <SelectManifestation point="2 3 23 38 16 24"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 24 39 3 3" startSegment="-1 -2 24 39 3 3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation endSegment="7 12 25 42 7 10" startSegment="7 13 23 38 6 9"/>
+    <SelectManifestation endSegment="7 13 23 38 6 9" startSegment="9 15 22 37 8 12"/>
+    <EndBlock/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 9 26 43 6 8"/>
+    <SelectManifestation point="4 8 24 40 4 6"/>
+    <SelectManifestation point="2 4 25 41 4 5"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="10 17 21 34 8 12" startSegment="9 15 22 37 8 12"/>
+    <SelectManifestation endSegment="1 2 24 40 2 3" startSegment="2 4 25 41 4 5"/>
+    <EndBlock/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <DeselectAll/>
+    <StrutCreation anchor="7 13 23 38 6 9" dir="red" index="0" len="0 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="9 15 22 37 8 12"/>
+    <SelectManifestation point="8 14 23 39 6 9"/>
+    <SelectManifestation point="8 15 23 38 4 6"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 14 23 39 6 9"/>
+    <SelectManifestation point="7 12 25 42 7 10"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="8 15 23 38 4 6" startSegment="8 14 23 39 6 9"/>
+    <SelectManifestation point="8 14 23 39 6 9"/>
+    <SelectManifestation endSegment="8 14 23 39 6 9" startSegment="9 15 22 37 8 12"/>
+    <SelectManifestation endSegment="7 12 25 42 7 10" startSegment="8 14 23 39 6 9"/>
+    <EndBlock/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <BeginBlock/>
+    <SelectManifestation point="14 22 -18 -28 12 18"/>
+    <SelectManifestation endSegment="8 14 23 39 6 9" startSegment="7 13 23 38 6 9"/>
+    <SelectManifestation endSegment="7 13 23 38 6 9" startSegment="9 15 22 37 8 12"/>
+    <SelectManifestation endSegment="7 13 23 38 6 9" startSegment="8 15 23 38 4 6"/>
+    <SelectManifestation point="7 13 23 38 6 9"/>
+    <SelectManifestation endSegment="7 12 25 42 7 10" startSegment="7 13 23 38 6 9"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="4 8 24 40 4 6" dir="red" index="46" len="0 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="5 10 24 40 2 3"/>
+    <SelectManifestation point="4 8 25 41 4 5"/>
+    <SelectManifestation point="5 9 26 43 6 8"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 8 25 41 4 5"/>
+    <SelectManifestation point="2 4 25 41 4 5"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="4 8 25 41 4 5" startSegment="5 10 24 40 2 3"/>
+    <SelectManifestation point="4 8 25 41 4 5"/>
+    <SelectManifestation endSegment="5 9 26 43 6 8" startSegment="4 8 25 41 4 5"/>
+    <EndBlock/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <ApplyTool name="rotation.4/red axis"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="21 34 6 9 11 19" startSegment="20 32 6 9 13 22"/>
+    <DeselectAll/>
+    <SelectManifestation point="4 8 24 40 4 6"/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation point="4 8 24 40 4 6"/>
+    <SelectManifestation point="7 13 23 38 6 9"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="6" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="1 1 2 3 0 0" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <RotationTool name="rotation.5/yellow axis" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="11 18 20 32 10 15" startSegment="11 17 20 33 12 18"/>
+    <SelectManifestation endSegment="12 18 19 31 14 21" startSegment="13 20 18 28 14 21"/>
+    <SelectManifestation point="12 18 19 31 14 21"/>
+    <SelectManifestation endSegment="11 17 20 33 16 24" startSegment="12 18 19 31 14 21"/>
+    <SelectManifestation endSegment="11 17 20 33 12 18" startSegment="12 18 19 31 14 21"/>
+    <SelectManifestation point="10 16 17 27 18 27"/>
+    <SelectManifestation endSegment="10 16 17 27 18 27" startSegment="8 13 16 26 19 29"/>
+    <SelectManifestation endSegment="10 16 19 31 18 27" startSegment="10 16 17 27 18 27"/>
+    <SelectManifestation endSegment="12 18 16 25 17 26" startSegment="10 16 17 27 18 27"/>
+    <SelectManifestation endSegment="8 12 14 23 19 30" startSegment="8 13 16 26 19 29"/>
+    <EndBlock/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.4/red axis" selectInputs="true"/>
+    <ApplyTool name="rotation.5/yellow axis"/>
+    <ApplyTool name="rotation.5/yellow axis"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="23 38 16 24 -2 -3"/>
+    <SelectManifestation endSegment="24 40 14 21 -1 -2" startSegment="23 38 16 24 -2 -3"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="0" len="0 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="1 1 0 1 0 0" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="1 1 0 1 0 0" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <RotationTool name="rotation.7/red again" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="24 40 14 21 -1 -2"/>
+    <SelectManifestation endSegment="24 40 14 21 1 2" startSegment="24 40 14 21 -1 -2"/>
+    <EndBlock/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="rotation.5/yellow axis" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation endSegment="12 21 21 33 1 2" startSegment="12 21 21 33 -1 -2"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.5/yellow axis" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="13 23 21 34 -2 -3"/>
+    <SelectManifestation point="13 23 21 34 2 3"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.5/yellow axis" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation endSegment="14 23 19 29 -7 -12" startSegment="13 22 20 31 -5 -9"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.7/red again" selectInputs="true"/>
+    <ApplyTool name="rotation.5/yellow axis" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ShowPoint point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SymmetryTool name="icosahedral.8/icosahedral.8" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="19 30 -4 -6 -16 -27"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="19 30 -4 -6 -16 -27" dir="green" index="58" len="2 2"/>
+    <StrutCreation anchor="18 30 -2 -3 -17 -28" dir="green" index="53" len="2 2"/>
+    <StrutCreation anchor="18 28 -6 -9 -17 -28" dir="green" index="53" len="2 2"/>
+    <StrutCreation anchor="16 26 -6 -9 -19 -30" dir="green" index="58" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="15 26 -4 -6 -20 -31"/>
+    <SelectManifestation point="16 28 -2 -3 -19 -30"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <DeselectAll/>
+    <StrutCreation anchor="15 26 -4 -6 -20 -31" dir="lavender" index="39" len="1 2"/>
+    <StrutCreation anchor="14 23 -4 -6 -21 -33" dir="lavender" index="45" len="1 2"/>
+    <StrutCreation anchor="16 28 -2 -3 -19 -30" dir="lavender" index="45" len="1 2"/>
+    <StrutCreation anchor="16 27 0 0 -19 -31" dir="lavender" index="39" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="15 24 0 0 -20 -33"/>
+    <SelectManifestation point="14 22 -2 -3 -21 -34"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.8/icosahedral.8"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="16 24 -2 -3 -23 -38"/>
+    <SelectManifestation point="17 26 0 0 -22 -37"/>
+    <SelectManifestation point="16 24 2 3 -23 -38"/>
+    <SelectManifestation point="14 21 1 2 -24 -40"/>
+    <SelectManifestation point="14 21 -1 -2 -24 -40"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.8/icosahedral.8"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <StrutCreation anchor="21 34 -2 -3 -13 -23" dir="green" index="58" len="2 2"/>
+    <StrutCreation anchor="21 34 2 3 -13 -23" dir="green" index="16" len="2 2"/>
+    <StrutCreation anchor="20 32 0 0 -16 -28" dir="red" index="32" len="2 3"/>
+    <StrutCreation anchor="18 30 -2 -3 -17 -28" dir="turquoise" index="13" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="20 34 0 0 -14 -24"/>
+    <SelectManifestation point="18 32 0 0 -16 -26"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="18 32 0 0 -16 -26"/>
+    <SelectManifestation point="18 30 2 3 -17 -28"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="18 32 0 0 -16 -26"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="18 29 0 0 -13 -23"/>
+    <SelectManifestation endSegment="18 29 0 0 -13 -23" startSegment="20 32 0 0 -16 -28"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="20 32 0 0 -16 -28"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation endSegment="20 34 0 0 -14 -24" startSegment="21 34 -2 -3 -13 -23"/>
+    <SelectManifestation point="20 34 0 0 -14 -24"/>
+    <SelectManifestation endSegment="20 34 0 0 -14 -24" startSegment="21 34 2 3 -13 -23"/>
+    <EndBlock/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="20 33 15 24 0 0" startSegment="21 34 14 22 -2 -3"/>
+    <SelectManifestation endSegment="21 34 14 22 2 3" startSegment="20 33 15 24 0 0"/>
+    <SelectManifestation endSegment="22 36 12 19 1 2" startSegment="21 34 14 22 2 3"/>
+    <SelectManifestation endSegment="22 36 12 19 -1 -2" startSegment="22 36 12 19 1 2"/>
+    <SelectManifestation endSegment="21 34 14 22 -2 -3" startSegment="22 36 12 19 -1 -2"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool hideInputs="true" name="rotation.5/yellow axis"/>
+    <ApplyTool hideInputs="true" name="rotation.5/yellow axis"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <StrutCreation anchor="-24 -40 0 0 8 16" dir="yellow" index="0" len="1 2"/>
+    <StrutCreation anchor="-24 -40 -2 -3 7 14" dir="yellow" index="0" len="1 2"/>
+    <StrutCreation anchor="-24 -40 2 3 7 14" dir="yellow" index="0" len="1 2"/>
+    <StrutCreation anchor="-24 -40 2 3 5 10" dir="sulfur" index="2" len="1 2"/>
+    <StrutCreation anchor="-24 -39 2 3 8 13" dir="red" index="31" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="-24 -39 2 3 8 13"/>
+    <SelectManifestation point="-23 -38 4 6 8 15"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-21 -35 -2 -3 6 12"/>
+    <SelectManifestation point="-21 -35 0 0 7 14"/>
+    <SelectManifestation point="-21 -35 2 3 6 12"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="-24 -40 0 0 8 16"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool justSelect="true" name="icosahedral.8/icosahedral.8"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="-24 -39 0 0 9 15"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.8/icosahedral.8"/>
+    <Branch>
+      <DeselectAll/>
+      <Snapshot id="0"/>
+    </Branch>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 10 24 40 2 3"/>
+    <SelectManifestation point="5 10 24 40 2 3"/>
+    <EndBlock/>
+    <StrutCreation anchor="5 10 24 40 2 3" index="6" len="16 26"/>
+    <BeginBlock/>
+    <SelectManifestation point="13 23 37 61 -3 -5"/>
+    <SelectManifestation point="13 23 37 61 -3 -5"/>
+    <SelectManifestation point="13 23 37 61 -3 -5"/>
+    <SelectNeighbors/>
+    <SelectAll/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="13 23 37 61 -3 -5" index="54" len="2 4"/>
+    <StrutCreation anchor="13 23 37 61 -3 -5" index="21" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="12 21 39 64 -4 -6" startSegment="13 23 37 61 -3 -5"/>
+    <SelectManifestation endSegment="14 24 36 59 -3 -4" startSegment="13 23 37 61 -3 -5"/>
+    <EndBlock/>
+    <ScalingTool name="scaling.1/scaling.1" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectAll/>
+    <ApplyTool deselectOutputs="true" hideInputs="true" name="scaling.1/scaling.1"/>
+    <StrutCreation anchor="6 9 15 24 0 0" index="6" len="6 10"/>
+    <BeginBlock/>
+    <SelectManifestation point="9 14 20 32 -2 -3"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Snapshot id="1"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="1" title="left eye">
+      <ViewModel distance="155.8477325439453" far="311.6954650878906" near="0.3896193504333496" parallel="false" stereoAngle="0.0" width="70.13147735595703">
+        <LookAtPoint x="31.652475357055664" y="71.77708435058594" z="-6.85410213470459"/>
+        <UpDirection x="0.1521138846874237" y="-0.005060786847025156" z="0.9883500337600708"/>
+        <LookDirection x="-0.5711107850074768" y="-0.8165929317474365" z="0.08371657133102417"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="1" title="right eye">
+      <ViewModel distance="155.8477325439453" far="311.6954650878906" near="0.3896193504333496" parallel="false" stereoAngle="0.0" width="70.13147735595703">
+        <LookAtPoint x="31.652475357055664" y="71.77708435058594" z="-6.85410213470459"/>
+        <UpDirection x="0.1521138846874237" y="-0.005060786847025156" z="0.9883500337600708"/>
+        <LookDirection x="-0.4836636483669281" y="-0.8724525570869446" z="0.06997182965278625"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="254,240,223">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="487.29974365234375" far="974.5983276367188" near="1.2182486057281494" parallel="false" stereoAngle="0.0" width="219.28457641601562">
+      <LookAtPoint x="31.652475357055664" y="71.77708435058594" z="-6.85410213470459"/>
+      <UpDirection x="-0.8459966778755188" y="0.43633100390434265" z="0.3064351975917816"/>
+      <LookDirection x="0.29706043004989624" y="0.8629801273345947" z="-0.4086785614490509"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="tiny connectors">
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="255,255,255" name="6" prototype="-5/2 2 -1 1/2 -7/2 3/2"/>
+    <Direction color="154,117,74" name="sand"/>
+    <Direction color="255,255,255" name="1" prototype="-22 14 942 -582 40 -24"/>
+    <Direction color="255,255,255" name="2" prototype="22 -14 -40 24 942 -582"/>
+    <Direction color="255,255,255" name="0" prototype="-19 11 17 -10 -28 17"/>
+    <Direction color="30,30,30" name="black"/>
+    <Direction color="255,51,143" name="rose"/>
+    <Direction color="18,205,148" name="turquoise"/>
+    <Direction color="108,0,198" name="purple"/>
+    <Direction color="220,76,0" name="orange"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="255,255,255" name="10" prototype="-1 0 0 0 -6 3"/>
+    <Direction color="255,255,255" name="9" prototype="1 -1 -2 2 -7 4"/>
+    <Direction color="255,255,255" name="7" prototype="7 -4 -7 4 1 0"/>
+    <Direction color="255,255,255" name="8" prototype="4 -2 0 -1 3 -2"/>
+    <Direction color="0,160,228" name="blue"/>
+    <Direction color="18,73,48" name="spruce"/>
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="255,126,106" name="coral"/>
+    <Direction color="117,0,50" name="maroon"/>
+    <Direction color="240,160,0" name="yellow"/>
+    <Direction color="230,245,62" name="sulfur"/>
+    <Direction color="116,195,0" name="apple"/>
+    <Direction color="136,37,0" name="cinnamon"/>
+    <Direction color="0,0,153" name="navy"/>
+    <Direction color="175,135,255" name="lavender"/>
+    <Direction color="100,113,0" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="6,96,141" name="blue"/>
+      <Direction color="144,127,227" name="lavender"/>
+      <Direction color="53,181,179" name="turquoise"/>
+      <Direction color="36,35,38" name="black"/>
+      <Direction color="2,130,53" name="green"/>
+      <Direction color="116,104,1" name="olive"/>
+      <Direction color="141,2,41" name="maroon"/>
+      <Direction color="105,54,1" name="brown"/>
+      <Direction color="245,163,1" name="yellow"/>
+      <Direction color="197,3,20" name="red"/>
+      <Direction color="113,64,178" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="icosahedral.8/icosahedral.8" label="" selectInputs="true"/>
+    <Tool deleteInputs="true" id="linear map.14/red 1-2" label=""/>
+    <Tool deleteInputs="true" id="linear map.16/yellow 1-0" label=""/>
+    <Tool deleteInputs="true" id="linear map.17/red 1-0" label=""/>
+    <Tool deleteInputs="true" id="linear map.19/red 2-0" label=""/>
+    <Tool deleteInputs="true" id="linear map.2/red 0-1" label=""/>
+    <Tool deleteInputs="true" id="linear map.21/red 2-1" label=""/>
+    <Tool deleteInputs="true" id="linear map.6/red 0-2" label=""/>
+    <Tool deleteInputs="true" id="linear map.7/yellow 0-1" label=""/>
+    <Tool deleteInputs="true" id="rotation.4/red axis" label=""/>
+    <Tool deleteInputs="true" id="rotation.5/yellow axis" label=""/>
+    <Tool deleteInputs="true" id="rotation.7/red again" label=""/>
+    <Tool deleteInputs="true" id="scaling.1/scaling.1" label=""/>
+  </Tools>
+</vzome:vZome>

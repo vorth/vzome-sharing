@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="55" coreVersion="7.0" edition="vZome" field="polygon9" version="7.0">
+  <EditHistory editNumber="51" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="5" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="4" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="2 -2 3 1 -2 2 0 0 0" index="4" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="3 1 3 0 0 0 0 0 0" index="2" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 1 3 1 3 0 0 0 0" index="8" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 1 8 -2 0 0 0" index="2" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 1 3 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 0 0 0 0 0 0" startSegment="2 -2 3 1 -2 2 0 0 0"/>
+    <SelectManifestation point="2 -2 3 1 -2 2 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool name="antiprism9 axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 2 -3 0 5 -2 0 0 0"/>
+    <SelectManifestation point="-3 -1 -3 0 5 -2 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="symmetry.builtin/polygonal antiprism around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 3 0 0 5 -2 0 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="3 -4 5 3 -4 5 0 0 0" index="4" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="4 -1 5 2 -2 3 0 0 0" index="6" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 -1 5 2 -2 3 0 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="antiprism9 axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 -2 3 4 -1 5 0 0 0"/>
+    <SelectManifestation point="0 0 0 3 1 3 0 0 0"/>
+    <SelectManifestation point="1 -2 2 2 -2 3 0 0 0"/>
+    <SelectManifestation point="3 -4 5 3 -4 5 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool name="symmetry.builtin/polygonal antiprism around origin" selectInputs="true"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="138.2245330810547" far="276.4490051269531" near="0.3455613851547241" parallel="false" stereoAngle="0.0" width="62.201053619384766">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.05807046592235565" y="0.8955444693565369" z="0.4411684274673462"/>
+      <LookDirection x="-0.002293071709573269" y="0.4420335590839386" z="-0.8969977498054504"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="antiprism9" renderingStyle="thin antiprism">
+    <Direction color="197,3,20" name="red"/>
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="245,163,1" name="yellow"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+      <Direction color="6,96,141" name="blue"/>
+      <Direction color="2,130,53" name="green"/>
+      <Direction color="245,163,1" name="yellow"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

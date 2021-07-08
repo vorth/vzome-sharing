@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" coreVersion="7.0" field="golden">
+  <EditHistory editNumber="19" lastStickyEdit="-1">
+    <BeginBlock/>
+    <SymmetryAxisChange end="7 3 14 13 3 0 -4 4" start="0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <UniformH4Polytope quaternion="7 3 14 13 3 0 -4 4">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      <Integer attrName="polytope.index" value="1"/>
+    </UniformH4Polytope>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <BuildAnchoredSegment dir="red" index="46" len="13 21"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <BuildAnchoredSegment dir="yellow" index="3" len="8 13"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <BuildAnchoredSegment index="22" len="26 42"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="619.4794311523438" far="1238.957763671875" near="1.5486987829208374" parallel="true" stereoAngle="0.0" width="278.7657470703125">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.30901700258255005" y="-0.5" z="-0.80901700258255"/>
+      <LookDirection x="0.0" y="-0.8506507873535156" z="0.525731086730957"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="255,255,255" name="80" prototype="294 -182 70 -44 -656 406"/>
+    <Direction color="187,144,85" name="sand"/>
+    <Direction color="36,35,38" name="black"/>
+    <Direction color="251,94,160" name="rose"/>
+    <Direction color="53,181,179" name="turquoise"/>
+    <Direction color="255,255,255" name="79" prototype="-496 306 56 -34 -216 134"/>
+    <Direction color="255,255,255" name="78" prototype="90 -56 -260 160 656 -406"/>
+    <Direction color="113,64,178" name="purple"/>
+    <Direction color="236,89,1" name="orange"/>
+    <Direction color="255,255,255" name="75" prototype="440 -272 -350 216 406 -250"/>
+    <Direction color="105,54,1" name="brown"/>
+    <Direction color="255,255,255" name="74" prototype="-134 82 -168 104 -78 48"/>
+    <Direction color="255,255,255" name="77" prototype="-216 134 510 -316 -440 272"/>
+    <Direction color="255,255,255" name="76" prototype="204 -126 -406 250 -350 216"/>
+    <Direction color="255,255,255" name="93" prototype="-476 294 216 -134 56 -34"/>
+    <Direction color="255,255,255" name="92" prototype="-622 384 -350 216 -70 44"/>
+    <Direction color="255,255,255" name="73" prototype="-406 250 -204 126 440 -272"/>
+    <Direction color="255,255,255" name="94" prototype="0 0 656 -406 70 -44"/>
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="255,255,255" name="91" prototype="406 -250 0 0 182 -112"/>
+    <Direction color="255,255,255" name="90" prototype="-272 168 90 -56 134 -82"/>
+    <Direction color="12,84,55" name="spruce"/>
+    <Direction color="197,3,20" name="red"/>
+    <Direction color="254,124,123" name="coral"/>
+    <Direction color="141,2,41" name="maroon"/>
+    <Direction color="245,163,1" name="yellow"/>
+    <Direction color="218,225,83" name="sulfur"/>
+    <Direction color="129,191,30" name="apple"/>
+    <Direction color="144,56,14" name="cinnamon"/>
+    <Direction color="255,255,255" name="89" prototype="-406 250 -78 48 56 -34"/>
+    <Direction color="52,48,136" name="navy"/>
+    <Direction color="255,255,255" name="86" prototype="90 -56 70 -44 -350 216"/>
+    <Direction color="255,255,255" name="85" prototype="70 -44 -294 182 0 0"/>
+    <Direction color="255,255,255" name="88" prototype="306 -190 622 -384 204 -126"/>
+    <Direction color="255,255,255" name="87" prototype="440 -272 510 -316 -146 90"/>
+    <Direction color="144,127,227" name="lavender"/>
+    <Direction color="255,255,255" name="82" prototype="-260 160 566 -350 -56 34"/>
+    <Direction color="255,255,255" name="81" prototype="-362 224 -260 160 56 -34"/>
+    <Direction color="255,255,255" name="84" prototype="-182 112 34 -22 168 -104"/>
+    <Direction color="116,104,1" name="olive"/>
+    <Direction color="255,255,255" name="83" prototype="-260 160 362 -224 566 -350"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="6,96,141" name="blue"/>
+      <Direction color="144,127,227" name="lavender"/>
+      <Direction color="53,181,179" name="turquoise"/>
+      <Direction color="36,35,38" name="black"/>
+      <Direction color="2,130,53" name="green"/>
+      <Direction color="116,104,1" name="olive"/>
+      <Direction color="141,2,41" name="maroon"/>
+      <Direction color="105,54,1" name="brown"/>
+      <Direction color="245,163,1" name="yellow"/>
+      <Direction color="197,3,20" name="red"/>
+      <Direction color="113,64,178" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

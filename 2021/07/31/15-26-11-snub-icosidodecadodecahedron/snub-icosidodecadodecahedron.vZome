@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" coreVersion="7.0" field="plasticPhi">
+  <EditHistory editNumber="114" lastStickyEdit="102">
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" index="1" len="0 0 8 12 4 8"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 8 12 4 8 0 0 0 0 0 0" index="0" len="4 8 4 8 0 0"/>
+    <StrutCreation anchor="4 8 4 8 0 0 0 0 8 12 4 8 0 0 0 0 0 0" index="47" len="8 12 12 20 12 20"/>
+    <SelectManifestation point="4 8 4 8 0 0 0 0 8 12 4 8 -8 -12 -12 -20 -12 -20"/>
+    <ApplyTool deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <InvertSelection/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 4 0 0 0 0 0 0 0 0 4 -4 -4 0 -8 0 0 -4"/>
+    <SelectManifestation point="-4 4 0 4 4 0 0 0 -4 4 4 0 -4 0 -4 0 -4 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <setItemColor blue="255" green="102" red="51"/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 0 0 -4 0 -4 -4 4 -4 4 0 0 0 0 4 0 -4 4"/>
+    <SelectManifestation point="4 -4 0 -4 0 -4 0 0 -4 4 0 0 -4 0 -4 0 4 -4"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <setItemColor blue="0" green="153" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 4 -4 -4 0 -8 0 0 -4 -4 4 0 0 0 0"/>
+    <SelectManifestation point="4 -4 4 -4 -4 0 0 0 -4 0 -4 0 4 0 0 4 4 0"/>
+    <SelectManifestation point="-4 0 0 -4 0 -4 -4 4 -4 4 0 0 0 0 4 0 -4 4"/>
+    <SelectManifestation point="4 -4 0 -4 0 -4 0 0 -4 4 0 0 -4 0 -4 0 4 -4"/>
+    <SelectManifestation point="0 0 4 -4 -4 0 -4 0 -4 0 -4 0 4 -4 0 -4 -4 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <setItemColor blue="0" green="255" red="102"/>
+    <StrutCreation anchor="-4 0 0 -4 -4 0 4 -4 4 -4 -4 0 0 0 4 0 4 0" dir="53" index="50" len="2 3 0 0 0 0"/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 0 0 -4 8 -8 4 -4 4 -4 4 -4 0 0 -12 8 8 -4"/>
+    <SelectManifestation endSegment="-4 0 0 -4 8 -8 4 -4 4 -4 4 -4 0 0 -12 8 8 -4" startSegment="-4 0 0 -4 -4 0 4 -4 4 -4 -4 0 0 0 4 0 4 0"/>
+    <SelectManifestation point="-4 0 0 -4 8 -8 4 -4 4 -4 4 -4 0 0 -12 8 8 -4"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-4 0 0 -4 8 -8 4 -4 4 -4 4 -4 0 0 -12 8 8 -4"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 0 0 -4 -4 0 4 -4 4 -4 -4 0 0 0 4 0 4 0"/>
+    <SelectManifestation point="-4 0 0 -4 8 -8 4 -4 4 -4 4 -4 0 0 -12 8 8 -4"/>
+    <SelectManifestation point="-4 0 -12 4 -4 0 4 -4 -4 0 -4 0 0 0 8 -4 -12 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 0 -12 4 -4 0 4 -4 -4 0 -4 0 0 0 8 -4 -12 8"/>
+    <SelectManifestation point="-4 0 0 -4 8 -8 4 -4 4 -4 4 -4 0 0 -12 8 8 -4"/>
+    <SelectManifestation point="-4 0 0 -4 -12 4 4 -4 4 -4 -8 4 0 0 12 -8 0 0"/>
+    <SelectManifestation point="-4 0 -12 4 8 -8 4 -4 -4 0 4 -4 0 0 -8 4 -8 4"/>
+    <SelectManifestation point="-4 0 8 -8 -4 0 4 -4 8 -8 -4 0 0 0 0 0 12 -8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-4 0 -12 4 -4 0 4 -4 -4 0 -4 0 0 0 8 -4 -12 8"/>
+      <polygonVertex at="-4 0 0 -4 8 -8 4 -4 4 -4 4 -4 0 0 -12 8 8 -4"/>
+      <polygonVertex at="-4 0 0 -4 -12 4 4 -4 4 -4 -8 4 0 0 12 -8 0 0"/>
+      <polygonVertex at="-4 0 -12 4 8 -8 4 -4 -4 0 4 -4 0 0 -8 4 -8 4"/>
+      <polygonVertex at="-4 0 8 -8 -4 0 4 -4 8 -8 -4 0 0 0 0 0 12 -8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-4 0 0 -4 -4 0 4 -4 4 -4 -4 0 0 0 4 0 4 0"/>
+      <polygonVertex at="-4 0 0 -4 8 -8 4 -4 4 -4 4 -4 0 0 -12 8 8 -4"/>
+      <polygonVertex at="-4 0 -12 4 -4 0 4 -4 -4 0 -4 0 0 0 8 -4 -12 8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <setItemColor blue="0" green="0" red="204"/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 0 0 -4 -4 0 -4 4 -4 4 4 0 0 0 -4 0 -4 0"/>
+    <SelectManifestation point="4 -4 0 -4 -4 0 0 0 4 -4 -4 0 -4 0 -4 0 -4 0"/>
+    <SelectManifestation point="-4 0 -8 0 0 -4 4 -4 0 0 0 0 0 0 0 0 -4 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <setItemColor blue="255" green="51" red="0"/>
+    <SelectManifestation>
+      <polygonVertex at="-4 0 0 -4 -4 0 -4 4 -4 4 4 0 0 0 -4 0 -4 0"/>
+      <polygonVertex at="4 -4 0 -4 -4 0 0 0 4 -4 -4 0 -4 0 -4 0 -4 0"/>
+      <polygonVertex at="-4 0 -8 0 0 -4 4 -4 0 0 0 0 0 0 0 0 -4 4"/>
+    </SelectManifestation>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 0 -8 0 0 -4 4 -4 0 0 0 0 0 0 0 0 -4 4"/>
+    <SelectManifestation point="-4 0 0 -4 -4 0 -4 4 -4 4 4 0 0 0 -4 0 -4 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 0 -8 0 0 -4 4 -4 0 0 0 0 0 0 0 0 -4 4"/>
+    <SelectManifestation point="4 -4 0 -4 -4 0 0 0 4 -4 -4 0 -4 0 -4 0 -4 0"/>
+    <SelectManifestation point="-4 0 -4 0 4 -4 4 -4 0 -4 0 -4 0 0 -4 4 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectAll/>
+    <DeselectAll/>
+    <SelectAll/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <InversionTool name="tool-0"/>
+    <SelectAll/>
+    <ApplyTool deleteInputs="true" name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-4 0 -8 0 0 -4 -4 4 0 0 0 0 0 0 0 0 -4 4" startSegment="-4 0 -4 0 4 -4 -4 4 0 4 0 4 0 0 -4 4 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 0 -8 0 0 -4 4 -4 0 0 0 0 0 0 0 0 4 -4"/>
+    <DeselectAll/>
+    <SelectManifestation point="4 0 -8 8 4 0 -4 4 -8 8 4 0 0 0 0 0 -12 8"/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <Delete/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="218.95790100097656" far="437.9146423339844" near="0.5473942160606384" parallel="false" stereoAngle="0.0" width="98.53112030029297">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.8139184713363647" y="0.05483362823724747" z="0.5783900618553162"/>
+      <LookDirection x="-0.06920698285102844" y="0.9976034760475159" z="0.0028138328343629837"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="small dodecahedra">
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="154,117,74" name="sand"/>
+    <Direction color="30,30,30" name="black"/>
+    <Direction color="255,51,143" name="rose"/>
+    <Direction color="18,205,148" name="turquoise"/>
+    <Direction color="255,255,255" name="57" prototype="16672 -10304 21280 -13152 -22368 13824 -26976 16672 -2848 1760 4608 -2848 0 0 12064 -7456 12064 -7456"/>
+    <Direction color="255,255,255" name="56" prototype="0 0 136 -84 -84 52 -168 104 -84 52 52 -32 0 0 -52 32 32 -20"/>
+    <Direction color="108,0,198" name="purple"/>
+    <Direction color="220,76,0" name="orange"/>
+    <Direction color="255,255,255" name="53" prototype="0 0 -32 20 52 -32 0 0 -84 52 -32 20 0 0 52 -32 -84 52"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="255,255,255" name="52" prototype="-52 32 48 -30 6 -4 84 -52 84 -52 0 0 -52 32 -52 32 0 0"/>
+    <Direction color="255,255,255" name="55" prototype="136 -84 0 0 0 0 84 -52 0 0 0 0 -52 32 -104 64 168 -104"/>
+    <Direction color="255,255,255" name="54" prototype="84 -52 32 -20 32 -20 52 -32 188 -116 -84 52 136 -84 52 -32 52 -32"/>
+    <Direction color="255,255,255" name="51" prototype="-6 4 15 -9 18 -11 68 -42 55 -34 -11 7 -10 6 24 -15 29 -18"/>
+    <Direction color="0,118,149" name="blue"/>
+    <Direction color="18,73,48" name="spruce"/>
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="255,126,106" name="coral"/>
+    <Direction color="117,0,50" name="maroon"/>
+    <Direction color="240,160,0" name="yellow"/>
+    <Direction color="230,245,62" name="sulfur"/>
+    <Direction color="116,195,0" name="apple"/>
+    <Direction color="136,37,0" name="cinnamon"/>
+    <Direction color="0,0,153" name="navy"/>
+    <Direction color="175,135,255" name="lavender"/>
+    <Direction color="100,113,0" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="240,160,0" name="yellow"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool deleteInputs="true" id="tool-0" label="point reflection 0"/>
+  </Tools>
+</vzome:vZome>

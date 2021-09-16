@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="64" field="golden" version="7.0">
+  <EditHistory editNumber="39" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="turquoise" index="30" len="5 8"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="38" len="5 8"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="45" len="16 26"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="30" len="8 13"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="black" index="0" len="5 8" sense="minus"/>
+    <StrutCreation anchor="-13 -21 0 0 5 8" dir="orange" index="59" len="2 3"/>
+    <StrutCreation anchor="-27/2 -22 1 3/2 3/2 5/2" dir="orange" index="22" len="1 2"/>
+    <StrutCreation anchor="-13 -21 0 0 5 8" dir="green" index="28" len="4 6"/>
+    <StrutCreation anchor="-12 -20 -5 -8 3 5" dir="orange" index="22" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation point="-13 -21 0 0 5 8"/>
+    <SelectManifestation point="-27/2 -22 0 -1/2 -1/2 -1/2"/>
+    <SelectManifestation point="-12 -20 -7 -11 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <SelectManifestation endSegment="-16 -26 0 0 0 0" startSegment="0 0 0 0 0 0"/>
+    <LinePlaneIntersect/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-13 -21 0 0 5 8"/>
+      <polygonVertex at="-27/2 -22 0 -1/2 -1/2 -1/2"/>
+      <polygonVertex at="-12 -20 -7 -11 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation point="-13 -21 -8 -13 0 0"/>
+    <SelectManifestation point="-13 -21 -8 -13 0 0"/>
+    <SelectManifestation endSegment="-13 -21 -8 -13 0 0" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <LinePlaneIntersect/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-13 -21 0 0 5 8"/>
+      <polygonVertex at="-27/2 -22 0 -1/2 -1/2 -1/2"/>
+      <polygonVertex at="-12 -20 -7 -11 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation point="-61/5 -98/5 -37/5 -61/5 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-61/5 -98/5 -37/5 -61/5 0 0"/>
+    <SelectManifestation point="-13 -21 0 0 5 8"/>
+    <SelectManifestation point="-27/2 -22 0 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="415.24951171875" far="830.4972534179688" near="1.0381242036819458" parallel="true" stereoAngle="0.0" width="186.86224365234375">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.30901700258255005" y="0.4999999701976776" z="-0.80901700258255"/>
+      <LookDirection x="0.80901700258255" y="0.30901700258255005" z="0.5"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="154,117,74" name="sand"/>
+    <Direction color="30,30,30" name="black"/>
+    <Direction color="255,51,143" name="rose"/>
+    <Direction color="18,205,148" name="turquoise"/>
+    <Direction color="255,255,255" name="57" prototype="9 -6 1 0 -39 24"/>
+    <Direction color="255,255,255" name="56" prototype="-218 134 208 -128 -460 284"/>
+    <Direction color="108,0,198" name="purple"/>
+    <Direction color="255,255,255" name="58" prototype="3 -3/2 -3/2 1/2 3/2 0"/>
+    <Direction color="220,76,0" name="orange"/>
+    <Direction color="255,255,255" name="53" prototype="-5 3 -1 1 3 -1"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="255,255,255" name="52" prototype="4 -2 5 -3 0 -1"/>
+    <Direction color="255,255,255" name="55" prototype="26 -16 -54 33 -37 22"/>
+    <Direction color="255,255,255" name="54" prototype="14 -8 -36 23 -23 14"/>
+    <Direction color="255,255,255" name="51" prototype="-19 11 17 -10 -28 17"/>
+    <Direction color="0,118,149" name="blue"/>
+    <Direction color="18,73,48" name="spruce"/>
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="255,126,106" name="coral"/>
+    <Direction color="117,0,50" name="maroon"/>
+    <Direction color="240,160,0" name="yellow"/>
+    <Direction color="230,245,62" name="sulfur"/>
+    <Direction color="116,195,0" name="apple"/>
+    <Direction color="136,37,0" name="cinnamon"/>
+    <Direction color="0,0,153" name="navy"/>
+    <Direction color="175,135,255" name="lavender"/>
+    <Direction color="100,113,0" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="175,135,255" name="lavender"/>
+      <Direction color="18,205,148" name="turquoise"/>
+      <Direction color="30,30,30" name="black"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="100,113,0" name="olive"/>
+      <Direction color="117,0,50" name="maroon"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+      <Direction color="108,0,198" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

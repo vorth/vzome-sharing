@@ -12,6 +12,12 @@ The custom element does not [render in GitHub][github], but does render after Je
 <vzome-viewer src="./4-cubes-compound.vZome" style="width: 100%; height: 800;"></vzome-viewer>
 ```
 
+### Generation
+
+[This other page][notheme] demonstrates that the mechanism works even if a theme has not been selected
+for the `vzome-sharing` repo, i.e. if the default theme is in force.  The `_includes/head-custom.html` mechanism
+still works, holding the `vzome-viewer.js` script tag.
+
 ### Defects
 You can see that the `height: 800;` style is not working!  Hopefully I can figure out what to do
 that won't require anything specific to this theme; that would make it very hard for vZome to generate the right thing.
@@ -22,3 +28,4 @@ metadata is missing a description and an image.  More experimentation here shoul
 
 [self]: https://vorth.github.io/vzome-sharing/2021/10/28/09-59-05-4-cubes-compound/
 [github]: https://github.com/vorth/vzome-sharing/blob/main/2021/10/28/09-59-05-4-cubes-compound/index.md
+[notheme]: https://vorth.github.io/vzome-web/test/

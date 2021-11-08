@@ -1,3 +1,5 @@
+<script type="module" src="https://vzome.com/modules/vzome-viewer.js" defer="defer"></script>
+
 ## Your vZome design is uploaded
 
 ### [vZome Online view][embed]
@@ -15,7 +17,8 @@ vZome desktop ("Open URL...") or vZome Online ("Remote vZome URL").
 
 ---
 
-![Image](<Quartetra-and-RD.png>)
+<vzome-viewer style="width: 100%; height: 600px;" src="./THC-SV-colored.vZome"></vzome-viewer>
+
 
 
 [embed]: <https://vzome.com/app/embed.py?url=https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/11/06/12-43-15-Quartetra-and-RD/Quartetra-and-RD.vZome>

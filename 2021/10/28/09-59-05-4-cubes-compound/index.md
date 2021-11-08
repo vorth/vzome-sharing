@@ -1,4 +1,2 @@
----
----
 
 <vzome-viewer src="./4-cubes-compound.vZome" style="width: 100%; height: 800;"></vzome-viewer>

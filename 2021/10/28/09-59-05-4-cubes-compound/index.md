@@ -1,3 +1,6 @@
+---
+filename: 4-cubes-compound
+---
 
 ## Sample vZome Viewer Page
 

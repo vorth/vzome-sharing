@@ -24,6 +24,6 @@ vZome desktop ("Open URL...") or vZome Online ("Remote vZome URL").
 
 ![Image](<THC-SV-colored.png>)
 
-
+[page]: <https://vorth.github.io/vzome-sharing/2021/10/28/14-19-45-THC-SV-colored/>
 [embed]: <https://vzome.com/app/embed.py?url=https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/10/28/14-19-45-THC-SV-colored/THC-SV-colored.vZome>
 [raw]: <https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/10/28/14-19-45-THC-SV-colored/THC-SV-colored.vZome>

@@ -2,6 +2,7 @@
 filename: 4-cubes-compound
 ---
 
+
 ## Sample vZome Viewer Page
 
 [This page][self] has been manually created around a `vzome-viewer` custom element,

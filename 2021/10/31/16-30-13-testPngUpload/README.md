@@ -26,6 +26,6 @@ vZome desktop ("Open URL...") or vZome Online ("Remote vZome URL").
 
 
 [page]: <https://vorth.github.io/vzome-sharing/2021/10/31/16-30-13-testPngUpload/>
-[source]: <https://github.com/vorth/vzome-sharing/main/2021/10/31/16-30-13-testPngUpload/index.md>
+[source]: <https://github.com/vorth/vzome-sharing/blob/main/2021/10/31/16-30-13-testPngUpload/index.md>
 [embed]: <https://vzome.com/app/embed.py?url=https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/10/31/16-30-13-testPngUpload/testPngUpload.vZome>
 [raw]: <https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/10/31/16-30-13-testPngUpload/testPngUpload.vZome>

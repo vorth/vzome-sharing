@@ -1,8 +1,15 @@
 ## Your vZome design is uploaded
 
+
+### [Dedicated Page][page]
+
+***This will be a good link to share once I figure out how to give it embedding metadata.***  Since it specific to this model, you can customize the HTML, including the embedding metadata!  Also, it does not need any `embed.py` trickery to support embedding.
+
+---
+
 ### [vZome Online view][embed]
 
-***This is the best link to share***!  The link is *embeddable* because it will render in social media (e.g. Discord, Twitter, FaceBook...) with a proper title and a preview image.
+***For now, this is the best link to share***!  The link is *embeddable* because it will render in social media (e.g. Discord, Twitter, FaceBook...) with a proper title and a preview image.
 
 ---
 

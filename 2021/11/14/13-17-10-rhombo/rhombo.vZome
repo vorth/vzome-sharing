@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="65" field="golden" version="7.0">
+  <EditHistory editNumber="96" lastStickyEdit="97">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="30" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -5 -2 -3 0 0"/>
+    <SelectManifestation endSegment="-3 -5 -2 -3 0 0" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <SymmetryTool name="icosahedral.1/icosahedral.1" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-3 -5 -2 -3 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="-3 -5 -2 -3 0 0"/>
+    <EndBlock/>
+    <ToolApplied name="icosahedral.1/icosahedral.1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="-3 -5 -2 -3 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="translation.2/translation.2"/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -5 -2 -3 0 0"/>
+    <SelectManifestation point="0 0 3 5 2 3"/>
+    <EndBlock/>
+    <TranslationTool name="translation.3/translation.3"/>
+    <DeselectAll/>
+    <LoadVEF scale="3 5">vZome VEF 6 field golden 8 (0,0) (1,-1) (0,-1) (1,-2) (0,0) (0,0) (0,-1) (1,-1) (0,0)
+      (0,0) (0,0) (0,0) (0,0) (1,-1) (0,0) (0,-1) (0,0) (2,-2) (0,-1) (1,-1) (0,0) (2,-2) (0,0) (0,0) (0,0) (1,-1)
+      (0,0) (0,1) (0,0) (1,-1) (0,-1) (1,0) 0 6 4 0 1 2 3 4 4 5 6 7 4 0 4 7 1 4 3 2 6 5 4 7 6 2 1 4 0 3 5 4 0 
+      
+</LoadVEF>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 -3 -5 -1 -2"/>
+      <polygonVertex at="2 3 0 0 -3 -5"/>
+      <polygonVertex at="4 6 0 0 0 0"/>
+      <polygonVertex at="4 6 -3 -5 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="4 6 -3 -5 2 3"/>
+      <polygonVertex at="4 6 0 0 0 0"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+      <polygonVertex at="2 3 -3 -5 5 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 -3 -5 -1 -2"/>
+      <polygonVertex at="4 6 -3 -5 2 3"/>
+      <polygonVertex at="2 3 -3 -5 5 8"/>
+      <polygonVertex at="0 0 -3 -5 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 0 0 -3 -5"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+      <polygonVertex at="4 6 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 -3 -5 5 8"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 -3 -5 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 -3 -5 -1 -2"/>
+      <polygonVertex at="0 0 -3 -5 2 3"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="2 3 0 0 -3 -5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <GroupSelection/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="2 3 0 0 3 5"/>
+    <EndBlock/>
+    <TranslationTool name="translation.4/translation.4"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 0 0 -3 -5"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+      <polygonVertex at="4 6 0 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ToolApplied name="translation.4/translation.4"/>
+    <ToolApplied name="translation.4/translation.4"/>
+    <ToolApplied name="translation.4/translation.4"/>
+    <ToolApplied name="translation.4/translation.4"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 -3 -5 -1 -2"/>
+      <polygonVertex at="2 3 0 0 -3 -5"/>
+      <polygonVertex at="4 6 0 0 0 0"/>
+      <polygonVertex at="4 6 -3 -5 2 3"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="2 3 0 0 -3 -5" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <RotationTool name="rotation.5/rotation.5" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 -3 -5 -1 -2"/>
+      <polygonVertex at="2 3 0 0 -3 -5"/>
+      <polygonVertex at="4 6 0 0 0 0"/>
+      <polygonVertex at="4 6 -3 -5 2 3"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ToolApplied name="rotation.5/rotation.5"/>
+    <ToolApplied name="rotation.5/rotation.5"/>
+    <DeselectAll/>
+    <LoadVEF scale="3 5">vZome VEF 6 field golden 8 (0,0) (1,-1) (0,0) (0,1) (0,0) (1,-1) (0,-1) (1,0) (0,0) (0,0)
+      (0,-1) (1,-1) (0,0) (0,0) (0,0) (0,0) (0,0) (1,-1) (0,0) (2,-1) (0,0) (0,0) (0,0) (2,-2) (0,0) (1,-1) (0,1)
+      (1,0) (0,0) (0,0) (0,1) (1,-1) 0 6 4 0 1 2 3 4 2 1 4 5 4 1 0 6 4 4 4 6 7 5 4 0 3 7 6 4 5 7 3 2 0 
+</LoadVEF>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 0 0 7 11"/>
+      <polygonVertex at="2 3 3 5 5 8"/>
+      <polygonVertex at="0 0 3 5 2 3"/>
+      <polygonVertex at="0 0 0 0 4 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 -3 -5 5 8"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+      <polygonVertex at="2 3 3 5 5 8"/>
+      <polygonVertex at="2 3 0 0 7 11"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 0 0 3 5"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 3 5 2 3"/>
+      <polygonVertex at="2 3 3 5 5 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 0 0 7 11"/>
+      <polygonVertex at="2 3 3 5 5 8"/>
+      <polygonVertex at="0 0 3 5 2 3"/>
+      <polygonVertex at="0 0 0 0 4 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 4 6"/>
+      <polygonVertex at="0 0 3 5 2 3"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 -3 -5 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -3 -5 2 3"/>
+      <polygonVertex at="2 3 -3 -5 5 8"/>
+      <polygonVertex at="2 3 0 0 7 11"/>
+      <polygonVertex at="0 0 0 0 4 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 0 0 7 11"/>
+      <polygonVertex at="2 3 3 5 5 8"/>
+      <polygonVertex at="0 0 3 5 2 3"/>
+      <polygonVertex at="0 0 0 0 4 6"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 0 0 -3 -5"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+      <polygonVertex at="4 6 0 0 0 0"/>
+    </SelectManifestation>
+    <setItemColor blue="0" green="0" red="204"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-4 -7 0 0 -3 -5"/>
+      <polygonVertex at="-1 -2 -2 -3 -3 -5"/>
+      <polygonVertex at="-3 -5 -2 -3 0 0"/>
+      <polygonVertex at="-6 -10 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 2 3 -3 -5"/>
+      <polygonVertex at="2 3 0 0 -3 -5"/>
+      <polygonVertex at="-1 -2 -2 -3 -3 -5"/>
+      <polygonVertex at="-4 -7 0 0 -3 -5"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 2 3 -3 -5"/>
+      <polygonVertex at="-4 -7 0 0 -3 -5"/>
+      <polygonVertex at="-6 -10 0 0 0 0"/>
+      <polygonVertex at="-3 -5 2 3 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 2 3 -3 -5"/>
+      <polygonVertex at="-3 -5 2 3 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="2 3 0 0 -3 -5"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-6 -10 0 0 0 0"/>
+      <polygonVertex at="-3 -5 -2 -3 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-3 -5 2 3 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ToolApplied name="rotation.5/rotation.5"/>
+    <ToolApplied name="rotation.5/rotation.5"/>
+    <setItemColor blue="0" green="0" red="204"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 0 0 7 11"/>
+      <polygonVertex at="2 3 3 5 5 8"/>
+      <polygonVertex at="0 0 3 5 2 3"/>
+      <polygonVertex at="0 0 0 0 4 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -3 -5 2 3"/>
+      <polygonVertex at="2 3 -3 -5 5 8"/>
+      <polygonVertex at="2 3 0 0 7 11"/>
+      <polygonVertex at="0 0 0 0 4 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 4 6"/>
+      <polygonVertex at="0 0 3 5 2 3"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 -3 -5 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 -3 -5 5 8"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+      <polygonVertex at="2 3 3 5 5 8"/>
+      <polygonVertex at="2 3 0 0 7 11"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ToolApplied name="translation.4/translation.4"/>
+    <DeselectAll/>
+    <Snapshot id="0"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="0" title="How to save notes">
+      <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve">You can create as many pages as you like, using the '+' buttons in either direction.
+
+For now, only the text and the view of the model are different from one page to the next.  In the next update, each page will allow a different model entirely.
+
+Eventually there will be a 'vZome Player' application that will display the pages.
+</content>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="12,14,5">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="333.2454528808594" far="666.4907836914062" near="0.8331137299537659" parallel="false" stereoAngle="0.0" width="149.96051025390625">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.7559590935707092" y="0.5288223624229431" z="0.3858458399772644"/>
+      <LookDirection x="-0.14164404571056366" y="0.44331517815589905" z="-0.8851030468940735"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="0,160,228" name="blue"/>
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="154,117,74" name="sand"/>
+    <Direction color="255,255,255" name="1" prototype="-22 14 942 -582 40 -24"/>
+    <Direction color="18,73,48" name="spruce"/>
+    <Direction color="255,255,255" name="2" prototype="22 -14 -40 24 942 -582"/>
+    <Direction color="255,255,255" name="0" prototype="-19 11 17 -10 -28 17"/>
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="255,126,106" name="coral"/>
+    <Direction color="30,30,30" name="black"/>
+    <Direction color="117,0,50" name="maroon"/>
+    <Direction color="240,160,0" name="yellow"/>
+    <Direction color="230,245,62" name="sulfur"/>
+    <Direction color="255,51,143" name="rose"/>
+    <Direction color="18,205,148" name="turquoise"/>
+    <Direction color="116,195,0" name="apple"/>
+    <Direction color="136,37,0" name="cinnamon"/>
+    <Direction color="108,0,198" name="purple"/>
+    <Direction color="220,76,0" name="orange"/>
+    <Direction color="0,0,153" name="navy"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="175,135,255" name="lavender"/>
+    <Direction color="100,113,0" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="175,135,255" name="lavender"/>
+      <Direction color="18,205,148" name="turquoise"/>
+      <Direction color="30,30,30" name="black"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="100,113,0" name="olive"/>
+      <Direction color="117,0,50" name="maroon"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+      <Direction color="108,0,198" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="icosahedral.1/icosahedral.1" label="" selectInputs="true"/>
+    <Tool deleteInputs="true" id="rotation.5/rotation.5" label=""/>
+    <Tool deleteInputs="true" id="translation.2/translation.2" label=""/>
+    <Tool deleteInputs="true" id="translation.3/translation.3" label=""/>
+    <Tool deleteInputs="true" id="translation.4/translation.4" label=""/>
+  </Tools>
+</vzome:vZome>

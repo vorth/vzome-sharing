@@ -3,6 +3,7 @@ filename: testPngUpload
 title: My Cool Title
 description: This is a short description, I guess.
 image: 2021/10/31/16-30-13-testPngUpload/testPngUpload-min.png
+layout: post
 ---
 
 ## Sample vZome Viewer Page

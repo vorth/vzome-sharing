@@ -3,7 +3,6 @@ layout: vzome
 filename: testPngUpload
 
 title: Generated Title
-description: This is a short description, I guess.
 image: 2021/10/31/16-30-13-testPngUpload/testPngUpload-min.png
 
 ---

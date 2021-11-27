@@ -1,4 +1,5 @@
 ---
+layout: vzome
 filename: testPngUpload
 title: My Cool Title
 description: This is a short description, I guess.

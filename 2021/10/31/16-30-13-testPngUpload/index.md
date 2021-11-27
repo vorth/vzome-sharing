@@ -3,7 +3,7 @@ filename: testPngUpload
 title: My Cool Title
 description: This is a short description, I guess.
 image: 2021/10/31/16-30-13-testPngUpload/testPngUpload-min.png
-layout: post
+folder: 2021/10/31/16-30-13-testPngUpload
 ---
 
 ## Sample vZome Viewer Page
@@ -18,5 +18,5 @@ The custom element does not render in [the GitHub source][github], but does rend
 
 
 
-[self]: https://vorth.github.io/vzome-sharing/2021/10/31/16-30-13-testPngUpload/
-[github]: https://github.com/vorth/vzome-sharing/blob/main/2021/10/31/16-30-13-testPngUpload/index.md
+[self]: https://vorth.github.io/vzome-sharing/{{ page.folder }}/
+[github]: https://github.com/vorth/vzome-sharing/blob/main/{{ page.folder }}/index.md

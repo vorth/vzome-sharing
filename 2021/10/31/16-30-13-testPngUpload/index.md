@@ -1,5 +1,5 @@
 ---
-layout: vzffome
+layout: vzome
 filename: testPngUpload
 
 title: Generated Title

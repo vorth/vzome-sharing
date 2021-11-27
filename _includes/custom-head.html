@@ -1,1 +1,6 @@
-  {%- include head-custom.html -%}
+{% comment %}
+  This makes our layout friendly toward themes that use either "custom-head.html"
+  or "head-custom.html".  The Github supported themes seem to have examples of both.
+{% endcomment %}
+
+{%- include head-custom.html -%}

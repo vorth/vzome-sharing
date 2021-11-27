@@ -1,6 +1,4 @@
 {% comment %}
-  This makes our layout friendly toward themes that use either "custom-head.html"
-  or "head-custom.html".  The Github supported themes seem to have examples of both.
+  Enable the vzome-viewer custom element in all pages and posts
 {% endcomment %}
-
-{%- include head-custom.html -%}
+<script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>

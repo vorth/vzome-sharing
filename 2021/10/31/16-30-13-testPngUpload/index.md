@@ -18,5 +18,5 @@ The custom element does not render in [the GitHub source][github], but does rend
 
 
 
-[self]: https://vorth.github.io/vzome-sharing/{{ page.folder }}/
+[self]: https://vorth.github.io/vzome-sharing/2021/10/31/16-30-13-testPngUpload/
 [github]: https://github.com/vorth/vzome-sharing/blob/main/{{ page.folder }}/index.md

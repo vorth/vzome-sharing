@@ -19,5 +19,5 @@ Here is [a shortcut][urlonline] that automatically opens the design in vZome Onl
 
 [page]: <https://vorth.github.io/vzome-sharing/2021/10/31/16-30-13-testPngUpload/>
 [source]: <https://github.com/vorth/vzome-sharing/blob/main/2021/10/31/16-30-13-testPngUpload/index.md>
-[urlonline]: <https://vzome.com/app/embed.py?url=https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/10/31/16-30-13-testPngUpload/testPngUpload.vZome>
+[urlonline]: <https://vzome.com/app?url=https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/10/31/16-30-13-testPngUpload/testPngUpload.vZome>
 [raw]: <https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/10/31/16-30-13-testPngUpload/testPngUpload.vZome>

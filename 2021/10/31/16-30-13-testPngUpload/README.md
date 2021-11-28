@@ -12,12 +12,12 @@ Here is [a shortcut][urlonline] that automatically opens the design in vZome Onl
 [pages]: https://docs.github.com/en/pages
 [online]: https://www.vzome.com/app
 
-[Details of vZome Sharing](https://vZome.github.io/vzome/sharing.html)
+[Details of vZome Sharing](https://vzome.github.io/vzome/sharing.html#how-it-works)
 
 ![Image](<testPngUpload.png>)
 
 
 [page]: <https://vorth.github.io/vzome-sharing/2021/10/31/16-30-13-testPngUpload/>
-[source]: <https://github.com/vorth/vzome-sharing/blob/main/2021/10/31/16-30-13-testPngUpload/index.md>
+[source]: <https://github.com/vorth/vzome-sharing/edit/main/2021/10/31/16-30-13-testPngUpload/index.md>
 [urlonline]: <https://vzome.com/app?url=https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/10/31/16-30-13-testPngUpload/testPngUpload.vZome>
 [raw]: <https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/10/31/16-30-13-testPngUpload/testPngUpload.vZome>

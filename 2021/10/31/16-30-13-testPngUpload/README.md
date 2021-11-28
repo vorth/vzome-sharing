@@ -1,26 +1,18 @@
-## Your vZome design is uploaded
 
-### [Dedicated page][page]
 
-***This is the best link to share***!  The link is *embeddable* because it will render in social media (e.g. Discord, Twitter, FaceBook...) with a proper title and a preview image.  It is also *design-specific*, so you can customize the [source file][source].  NOTE: make sure you try the link before sharing!  It takes time
-for the GitHub Page to get rebuilt.  (I am assuming you have GitHub Pages enabled for this repo!)
+[vZome][vzome] and [GitHub Pages][pages] have generated a [custom web page][page] to share this design.
+It may take a few minutes for the page to be ready; try it first before you share the link.
+You can further customize the page by editing [the source file][source] before you share.
 
----
-### [vZome Online view][embed]
+Copy this [raw vZome file][raw] link to view the design in
+[vZome desktop][vzome] (using "Open URL...") or [vZome Online][online] (using "Remote vZome URL").
+Here is [a shortcut][urlonline] that automatically opens the design in vZome Online.
 
-This is the old way to share.  The link is also embeddable, but only by virtue of a hack on the vzome.com server.  The good thing is that this link
-can be shared immediately.
+[vzome]: https://www.vzome.com
+[pages]: https://docs.github.com/en/pages
+[online]: https://www.vzome.com/app
 
----
-
-### [Raw vZome file][raw]
-
-This is just the link to the raw vZome file, and is **not** good for
-sharing on social media.
-Honestly, you probably don't want this, though it could be used from either
-vZome desktop ("Open URL...") or vZome Online ("Remote vZome URL").
-
----
+[Details of vZome Sharing](https://vZome.github.io/vzome/sharing.html)
 
 ![Image](<testPngUpload.png>)
 

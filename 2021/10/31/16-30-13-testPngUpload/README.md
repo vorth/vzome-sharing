@@ -1,6 +1,6 @@
 
 
-[vZome][vzome] and [GitHub Pages][pages] have generated a [**custom web page**][page] to share this design.
+[vZome][vzome] and [GitHub Pages][pages] have generated a [***custom web page***][page] to share this design.
 It may take a few minutes for the page to be ready; try it first before you share the link.
 You can further customize the page by editing [the source file][source] before you share.
 

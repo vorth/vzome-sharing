@@ -9,6 +9,7 @@ defaults:
 theme: minima
 
 exclude:
-  # This is necessary only for legacy vzome-sharing repositories,
-  #   created before vZome started generating custom pages.
-  - **/README.md
+  # This is necessary to support older versions of vZome,
+  #  to avoid generating extra pages in Jekyll, which clutter up the
+  #  header for the minima theme, and probably others.
+  - 2021/*/*/*/README.md

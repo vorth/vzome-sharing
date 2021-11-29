@@ -1,8 +1,8 @@
 ---
-filename: /vzome-sharing/2021/11/28/09-50-02-sample-vZome-share/sample-vZome-share
-title: sample vZome share
-image: 2021/11/28/09-50-02-sample-vZome-share/sample-vZome-share.png
 layout: post
+title: "Sample vZome Share"
+image: 2021/11/28/09-50-02-sample-vZome-share/sample-vZome-share.png
+filename: /vzome-sharing/2021/11/28/09-50-02-sample-vZome-share/sample-vZome-share
 ---
 
 ## {{ page.title }}

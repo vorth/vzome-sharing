@@ -10,8 +10,6 @@ description:
 layout: vzome
 ---
 
-## {{ page.title }}
-
 {{ page.description }}
 
 <vzome-viewer src="{{ site.github.url }}/{{ page.filename }}.vZome" style="width: 100%; height: 70vh;">

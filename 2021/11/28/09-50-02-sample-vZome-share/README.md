@@ -5,7 +5,7 @@ exclude: true
 
 ---
 
-[vZome][vzome] and [GitHub Pages][pages] have generated a [***custom web page***][page] to share this design.
+[vZome][vzome] and [GitHub Pages][pages] have generated a [***custom web page***][post] to share this design.
 It may take a few minutes for the page to be ready; try it first before you share the link.
 You can further customize the page by editing [the source file][source] before you share.
 
@@ -22,7 +22,7 @@ Here is [a shortcut][urlonline] that automatically opens the design in vZome Onl
 ![Image](<sample-vZome-share.png>)
 
 
-[page]: <https://vorth.github.io/vzome-sharing/2021/11/28/sample-vZome-share.html>
+[post]: <https://vorth.github.io/vzome-sharing/2021/11/28/sample-vZome-share.html>
 [source]: <https://github.com/vorth/vzome-sharing/edit/main/_posts/2021-11-28-sample-vZome-share.md>
 [urlonline]: <https://vzome.com/app?url=https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/11/28/09-50-02-sample-vZome-share/sample-vZome-share.vZome>
 [raw]: <https://raw.githubusercontent.com/vorth/vzome-sharing/main/2021/11/28/09-50-02-sample-vZome-share/sample-vZome-share.vZome>

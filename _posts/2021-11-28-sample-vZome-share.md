@@ -4,7 +4,7 @@ filename: /vzome-sharing/2021/11/28/09-50-02-sample-vZome-share/sample-vZome-sha
 title: sample vZome share
 image: 2021/11/28/09-50-02-sample-vZome-share/sample-vZome-share.png
 
-layout: vzome
+layout: post
 
 ---
 

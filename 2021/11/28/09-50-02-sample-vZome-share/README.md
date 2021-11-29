@@ -1,5 +1,8 @@
 ---
+
+# Prevent generation of web page for this README
 exclude: true
+
 ---
 
 [vZome][vzome] and [GitHub Pages][pages] have generated a [***custom web page***][page] to share this design.

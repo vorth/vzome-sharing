@@ -1,3 +1,7 @@
+---
+exclude: true
+---
+
 ## Your vZome design is uploaded
 
 ### [vZome Online view][embed]

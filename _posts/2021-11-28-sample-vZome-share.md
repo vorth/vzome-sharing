@@ -14,6 +14,6 @@ layout: vzome
 
 You can also add more content after the short description, of course.
 
-<vzome-viewer src="{{ site.github.url }}/{{ page.filename }}.vZome" style="width: 100%; height: 70vh;">
+<vzome-viewer src="{{ site.github.url }}/{{ page.filename }}.vZome" style="width: 100%; height: 65vh;">
   <img src="{{ site.github.url }}/{{ page.filename }}.png"/>
 </vzome-viewer>

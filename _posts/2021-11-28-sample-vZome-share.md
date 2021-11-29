@@ -7,7 +7,7 @@ filename: /vzome-sharing/2021/11/28/09-50-02-sample-vZome-share/sample-vZome-sha
 
 ## {{ page.title }}
 
-{{ page.description }}
+{{ page.description }} AS MARKDOWN
 
 <vzome-viewer src="{{ page.filename }}.vZome" style="width: 100%; height: 70vh;">
   <img src="{{ page.filename }}.png"/>

@@ -1,4 +1,6 @@
-
+---
+exclude: true
+---
 
 [vZome][vzome] and [GitHub Pages][pages] have generated a [***custom web page***][page] to share this design.
 It may take a few minutes for the page to be ready; try it first before you share the link.

@@ -1,5 +1,6 @@
 ---
 ---
+READMEs should be excluded.
 
 <ul>
   {% for post in site.posts %}

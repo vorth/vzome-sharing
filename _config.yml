@@ -1,13 +1,14 @@
 
-url: https://vorth.github.io
-
 defaults:
   - scope:
       path: ""
     values:
-      description: A 3D design created in vZome.  Use mouse or touch to interact.
+      # This description will be used for any page/post that does not defined its own.
+      description: A 3D design created in vZome.  Use your mouse or touch to interact.
 
 theme: minima
 
 exclude:
-  - 2021/*/*/*/README.md
+  # This is necessary only for legacy vzome-sharing repositories,
+  #   created before vZome started generating custom pages.
+  - **/README.md

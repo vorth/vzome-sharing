@@ -1,6 +1,6 @@
 ---
 
-# Prevent generation of web page for this README
+# Prevent generation of a web page for this README
 exclude: true
 
 ---

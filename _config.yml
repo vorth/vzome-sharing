@@ -8,3 +8,6 @@ defaults:
       description: A 3D design created in vZome.  Use mouse or touch to interact.
 
 theme: minima
+
+exclude:
+  - README.md

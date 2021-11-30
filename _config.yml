@@ -12,4 +12,4 @@ exclude:
   # Don't generate pages from vZome-created README files,
   #  to avoid generating extra pages in Jekyll, which clutter up the
   #  header for the minima theme, and probably others.
-  - */*/*/*/README.md
+  - 20*/*/*/*/README.md

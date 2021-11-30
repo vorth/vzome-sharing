@@ -13,5 +13,5 @@ layout: vzome
 </vzome-viewer>
 
 {% comment %}
-See the [asset source](/2021/11/29/08-01-41-sample-vZome-share/sample-vZome-share) for this page.
+See the [asset source](https://github.com/vorth/vzome-sharing/tree/main/2021/11/29/08-01-41-sample-vZome-share/sample-vZome-share/) for this page.
 {% endcomment %}

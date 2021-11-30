@@ -4,7 +4,7 @@ title: Sample vZome Share
 image: https://vorth.github.io/vzome-sharing/2021/11/29/08-01-41-sample-vZome-share/sample-vZome-share.png
 
 description:
-  This is a short description that has been manually added to the metadata.
+  This is a short description for embedded cards in social media.
 
 layout: vzome
 
@@ -12,16 +12,21 @@ layout: vzome
 
 {% comment %}
 
-Learn how to [customize this page](https://vzome.github.io/vzome/sharing.html#customizing-the-generated-page).
+You are reading the source document from which Jekyll will generate a
+[***custom web page***](https://vorth.github.io/vzome-sharing/2021/11/29/sample-vZome-share-08-01-41.html).
 
-See the [asset source](https://github.com/vorth/vzome-sharing/tree/main/2021/11/29/08-01-41-sample-vZome-share/) for this page,
-and the [***rendered page itself***](https://vorth.github.io/vzome-sharing/2021/11/29/sample-vZome-share-08-01-41.html).
+This is a *comment* that will not appear in the generated page.
+
+You can find out the details for [customize the page](https://vzome.github.io/vzome/sharing.html#customizing-the-generated-page),
+or view the
+[data assets](https://github.com/vorth/vzome-sharing/tree/main/2021/11/29/08-01-41-sample-vZome-share/) associated with it.
 
 {% endcomment %}
 
 {{ page.description }}
 
-This is a longer description that will not appear when the page link is embedded.
+This is a longer description that appears on the page,
+but not on embedded cards in social media.
 You can add as much content as you like!
 
 <vzome-viewer style="width: 100%; height: 65vh;"

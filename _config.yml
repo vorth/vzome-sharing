@@ -9,7 +9,7 @@ defaults:
 theme: minima
 
 exclude:
-  # This is necessary to support older versions of vZome,
+  # Don't generate pages from vZome-created README files,
   #  to avoid generating extra pages in Jekyll, which clutter up the
   #  header for the minima theme, and probably others.
-  - 2021/*/*/*/README.md
+  - */*/*/*/README.md

@@ -17,7 +17,7 @@ You are reading the source document from which Jekyll will generate a
 
 This is a *comment* that will not appear in the generated page.
 
-You can find out the details for [customize the page](https://vzome.github.io/vzome/sharing.html#customizing-the-generated-page),
+You can find out the details for [customizing the page](https://vzome.github.io/vzome/sharing.html#customizing-the-generated-page),
 or view the
 [data assets](https://github.com/vorth/vzome-sharing/tree/main/2021/11/29/08-01-41-sample-vZome-share/) associated with it.
 

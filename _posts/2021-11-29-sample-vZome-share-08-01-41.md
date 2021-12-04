@@ -10,8 +10,8 @@ layout: vzome
  - [***web page generated from this source***][post]
  - [data assets and more info][github]
 
-post: https://vorth.github.io/vzome-sharing/2021/11/29/sample-vZome-share-08-01-41.html
-github: https://github.com/vorth/vzome-sharing/tree/main/2021/11/29/08-01-41-sample-vZome-share/
+[post]: https://vorth.github.io/vzome-sharing/2021/11/29/sample-vZome-share-08-01-41.html
+[github]: https://github.com/vorth/vzome-sharing/tree/main/2021/11/29/08-01-41-sample-vZome-share/
 {% endcomment %}
 
 {{ page.description }}

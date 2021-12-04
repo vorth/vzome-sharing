@@ -5,7 +5,7 @@
 
 [vZome Sharing documentation](https://vzome.github.io/vzome/sharing.html#how-it-works)
 
-![Image](/<no-twist-RT.png>)
+![Image](<no-twist-RT.png>)
 
 
 [post]: <https://vorth.github.io/vzome-sharing/2021/12/04/no-twist-RT-12-00-39.html>

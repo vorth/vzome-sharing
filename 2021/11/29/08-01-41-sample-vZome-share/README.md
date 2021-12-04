@@ -1,5 +1,5 @@
 
- - [***custom web page***][post] to share this design; *don't share it before it is ready!*
+ - [***custom web page***][post] to share this design; *try it before you share it!*
  - [source file for that custom page][source]; click to customize
  - [raw vZome file][raw] to use in vZome desktop or vZome Online
 

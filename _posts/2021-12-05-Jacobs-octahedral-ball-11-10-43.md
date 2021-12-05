@@ -1,5 +1,5 @@
 ---
-title: Jacobs octahedral ball
+title: Jacob's octahedral ball
 image: https://vorth.github.io/vzome-sharing/2021/12/05/11-10-43-Jacobs-octahedral-ball/Jacobs-octahedral-ball.png
 layout: vzome
 description: A Zome-constructible variation on an octahedral Zome ball equivalent.
@@ -13,7 +13,7 @@ description: A Zome-constructible variation on an octahedral Zome ball equivalen
 [github]: <https://github.com/vorth/vzome-sharing/tree/main/2021/12/05/11-10-43-Jacobs-octahedral-ball/>
 {% endcomment %}
 
-Jacob Peterson constructed this while experimenting with octahedral symmetry.
+Jacob Petersen constructed this while experimenting with octahedral symmetry.
 The shape is isomorphic to the shape of the balls in the default octahedral style,
 as you can verify here.
 

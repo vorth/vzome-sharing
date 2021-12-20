@@ -12,7 +12,7 @@ description:
  - [***web page generated from this source***][post]
  - [data assets and more info][github]
 
-[post]: <https://John-Kostick.github.io/vzome-sharing/2021/12/06/Tetrakis Hexahedron 2-16-33-38.html>
+[post]: <https://vorth.github.io/vzome-sharing/2021/12/20/markdown-link-sample.html>
 [github]: <https://github.com/John-Kostick/vzome-sharing/tree/main/2021/12/06/16-33-38-Tetrakis Hexahedron 2/>
 {% endcomment %}
 

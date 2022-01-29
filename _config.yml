@@ -1,3 +1,12 @@
+title: My vZome Designs
+
+author:
+  name: Scott Vorthmann
+  email: scott@vorthmann.org
+description: > # this means to ignore newlines until "show_excerpts:"
+  These posts are all generated from vZome (https://vzome.com),
+  to share some geometric design.
+  Some pages are further customized to tell a fuller story.
 
 defaults:
   - scope:
@@ -13,3 +22,25 @@ exclude:
   #  to avoid generating extra pages in Jekyll, which clutter up the
   #  header for the minima theme, and probably others.
   - 20*/*/*/*/README.md
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+minima:
+  # generate social links in footer
+  social_links:
+    twitter: vZome
+    github:  vorth
+    facebook: vZome
+    instagram: vzome_geometry
+    youtube: vZome
+    youtube_channel: UCzTSn23jkvtorewseJk5Uyg
+    youtube_channel_name: vZome
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

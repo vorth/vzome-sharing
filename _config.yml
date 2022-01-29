@@ -1,9 +1,8 @@
 title: My vZome Designs
-
 author:
   name: Scott Vorthmann
   email: scott@vorthmann.org
-description: > # this means to ignore newlines until "show_excerpts:"
+description: > # this means to ignore newlines until "defaults:"
   These posts are all generated from vZome (https://vzome.com),
   to share some geometric design.
   Some pages are further customized to tell a fuller story.
@@ -26,6 +25,8 @@ exclude:
 show_excerpts: true # set to true to show excerpts on the homepage
 
 minima:
+  date_format: "%b %-d, %Y"
+
   # generate social links in footer
   social_links:
     twitter: vZome

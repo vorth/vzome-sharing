@@ -19,27 +19,25 @@ exclude:
   #  header for the minima theme, and probably others.
   - 20*/*/*/*/README.md
 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
   date_format: "%b %-d, %Y"
 
 # social links
 twitter_username: vZome
+facebook_username: vZome
+youtube_username: vZome
 github_username:  vZome
+instagram_username: vzome_geometry
 rss: rss
 # dribbble_username: vZome
-facebook_username: vZome
 # flickr_username: vZome
-instagram_username: vzome_geometry
 # linkedin_username: NONE
 # pinterest_username: NONE
-youtube_username: vZome
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+- about.md
 
 theme: minima
 

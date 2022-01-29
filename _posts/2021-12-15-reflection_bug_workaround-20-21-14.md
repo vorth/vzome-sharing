@@ -1,5 +1,5 @@
 ---
-title: reflection_bug_workaround
+title: Reflection Bug Workaround
 image: https://vorth.github.io/vzome-sharing/2021/12/15/20-21-14-reflection_bug_workaround/reflection_bug_workaround.png
 layout: vzome
 description:

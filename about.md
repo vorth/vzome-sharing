@@ -11,8 +11,8 @@ for designing geometric shapes, with specific support for shapes that can be con
 GitHub repository and you've followed the [configuration instructions][help].
 
 Once vZome has uploaded a design and a generated page source, you can further customize
-the page, adding addition text, images, and interactive 3d `vzome-viewer` elements if you want
-more design in your page.  See some of the posts on this site to get an idea of the possibilities.
+the page, adding additional text, images, and interactive 3d `vzome-viewer` elements if you want
+more designs on your page.  See some of the posts on this site to get an idea of the possibilities.
 
 [pages]: https://pages.github.com/
 [source]: https://github.com/vorth/vzome-sharing/

@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Cool vZome logo coming soon.
+![vZome logo](/assets/vZomeLogo.svg)

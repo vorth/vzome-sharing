@@ -27,7 +27,7 @@ jobs:
     - name: Send greeting
       run: >-
         curl --location --request POST 'https://api.twitter.com/2/tweets'
-        --header 'Authorization: OAuth oauth_consumer_key="${{ secrets.TWITTER_CONSUMER_API_KEY }}",oauth_token="${{ secrets.TWITTER_OAUTH_TOKEN }}",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1644089558",oauth_nonce="Tp4dWcOvpzU",oauth_version="1.0",oauth_signature="${{ secrets.TWITTER_OAUTH_SIGNATURE }}%3D"' 
+        --header 'Authorization: OAuth oauth_consumer_key="${{ secrets.TWITTER_CONSUMER_API_KEY }}",oauth_token="${{ secrets.TWITTER_OAUTH_TOKEN }}",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1644089558",oauth_nonce="Tp4dWcOvpzU",oauth_version="1.0",oauth_signature="${{ secrets.TWITTER_OAUTH_SIGNATURE }}"' 
         --header 'Content-Type: application/json' 
         --header 'Cookie: guest_id=v1%3A164402848554007463' 
         --data-raw '{ "text": "FOURTH vZome bot tweet! https://john-kostick.github.io/vzome-sharing/2022/01/21/4-triangles-12-05-03.html" }'

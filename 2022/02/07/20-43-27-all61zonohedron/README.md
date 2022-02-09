@@ -13,7 +13,7 @@ How to use this design in another page:
 
 [vZome Sharing documentation](https://vzome.github.io/vzome/sharing.html#how-it-works)
 
-<!-- ![Image](<all61zonohedron.png>) -->
+![Image](<all61zonohedron.png>)
 
 
 [post]: <https://vorth.github.io/vzome-sharing/2014/06/05/all61zonohedron-20-43-27.html>

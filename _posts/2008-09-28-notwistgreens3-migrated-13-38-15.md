@@ -1,5 +1,5 @@
 ---
-title: notwistgreens3 migrated
+title: No-Twist Green Tangle
 image: https://vorth.github.io/vzome-sharing/2008/09/28/13-38-15-notwistgreens3-migrated/notwistgreens3-migrated.png
 layout: vzome
 description:
@@ -16,6 +16,8 @@ description:
 {% endcomment %}
 
 {{ page.description }}
+
+The design is two disjoint pieces held together only by the central yellow strut.
 
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://vorth.github.io/vzome-sharing/2008/09/28/13-38-15-notwistgreens3-migrated/notwistgreens3-migrated.vZome" >

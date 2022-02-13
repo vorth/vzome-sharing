@@ -6,6 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+description:
+  Geometric designs and stories,
+  all created with vZome (https://vzome.com).
 ---
 
 ![vZome logo](/assets/vZomeLogo.svg)

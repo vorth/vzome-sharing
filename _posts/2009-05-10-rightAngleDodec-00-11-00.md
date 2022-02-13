@@ -2,6 +2,7 @@
 title: rightAngleDodec
 image: https://vorth.github.io/vzome-sharing/2009/05/10/00-11-00-rightAngleDodec/rightAngleDodec.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

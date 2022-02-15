@@ -2,6 +2,8 @@
 title: testShareWithPaul
 image: https://vorth.github.io/vzome-sharing/2022/02/15/15-17-55-testShareWithPaul/testShareWithPaul.png
 layout: vzome
+description:
+  This is just a silly demo.
 ---
 
 {% comment %}
@@ -11,6 +13,8 @@ layout: vzome
 [post]: <https://vorth.github.io/vzome-sharing/2022/02/15/testShareWithPaul-15-17-55.html>
 [github]: <https://github.com/vorth/vzome-sharing/tree/main/2022/02/15/15-17-55-testShareWithPaul/>
 {% endcomment %}
+
+I can add some cool text here.
 
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://vorth.github.io/vzome-sharing/2022/02/15/15-17-55-testShareWithPaul/testShareWithPaul.vZome" >

@@ -16,6 +16,11 @@ description:
 
 {{ page.description }}
 
+This is constructible with real [Zometool](https://zometool.com) parts, in principle.
+It is designed to use the shortest available struts of each color, to increase the strength-to-weight ratio.
+These are R00, Y0, B0, and HG0 struts.
+Even this design might collapse under its own weight, so some judicious use of super glue might be indicated.
+
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://vorth.github.io/vzome-sharing/2022/02/21/19-59-45-all-61-zonohedron-smallest/all-61-zonohedron-smallest.vZome" >
   <img src="https://vorth.github.io/vzome-sharing/2022/02/21/19-59-45-all-61-zonohedron-smallest/all-61-zonohedron-smallest.png" />

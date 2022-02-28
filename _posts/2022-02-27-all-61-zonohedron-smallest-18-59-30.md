@@ -2,6 +2,7 @@
 title: all 61 zonohedron smallest
 image: https://vorth.github.io/vzome-sharing/2022/02/27/18-59-30-all-61-zonohedron-smallest/all-61-zonohedron-smallest.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

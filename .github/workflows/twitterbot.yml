@@ -8,9 +8,12 @@ jobs:
   tweet:
     runs-on: ubuntu-latest
     steps:
-      - uses: ethomson/send-tweet-action@v1
+      - id: step1
+        run: echo "::set-output name=tweeturl::https://vorth.github.io/vzome-sharing/2014/06/05/all61zonohedron-20-43-27.html"
+      - id: step2
+        uses: ethomson/send-tweet-action@v1
         with:
-          status: "FOURTH vZome bot tweet! https://john-kostick.github.io/vzome-sharing/2022/01/21/4-triangles-12-05-03.html"
+          status: "${{ steps.step1.outputs.tweeturl }}"
           consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
           consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
           access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}

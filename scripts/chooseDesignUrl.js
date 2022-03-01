@@ -3,7 +3,7 @@ const MILLISECONDS_PER_DAY = 1000 * 60 * 60 * 24;
 
 const days = Math.floor( Date.now() / MILLISECONDS_PER_DAY );
 
-const daysSinceStart = days - 19030; // 2022-02-06
+const daysSinceStart = days - 19048; // 2022-02-24
 
 const tweetInterval = 3; // days
 

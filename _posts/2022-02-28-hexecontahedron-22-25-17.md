@@ -2,6 +2,7 @@
 title: hexecontahedron
 image: https://vorth.github.io/vzome-sharing/2022/02/28/22-25-17-hexecontahedron/hexecontahedron.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

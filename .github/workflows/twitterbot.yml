@@ -7,9 +7,23 @@ on:
 jobs:
   tweet:
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.3.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
     steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
       - id: step1
-        run: echo "::set-output name=tweeturl::https://vorth.github.io/vzome-sharing/2014/06/05/all61zonohedron-20-43-27.html"
+        name: Select a URL to tweet
+        run: |
+          URL=$( node scripts/chooseDesignUrl.js )
+          echo "::set-output name=tweeturl::$URL"
       - id: step2
         uses: ethomson/send-tweet-action@v1
         with:

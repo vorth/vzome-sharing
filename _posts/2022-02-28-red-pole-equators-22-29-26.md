@@ -2,6 +2,7 @@
 title: red pole equators
 image: https://vorth.github.io/vzome-sharing/2022/02/28/22-29-26-red-pole-equators/red-pole-equators.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

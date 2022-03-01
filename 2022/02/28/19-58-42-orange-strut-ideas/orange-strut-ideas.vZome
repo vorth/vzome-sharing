@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="72" field="golden" version="7.0">
+  <EditHistory editNumber="40" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="orange" index="57" len="1 2"/>
+    <StrutCreation anchor="-2 -7/2 1/2 1/2 -1/2 -1" dir="orange" index="52" len="1 2"/>
+    <StrutCreation anchor="-2 -7/2 3/2 5/2 -5/2 -4" dir="orange" index="0" len="1 2"/>
+    <StrutCreation anchor="0 0 2 3 -3 -5" dir="orange" index="5" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="orange" index="20" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="orange" index="5" len="1 2"/>
+    <StrutCreation anchor="3/2 2 -1 -3/2 3/2 5/2" dir="orange" index="0" len="1 2"/>
+    <StrutCreation anchor="7/2 11/2 -1/2 -1 1 3/2" dir="orange" index="52" len="1 2"/>
+    <StrutCreation anchor="7/2 11/2 1/2 1 -1 -3/2" dir="orange" index="57" len="1 2"/>
+    <StrutCreation anchor="3/2 2 -1 -3/2 3/2 5/2" dir="orange" index="41" len="1 2"/>
+    <StrutCreation anchor="0 0 -2 -3 3 5" dir="orange" index="57" len="1 2"/>
+    <StrutCreation anchor="-2 -7/2 -3/2 -5/2 5/2 4" dir="orange" index="52" len="1 2"/>
+    <StrutCreation anchor="-2 -7/2 -1/2 -1/2 1/2 1" dir="orange" index="0" len="1 2"/>
+    <StrutCreation anchor="7/2 11/2 -1/2 -1 1 3/2" dir="orange" index="15" len="1 2"/>
+    <StrutCreation anchor="11/2 9 -1 -3/2 3/2 5/2" dir="orange" index="52" len="1 2"/>
+    <StrutCreation anchor="11/2 9 0 1/2 -1/2 -1/2" dir="orange" index="20" len="1 2"/>
+    <StrutCreation anchor="7 11 1 2 -2 -3" dir="orange" index="0" len="1 2"/>
+    <StrutCreation anchor="9 29/2 3/2 5/2 -5/2 -4" dir="orange" index="15" len="1 2"/>
+    <StrutCreation anchor="11 18 1 2 -2 -3" dir="orange" index="5" len="1 2"/>
+    <StrutCreation anchor="25/2 20 0 1/2 -1/2 -1/2" dir="orange" index="37" len="1 2"/>
+    <StrutCreation anchor="25/2 20 -1 -3/2 3/2 5/2" dir="orange" index="41" len="1 2"/>
+    <StrutCreation anchor="11 18 -2 -3 3 5" dir="orange" index="42" len="1 2"/>
+    <StrutCreation anchor="9 29/2 -5/2 -7/2 7/2 6" dir="orange" index="57" len="1 2"/>
+    <StrutCreation anchor="7 11 -2 -3 3 5" dir="orange" index="56" len="1 2"/>
+    <SelectManifestation endSegment="11/2 9 -1 -3/2 3/2 5/2" startSegment="7/2 11/2 -1/2 -1 1 3/2"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 3 1 2"/>
+    <SelectManifestation endSegment="0 0 2 3 1 2" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="7 11 1 2 -2 -3" dir="orange" index="37" len="1 2"/>
+    <StrutCreation anchor="7 11 0 0 0 0" dir="orange" index="5" len="1 2"/>
+    <StrutCreation anchor="17/2 13 -1 -3/2 3/2 5/2" dir="orange" index="15" len="1 2"/>
+    <StrutCreation anchor="21/2 33/2 -3/2 -2 2 7/2" dir="orange" index="0" len="1 2"/>
+    <StrutCreation anchor="7 11 0 0 0 0" dir="orange" index="15" len="1 2"/>
+    <StrutCreation anchor="9 29/2 -1/2 -1/2 1/2 1" dir="orange" index="5" len="1 2"/>
+    <StrutCreation anchor="11/2 9 -1 -3/2 3/2 5/2" dir="orange" index="20" len="1 2"/>
+    <StrutCreation anchor="9 29/2 -5/2 -7/2 7/2 6" dir="orange" index="20" len="1 2"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="152.76174926757812" far="305.52349853515625" near="0.3819044232368469" parallel="false" stereoAngle="0.0" width="68.74279022216797">
+      <LookAtPoint x="20.062305450439453" y="0.80901700258255" z="-1.3090169429779053"/>
+      <UpDirection x="-0.041220828890800476" y="-0.5670804977416992" z="0.8226304650306702"/>
+      <LookDirection x="0.096799336373806" y="0.8171905279159546" z="0.568181037902832"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="187,144,85" name="sand"/>
+    <Direction color="12,84,55" name="spruce"/>
+    <Direction color="197,3,20" name="red"/>
+    <Direction color="254,124,123" name="coral"/>
+    <Direction color="36,35,38" name="black"/>
+    <Direction color="141,2,41" name="maroon"/>
+    <Direction color="245,163,1" name="yellow"/>
+    <Direction color="218,225,83" name="sulfur"/>
+    <Direction color="251,94,160" name="rose"/>
+    <Direction color="53,181,179" name="turquoise"/>
+    <Direction color="129,191,30" name="apple"/>
+    <Direction color="144,56,14" name="cinnamon"/>
+    <Direction color="113,64,178" name="purple"/>
+    <Direction color="236,89,1" name="orange"/>
+    <Direction color="52,48,136" name="navy"/>
+    <Direction color="105,54,1" name="brown"/>
+    <Direction color="144,127,227" name="lavender"/>
+    <Direction color="116,104,1" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="175,135,255" name="lavender"/>
+      <Direction color="18,205,148" name="turquoise"/>
+      <Direction color="30,30,30" name="black"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="100,113,0" name="olive"/>
+      <Direction color="117,0,50" name="maroon"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+      <Direction color="108,0,198" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

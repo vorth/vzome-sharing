@@ -4,8 +4,8 @@ name: vZome Twitter bot
 on:
   workflow_dispatch:
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '0 0 */3 * *'
+    # 3:45 AM UTC is 7:45 PM Pacific, every day
+    - cron:  '45 3 * * *'
 
 jobs:
   tweet:

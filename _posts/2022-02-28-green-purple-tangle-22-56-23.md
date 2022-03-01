@@ -2,6 +2,7 @@
 title: green purple tangle
 image: https://vorth.github.io/vzome-sharing/2022/02/28/22-56-23-green-purple-tangle/green-purple-tangle.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

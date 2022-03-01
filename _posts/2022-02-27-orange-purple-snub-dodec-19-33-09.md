@@ -2,6 +2,7 @@
 title: orange purple snub dodec
 image: https://vorth.github.io/vzome-sharing/2022/02/27/19-33-09-orange-purple-snub-dodec/orange-purple-snub-dodec.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

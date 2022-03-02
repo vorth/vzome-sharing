@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="72" field="golden" version="7.0">
+  <EditHistory editNumber="437" lastStickyEdit="249">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="0" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="51" len="2 4"/>
+    <StrutCreation anchor="-1 -2 2 3 1 1" index="37" len="2 4"/>
+    <StrutCreation anchor="0 -1 1 1 3 4" dir="red" index="46" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -1 3 4 2 2"/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <SelectManifestation point="0 -1 1 1 3 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="translation.1"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="54" len="4 6"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 2 3 1 1" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-2 -3 3 5 -1 -2" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ScalingTool name="scaling.1" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <RotationTool corrected="true" name="rotation.1" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 -1 3 4 2 2"/>
+      <polygonVertex at="-1 -2 2 3 1 1"/>
+      <polygonVertex at="0 -1 1 1 3 4"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <SelectManifestation>
+      <polygonVertex at="0 -1 3 4 2 2"/>
+      <polygonVertex at="-1 -2 2 3 1 1"/>
+      <polygonVertex at="0 -1 1 1 3 4"/>
+    </SelectManifestation>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <SelectManifestation>
+      <polygonVertex at="0 -1 3 4 2 2"/>
+      <polygonVertex at="-1 -2 2 3 1 1"/>
+      <polygonVertex at="0 -1 1 1 3 4"/>
+    </SelectManifestation>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <SelectManifestation>
+      <polygonVertex at="0 -1 3 4 2 2"/>
+      <polygonVertex at="-1 -2 2 3 1 1"/>
+      <polygonVertex at="0 -1 1 1 3 4"/>
+    </SelectManifestation>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="105 170 52 84 50 81"/>
+      <polygonVertex at="84 136 52 84 42 68"/>
+      <polygonVertex at="105 170 18 29 29 47"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -1 3 4 2 2"/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <SelectManifestation point="0 -1 1 1 3 4"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 -1 -2 3 4"/>
+    <SelectManifestation point="0 -1 1 1 3 4"/>
+    <SelectManifestation point="0 -1 3 4 2 2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 -1 -2 3 4"/>
+    <SelectManifestation point="0 -1 3 4 2 2"/>
+    <SelectManifestation point="3 5 2 3 4 6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 -1 3 4 2 2"/>
+      <polygonVertex at="-1 -2 2 3 1 1"/>
+      <polygonVertex at="0 -1 1 1 3 4"/>
+    </SelectManifestation>
+    <SelectManifestation point="0 -1 3 4 2 2"/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 -1 3 4 2 2"/>
+      <polygonVertex at="-1 -2 2 3 1 1"/>
+      <polygonVertex at="0 -1 1 1 3 4"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -1 3 4 2 2"/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <SelectManifestation point="0 -1 1 1 3 4"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 1 2 2 5"/>
+    <SelectManifestation point="2 3 1 2 2 4"/>
+    <SelectManifestation point="0 -1 3 4 2 2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 1 2 2 4"/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 1 2 2 4"/>
+    <SelectManifestation point="0 -1 1 1 3 4"/>
+    <SelectManifestation point="0 -1 3 4 2 2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-2 -3 3 5 -1 -2" index="54" len="6 10"/>
+    <StrutCreation anchor="-5 -8 8 13 -3 -5" dir="yellow" index="54" len="2 3"/>
+    <StrutCreation anchor="-5 -8 8 13 -3 -5" dir="yellow" index="3" len="2 3"/>
+    <StrutCreation anchor="-5 -8 8 13 -3 -5" dir="yellow" index="8" len="2 3"/>
+    <StrutCreation anchor="-5 -8 8 13 -3 -5" dir="yellow" index="2" len="2 3"/>
+    <StrutCreation anchor="-5 -8 8 13 -3 -5" dir="yellow" index="38" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 8 13 -1 -2"/>
+    <SelectManifestation point="-2 -3 11 18 -6 -10"/>
+    <SelectManifestation point="-8 -13 11 18 -6 -10"/>
+    <SelectManifestation point="-10 -16 8 13 -1 -2"/>
+    <SelectManifestation point="-5 -8 6 10 2 3"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 11 18 -6 -10"/>
+    <SelectManifestation point="-2 -3 11 18 -6 -10"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 8 13 -1 -2"/>
+    <SelectManifestation point="1 2 2 3 13 21"/>
+    <SelectManifestation point="-5 -8 6 10 2 3"/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -8 8 13 -3 -5"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-2 -3 10 16 13 21" dir="red" index="47" len="3 5"/>
+    <StrutCreation anchor="-5 -8 10 16 8 13" dir="yellow" index="38" len="1 2"/>
+    <StrutCreation anchor="-8 -13 10 16 9 15" dir="yellow" index="38" len="1 2"/>
+    <SelectManifestation endSegment="-5 -8 10 16 8 13" startSegment="-2 -3 10 16 13 21"/>
+    <RotationTool corrected="true" full="true" name="axial symmetry.1" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-11 -18 10 16 10 17"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.1" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-7 -12 16 26 8 13"/>
+    <SelectManifestation point="-1 -2 14 22 4 7"/>
+    <SelectManifestation point="-1 -2 6 10 4 7"/>
+    <SelectManifestation point="-7 -12 4 6 8 13"/>
+    <SelectManifestation point="-11 -18 10 16 10 17"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -2 6 10 4 7"/>
+    <SelectManifestation point="0 0 8 13 -1 -2"/>
+    <SelectManifestation point="-5 -8 6 10 2 3"/>
+    <SelectManifestation point="-7 -12 4 6 8 13"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -2 6 10 4 7"/>
+    <SelectManifestation point="0 0 8 13 -1 -2"/>
+    <SelectManifestation point="-1 -2 14 22 4 7"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 14 22 4 7"/>
+    <SelectManifestation point="0 0 8 13 -1 -2"/>
+    <SelectManifestation point="-2 -3 11 18 -6 -10"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 14 22 4 7"/>
+    <SelectManifestation point="-2 -3 11 18 -6 -10"/>
+    <SelectManifestation point="-8 -13 11 18 -6 -10"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-8 -13 11 18 -6 -10"/>
+    <SelectManifestation point="-7 -12 16 26 8 13"/>
+    <SelectManifestation point="-1 -2 14 22 4 7"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -12 16 26 8 13"/>
+    <SelectManifestation point="-8 -13 11 18 -6 -10"/>
+    <SelectManifestation point="-11 -18 10 16 10 17"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-11 -18 10 16 10 17"/>
+    <SelectManifestation point="-8 -13 11 18 -6 -10"/>
+    <SelectManifestation point="-10 -16 8 13 -1 -2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -12 4 6 8 13"/>
+    <SelectManifestation point="-10 -16 8 13 -1 -2"/>
+    <SelectManifestation point="-5 -8 6 10 2 3"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -16 8 13 -1 -2"/>
+    <SelectManifestation point="-11 -18 10 16 10 17"/>
+    <SelectManifestation point="-7 -12 4 6 8 13"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -11 15 24 18 29"/>
+    <SelectManifestation point="-7 -12 16 26 8 13"/>
+    <SelectManifestation point="1 2 18 29 13 21"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 18 29 13 21"/>
+    <SelectManifestation point="-1 -2 14 22 4 7"/>
+    <SelectManifestation point="-7 -12 16 26 8 13"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 18 29 13 21"/>
+    <SelectManifestation point="6 10 10 16 10 16"/>
+    <SelectManifestation point="-1 -2 14 22 4 7"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="6 10 10 16 10 16"/>
+    <SelectManifestation point="-1 -2 6 10 4 7"/>
+    <SelectManifestation point="-1 -2 14 22 4 7"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 6 10 4 7"/>
+    <SelectManifestation point="6 10 10 16 10 16"/>
+    <SelectManifestation point="1 2 2 3 13 21"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 2 3 13 21"/>
+    <SelectManifestation point="-1 -2 6 10 4 7"/>
+    <SelectManifestation point="-7 -12 4 6 8 13"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -12 4 6 8 13"/>
+    <SelectManifestation point="1 2 2 3 13 21"/>
+    <SelectManifestation point="-7 -11 5 8 18 29"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -11 5 8 18 29"/>
+    <SelectManifestation point="-7 -12 4 6 8 13"/>
+    <SelectManifestation point="-11 -18 10 16 10 17"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-7 -11 5 8 18 29"/>
+    <SelectManifestation point="-7 -11 15 24 18 29"/>
+    <SelectManifestation point="-11 -18 10 16 10 17"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-7 -11 15 24 18 29"/>
+    <SelectManifestation point="-7 -12 16 26 8 13"/>
+    <DeselectAll/>
+    <SelectManifestation point="-11 -18 10 16 10 17"/>
+    <SelectManifestation point="-7 -11 15 24 18 29"/>
+    <SelectManifestation point="-7 -12 16 26 8 13"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-11 -18 10 16 10 17"/>
+      <polygonVertex at="-7 -11 15 24 18 29"/>
+      <polygonVertex at="-7 -12 16 26 8 13"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-7 -11 15 24 18 29"/>
+      <polygonVertex at="-7 -12 16 26 8 13"/>
+      <polygonVertex at="1 2 18 29 13 21"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 18 29 13 21"/>
+      <polygonVertex at="-1 -2 14 22 4 7"/>
+      <polygonVertex at="-7 -12 16 26 8 13"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 18 29 13 21"/>
+      <polygonVertex at="6 10 10 16 10 16"/>
+      <polygonVertex at="-1 -2 14 22 4 7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="6 10 10 16 10 16"/>
+      <polygonVertex at="-1 -2 6 10 4 7"/>
+      <polygonVertex at="-1 -2 14 22 4 7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 6 10 4 7"/>
+      <polygonVertex at="6 10 10 16 10 16"/>
+      <polygonVertex at="1 2 2 3 13 21"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 2 3 13 21"/>
+      <polygonVertex at="-1 -2 6 10 4 7"/>
+      <polygonVertex at="-7 -12 4 6 8 13"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-7 -12 4 6 8 13"/>
+      <polygonVertex at="1 2 2 3 13 21"/>
+      <polygonVertex at="-7 -11 5 8 18 29"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-7 -11 5 8 18 29"/>
+      <polygonVertex at="-7 -12 4 6 8 13"/>
+      <polygonVertex at="-11 -18 10 16 10 17"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-7 -11 5 8 18 29"/>
+      <polygonVertex at="-7 -11 15 24 18 29"/>
+      <polygonVertex at="-11 -18 10 16 10 17"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 14 22 4 7"/>
+      <polygonVertex at="-2 -3 11 18 -6 -10"/>
+      <polygonVertex at="-8 -13 11 18 -6 -10"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-8 -13 11 18 -6 -10"/>
+      <polygonVertex at="-7 -12 16 26 8 13"/>
+      <polygonVertex at="-1 -2 14 22 4 7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-7 -12 16 26 8 13"/>
+      <polygonVertex at="-8 -13 11 18 -6 -10"/>
+      <polygonVertex at="-11 -18 10 16 10 17"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-11 -18 10 16 10 17"/>
+      <polygonVertex at="-8 -13 11 18 -6 -10"/>
+      <polygonVertex at="-10 -16 8 13 -1 -2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-10 -16 8 13 -1 -2"/>
+      <polygonVertex at="-11 -18 10 16 10 17"/>
+      <polygonVertex at="-7 -12 4 6 8 13"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-7 -12 4 6 8 13"/>
+      <polygonVertex at="-10 -16 8 13 -1 -2"/>
+      <polygonVertex at="-5 -8 6 10 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 6 10 4 7"/>
+      <polygonVertex at="0 0 8 13 -1 -2"/>
+      <polygonVertex at="-5 -8 6 10 2 3"/>
+      <polygonVertex at="-7 -12 4 6 8 13"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 6 10 4 7"/>
+      <polygonVertex at="0 0 8 13 -1 -2"/>
+      <polygonVertex at="-1 -2 14 22 4 7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 14 22 4 7"/>
+      <polygonVertex at="0 0 8 13 -1 -2"/>
+      <polygonVertex at="-2 -3 11 18 -6 -10"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <ApplyTool copyColors="true" name="rotation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="translation.1"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.1"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="8508.9990234375" far="17017.96875" near="21.272510528564453" parallel="false" stereoAngle="0.0" width="3829.052490234375">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.6758418679237366" y="0.7273721694946289" z="0.11901521682739258"/>
+      <LookDirection x="0.735719621181488" y="0.6560900807380676" z="0.16811232268810272"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="154,117,74" name="sand"/>
+    <Direction color="30,30,30" name="black"/>
+    <Direction color="255,255,255" name="17" prototype="16 -9 17 -11 13 -8"/>
+    <Direction color="255,51,143" name="rose"/>
+    <Direction color="18,205,148" name="turquoise"/>
+    <Direction color="255,255,255" name="16" prototype="-18 10 0 0 10 -6"/>
+    <Direction color="255,255,255" name="19" prototype="0 0 -18 10 -22 14"/>
+    <Direction color="255,255,255" name="18" prototype="41 -25 15 -10 -50 31"/>
+    <Direction color="255,255,255" name="13" prototype="-29 18 -6 3 27 -17"/>
+    <Direction color="255,255,255" name="12" prototype="-4 3 9 -5 -1 0"/>
+    <Direction color="255,255,255" name="15" prototype="19 -12 10 -7 -5 3"/>
+    <Direction color="108,0,198" name="purple"/>
+    <Direction color="255,255,255" name="14" prototype="-7 4 -6 3 -5 3"/>
+    <Direction color="220,76,0" name="orange"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="255,255,255" name="11" prototype="3 -2 -12 7 7 -5"/>
+    <Direction color="0,118,149" name="blue"/>
+    <Direction color="18,73,48" name="spruce"/>
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="255,126,106" name="coral"/>
+    <Direction color="117,0,50" name="maroon"/>
+    <Direction color="240,160,0" name="yellow"/>
+    <Direction color="230,245,62" name="sulfur"/>
+    <Direction color="255,255,255" name="28" prototype="2 -1 23 -15 -39 24"/>
+    <Direction color="255,255,255" name="27" prototype="16 -10 -8 4 22 -14"/>
+    <Direction color="255,255,255" name="29" prototype="26 -16 76 -46 106 -66"/>
+    <Direction color="116,195,0" name="apple"/>
+    <Direction color="136,37,0" name="cinnamon"/>
+    <Direction color="255,255,255" name="24" prototype="18 -10 -22 14 -10 6"/>
+    <Direction color="255,255,255" name="23" prototype="-76 48 0 0 -32 20"/>
+    <Direction color="255,255,255" name="26" prototype="-8 4 -148 92 -52 32"/>
+    <Direction color="255,255,255" name="25" prototype="0 0 -34 22 -36 22"/>
+    <Direction color="0,0,153" name="navy"/>
+    <Direction color="255,255,255" name="20" prototype="-23 15 1 0 14 -9"/>
+    <Direction color="255,255,255" name="22" prototype="-5 4 -6 3 1 -1"/>
+    <Direction color="255,255,255" name="21" prototype="7 -5 -3 2 -14 9"/>
+    <Direction color="175,135,255" name="lavender"/>
+    <Direction color="100,113,0" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="175,135,255" name="lavender"/>
+      <Direction color="18,205,148" name="turquoise"/>
+      <Direction color="30,30,30" name="black"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="100,113,0" name="olive"/>
+      <Direction color="117,0,50" name="maroon"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+      <Direction color="108,0,198" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="axial symmetry.1" label="" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="rotation.1" label="" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="scaling.1" label="" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="translation.1" label="" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>

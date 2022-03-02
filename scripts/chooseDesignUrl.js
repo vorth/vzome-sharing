@@ -8,7 +8,7 @@ const days =  Date.now() / MILLISECONDS_PER_DAY;
 if ( !!verbose )
   console.log( days, "days" );
 
-const daysSinceStart = days - 19046; // 2022-02-22
+const daysSinceStart = days - 19045; // 2022-02-21
 if ( !!verbose )
   console.log( daysSinceStart, "daysSinceStart" );
 

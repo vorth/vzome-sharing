@@ -1,13 +1,22 @@
 
+
+const verbose = process.argv.length > 2;
+
 const MILLISECONDS_PER_DAY = 1000 * 60 * 60 * 24;
 
-const days = Math.floor( Date.now() / MILLISECONDS_PER_DAY );
+const days =  Date.now() / MILLISECONDS_PER_DAY;
+if ( !!verbose )
+  console.log( days, "days" );
 
-const daysSinceStart = days - 19048; // 2022-02-24
+const daysSinceStart = days - 19046; // 2022-02-22
+if ( !!verbose )
+  console.log( daysSinceStart, "daysSinceStart" );
 
 const tweetInterval = 3; // days
 
 const tweetsSinceStart = Math.floor( daysSinceStart / tweetInterval );
+if ( !!verbose )
+  console.log( tweetsSinceStart, "tweetsSinceStart" );
 
 const urls = [
   "https://vorth.github.io/vzome-sharing/2022/02/06/Yellow-Stretch-120cell-13-23-08.html",
@@ -20,5 +29,7 @@ const urls = [
 ];
 
 const index = tweetsSinceStart % urls.length;
+if ( !!verbose )
+  console.log( index, "index" );
 
 console.log( urls[ index ] );

@@ -28,4 +28,8 @@ The design incorporates flexible buttresses that should compress very slightly w
 rectangular holes in the Zome connector ball.  Note that I haven't printed any of these with
 Shapeways yet, so caveat emptor!
 
-As always, my Shapeways store has no markup for me, so the cost you see is the cost that Shapeways charges.
+As always, my Shapeways store has no markup for me, so the cost you see is the cost that Shapeways charges.,
+
+This design should work fine for FDM printers you might have at home, though it is not tested.
+You won't need the Shapeways-required white "sprues" in that case, so I recommend removing them in the vZome file and
+regenerating the STL file.  Remember to cap the tips after you remove the sprues, and use counter-clockwise winding!

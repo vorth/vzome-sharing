@@ -1,7 +1,10 @@
 ---
-title: rf 3 fivefold
+title: Rhombofoam Clathrate Structure
 image: https://vorth.github.io/vzome-sharing/2020/04/18/14-03-25-rf-3-fivefold/rf-3-fivefold.png
 layout: vzome
+description:
+  Rhombofoam is the name I use for a class of modular clathrate structures.
+  This model assembles the modules around an axis of fivefold symmetry.
 ---
 
 {% comment %}

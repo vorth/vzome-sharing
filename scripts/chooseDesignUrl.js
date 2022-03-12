@@ -25,7 +25,8 @@ const urls = [
   "https://vorth.github.io/vzome-sharing/2021/12/04/no-twist-RT-12-09-21.html",
   "https://vorth.github.io/vzome-sharing/2021/12/04/4d-buckyball-15-24-24.html",
   "https://vorth.github.io/vzome-sharing/2014/06/05/all61zonohedron-20-43-27.html",
-  "https://vorth.github.io/vzome-sharing/2021/12/10/cool-geometry-21-26-59.html"
+  "https://vorth.github.io/vzome-sharing/2021/12/10/cool-geometry-21-26-59.html",
+  "https://vorth.github.io/vzome-sharing/2016/03/30/rhombofoam-fivefold-14-03-25.html"
 ];
 
 const index = tweetsSinceStart % urls.length;

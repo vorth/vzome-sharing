@@ -15,6 +15,8 @@ description:
 [github]: <https://github.com/vorth/vzome-sharing/tree/main/2020/04/18/14-03-25-rf-3-fivefold/>
 {% endcomment %}
 
+{{ page.description }}
+
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://vorth.github.io/vzome-sharing/2020/04/18/14-03-25-rf-3-fivefold/rf-3-fivefold.vZome" >
   <img src="https://vorth.github.io/vzome-sharing/2020/04/18/14-03-25-rf-3-fivefold/rf-3-fivefold.png" />

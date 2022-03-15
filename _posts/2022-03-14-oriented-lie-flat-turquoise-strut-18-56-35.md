@@ -25,6 +25,13 @@ and one using a new shape that is easily orientable by design.
   <img src="https://vorth.github.io/vzome-sharing/2022/03/14/18-56-35-oriented-lie-flat-turquoise-strut/oriented-lie-flat-turquoise-strut.png" />
 </vzome-viewer>
 
+Here is a similar design for the apple orbit:
+
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://vorth.github.io/vzome-sharing/2022/03/14/21-10-08-oriented-lie-flat-apple-WIP/oriented-lie-flat-apple-WIP.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2022/03/14/21-10-08-oriented-lie-flat-apple-WIP/oriented-lie-flat-apple-WIP.png" />
+</vzome-viewer>
+
 [vZome](https://vzome.com) defines several strut directions (or *orbits*) that do not lie in
 the mirror planes for icosahedral symmetry.
 In the triangular direction chooser control in vZome, these are represented as colored dots

@@ -27,7 +27,11 @@ const urls = [
   "https://vorth.github.io/vzome-sharing/2014/06/05/all61zonohedron-20-43-27.html",
   "https://vorth.github.io/vzome-sharing/2021/12/10/cool-geometry-21-26-59.html",
   "https://vorth.github.io/vzome-sharing/2016/03/30/rhombofoam-fivefold-14-03-25.html",
-  "https://vorth.github.io/vzome-sharing/2006/09/23/C140-orange-fullerene-21-37-06.html"
+  "https://vorth.github.io/vzome-sharing/2006/09/23/C140-orange-fullerene-21-37-06.html",
+  "https://vorth.github.io/vzome-sharing/2022/02/06/Yellow-Stretch-120cell-13-23-08.html",
+  "https://vorth.github.io/vzome-sharing/2010/07/19/phi-grid-demo-00-33-53.html",
+  "https://vorth.github.io/vzome-sharing/2008/09/28/notwistgreens3-migrated-13-38-15.html",
+  "https://vorth.github.io/vzome-sharing/2014/10/04/dodecTetra-11-09-35.html"
 ];
 
 const index = tweetsSinceStart % urls.length;

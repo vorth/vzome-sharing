@@ -31,7 +31,12 @@ const urls = [
   "https://vorth.github.io/vzome-sharing/2022/02/06/Yellow-Stretch-120cell-13-23-08.html",
   "https://vorth.github.io/vzome-sharing/2010/07/19/phi-grid-demo-00-33-53.html",
   "https://vorth.github.io/vzome-sharing/2008/09/28/notwistgreens3-migrated-13-38-15.html",
-  "https://vorth.github.io/vzome-sharing/2014/10/04/dodecTetra-11-09-35.html"
+  "https://vorth.github.io/vzome-sharing/2014/10/04/dodecTetra-11-09-35.html",
+  "https://john-kostick.github.io/vzome-sharing/2021/12/06/Double-Diamond-Lattice-22-52-35.html",
+  "https://john-kostick.github.io/vzome-sharing/2021/12/07/Oct-Tet-lattice-spaced-15-58-29.html",
+  "https://john-kostick.github.io/vzome-sharing/2021/12/14/5-truncated-tet-13-19-25.html",
+  "https://john-kostick.github.io/vzome-sharing/2021/12/06/Deltoid-60-face-20-34-06.html",
+  "https://john-kostick.github.io/vzome-sharing/2021/12/07/RD-Modulated-field-3-10-46-21.html"
 ];
 
 const index = tweetsSinceStart % urls.length;

@@ -2,6 +2,7 @@
 title: orange purple snub 3 pents
 image: https://vorth.github.io/vzome-sharing/2022/04/01/21-39-25-orange-purple-snub-3-pents/orange-purple-snub-3-pents.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

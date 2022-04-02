@@ -10,7 +10,7 @@ description:
  - [***web page generated from this source***][post]
  - [data assets and more info][github]
 
-[post]: <https://vorth.github.io/vzome-sharing/2022/02/27/orange-purple-snub-dodec-19-33-09.html>
+[post]: <https://vorth.github.io/vzome-sharing/g4g/14/gift.html>
 [github]: <https://github.com/vorth/vzome-sharing/tree/main/2022/02/27/19-33-09-orange-purple-snub-dodec/>
 {% endcomment %}
 

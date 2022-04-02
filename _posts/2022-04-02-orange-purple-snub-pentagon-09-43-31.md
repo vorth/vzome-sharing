@@ -2,6 +2,7 @@
 title: orange purple snub pentagon
 image: https://vorth.github.io/vzome-sharing/2022/04/02/09-43-31-orange-purple-snub-pentagon/orange-purple-snub-pentagon.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

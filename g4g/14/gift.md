@@ -28,5 +28,10 @@ description:
   <img src="https://vorth.github.io/vzome-sharing/2022/04/02/12-50-51-short-purple-more-tip-batch/short-purple-more-tip-batch.png" />
 </vzome-viewer>
 
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://vorth.github.io/vzome-sharing/2022/04/02/13-14-43-three-long-reds-new-tips/three-long-reds-new-tips.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2022/04/02/13-14-43-three-long-reds-new-tips/three-long-reds-new-tips.png" />
+</vzome-viewer>
+
 STL files for orange and purple struts are available on [Thingiverse](https://www.thingiverse.com/vzome/designs).
 

@@ -1,5 +1,5 @@
 ---
-title: orange purple snub complete
+title: G4G14 Banquet Table Zome Build
 image: https://vorth.github.io/vzome-sharing/2022/04/01/21-33-50-orange-purple-snub-complete/orange-purple-snub-complete.png
 layout: vzome
 ---

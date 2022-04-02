@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="73" field="golden" version="7.0">
+  <EditHistory editNumber="39" lastStickyEdit="40">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="1 2"/>
+    <SelectManifestation point="1 2 0 0 2 3"/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <DeselectAll/>
+    <StrutCreation anchor="-1 -2 0 0 2 3" dir="purple" index="39" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-7/2 -6 -2 -7/2 5/2 7/2" startSegment="-1 -2 0 0 2 3"/>
+    <SelectManifestation point="-7/2 -6 -2 -7/2 5/2 7/2"/>
+    <EndBlock/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <DeselectAll/>
+    <StrutCreation anchor="-7/2 -6 -2 -7/2 5/2 7/2" dir="orange" index="55" len="2 3"/>
+    <StrutCreation anchor="-7/2 -6 -2 -7/2 5/2 7/2" dir="orange" index="23" len="2 2"/>
+    <SelectManifestation endSegment="-3/2 -2 -2 -7/2 1/2 3/2" startSegment="-7/2 -6 -2 -7/2 5/2 7/2"/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3/2 -2 -2 -7/2 1/2 3/2"/>
+    <EndBlock/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="3/2 2 -2 -7/2 1/2 3/2"/>
+    <SelectManifestation point="1/2 3/2 -3/2 -2 -2 -7/2"/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -17/2 1/2 1/2 1/2 0"/>
+    <SelectManifestation endSegment="-5 -17/2 1/2 1/2 1/2 0" startSegment="-7/2 -6 -2 -7/2 5/2 7/2"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -2 -3 -1 -2"/>
+    <SelectManifestation point="-3/2 -2 -2 -7/2 -1/2 -3/2"/>
+    <EndBlock/>
+    <DeselectAll/>
+    <Snapshot id="0"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="0" title="purple/orange fan-tangle">
+      <ViewModel distance="125.07073211669922" far="250.14146423339844" near="0.3126768469810486" parallel="false" stereoAngle="0.0" width="56.281829833984375">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.11820564419031143" y="0.9898020029067993" z="-0.07949451357126236"/>
+        <LookDirection x="-0.5038549900054932" y="-0.00919782929122448" z="-0.8637392520904541"/>
+      </ViewModel>
+      <content xml:space="preserve">The inner two orbits on this one form a dodec and an inscribed icosa.
+
+The orange struts are actually double length, so it won't look so clean when rZome finally has oranges and purples.
+
+Note that the orange struts are also co-linear in pairs.</content>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="92.6546859741211" far="185.3092041015625" near="0.23163670301437378" parallel="false" stereoAngle="0.0" width="41.69460678100586">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.5889706611633301" y="-0.05995352938771248" z="0.8059274554252625"/>
+      <LookDirection x="-0.467807412147522" y="-0.7878890037536621" z="-0.4004824161529541"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="0,118,149" name="blue"/>
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="154,117,74" name="sand"/>
+    <Direction color="18,73,48" name="spruce"/>
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="255,126,106" name="coral"/>
+    <Direction color="30,30,30" name="black"/>
+    <Direction color="117,0,50" name="maroon"/>
+    <Direction color="240,160,0" name="yellow"/>
+    <Direction color="230,245,62" name="sulfur"/>
+    <Direction color="255,51,143" name="rose"/>
+    <Direction color="18,205,148" name="turquoise"/>
+    <Direction color="116,195,0" name="apple"/>
+    <Direction color="136,37,0" name="cinnamon"/>
+    <Direction color="108,0,198" name="purple"/>
+    <Direction color="220,76,0" name="orange"/>
+    <Direction color="0,0,153" name="navy"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="175,135,255" name="lavender"/>
+    <Direction color="100,113,0" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="175,135,255" name="lavender"/>
+      <Direction color="18,205,148" name="turquoise"/>
+      <Direction color="30,30,30" name="black"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="100,113,0" name="olive"/>
+      <Direction color="117,0,50" name="maroon"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+      <Direction color="108,0,198" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

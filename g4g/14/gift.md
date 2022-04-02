@@ -23,5 +23,10 @@ description:
   <img src="https://vorth.github.io/vzome-sharing/2022/02/27/19-33-09-orange-purple-snub-dodec/orange-purple-snub-dodec.png" />
 </vzome-viewer>
 
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://vorth.github.io/vzome-sharing/2022/04/02/12-50-51-short-purple-more-tip-batch/short-purple-more-tip-batch.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2022/04/02/12-50-51-short-purple-more-tip-batch/short-purple-more-tip-batch.png" />
+</vzome-viewer>
+
 STL files for orange and purple struts are available on [Thingiverse](https://www.thingiverse.com/vzome/designs).
 

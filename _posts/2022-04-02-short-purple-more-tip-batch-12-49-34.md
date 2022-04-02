@@ -2,6 +2,7 @@
 title: short purple more tip batch
 image: https://vorth.github.io/vzome-sharing/2022/04/02/12-49-34-short-purple-more-tip-batch/short-purple-more-tip-batch.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

@@ -2,6 +2,7 @@
 title: cubicSurfaceLines purpleYellow
 image: https://vorth.github.io/vzome-sharing/2022/04/02/15-15-41-cubicSurfaceLines-purpleYellow/cubicSurfaceLines-purpleYellow.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

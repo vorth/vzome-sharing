@@ -2,6 +2,7 @@
 title: purple giant tetra
 image: https://vorth.github.io/vzome-sharing/2022/04/02/14-59-35-purple-giant-tetra/purple-giant-tetra.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

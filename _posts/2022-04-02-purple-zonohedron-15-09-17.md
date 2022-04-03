@@ -2,6 +2,7 @@
 title: purple zonohedron
 image: https://vorth.github.io/vzome-sharing/2022/04/02/15-09-17-purple-zonohedron/purple-zonohedron.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

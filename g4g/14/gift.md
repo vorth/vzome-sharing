@@ -45,9 +45,19 @@ description:
 
 ![gift-url-qr-code](https://user-images.githubusercontent.com/1584024/161433524-86f287aa-8ce6-4c92-852d-e087b6af55fc.png)
 
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://vorth.github.io/vzome-sharing/2016/06/04/23-21-58-orange-6-short-sprued/orange-6-short-sprued.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2016/06/04/23-21-58-orange-6-short-sprued/orange-6-short-sprued.png" />
+</vzome-viewer>
+
 ![01-oranges-printed](https://user-images.githubusercontent.com/1584024/161401148-b2015ee9-bc67-41af-9283-8971f6abe0c8.jpg)
 
 ![02-oranges-pile](https://user-images.githubusercontent.com/1584024/161401158-85a70ba8-3c81-4cf3-a114-9acecf7c1e44.jpg)
+
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://vorth.github.io/vzome-sharing/2016/06/06/19-29-37-purple-6-medium-sprued/purple-6-medium-sprued.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2016/06/06/19-29-37-purple-6-medium-sprued/purple-6-medium-sprued.png" />
+</vzome-viewer>
 
 ![03-purple-tip-side](https://user-images.githubusercontent.com/1584024/161401168-9d2c461b-4267-4ef8-9e78-d631475b729d.jpg)
 

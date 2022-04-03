@@ -2,6 +2,7 @@
 title: purpleOrange fanTangle
 image: https://vorth.github.io/vzome-sharing/2022/04/02/15-31-27-purpleOrange-fanTangle/purpleOrange-fanTangle.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

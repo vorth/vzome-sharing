@@ -2,6 +2,7 @@
 title: brian hall orange purple tangle
 image: https://vorth.github.io/vzome-sharing/2022/04/02/15-33-48-brian-hall-orange-purple-tangle/brian-hall-orange-purple-tangle.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

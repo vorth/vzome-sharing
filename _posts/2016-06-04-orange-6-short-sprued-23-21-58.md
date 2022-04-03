@@ -2,6 +2,7 @@
 title: orange 6 short sprued
 image: https://vorth.github.io/vzome-sharing/2016/06/04/23-21-58-orange-6-short-sprued/orange-6-short-sprued.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

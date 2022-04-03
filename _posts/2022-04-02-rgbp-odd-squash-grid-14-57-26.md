@@ -2,6 +2,7 @@
 title: rgbp odd squash grid
 image: https://vorth.github.io/vzome-sharing/2022/04/02/14-57-26-rgbp-odd-squash-grid/rgbp-odd-squash-grid.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

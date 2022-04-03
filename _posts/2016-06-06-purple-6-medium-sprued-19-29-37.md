@@ -2,6 +2,7 @@
 title: purple 6 medium sprued
 image: https://vorth.github.io/vzome-sharing/2016/06/06/19-29-37-purple-6-medium-sprued/purple-6-medium-sprued.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

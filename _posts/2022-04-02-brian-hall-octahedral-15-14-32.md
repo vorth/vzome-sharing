@@ -2,6 +2,7 @@
 title: brian hall octahedral
 image: https://vorth.github.io/vzome-sharing/2022/04/02/15-14-32-brian-hall-octahedral/brian-hall-octahedral.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

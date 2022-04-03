@@ -23,6 +23,26 @@ description:
   <img src="https://vorth.github.io/vzome-sharing/2022/02/27/19-33-09-orange-purple-snub-dodec/orange-purple-snub-dodec.png" />
 </vzome-viewer>
 
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://vorth.github.io/vzome-sharing/2022/04/02/14-57-26-rgbp-odd-squash-grid/rgbp-odd-squash-grid.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2022/04/02/14-57-26-rgbp-odd-squash-grid/rgbp-odd-squash-grid.png" />
+</vzome-viewer>
+
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://vorth.github.io/vzome-sharing/2022/04/02/14-59-35-purple-giant-tetra/purple-giant-tetra.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2022/04/02/14-59-35-purple-giant-tetra/purple-giant-tetra.png" />
+</vzome-viewer>
+
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://vorth.github.io/vzome-sharing/2022/04/02/15-24-31-red-stretch-120-cell/red-stretch-120-cell.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2022/04/02/15-24-31-red-stretch-120-cell/red-stretch-120-cell.png" />
+</vzome-viewer>
+
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://vorth.github.io/vzome-sharing/2022/04/02/15-33-48-brian-hall-orange-purple-tangle/brian-hall-orange-purple-tangle.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2022/04/02/15-33-48-brian-hall-orange-purple-tangle/brian-hall-orange-purple-tangle.png" />
+</vzome-viewer>
+
 ![01-oranges-printed](https://user-images.githubusercontent.com/1584024/161401148-b2015ee9-bc67-41af-9283-8971f6abe0c8.jpg)
 
 ![02-oranges-pile](https://user-images.githubusercontent.com/1584024/161401158-85a70ba8-3c81-4cf3-a114-9acecf7c1e44.jpg)

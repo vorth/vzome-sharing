@@ -46,10 +46,6 @@ Here are some of the many designs that become possible.
   <img src="https://vorth.github.io/vzome-sharing/2022/04/02/15-33-48-brian-hall-orange-purple-tangle/brian-hall-orange-purple-tangle.png" />
 </vzome-viewer>
 
-If you want to enjoy those interactive 3D views on your mobile device, scan this QR code:
-
-![gift-url-qr-code](https://user-images.githubusercontent.com/1584024/161433524-86f287aa-8ce6-4c92-852d-e087b6af55fc.png)
-
 These designs all use orange and purple struts, which are
 [not a new idea at all](https://vorth.github.io/vzome-sharing/2022/02/15/orange-red-demo-18-41-14.html).
 I've been printing these with [Shapeways](http://shpws.me/MhuL)
@@ -68,8 +64,7 @@ so we began to collaborate.
 We iterated a few times on a new design,
 more friendly to FDM printers, where one cares a lot more about
 things like overhangs and supporting material.
-Here is one of the first runs from the printer;
-Aaron could have fit more on the print bed, but this amount suited his time budget.
+Here is one of the first runs from the printer.
 
 ![01-oranges-printed](https://user-images.githubusercontent.com/1584024/161401148-b2015ee9-bc67-41af-9283-8971f6abe0c8.jpg)
 

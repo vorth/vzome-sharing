@@ -53,7 +53,7 @@ If you want to enjoy those interactive 3D views on your mobile device, scan this
 These designs all use orange and purple struts, which are
 [not a new idea at all](https://vorth.github.io/vzome-sharing/2022/02/15/orange-red-demo-18-41-14.html).
 I've been printing these with [Shapeways](http://shpws.me/MhuL)
-for years; here is the design.
+for years; here is the design for six O1 orange struts.
 
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://vorth.github.io/vzome-sharing/2016/06/04/23-21-58-orange-6-short-sprued/orange-6-short-sprued.vZome" >
@@ -69,7 +69,7 @@ We iterated a few times on a new design,
 more friendly to FDM printers, where one cares a lot more about
 things like overhangs and supporting material.
 Here is one of the first runs from the printer;
-Aaron could have fit more, but this amount suited his time budget.
+Aaron could have fit more on the print bed, but this amount suited his time budget.
 
 ![01-oranges-printed](https://user-images.githubusercontent.com/1584024/161401148-b2015ee9-bc67-41af-9283-8971f6abe0c8.jpg)
 
@@ -80,6 +80,9 @@ correcting the default output scale, and so on.
 Aaron adjusted the slicer (the app that generates the extrusion path)
 so that supports were only produced for the strut tips.
 The result was a very good friction fit with the Zome ball.
+Aaron got busy printing enough for the G4G gift exchange.
+The supports break away very cleanly and quickly
+with just a roll between thumb and forefinger.
 
 ![02-oranges-pile](https://user-images.githubusercontent.com/1584024/161401158-85a70ba8-3c81-4cf3-a114-9acecf7c1e44.jpg)
 
@@ -105,7 +108,7 @@ of plastic, shown here at the top of these photos.
 ![04-purple-tip-end](https://user-images.githubusercontent.com/1584024/161401169-f28846c1-cbd4-47a9-95a7-dc38f3ab3303.jpg)
 
 After a few iterations, here is the final design.
-Notice that the barrel of the strut is still (roughtly)
+Notice that the barrel of the strut is still (roughly)
 a golden rectangle, but it has been rotated so that the
 struts lie flat on the print bed.
 Also, you can see how we adjusted the tip shape to
@@ -118,13 +121,16 @@ for the droop.
   <img src="https://vorth.github.io/vzome-sharing/2022/04/02/12-50-51-short-purple-more-tip-batch/short-purple-more-tip-batch.png" />
 </vzome-viewer>
 
+The final design offers an ideal friction fit,
+so Aaron again printed enough for the gift exchange.
+
 There are many other ways to take advantage of 3D printing
 to extend Zometool.
 For example, the long R3 red struts are no longer manufactured,
 and indeed the molds were lost in a flood.
 Aaron asked me for a design,
 so I created this one,
-which lies flat on the print bed,
+which lies flat on the print bed
 and also requires no antiprism in the middle.
 The pentagonal tips are the same ones used for purple struts, of course.
 
@@ -147,7 +153,7 @@ or completely new strut directions,
 or even wilder ideas like panels to join to struts or balls,
 modern 3D printers are opening up a whole new universe of possibilities.
 You can buy a very reliable printer for the cost of an iPhone,
-and printer filament is cheap enough to be irrelevant.
+and printer filament is cheap enough to be essentially irrelevant.
 All of our STL files are freely available for your use on
 [Thingiverse](https://www.thingiverse.com/vzome/designs).
 

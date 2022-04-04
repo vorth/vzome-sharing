@@ -1,22 +1,25 @@
 ---
-title: Extending Zometool with Orange and Purple Struts
+title: Extending Zometool with 3D-Printed Struts
 image: https://vorth.github.io/vzome-sharing/2022/02/27/19-33-09-orange-purple-snub-dodec/orange-purple-snub-dodec.png
 layout: vzome
 description:
-  Zometool can be extended with interesting new strut directions!
+  Cheap, reliable 3D printing opens up new possibilities for Zometool.
+  See what is possible, and how you can create your own custom struts.
 ---
 
 {% comment %}
- - [***web page generated from this source***][post]
- - [data assets and more info][github]
-
-[post]: <https://vorth.github.io/vzome-sharing/g4g/14/gift.html>
-[github]: <https://github.com/vorth/vzome-sharing/tree/main/2022/02/27/19-33-09-orange-purple-snub-dodec/>
+ - [***web page generated from this source***](https://vorth.github.io/vzome-sharing/g4g/14/gift.html)
+ - [data assets and more info](https://github.com/vorth/vzome-sharing/tree/main/2022/02/27/19-33-09-orange-purple-snub-dodec/)
 {% endcomment %}
 
-{{ page.description }}
+Ever since Zometool first appeared, people have thought about
+extending it, adding more strut directions to enable more designs.
+Green struts were a fairly obvious extension to add, enabling construction of
+a number of Archimedean solids.
 
-...more to come...
+As we'll show, modern 3D printing makes it easy and economical to create custom struts.
+But why would you want to do this?
+Here are some of the many designs that become possible.
 
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://vorth.github.io/vzome-sharing/2022/02/27/19-33-09-orange-purple-snub-dodec/orange-purple-snub-dodec.vZome" >
@@ -34,8 +37,8 @@ description:
 </vzome-viewer>
 
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://vorth.github.io/vzome-sharing/2022/04/02/15-24-31-red-stretch-120-cell/red-stretch-120-cell.vZome" >
-  <img src="https://vorth.github.io/vzome-sharing/2022/04/02/15-24-31-red-stretch-120-cell/red-stretch-120-cell.png" />
+       src="https://vorth.github.io/vzome-sharing/2022/04/02/15-18-52-red-stretch-grid/red-stretch-grid.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2022/04/02/15-18-52-red-stretch-grid/red-stretch-grid.png" />
 </vzome-viewer>
 
 <vzome-viewer style="width: 100%; height: 65vh;"
@@ -43,7 +46,11 @@ description:
   <img src="https://vorth.github.io/vzome-sharing/2022/04/02/15-33-48-brian-hall-orange-purple-tangle/brian-hall-orange-purple-tangle.png" />
 </vzome-viewer>
 
+If you want to enjoy those interactive 3D views on your mobile device, scan this QR code:
+
 ![gift-url-qr-code](https://user-images.githubusercontent.com/1584024/161433524-86f287aa-8ce6-4c92-852d-e087b6af55fc.png)
+
+These designs all use [orange and purple struts], which are not a new idea at all.
 
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://vorth.github.io/vzome-sharing/2016/06/04/23-21-58-orange-6-short-sprued/orange-6-short-sprued.vZome" >

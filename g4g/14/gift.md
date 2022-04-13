@@ -48,6 +48,8 @@ Here are some of the many designs that become possible.
 
 These designs all use orange and purple struts, which are
 [not a new idea at all](https://vorth.github.io/vzome-sharing/2022/02/15/orange-red-demo-18-41-14.html).
+Here are a [number of other designs](https://vorth.github.io/vzome-sharing/2022/04/02/accuratePerspective24cell-15-28-06.html)
+that these struts enable.
 I've been printing these with [Shapeways](http://shpws.me/MhuL)
 for years; here is the design for six O1 orange struts.
 

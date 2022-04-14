@@ -17,7 +17,7 @@ are natural extensions to the Zometool system.
 Modern 3D printers are cheap and reliable enough to make it feasible
 to [print lots of your own orange and purple struts](https://vorth.github.io/vzome-sharing/g4g/14/gift.html).
 Once you have some, you'll find you can build
-[many intriquing designs](https://vorth.github.io/vzome-sharing/2022/04/02/accuratePerspective24cell-15-28-06.html),
+[many intriguing designs](https://vorth.github.io/vzome-sharing/2022/04/02/accuratePerspective24cell-15-28-06.html),
 like this one.
 
 The prism-tunnel polyhedron is defined by selecting alternating vertices of the great rhombicosidodecahedron,

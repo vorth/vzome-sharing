@@ -1,3 +1,4 @@
+## How to Use / Share this Design
 
  - [***custom web page***][post] to share this design; *try it before you share it!*
  - [source file for that custom page][source]; click to customize

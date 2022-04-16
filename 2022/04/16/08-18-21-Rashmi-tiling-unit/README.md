@@ -3,6 +3,14 @@
  - [source file for that custom page][source]; click to customize
  - [raw vZome file][raw] to use in vZome desktop or vZome Online
 
+HTML for embedding:
+```
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://vorth.github.io/vzome-sharing/2022/04/16/08-18-21-Rashmi-tiling-unit/Rashmi-tiling-unit.vZome" >
+  <img src="https://vorth.github.io/vzome-sharing/2022/04/16/08-18-21-Rashmi-tiling-unit/Rashmi-tiling-unit.png" />
+</vzome-viewer>
+```
+
 [vZome Sharing documentation](https://vzome.github.io/vzome/sharing.html#how-it-works)
 
 ![Image](<Rashmi-tiling-unit.png>)

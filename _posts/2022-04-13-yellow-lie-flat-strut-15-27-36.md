@@ -2,6 +2,7 @@
 title: yellow lie flat strut
 image: https://vorth.github.io/vzome-sharing/2022/04/13/15-27-36-yellow-lie-flat-strut/yellow-lie-flat-strut.png
 layout: vzome
+published: false
 ---
 
 {% comment %}

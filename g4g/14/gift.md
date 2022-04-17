@@ -1,6 +1,6 @@
 ---
 title: 3D Printing New Struts for Zometool
-image: https://vorth.github.io/vzome-sharing/2022/02/27/19-33-09-orange-purple-snub-dodec/orange-purple-snub-dodec.png
+image: https://user-images.githubusercontent.com/1584024/161401148-b2015ee9-bc67-41af-9283-8971f6abe0c8.jpg
 layout: vzome
 description:
   Cheap, reliable 3D printing opens up new possibilities for Zometool.

@@ -37,7 +37,11 @@ const urls = [
   "https://john-kostick.github.io/vzome-sharing/2021/12/14/5-truncated-tet-13-19-25.html",
   "https://john-kostick.github.io/vzome-sharing/2021/12/06/Deltoid-60-face-20-34-06.html",
   "https://john-kostick.github.io/vzome-sharing/2021/12/07/RD-Modulated-field-3-10-46-21.html",
-  "https://john-kostick.github.io/vzome-sharing/2022/04/06/30-gon-field-geodesicvZome-09-01-05.html"
+  "https://john-kostick.github.io/vzome-sharing/2022/04/06/30-gon-field-geodesicvZome-09-01-05.html",
+  "https://vorth.github.io/vzome-sharing/g4g/14/gift.html",
+  "https://vorth.github.io/vzome-sharing/g4g/14/table.html",
+  "https://vorth.github.io/vzome-sharing/2022/04/02/accuratePerspective24cell-15-28-06.html",
+  "https://john-kostick.github.io/vzome-sharing/2022/04/15/Corner-frame-2-09-44-47.html"
 ];
 
 const index = tweetsSinceStart % urls.length;

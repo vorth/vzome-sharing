@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="dev" field="golden" version="7.0">
+  <EditHistory editNumber="114" lastStickyEdit="106">
+    <StrutCreation anchor="0 0 0 0 0 0" index="0" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="2" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="56" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="1" len="4 6"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="6" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation grouping="2.1.1" point="0 0 2 3 1 2"/>
+    <SelectManifestation grouping="2.1.1" point="0 0 2 3 1 2"/>
+    <SelectManifestation point="2 4 0 0 0 0"/>
+    <SelectManifestation endSegment="2 4 0 0 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 2 4"/>
+    <SelectManifestation endSegment="-2 -3 1 1 -1 -2" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="-2 -3 1 1 -1 -2"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="3 5"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="1" len="6 10"/>
+    <StrutCreation anchor="0 0 5 8 3 5" index="1" len="6 10"/>
+    <StrutCreation anchor="0 0 11 18 3 5" dir="yellow" index="6" len="1 2"/>
+    <SelectManifestation point="1 2 14 23 3 5"/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <CentralSymmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </CentralSymmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -2 14 23 3 5"/>
+    <SelectManifestation point="1 2 14 23 3 5"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 14 23 3 5"/>
+    <SelectManifestation point="4 7 13 21 5 8"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 14 23 3 5"/>
+    <SelectManifestation point="1 2 14 23 -3 -5"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="4 7 13 21 5 8" startSegment="1 2 14 23 3 5"/>
+    <SelectManifestation endSegment="1 2 14 23 3 5" startSegment="-1 -2 14 23 3 5"/>
+    <EndBlock/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 6 10 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 6 10 0 0"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <StrutCreation anchor="0 0 4 6 0 0" dir="red" index="1" len="2 3"/>
+    <StrutCreation anchor="0 0 7 11 2 3" dir="yellow" index="6" len="2 3"/>
+    <BeginBlock/>
+    <SelectAll/>
+    <SelectManifestation point="2 3 12 19 2 3"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectManifestation point="2 3 12 19 2 3"/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <CentralSymmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </CentralSymmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="7 11 10 16 1 2"/>
+    <SelectManifestation point="7 11 10 16 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="7 11 10 16 -1 -2"/>
+    <SelectManifestation point="4 6 11 18 -3 -5"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="7 11 10 16 -1 -2"/>
+    <SelectManifestation point="8 13 8 13 -4 -7"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="7 11 10 16 -1 -2" startSegment="7 11 10 16 1 2"/>
+    <SelectManifestation endSegment="4 6 11 18 -3 -5" startSegment="7 11 10 16 -1 -2"/>
+    <EndBlock/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 13 8 13 -4 -7"/>
+    <SelectManifestation point="4 6 11 18 -3 -5"/>
+    <SelectManifestation point="7 11 10 16 1 2"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="7 11 10 16 1 2" startSegment="4 6 11 18 -3 -5"/>
+    <SelectManifestation endSegment="4 6 11 18 -3 -5" startSegment="8 13 8 13 -4 -7"/>
+    <SelectManifestation endSegment="8 13 8 13 -4 -7" startSegment="7 11 10 16 1 2"/>
+    <SelectManifestation point="4 6 11 18 -3 -5"/>
+    <InvertSelection/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectAll/>
+    <Symmetry>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Symmetry>
+    <DeselectAll/>
+    <Branch>
+      <Snapshot id="0"/>
+    </Branch>
+    <SelectAll/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll/>
+    <EndBlock/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes>
+    <page snapshot="0" title="Building models with full icosahedral symmetry">
+      <ViewModel distance="48.856109619140625" far="97.71221923828125" near="0.12214027345180511" parallel="false" stereoAngle="0.0" width="21.985248565673828">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.09142281860113144" y="0.9930766820907593" z="0.07376029342412949"/>
+        <LookDirection x="0.6935009956359863" y="-0.010337834246456623" z="-0.720381498336792"/>
+      </ViewModel>
+      <content xml:space="preserve">This file provides a guide to building arbitrary models having full icosahedral symmetry (including reflections) and having all vertices equivalent under the symmetry. Start by adding together multiples of the short red, medium yellow, and medium blue edges. Here I have added a long red (short red scaled by tau^2), a long blue (medium blue scaled by tau), and a medium yellow (medium yellow scaled by 1). 
+
+Select the resulting vertex and hit "icosahedral symmetry" followed by "point reflect." You will get a 120-vertex figure with decagons, hexagons, and rectangles. The decagons and hexagons are not necessarily regular.</content>
+    </page>
+    <page snapshot="0" title="Adjusting the lengths">
+      <ViewModel distance="186.58360290527344" far="373.1672058105469" near="0.4664590060710907" parallel="false" stereoAngle="0.0" width="83.9626235961914">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4803154170513153" y="0.6496915221214294" z="-0.5892351269721985"/>
+        <LookDirection x="0.28688278794288635" y="-0.7512212991714478" z="-0.594444990158081"/>
+      </ViewModel>
+      <content xml:space="preserve">The polyhedron that results will have three kinds of edges: between a hexagon and a rectangle, between a hexagon and decagon, and between a rectangle and a decagon. The multiples of the red/blue/yellow edges that you add together control the sizes of these three edges. I scaled the short red up by two sizes, so the hexagon-rectangle edges are two sizes bigger than short. I scaled the medium blue by one size, so the hexagon-decagon edges are one size bigger than short. And I didn't scale the medium yellow at all, so the rectangle-decagon edges are just short.</content>
+    </page>
+    <page snapshot="0" title="Adjusting the lengths, cont'd.">
+      <ViewModel distance="186.58360290527344" far="373.1672058105469" near="0.4664590060710907" parallel="false" stereoAngle="0.0" width="83.9626235961914">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.4803154170513153" y="0.6496915221214294" z="-0.5892351269721985"/>
+        <LookDirection x="0.28688278794288635" y="-0.7512212991714478" z="-0.594444990158081"/>
+      </ViewModel>
+      <content xml:space="preserve">You can even shrink one of the edges to zero. If you shrink the decagon-hexagon edges to zero (by adding just a red and a yellow in the first step) then the decagons shrink to pentagons, the hexagons shrink to triangles, and you get a Zome-connector type of model. You can get exactly the Zome connector by adding a medium red and a medium yellow in the first step.</content>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="130.1749725341797" far="260.3497009277344" near="0.3254375457763672" parallel="false" stereoAngle="0.0" width="58.57875442504883">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.6710039973258972" y="0.5733184814453125" z="0.4701693654060364"/>
+      <LookDirection x="-0.5652487277984619" y="0.014834876172244549" z="-0.8247864246368408"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+    <Direction color="0,118,149" name="blue"/>
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="154,117,74" name="sand"/>
+    <Direction color="18,73,48" name="spruce"/>
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="255,126,106" name="coral"/>
+    <Direction color="80,80,80" name="black"/>
+    <Direction color="117,0,50" name="maroon"/>
+    <Direction color="240,160,0" name="yellow"/>
+    <Direction color="230,245,62" name="sulfur"/>
+    <Direction color="255,51,143" name="rose"/>
+    <Direction color="18,205,148" name="turquoise"/>
+    <Direction color="116,195,0" name="apple"/>
+    <Direction color="136,37,0" name="cinnamon"/>
+    <Direction color="108,0,198" name="purple"/>
+    <Direction color="220,76,0" name="orange"/>
+    <Direction color="0,0,153" name="navy"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="175,135,255" name="lavender"/>
+    <Direction color="100,113,0" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="175,135,255" name="lavender"/>
+      <Direction color="18,205,148" name="turquoise"/>
+      <Direction color="30,30,30" name="black"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="100,113,0" name="olive"/>
+      <Direction color="117,0,50" name="maroon"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+      <Direction color="108,0,198" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

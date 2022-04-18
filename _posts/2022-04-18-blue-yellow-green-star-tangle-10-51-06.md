@@ -18,3 +18,10 @@ A fun object to construct with Zometool.  The blue struts connect to each other 
        src="https://vorth.github.io/vzome-sharing/2022/04/18/10-51-06-blue-yellow-green-star-tangle/blue-yellow-green-star-tangle.vZome" >
   <img src="https://vorth.github.io/vzome-sharing/2022/04/18/10-51-06-blue-yellow-green-star-tangle/blue-yellow-green-star-tangle.png" />
 </vzome-viewer>
+
+It will be very wobbly as you build it.  You can mitigate this with some temporary "clamps":
+
+<vzome-viewer style="width: 100%; height: 65vh;"
+      src="https://vorth.github.io/vzome-sharing/2022/04/18/11-03-43-clamp-osculating-balls/clamp-osculating-balls.vZome" >
+ <img src="https://vorth.github.io/vzome-sharing/2022/04/18/11-03-43-clamp-osculating-balls/clamp-osculating-balls.png" />
+</vzome-viewer>

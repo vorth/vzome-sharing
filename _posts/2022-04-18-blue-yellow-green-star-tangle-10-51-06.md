@@ -1,6 +1,6 @@
 ---
 title: Star Tangle in Blue, Green, and Yellow
-description: An interesting object to construct with Zometool.  The blue struts connect to each other only indirectly.	
+description: A fun object to construct with Zometool.  The blue struts connect to each other only indirectly.
 image: https://vorth.github.io/vzome-sharing/2022/04/18/10-51-06-blue-yellow-green-star-tangle/blue-yellow-green-star-tangle.png
 published: true
 layout: vzome
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-An interesting object to construct with Zometool.  The blue struts connect to each other only indirectly.	
+A fun object to construct with Zometool.  The blue struts connect to each other only indirectly.
 
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://vorth.github.io/vzome-sharing/2022/04/18/10-51-06-blue-yellow-green-star-tangle/blue-yellow-green-star-tangle.vZome" >

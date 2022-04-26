@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="75" field="golden" version="7.0">
+  <EditHistory editNumber="226" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="olive" index="8" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="2" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 2 4" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="1 2 0 0 2 3" index="2" len="2 4"/>
+    <StrutCreation anchor="1 1 0 0 3 4" dir="olive" index="8" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="rose" index="32" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="16" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="38" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="32" len="2 3"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="purple" index="32" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="olive" index="38" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="38" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="navy" index="32" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="lavender" index="54" len="2 3"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="orange" index="38" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="coral" index="30" len="2 3"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="45" len="4 6"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="sulfur" index="32" len="2 3"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="maroon" index="11" len="2 3"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="41" len="4 6"/>
+    <SelectManifestation point="-2 -3 0 0 1 3"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <AdjustSelectionByClass balls="DESELECT" panels="IGNORE" struts="IGNORE"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -1 -2 -4 -1 -1"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <Delete/>
+    <AdjustSelectionByClass balls="SELECT" panels="IGNORE" struts="IGNORE"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 0 0 4 7" startSegment="1 2 0 0 2 3"/>
+    <SelectManifestation endSegment="1 2 0 0 4 7" startSegment="1 1 0 0 3 4"/>
+    <SelectManifestation endSegment="1 2 0 0 4 7" startSegment="0 0 0 0 2 4"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-2 -2 0 -1 1 0"/>
+      <polygonVertex at="-1 -2 0 -2 0 1"/>
+      <polygonVertex at="0 -2 0 -1 1 2"/>
+      <polygonVertex at="-1 -2 0 0 2 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 -2 0 -1 1 0"/>
+      <polygonVertex at="-1 -2 0 -2 0 1"/>
+      <polygonVertex at="0 -2 0 -1 1 2"/>
+      <polygonVertex at="-1 -2 0 0 2 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 -2 0 1 1 0"/>
+      <polygonVertex at="-2 -2 0 -1 1 0"/>
+      <polygonVertex at="-1 -2 0 0 2 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 -2 0 1 1 0"/>
+      <polygonVertex at="-2 -2 0 -1 1 0"/>
+      <polygonVertex at="-1 -2 0 0 2 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 -2 0 1 1 0"/>
+      <polygonVertex at="-1 -2 0 0 2 1"/>
+      <polygonVertex at="0 -2 0 1 1 2"/>
+      <polygonVertex at="-1 -2 0 2 0 1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="spruce" index="10" len="3 5"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="apple" index="31" len="3 5"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="turquoise" index="41" len="3 5"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="brown" index="51" len="3 5"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="cinnamon" index="14" len="3 5" sense="minus"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="sand" index="51" len="3 5"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="cinnamon" index="10" len="5 8"/>
+    <BeginBlock/>
+    <SelectManifestation point="-6 -9 -1 -2 2 4"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <AdjustSelectionByClass balls="SELECT" panels="IGNORE" struts="IGNORE"/>
+    <Delete/>
+    <SelectAll/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" panels="IGNORE" struts="SELECT"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <ShowHidden/>
+    <Hide/>
+    <SelectManifestation>
+      <polygonVertex at="-16 -26 -5 -8 3 5"/>
+      <polygonVertex at="-13 -21 -10 -16 5 8"/>
+      <polygonVertex at="-10 -16 -5 -8 13 21"/>
+      <polygonVertex at="-13 -21 0 0 11 18"/>
+    </SelectManifestation>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="55 89 -55 -89 81 131" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-13 -21 -21 -34 60 97" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="42 68 -42 -68 68 110" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-21 -34 -21 -34 63 102" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-16 -26 -21 -34 55 89" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-17 -55/2 -39/2 -63/2 89/2 72" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 -16 -26 -5 -8"/>
+      <polygonVertex at="5 8 -13 -21 -10 -16"/>
+      <polygonVertex at="13 21 -10 -16 -5 -8"/>
+      <polygonVertex at="11 18 -13 -21 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Hide/>
+    <ShowHidden/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="13 21 -26 -42 -13 -21" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -29 -47 -13 -21" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -34 -55 -16 -26" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="16 26 -34 -55 -21 -34" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="8 13 -21 -34 -16 -26" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="8 13 -26 -42 -13 -21" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="21 34 -34 -55 -13 -21" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="12 39/2 -55/2 -89/2 -21/2 -17" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="16 26 -29 -47 -18 -29" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="5 8 -16 -26 -8 -13" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="16 26 -26 -42 -16 -26" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -21 -34 -8 -13" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -39 -63 -13 -21" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="5 8 -26 -42 -8 -13" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="18 29 -29 -47 -21 -34" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -31 -50 -8 -13" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -34 -55 -10 -16" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="21 34 -31 -50 -21 -34" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="16 26 -39 -63 -8 -13" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -26 -42 -21 -34" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4 13/2 -39/2 -63/2 -21/2 -17" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -37 -60 -8 -13" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="16 26 -21 -34 -13 -21" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="21 34 -24 -39 -13 -21" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="18 29 -29 -47 -5 -8" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -26 -42 -5 -8" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -26 -42 -5 -8" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="21/2 17 -17 -55/2 -29/2 -47/2" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="21 34 -21 -34 -21 -34" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="21 34 -29 -47 -26 -42" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 21 -26 -42 -5 -8" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="31 50 -21 -34 -21 -34" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="26 42 -29 -47 -18 -29" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="21 34 -37 -60 -5 -8" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="37/2 30 -25 -81/2 -13/2 -21/2" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="39/2 63/2 -47/2 -38 -9 -29/2" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="29 47 -29 -47 -13 -21" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="24 39 -26 -42 -13 -21" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="21 34 -26 -42 -8 -13" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="26 42 -26 -42 -16 -26" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="21 34 -34 -55 -3 -5" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="26 42 -29 -47 -8 -13" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="17 55/2 -29/2 -47/2 -21/2 -17" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="29 47 -26 -42 -21 -34" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="26 42 -34 -55 -5 -8" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="26 42 -21 -34 -13 -21" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="21 34 -31 -50 -5 -8" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide/>
+    <ShowPoint point="0 0 0 0 0 0"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="black" index="4" len="21 34" sense="minus"/>
+    <SelectManifestation endSegment="13 21 -34 -55 -21 -34" startSegment="0 0 0 0 0 0"/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="13 21 -34 -55 -21 -34"/>
+    <EndBlock/>
+    <Delete/>
+    <ShowHidden/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="619.4794311523438" far="1238.9571533203125" near="1.5486981868743896" parallel="false" stereoAngle="0.0" width="278.7658996582031">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.02677818387746811" y="0.03657485917210579" z="-0.998966634273529"/>
+      <LookDirection x="0.8413947224617004" y="0.5387678146362305" z="0.042281102389097214"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="0,118,149" name="blue"/>
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="154,117,74" name="sand"/>
+    <Direction color="18,73,48" name="spruce"/>
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="255,126,106" name="coral"/>
+    <Direction color="30,30,30" name="black"/>
+    <Direction color="117,0,50" name="maroon"/>
+    <Direction color="230,245,62" name="sulfur"/>
+    <Direction color="240,160,0" name="yellow"/>
+    <Direction color="255,51,143" name="rose"/>
+    <Direction color="18,205,148" name="turquoise"/>
+    <Direction color="116,195,0" name="apple"/>
+    <Direction color="136,37,0" name="cinnamon"/>
+    <Direction color="108,0,198" name="purple"/>
+    <Direction color="220,76,0" name="orange"/>
+    <Direction color="0,0,153" name="navy"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="175,135,255" name="lavender"/>
+    <Direction color="100,113,0" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="175,135,255" name="lavender"/>
+      <Direction color="18,205,148" name="turquoise"/>
+      <Direction color="30,30,30" name="black"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="100,113,0" name="olive"/>
+      <Direction color="117,0,50" name="maroon"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+      <Direction color="108,0,198" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

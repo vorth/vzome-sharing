@@ -17,3 +17,8 @@ vZome's apple struts are chiral.  Here they are used to approximate a snub dodec
        src="https://vorth.github.io/vzome-sharing/2022/04/17/17-09-18-green-apple-snub-dodec/green-apple-snub-dodec.vZome" >
   <img src="https://vorth.github.io/vzome-sharing/2022/04/17/17-09-18-green-apple-snub-dodec/green-apple-snub-dodec.png" />
 </vzome-viewer>
+
+I recently acquired a Creality Ender-3 V2, so now I can print apple struts in small batches.
+Stay tuned for more designs that can use these!
+
+![5-apple-1-struts](https://user-images.githubusercontent.com/1584024/166093903-b339b75a-8eb9-4296-90ae-ad83e0ca4a6a.jpeg)

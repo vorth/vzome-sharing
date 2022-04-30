@@ -41,7 +41,15 @@ const urls = [
   "https://vorth.github.io/vzome-sharing/g4g/14/gift.html",
   "https://vorth.github.io/vzome-sharing/g4g/14/table.html",
   "https://vorth.github.io/vzome-sharing/2022/04/02/accuratePerspective24cell-15-28-06.html",
-  "https://john-kostick.github.io/vzome-sharing/2022/04/15/Corner-frame-2-09-44-47.html"
+  "https://john-kostick.github.io/vzome-sharing/2022/04/15/Corner-frame-2-09-44-47.html",
+  "https://vorth.github.io/vzome-sharing/2022/04/17/green-apple-snub-dodec-17-09-18.html",
+  "https://vorth.github.io/vzome-sharing/2022/04/17/apple-orange-purple-snub-dodec-21-45-46.html",
+  "https://john-kostick.github.io/vzome-sharing/2022/04/27/5-Directions-sticks-v2-18-16-41.html",
+  "https://vorth.github.io/vzome-sharing/2022/04/17/testSnubDodec-13-57-27.html",
+  "https://john-kostick.github.io/vzome-sharing/2022/04/24/Multi-axis-composite-beams-12-42-28.html",
+  "https://vorth.github.io/vzome-sharing/2022/04/18/blue-yellow-green-star-tangle-10-51-06.html",
+  "https://vorth.github.io/vzome-sharing/2022/04/12/10-G00-green-struts-21-58-52.html",
+  "https://vorth.github.io/vzome-sharing/2022/04/16/Rashmi-tiling-unit-08-18-21.html"
 ];
 
 const index = tweetsSinceStart % urls.length;

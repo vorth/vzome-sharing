@@ -49,7 +49,9 @@ const urls = [
   "https://john-kostick.github.io/vzome-sharing/2022/04/24/Multi-axis-composite-beams-12-42-28.html",
   "https://vorth.github.io/vzome-sharing/2022/04/18/blue-yellow-green-star-tangle-10-51-06.html",
   "https://vorth.github.io/vzome-sharing/2022/04/12/10-G00-green-struts-21-58-52.html",
-  "https://vorth.github.io/vzome-sharing/2022/04/16/Rashmi-tiling-unit-08-18-21.html"
+  "https://vorth.github.io/vzome-sharing/2022/04/16/Rashmi-tiling-unit-08-18-21.html",
+  "https://john-kostick.github.io/vzome-sharing/2022/04/27/Six-block-TO-07-49-35.html",
+  "https://john-kostick.github.io/vzome-sharing/2022/04/27/6-axis-16-42-25.html"
 ];
 
 const index = tweetsSinceStart % urls.length;

@@ -33,3 +33,9 @@ snub dodecahedra constructible with vZome orbits, such as these three.
       src="https://vorth.github.io/vzome-sharing/2022/04/17/22-34-56-sand-red-green-snub-dodec/sand-red-green-snub-dodec.vZome" >
  <img src="https://vorth.github.io/vzome-sharing/2022/04/17/22-34-56-sand-red-green-snub-dodec/sand-red-green-snub-dodec.png" />
 </vzome-viewer>
+
+Download the vZome file for any of these three, and you can use the "undo" command repeatedly to see how I constructed the
+necessary vertices.
+Another way to see this is to visit [vZome Online](https://vzome.com/app) and load the vZome file there;
+the command history is actually visible and randomly accessible if you do that.
+

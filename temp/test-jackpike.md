@@ -12,10 +12,11 @@ layout: vzome
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
 
-{{ page.description }}
 These models show the "set" of 5 Platonic solids and their accompanying "packing pieces" which fit witin the same 3D hull. 
 There are actually multiple alignments available for positioning Cubes, Octahedra, Icosahedra and Tetrahedra within the hull. 
 Only one example of each solid has been selected to keep this representation as simple as possible.  The alternatives could be found in the physical model by rotating the "packing pieces" within the trackball hull.
+
+Notice that the camera position and zoom level are retained when the model is changed!
 
   <script>
   const sources = [
@@ -53,7 +54,8 @@ Only one example of each solid has been selected to keep this representation as 
 <div>
 	<button type="button" onclick='prevButton()'><< Previous solid </button>
 	<button type="button" onclick='nextButton()'>Next solid >></button>
-	<br /> 
+</div>  
+<div>  
 	<button type="button" onclick='setSource(0)'>Hull Skeleton </button>
 	<button type="button" onclick='setSource(1)'>Tetrahedron Solid</button>
 	<button type="button" onclick='setSource(2)'>Cube Solid </button>
@@ -61,11 +63,9 @@ Only one example of each solid has been selected to keep this representation as 
 	<button type="button" onclick='setSource(4)'>Icosahedron Solid </button>
 	<button type="button" onclick='setSource(5)'>Dodecahedron Solid </button>
 </div>  
-	<p> 
-	Notice that the camera position and zoom level are retained when the model is changed!
-	</p>
 	
-	<vzome-viewer id="viewer" style="width: 100%; height: 65vh;" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
-	<img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
-	<vzome-viewer style="width: 100%; height: 65vh;"
-        </vzome-viewer>
+<vzome-viewer id="viewer" style="width: 100%; height: 65vh;"
+    src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
+  <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
+  <vzome-viewer style="width: 100%; height: 65vh;"
+</vzome-viewer>

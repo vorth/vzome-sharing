@@ -50,6 +50,7 @@ Only one example of each solid has been selected to keep this representation as 
   }
   </script>
   
+<div>
 	<button type="button" onclick='prevButton()'><< Previous solid </button>
 	<button type="button" onclick='nextButton()'>Next solid >></button>
 	<br /> 
@@ -59,7 +60,7 @@ Only one example of each solid has been selected to keep this representation as 
 	<button type="button" onclick='setSource(3)'>Octahedron Solid </button>
 	<button type="button" onclick='setSource(4)'>Icosahedron Solid </button>
 	<button type="button" onclick='setSource(5)'>Dodecahedron Solid </button>
-  
+</div>  
 	<p> 
 	Notice that the camera position and zoom level are retained when the model is changed!
 	</p>

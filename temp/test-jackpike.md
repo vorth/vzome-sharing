@@ -64,7 +64,7 @@ Notice that the camera position and zoom level are retained when the model is ch
 	<button type="button" onclick='setSource(5)'>Dodecahedron Solid </button>
 </div>  
 	
-<vzome-viewer id="viewer" style="width: 100%; height: 65vh;"
+<vzome-viewer id="viewer" style="width: 85%; height: 60vh; margin: 5%"
     src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
   <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
   <vzome-viewer style="width: 100%; height: 65vh;"

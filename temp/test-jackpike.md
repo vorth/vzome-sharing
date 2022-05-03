@@ -27,6 +27,7 @@ Only one example of each solid has been selected to keep these representations a
 
 <script>
 document.querySelector("select").addEventListener("input", (e) => {
+  console.log( e.target.value );
   document.querySelector("vzome-viewer").src = e.target.value;
 })	
 </script>

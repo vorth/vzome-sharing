@@ -25,12 +25,6 @@ The Tetrahedron model requires 4 "packing pieces" to permit the Tetrahedron to b
 
 Only one example of each solid has been selected to keep these representations as simple as possible.  The alternatives could be found in the physical model by rotating the "packing pieces" within the trackball hull.
 
-<script>
-document.querySelector("select").addEventListener("input", (e) => {
-  console.log( e.target.value );
-  document.querySelector("vzome-viewer").src = e.target.value;
-})	
-</script>
 <select>
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome" >Skeleton</option>
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" selected>Hull</option>  
@@ -45,3 +39,11 @@ document.querySelector("select").addEventListener("input", (e) => {
     src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
   <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
 </vzome-viewer>
+
+
+<script>
+document.querySelector("select").addEventListener("input", (e) => {
+  console.log( e.target.value );
+  document.querySelector("vzome-viewer").src = e.target.value;
+})	
+</script>

@@ -18,3 +18,11 @@ The largest uniform polytope in the family of the 5-cell can be projected in a w
        src="https://vorth.github.io/vzome-sharing/2022/05/04/09-11-45-A4-F-face-first-purple-yellow/A4-F-face-first-purple-yellow.vZome" >
   <img src="https://vorth.github.io/vzome-sharing/2022/05/04/09-11-45-A4-F-face-first-purple-yellow/A4-F-face-first-purple-yellow.png" />
 </vzome-viewer>
+
+Smaller polytopes in that family are also interesting.
+Here is the Cantitruncated 5-Cell, with the same oblique projection:
+
+<vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
+      src="https://vorth.github.io/vzome-sharing/2022/05/04/09-18-37-A4-1110-face-first-purple-yellow/A4-1110-face-first-purple-yellow.vZome" >
+ <img src="https://vorth.github.io/vzome-sharing/2022/05/04/09-18-37-A4-1110-face-first-purple-yellow/A4-1110-face-first-purple-yellow.png" />
+</vzome-viewer>

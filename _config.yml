@@ -1,4 +1,4 @@
-title: Scott's vZome Designs
+title: Geometry With vZome
 author: Scott Vorthmann
 description: > # this means to ignore newlines until "defaults:"
   Geometric designs and stories,
@@ -7,7 +7,9 @@ description: > # this means to ignore newlines until "defaults:"
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
+      type: "posts"
     values:
+      layout: "vzome"
       author: "Scott Vorthmann"
       # This description will be used for any page/post that does not define its own.
       description: A 3D design created in vZome.  Use your mouse or touch to interact.

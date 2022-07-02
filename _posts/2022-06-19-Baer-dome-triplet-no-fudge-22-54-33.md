@@ -14,8 +14,9 @@ layout: vzome
 
 This is a design reproducing Steve Baer's Drop City dome complex, done with vZome struts to avoid any need to force things to fit.
 
-<figure style="width: 87%; height: 60vh; margin: 5%">
-  <vzome-viewer src="https://vorth.github.io/vzome-sharing/2022/06/19/22-54-33-Baer-dome-triplet-no-fudge/Baer-dome-triplet-no-fudge.vZome" >
+<figure style="margin: 5%">
+  <vzome-viewer style="width: 87%; height: 60vh;"
+      src="https://vorth.github.io/vzome-sharing/2022/06/19/22-54-33-Baer-dome-triplet-no-fudge/Baer-dome-triplet-no-fudge.vZome" >
     <img src="https://vorth.github.io/vzome-sharing/2022/06/19/22-54-33-Baer-dome-triplet-no-fudge/Baer-dome-triplet-no-fudge.png" />
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">Steve Baer's Drop City dome complex, done with vZome struts</figcaption>

@@ -19,6 +19,6 @@ This is a design reproducing Steve Baer's Drop City dome complex, done with vZom
          src="https://vorth.github.io/vzome-sharing/2022/06/19/22-54-33-Baer-dome-triplet-no-fudge/Baer-dome-triplet-no-fudge.vZome" >
     <img src="https://vorth.github.io/vzome-sharing/2022/06/19/22-54-33-Baer-dome-triplet-no-fudge/Baer-dome-triplet-no-fudge.png" />
   </vzome-viewer>
-  <figcaption>Steve Baer's Drop City dome complex, done with vZome struts</figcaption>
+  <figcaption style="text-align: center; font-style: italic;">Steve Baer's Drop City dome complex, done with vZome struts</figcaption>
 </figure>
     

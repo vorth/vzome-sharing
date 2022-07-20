@@ -30,3 +30,13 @@ struts intersect in the [Triality](https://homepages.wmich.edu/~drichter/zometri
       src="https://vorth.github.io/vzome-sharing/2022/07/19/17-28-31-triality-24-cell/triality-24-cell.vZome" >
  <img src="https://vorth.github.io/vzome-sharing/2022/07/19/17-28-31-triality-24-cell/triality-24-cell.png" />
 </vzome-viewer>
+
+You can [purchase these cross-connectors from Shapeways](http://shpws.me/TbpJ),
+as a group of six joined together.
+This keeps the per-part cost down to about $1 US.
+There is no markup charged for any items in the vZome Shapeways store.
+
+<vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
+      src="https://vorth.github.io/vzome-sharing/2022/07/19/18-20-02-red-yellow-cross-bob-6-gang/red-yellow-cross-bob-6-gang.vZome" >
+ <img src="https://vorth.github.io/vzome-sharing/2022/07/19/18-20-02-red-yellow-cross-bob-6-gang/red-yellow-cross-bob-6-gang.png" />
+</vzome-viewer>

@@ -1,7 +1,7 @@
 ---
 title: Zometool Red-Yellow Strut Crossing
 description: This is a stand-in for a Zome ball, designed for building a projection of the 24-cell.
-image: https://vorth.github.io/vzome-sharing/2022/07/19/15-43-43-red-yellow-cross-bob/red-yellow-cross-bob.png
+image: https://vorth.github.io/vzome-sharing/2022/07/19/17-26-36-red-yellow-cross-bob/red-yellow-cross-bob.png
 published: true
 layout: vzome
 ---

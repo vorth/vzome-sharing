@@ -19,14 +19,14 @@ Since we want the Zome balls to represent actual vertices of the 4-D polytope,
 we don't want to use them for these intersections, which are NOT vertices at all.
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
-       src="https://vorth.github.io/vzome-sharing/2022/07/19/15-43-43-red-yellow-cross-bob/red-yellow-cross-bob.vZome" >
-  <img src="https://vorth.github.io/vzome-sharing/2022/07/19/15-43-43-red-yellow-cross-bob/red-yellow-cross-bob.png" />
+      src="https://vorth.github.io/vzome-sharing/2022/07/19/17-26-36-red-yellow-cross-bob/red-yellow-cross-bob.vZome" >
+ <img src="https://vorth.github.io/vzome-sharing/2022/07/19/17-26-36-red-yellow-cross-bob/red-yellow-cross-bob.png" />
 </vzome-viewer>
 
 This design is meant to be 3-D printed in color, to be used where red and yellow
 struts intersect in the [Triality](https://homepages.wmich.edu/~drichter/zometriality.htm) projection of the 24-cell, shown below.
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
-      src="https://vorth.github.io/vzome-sharing/2022/07/19/15-53-50-triality-24-cell/triality-24-cell.vZome" >
- <img src="https://vorth.github.io/vzome-sharing/2022/07/19/15-53-50-triality-24-cell/triality-24-cell.png" />
+      src="https://vorth.github.io/vzome-sharing/2022/07/19/17-28-31-triality-24-cell/triality-24-cell.vZome" >
+ <img src="https://vorth.github.io/vzome-sharing/2022/07/19/17-28-31-triality-24-cell/triality-24-cell.png" />
 </vzome-viewer>

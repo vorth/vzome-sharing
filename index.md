@@ -12,5 +12,5 @@ description:
   all created with vZome (https://vzome.com).
 ---
 
-<img alt="vZome logo" src="{% link assets/vZomeLogo.svg %}"></img>
+![vZome logo](/assets/vZomeLogo.svg)
 

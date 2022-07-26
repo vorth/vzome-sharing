@@ -34,14 +34,14 @@ struts intersect in the [Triality](https://homepages.wmich.edu/~drichter/zometri
 
 You can [purchase these cross-connectors from Shapeways](http://shpws.me/TbpJ),
 as a group of six joined together.
-This keeps the per-part cost down to about $1 US.
+This keeps the per-part cost down to about $1.50 US.
 There is no markup charged for any items in the vZome Shapeways store.
 
 Remember, you'll need two sets, for 12 total, to model the 24-cell projection shown above.
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
-      src="https://vorth.github.io/vzome-sharing/2022/07/19/18-20-02-red-yellow-cross-bob-6-gang/red-yellow-cross-bob-6-gang.vZome" >
- <img src="https://vorth.github.io/vzome-sharing/2022/07/19/18-20-02-red-yellow-cross-bob-6-gang/red-yellow-cross-bob-6-gang.png" />
+      src="https://vorth.github.io/vzome-sharing/2022/07/26/08-30-20-red-yellow-cross-bob-6-gang-THICKER/red-yellow-cross-bob-6-gang-THICKER.vZome" >
+ <img src="https://vorth.github.io/vzome-sharing/2022/07/26/08-30-20-red-yellow-cross-bob-6-gang-THICKER/red-yellow-cross-bob-6-gang-THICKER.png" />
 </vzome-viewer>
 
 For your convenience, I'm also sharing the STL and DAE files, for both the single connector and the gang of six.
@@ -49,7 +49,7 @@ For your convenience, I'm also sharing the STL and DAE files, for both the singl
 
 * [one connector STL](https://vorth.github.io/vzome-sharing/2022/07/19/17-26-36-red-yellow-cross-bob/red-yellow-cross-bob.stl)
 * [one connector DAE](https://vorth.github.io/vzome-sharing/2022/07/19/17-26-36-red-yellow-cross-bob/red-yellow-cross-bob.dae)
-* [six connectors STL](https://vorth.github.io/vzome-sharing/2022/07/19/18-20-02-red-yellow-cross-bob-6-gang/red-yellow-cross-bob-6-gang.stl)
-* [six connectors DAE](https://vorth.github.io/vzome-sharing/2022/07/19/18-20-02-red-yellow-cross-bob-6-gang/red-yellow-cross-bob-6-gang.dae)
+* [six connectors STL](https://vorth.github.io/vzome-sharing/2022/07/26/08-30-20-red-yellow-cross-bob-6-gang-THICKER/red-yellow-cross-bob-6-gang-THICKER.stl)
+* [six connectors DAE](https://vorth.github.io/vzome-sharing/2022/07/26/08-30-20-red-yellow-cross-bob-6-gang-THICKER/red-yellow-cross-bob-6-gang-THICKER.dae)
 
 

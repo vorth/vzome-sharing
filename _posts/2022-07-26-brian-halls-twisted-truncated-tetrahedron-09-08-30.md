@@ -12,7 +12,8 @@ layout: vzome
  
 {% endcomment %}
 
-A Zometool-constructible design from Brian Hall
+A Zometool-constructible design from Brian Hall.
+This uses HG2 and R0 struts.
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
        src="https://vorth.github.io/vzome-sharing/2022/07/26/09-08-30-brian-halls-twisted-truncated-tetrahedron/brian-halls-twisted-truncated-tetrahedron.vZome" >

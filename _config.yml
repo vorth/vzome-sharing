@@ -22,6 +22,8 @@ exclude:
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+paginate: 6  # requires jekyll-paginate gem
+
 minima:
   date_format: "%b %-d, %Y"
 
@@ -45,3 +47,5 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-paginate
+

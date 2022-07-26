@@ -2,7 +2,7 @@
 title: Brian Hall's Four-Way Helicopter
 description: A simple but fun little Zome model, created by Brian Hall
 image: https://vorth.github.io/vzome-sharing/2022/07/25/17-55-41-brian-halls-four-way-helicopter/brian-halls-four-way-helicopter.png
-published: false
+published: true
 layout: vzome
 ---
 
@@ -12,7 +12,8 @@ layout: vzome
  
 {% endcomment %}
 
-A simple but fun little Zome model, created by Brian Hall
+A simple but fun little Zome model, created by Brian Hall and
+[shared on Facebook](https://www.facebook.com/thezometool/posts/10158515814341809) recently.
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
        src="https://vorth.github.io/vzome-sharing/2022/07/25/17-55-41-brian-halls-four-way-helicopter/brian-halls-four-way-helicopter.vZome" >

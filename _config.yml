@@ -42,7 +42,7 @@ github_username:  vZome
 header_pages:
 - about.md
 
-theme: minima
+remote_theme: daattali/beautiful-jekyll@5.0.0
 
 plugins:
  - jekyll-feed

@@ -26,6 +26,7 @@ paginator: 6  # requires jekyll-paginate gem
 
 minima:
   date_format: "%b %-d, %Y"
+  paginate: 6
 
 # social links
 twitter_username: vZome

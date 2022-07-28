@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="81" field="golden" version="7.0">
+  <EditHistory editNumber="98" lastStickyEdit="66">
+    <LoadVEF projection="Quaternion" quaternion="0 1 0 0 1 0 1 1" scale="1 0">vZome VEF 6 field golden
+66
+ (-1,0) (1,0) (-1,-2) (-1,0)
+ (0,-1) (1,1) (-1,-2) (0,0)
+ (-1,-1) (1,-1) (-1,-1) (-1,-1)
+ (-1,-1) (1,1) (-1,-1) (-1,-1)
+ (0,-1) (0,0) (-1,-1) (-1,0)
+ (-1,-1) (1,1) (-1,-1) (-1,1)
+ (-1,0) (0,1) (-1,-1) (0,0)
+ (0,-1) (2,0) (-1,-1) (-1,0)
+ (0,0) (1,0) (-1,-1) (0,-1)
+ (-1,0) (2,1) (-1,-1) (0,0)
+ (0,0) (1,0) (-1,-1) (0,1)
+ (0,0) (1,2) (-1,-1) (0,1)
+ (-1,-1) (2,1) (0,-2) (-1,0)
+ (0,0) (0,0) (0,-2) (0,0)
+ (-1,-2) (1,0) (-1,0) (-1,0)
+ (-1,-1) (0,0) (-1,0) (0,-1)
+ (0,0) (2,1) (-1,0) (-1,1)
+ (0,1) (1,1) (-1,0) (0,0)
+ (-1,-2) (0,0) (0,-1) (-1,-1)
+ (-1,-1) (1,0) (0,-1) (-2,0)
+ (-1,0) (0,0) (0,-1) (-1,-1)
+ (-1,-2) (2,0) (0,-1) (-1,-1)
+ (0,-1) (0,-1) (0,-1) (0,-1)
+ (-1,-1) (1,0) (0,-1) (0,0)
+ (0,0) (1,1) (0,-1) (-1,0)
+ (-1,0) (2,2) (0,-1) (-1,1)
+ (0,1) (0,1) (0,-1) (0,1)
+ (0,-1) (2,1) (0,-1) (0,1)
+ (0,0) (1,1) (0,-1) (1,0)
+ (0,1) (2,1) (0,-1) (0,1)
+ (-2,-1) (1,0) (0,0) (-1,-1)
+ (-1,-1) (0,-1) (0,0) (-1,0)
+ (0,-1) (1,0) (0,0) (-1,-1)
+ (-1,0) (1,1) (0,0) (0,1)
+ (0,0) (2,2) (0,0) (0,0)
+ (1,0) (1,1) (0,0) (0,1)
+ (-1,-2) (0,0) (0,1) (-1,-1)
+ (-1,-1) (1,0) (0,1) (-2,0)
+ (-1,0) (0,0) (0,1) (-1,-1)
+ (-1,-2) (2,0) (0,1) (-1,-1)
+ (0,-1) (0,-1) (0,1) (0,-1)
+ (-1,-1) (1,0) (0,1) (0,0)
+ (0,0) (1,1) (0,1) (-1,0)
+ (-1,0) (2,2) (0,1) (-1,1)
+ (0,1) (0,1) (0,1) (0,1)
+ (0,-1) (2,1) (0,1) (0,1)
+ (0,0) (1,1) (0,1) (1,0)
+ (0,1) (2,1) (0,1) (0,1)
+ (-1,-2) (1,0) (1,0) (-1,0)
+ (-1,-1) (0,0) (1,0) (0,-1)
+ (0,0) (2,1) (1,0) (-1,1)
+ (0,1) (1,1) (1,0) (0,0)
+ (-1,-1) (2,1) (0,2) (-1,0)
+ (0,0) (0,0) (0,2) (0,0)
+ (-1,-1) (1,-1) (1,1) (-1,-1)
+ (-1,-1) (1,1) (1,1) (-1,-1)
+ (0,-1) (0,0) (1,1) (-1,0)
+ (-1,-1) (1,1) (1,1) (-1,1)
+ (-1,0) (0,1) (1,1) (0,0)
+ (0,-1) (2,0) (1,1) (-1,0)
+ (0,0) (1,0) (1,1) (0,-1)
+ (-1,0) (2,1) (1,1) (0,0)
+ (0,0) (1,0) (1,1) (0,1)
+ (0,0) (1,2) (1,1) (0,1)
+ (-1,0) (1,0) (1,2) (-1,0)
+ (0,-1) (1,1) (1,2) (0,0)
+
+397
+
+0 1
+0 2
+0 3
+0 4
+0 5
+0 7
+1 10
+1 5
+1 6
+1 7
+1 8
+1 9
+10 1
+10 11
+10 13
+10 17
+10 26
+10 28
+11 1
+11 16
+11 17
+11 27
+11 28
+11 29
+12 21
+12 25
+12 3
+12 5
+12 7
+13 22
+13 26
+13 4
+13 6
+13 8
+14 15
+14 18
+14 2
+14 21
+14 23
+14 3
+14 5
+15 14
+15 18
+15 2
+15 22
+15 23
+15 4
+15 6
+16 11
+16 17
+16 24
+16 25
+16 29
+16 7
+16 9
+17 10
+17 11
+17 16
+17 24
+17 26
+17 29
+17 8
+18 14
+18 19
+18 2
+18 20
+18 30
+18 31
+19 2
+19 20
+19 21
+19 3
+19 30
+19 32
+19 37
+2 14
+2 15
+2 18
+2 19
+2 3
+2 4
+20 18
+20 2
+20 22
+20 31
+20 32
+20 38
+20 4
+21 14
+21 3
+21 30
+21 39
+22 15
+22 31
+22 4
+22 40
+23 14
+23 33
+23 41
+23 5
+23 6
+24 16
+24 32
+24 42
+24 7
+24 8
+25 12
+25 16
+25 27
+25 34
+25 9
+26 10
+26 13
+26 17
+26 28
+26 35
+27 28
+27 29
+27 33
+27 34
+27 45
+27 9
+28 10
+28 11
+28 29
+28 33
+28 35
+28 46
+29 11
+29 16
+29 27
+29 34
+29 35
+29 47
+3 0
+3 12
+3 14
+3 19
+3 21
+3 5
+3 7
+30 14
+30 18
+30 19
+30 36
+30 37
+30 39
+31 15
+31 18
+31 20
+31 36
+31 38
+31 40
+32 19
+32 20
+32 37
+32 38
+32 42
+33 23
+33 27
+33 41
+33 45
+33 46
+34 16
+34 25
+34 27
+34 43
+34 45
+34 47
+35 17
+35 26
+35 28
+35 44
+35 46
+35 47
+36 18
+36 37
+36 38
+36 48
+36 49
+36 54
+37 19
+37 30
+37 36
+37 38
+37 39
+37 54
+37 55
+38 20
+38 31
+38 32
+38 36
+38 37
+38 40
+38 54
+38 56
+39 21
+39 30
+39 37
+39 48
+39 52
+39 55
+4 0
+4 13
+4 15
+4 20
+4 22
+4 6
+4 8
+40 22
+40 31
+40 38
+40 49
+40 53
+40 56
+41 23
+41 48
+41 49
+41 57
+41 58
+42 24
+42 32
+42 50
+42 51
+42 59
+43 25
+43 45
+43 50
+43 52
+43 61
+44 26
+44 46
+44 51
+44 53
+44 62
+45 27
+45 33
+45 34
+45 43
+45 46
+45 47
+45 61
+46 28
+46 33
+46 35
+46 44
+46 45
+46 47
+46 62
+46 63
+47 29
+47 34
+47 35
+47 45
+47 46
+47 50
+47 51
+47 63
+48 30
+48 49
+48 54
+48 55
+48 57
+49 31
+49 36
+49 41
+49 54
+49 56
+49 58
+5 0
+5 12
+5 14
+5 6
+5 9
+50 34
+50 51
+50 59
+50 61
+50 63
+51 35
+51 42
+51 47
+51 60
+51 62
+51 63
+52 39
+52 43
+52 55
+52 57
+52 59
+52 61
+53 40
+53 44
+53 56
+53 58
+53 60
+53 62
+54 36
+54 37
+54 48
+54 55
+54 56
+54 64
+55 37
+55 39
+55 48
+55 57
+55 59
+55 64
+56 38
+56 40
+56 49
+56 58
+56 60
+56 64
+57 41
+57 48
+57 52
+57 58
+57 61
+57 64
+58 41
+58 49
+58 53
+58 57
+58 62
+58 64
+58 65
+59 42
+59 50
+59 52
+59 60
+59 61
+59 64
+59 65
+6 0
+6 1
+6 10
+6 13
+6 15
+6 23
+60 42
+60 53
+60 59
+60 62
+60 64
+60 65
+61 43
+61 45
+61 50
+61 52
+61 63
+61 65
+62 44
+62 46
+62 51
+62 53
+62 63
+62 65
+63 45
+63 46
+63 47
+63 50
+63 51
+63 65
+64 54
+64 55
+64 56
+64 57
+64 58
+64 59
+64 65
+65 57
+65 58
+65 59
+65 60
+65 61
+65 62
+65 63
+7 0
+7 12
+7 16
+7 24
+7 8
+7 9
+8 0
+8 1
+8 10
+8 13
+8 17
+8 24
+9 1
+9 11
+9 12
+9 16
+9 25
+9 27
+
+262
+3 0 1 5
+3 0 1 6
+3 0 1 7
+3 0 1 8
+5 0 1 9 12 3
+5 0 1 10 13 4
+3 0 2 3
+3 0 2 4
+4 0 2 14 5
+4 0 2 15 6
+3 0 3 5
+3 0 3 7
+3 0 4 6
+3 0 4 8
+3 0 5 6
+3 0 7 8
+3 1 5 6
+3 1 5 9
+3 1 6 10
+3 1 7 8
+3 1 7 9
+4 1 7 16 11
+3 1 8 10
+4 1 8 17 11
+3 1 9 11
+3 1 10 11
+3 2 3 14
+3 2 3 19
+5 2 3 21 30 18
+3 2 4 15
+3 2 4 20
+5 2 4 22 31 18
+3 2 14 15
+3 2 14 18
+3 2 15 18
+3 2 18 19
+3 2 18 20
+3 2 19 20
+3 3 5 12
+3 3 5 14
+3 3 7 12
+5 3 7 24 32 19
+3 3 12 21
+3 3 14 21
+3 3 19 21
+3 4 6 13
+3 4 6 15
+3 4 8 13
+5 4 8 24 32 20
+3 4 13 22
+3 4 15 22
+3 4 20 22
+4 5 6 15 14
+3 5 6 23
+3 5 9 12
+5 5 9 27 33 23
+4 5 12 21 14
+3 5 14 23
+3 6 10 13
+5 6 10 28 33 23
+4 6 13 22 15
+3 6 15 23
+4 7 8 17 16
+3 7 8 24
+3 7 9 12
+3 7 9 16
+4 7 12 25 16
+3 7 16 24
+3 8 10 13
+3 8 10 17
+4 8 13 26 17
+3 8 17 24
+3 9 11 16
+3 9 11 27
+5 9 11 29 34 25
+3 9 12 25
+3 9 16 25
+3 9 25 27
+3 10 11 17
+3 10 11 28
+5 10 11 29 35 26
+3 10 13 26
+3 10 17 26
+3 10 26 28
+3 11 16 17
+3 11 16 29
+3 11 17 29
+3 11 27 28
+3 11 27 29
+3 11 28 29
+6 12 21 39 52 43 25
+6 13 22 40 53 44 26
+3 14 15 18
+3 14 15 23
+3 14 18 30
+3 14 21 30
+5 14 23 41 48 30
+3 15 18 31
+3 15 22 31
+5 15 23 41 49 31
+3 16 17 24
+3 16 17 29
+5 16 24 42 50 34
+3 16 25 34
+3 16 29 34
+5 17 24 42 51 35
+3 17 26 35
+3 17 29 35
+3 18 19 20
+3 18 19 30
+4 18 19 37 36
+3 18 20 31
+4 18 20 38 36
+3 18 30 36
+3 18 31 36
+3 19 20 32
+4 19 20 38 37
+3 19 21 30
+4 19 21 39 37
+3 19 30 37
+3 19 32 37
+3 20 22 31
+4 20 22 40 38
+3 20 31 38
+3 20 32 38
+3 21 30 39
+3 22 31 40
+3 23 33 41
+3 24 32 42
+3 25 27 34
+4 25 27 45 43
+3 25 34 43
+3 26 28 35
+4 26 28 46 44
+3 26 35 44
+3 27 28 29
+3 27 28 33
+4 27 28 46 45
+3 27 29 34
+4 27 29 47 45
+3 27 33 45
+3 27 34 45
+3 28 29 35
+4 28 29 47 46
+3 28 33 46
+3 28 35 46
+3 29 34 47
+3 29 35 47
+3 30 36 37
+3 30 36 48
+5 30 36 54 55 39
+3 30 37 39
+3 30 39 48
+3 31 36 38
+3 31 36 49
+5 31 36 54 56 40
+3 31 38 40
+3 31 40 49
+3 32 37 38
+5 32 37 55 59 42
+5 32 38 56 60 42
+5 33 41 57 61 45
+5 33 41 58 62 46
+3 33 45 46
+3 34 43 45
+3 34 43 50
+5 34 43 61 63 47
+3 34 45 47
+3 34 47 50
+3 35 44 46
+3 35 44 51
+5 35 44 62 63 47
+3 35 46 47
+3 35 47 51
+3 36 37 38
+3 36 37 54
+3 36 38 54
+3 36 48 49
+3 36 48 54
+3 36 49 54
+3 37 38 54
+3 37 39 55
+3 37 54 55
+3 38 40 56
+3 38 54 56
+3 39 48 55
+4 39 48 57 52
+3 39 52 55
+3 40 49 56
+4 40 49 58 53
+3 40 53 56
+3 41 48 49
+3 41 48 57
+3 41 49 58
+3 41 57 58
+3 42 50 51
+3 42 50 59
+3 42 51 60
+3 42 59 60
+3 43 45 61
+4 43 50 59 52
+3 43 50 61
+3 43 52 61
+3 44 46 62
+4 44 51 60 53
+3 44 51 62
+3 44 53 62
+3 45 46 47
+3 45 46 63
+3 45 47 63
+3 45 61 63
+3 46 47 63
+3 46 62 63
+3 47 50 51
+3 47 50 63
+3 47 51 63
+3 48 49 54
+4 48 49 58 57
+3 48 54 55
+4 48 54 64 57
+3 48 55 57
+3 49 54 56
+4 49 54 64 58
+3 49 56 58
+4 50 51 60 59
+3 50 51 63
+3 50 59 61
+4 50 59 65 63
+3 50 61 63
+3 51 60 62
+4 51 60 65 63
+3 51 62 63
+3 52 55 57
+3 52 55 59
+5 52 55 64 65 61
+3 52 57 61
+3 52 59 61
+3 53 56 58
+3 53 56 60
+5 53 56 64 65 62
+3 53 58 62
+3 53 60 62
+3 54 55 64
+3 54 56 64
+3 55 57 64
+3 55 59 64
+3 56 58 64
+3 56 60 64
+3 57 58 64
+3 57 58 65
+3 57 61 65
+3 57 64 65
+3 58 62 65
+3 58 64 65
+3 59 60 64
+3 59 60 65
+3 59 61 65
+3 59 64 65
+3 60 62 65
+3 60 64 65
+3 61 63 65
+3 62 63 65
+
+</LoadVEF>
+    <SelectAll/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 0 -2 -6 -10"/>
+    <SelectManifestation point="2 2 -6 -8 4 6"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 -3 -5 -1 -2"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="2 2 -4 -6 0 0"/>
+    <SelectManifestation endSegment="2 2 -6 -8 4 6" startSegment="0 -2 -6 -10 2 4"/>
+    <EndBlock/>
+    <MirrorTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 4 -2 -4 -2 -4" startSegment="2 2 -4 -6 0 0"/>
+    <SelectManifestation point="4 6 -2 -4 0 0"/>
+    <EndBlock/>
+    <MirrorTool name="tool-1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 4 -8 -12 0 0"/>
+    <SelectManifestation point="2 2 -8 -12 -2 -4"/>
+    <SelectManifestation point="2 4 -6 -10 -4 -8"/>
+    <SelectManifestation point="0 0 -8 -12 0 0"/>
+    <SelectManifestation point="0 -2 -6 -10 -2 -4"/>
+    <DeselectAll/>
+    <SelectManifestation point="6 8 -4 -6 2 2"/>
+    <SelectManifestation point="6 8 -6 -10 0 0"/>
+    <SelectManifestation point="4 6 -6 -10 2 4"/>
+    <SelectManifestation point="4 4 -8 -12 0 0"/>
+    <SelectManifestation point="2 2 -6 -10 2 2"/>
+    <SelectManifestation point="2 2 -8 -12 -2 -4"/>
+    <SelectManifestation point="0 0 -6 -10 0 -2"/>
+    <SelectManifestation point="0 0 -6 -10 -4 -6"/>
+    <SelectManifestation point="2 2 -4 -6 0 0"/>
+    <SelectManifestation point="4 6 -2 -4 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="4 4 -8 -12 0 0"/>
+      <polygonVertex at="2 2 -8 -12 -2 -4"/>
+      <polygonVertex at="2 4 -6 -10 -4 -8"/>
+      <polygonVertex at="4 8 -4 -8 -4 -8"/>
+      <polygonVertex at="6 10 -4 -8 -2 -4"/>
+      <polygonVertex at="6 8 -6 -10 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="4 6 -4 -8 2 2"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="2 2 -4 -6 0 0"/>
+    <SelectManifestation endSegment="0 0 -4 -6 2 4" startSegment="2 2 -6 -10 2 2"/>
+    <EndBlock/>
+    <MirrorTool name="tool-2"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 -2 -4 2 4"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <Delete/>
+    <ShowHidden/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -2 -6 -10 -2 -4" startSegment="0 0 -4 -8 -4 -8"/>
+    <SelectManifestation endSegment="-2 -2 -2 -4 -4 -6" startSegment="0 0 -4 -8 -4 -8"/>
+    <SelectManifestation endSegment="-2 -4 -4 -6 -2 -2" startSegment="-2 -2 -2 -4 -4 -6"/>
+    <SelectManifestation endSegment="-2 -4 -4 -6 -2 -2" startSegment="0 -2 -6 -10 -2 -4"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -4 -6 -2 -4"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 -2 -6 -10 -2 -4"/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <SelectNeighbors/>
+    <Delete/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="158.99606323242188" far="317.99212646484375" near="0.39749017357826233" parallel="false" stereoAngle="0.0" width="71.54822540283203">
+      <LookAtPoint x="6.85410213470459" y="-11.090169906616211" z="-4.236067771911621"/>
+      <UpDirection x="0.654292643070221" y="-0.7538913488388062" z="-0.05957301706075668"/>
+      <LookDirection x="-0.258667528629303" y="-0.29712486267089844" z="0.919134259223938"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="255,255,255" name="220" prototype="-50 30 36 -22 26 -16"/>
+    <Direction color="255,255,255" name="222" prototype="44 -28 0 0 -20 12"/>
+    <Direction color="36,35,38" name="black"/>
+    <Direction color="255,255,255" name="221" prototype="-46 28 -2 2 -24 14"/>
+    <Direction color="255,255,255" name="224" prototype="34 -22 -4 2 6 -4"/>
+    <Direction color="255,255,255" name="223" prototype="62 -38 28 -18 26 -16"/>
+    <Direction color="255,255,255" name="226" prototype="8 -6 -6 4 -22 14"/>
+    <Direction color="255,255,255" name="225" prototype="10 -6 -24 14 26 -16"/>
+    <Direction color="255,255,255" name="228" prototype="-18 10 36 -22 -46 28"/>
+    <Direction color="251,94,160" name="rose"/>
+    <Direction color="53,181,179" name="turquoise"/>
+    <Direction color="255,255,255" name="227" prototype="14 -8 -2 2 36 -22"/>
+    <Direction color="255,255,255" name="229" prototype="-50 30 36 -22 -14 8"/>
+    <Direction color="113,64,178" name="purple"/>
+    <Direction color="12,84,55" name="spruce"/>
+    <Direction color="255,255,255" name="251" prototype="22 -14 68 -42 -14 8"/>
+    <Direction color="255,255,255" name="250" prototype="26 -16 -18 10 -16 10"/>
+    <Direction color="254,124,123" name="coral"/>
+    <Direction color="255,255,255" name="211" prototype="34 -20 -10 6 -16 10"/>
+    <Direction color="141,2,41" name="maroon"/>
+    <Direction color="255,255,255" name="210" prototype="-12 8 12 -8 64 -40"/>
+    <Direction color="255,255,255" name="213" prototype="-24 16 32 -20 -32 20"/>
+    <Direction color="255,255,255" name="212" prototype="-4 2 -26 16 50 -30"/>
+    <Direction color="255,255,255" name="215" prototype="-18 12 -30 18 16 -10"/>
+    <Direction color="255,255,255" name="214" prototype="-24 14 6 -4 -42 26"/>
+    <Direction color="218,225,83" name="sulfur"/>
+    <Direction color="255,255,255" name="217" prototype="-4 2 -14 8 -2 2"/>
+    <Direction color="255,255,255" name="216" prototype="26 -16 -10 6 -8 6"/>
+    <Direction color="255,255,255" name="219" prototype="34 -20 10 -6 4 -2"/>
+    <Direction color="255,255,255" name="218" prototype="-30 18 -4 2 -18 12"/>
+    <Direction color="129,191,30" name="apple"/>
+    <Direction color="52,48,136" name="navy"/>
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="187,144,85" name="sand"/>
+    <Direction color="255,255,255" name="240" prototype="58 -36 34 -22 4 -2"/>
+    <Direction color="255,255,255" name="242" prototype="22 -14 4 -2 -14 8"/>
+    <Direction color="255,255,255" name="241" prototype="50 -30 4 -2 14 -8"/>
+    <Direction color="255,255,255" name="200" prototype="-1 0 -1 0 -7 4"/>
+    <Direction color="255,255,255" name="244" prototype="-10 6 4 -2 18 -12"/>
+    <Direction color="255,255,255" name="243" prototype="14 -8 22 -14 -28 18"/>
+    <Direction color="255,255,255" name="202" prototype="-6 3 -4 3 2 -1"/>
+    <Direction color="255,255,255" name="246" prototype="-6 4 -54 34 4 -2"/>
+    <Direction color="255,255,255" name="201" prototype="-2 1 0 -1 -4 3"/>
+    <Direction color="255,255,255" name="245" prototype="8 -6 26 -16 -54 34"/>
+    <Direction color="255,255,255" name="204" prototype="-18 10 -16 10 6 -4"/>
+    <Direction color="255,255,255" name="248" prototype="24 -14 -46 28 42 -26"/>
+    <Direction color="255,255,255" name="203" prototype="4 -3 0 -1 -2 1"/>
+    <Direction color="255,255,255" name="247" prototype="-46 28 10 -6 28 -18"/>
+    <Direction color="255,255,255" name="206" prototype="-8 6 -6 4 10 -6"/>
+    <Direction color="255,255,255" name="205" prototype="6 -4 -2 2 -36 22"/>
+    <Direction color="255,255,255" name="249" prototype="4 -2 -46 28 -2 2"/>
+    <Direction color="255,255,255" name="208" prototype="-2 2 -68 42 -6 4"/>
+    <Direction color="255,255,255" name="207" prototype="-8 4 -52 32 -20 12"/>
+    <Direction color="255,255,255" name="209" prototype="28 -18 38 -24 -22 14"/>
+    <Direction color="236,89,1" name="orange"/>
+    <Direction color="105,54,1" name="brown"/>
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="255,255,255" name="196" prototype="-4 3 6 -3 -2 1"/>
+    <Direction color="197,3,20" name="red"/>
+    <Direction color="255,255,255" name="198" prototype="3 -1 -1 1 -5 3"/>
+    <Direction color="255,255,255" name="231" prototype="14 -8 62 -38 36 -22"/>
+    <Direction color="255,255,255" name="197" prototype="5 -3 1 -1 -3 1"/>
+    <Direction color="255,255,255" name="230" prototype="-44 28 20 -12 0 0"/>
+    <Direction color="255,255,255" name="233" prototype="2 -2 -60 38 6 -4"/>
+    <Direction color="255,255,255" name="199" prototype="-1 1 1 -1 7 -5"/>
+    <Direction color="255,255,255" name="232" prototype="10 -6 -28 18 6 -4"/>
+    <Direction color="255,255,255" name="235" prototype="-22 14 48 -30 -14 8"/>
+    <Direction color="255,255,255" name="234" prototype="46 -28 -42 26 28 -18"/>
+    <Direction color="255,255,255" name="237" prototype="-16 10 46 -28 54 -34"/>
+    <Direction color="255,255,255" name="236" prototype="-22 14 24 -14 -14 8"/>
+    <Direction color="245,163,1" name="yellow"/>
+    <Direction color="255,255,255" name="239" prototype="-26 16 -22 14 -8 6"/>
+    <Direction color="255,255,255" name="238" prototype="-6 4 -2 2 -24 14"/>
+    <Direction color="144,56,14" name="cinnamon"/>
+    <Direction color="144,127,227" name="lavender"/>
+    <Direction color="116,104,1" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="175,135,255" name="lavender"/>
+      <Direction color="18,205,148" name="turquoise"/>
+      <Direction color="30,30,30" name="black"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="100,113,0" name="olive"/>
+      <Direction color="117,0,50" name="maroon"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+      <Direction color="108,0,198" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="tool-0" label="mirror 0" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-1" label="mirror 1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-2" label="mirror 2" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>

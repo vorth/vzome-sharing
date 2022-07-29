@@ -2,7 +2,7 @@
 title: The J92 Rhombochoron in Zome
 description: A 3D projection of a particular CRF polytope, the 4D equivalent of a Johnson solid
 image: https://vorth.github.io/vzome-sharing/2019/07/14/22-11-43-J92-rhombochoron-nicest-ryb/J92-rhombochoron-nicest-ryb.png
-published: false
+published: true
 layout: vzome
 ---
 

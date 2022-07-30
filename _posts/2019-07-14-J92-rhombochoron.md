@@ -16,11 +16,13 @@ The object below represents a four-dimensional <a href="http://eusebeia.dyndns.o
 the <a href="http://eusebeia.dyndns.org/4d/J92_rhombochoron">triangular hebesphenorotundaeic rhombochoron</a>,
 or J92 rhombochoron for short.
 
-<figure style="margin: 5%">
- <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
-        src="https://vorth.github.io/vzome-sharing/2019/07/14/22-11-43-J92-rhombochoron-nicest-ryb/J92-rhombochoron-nicest-ryb.vZome" >
-   <img src="https://vorth.github.io/vzome-sharing/2019/07/14/22-11-43-J92-rhombochoron-nicest-ryb/J92-rhombochoron-nicest-ryb.png" />
- </vzome-viewer>
+<figure style="width: 87%; margin: 5%">
+
+  <vzome-viewer style="width: 100%; height: 60vh"
+         src="./22-11-43-J92-rhombochoron-nicest-ryb/J92-rhombochoron-nicest-ryb.vZome" >
+    <img src="./22-11-43-J92-rhombochoron-nicest-ryb/J92-rhombochoron-nicest-ryb.png" style="width: 100%" />
+  </vzome-viewer>
+
   <figcaption style="text-align: center; font-style: italic;">
     One of many possible Zome realizations of the
     J92 rhombochoron, all using red, yellow, and blue struts.  Of those I explored, this is the nicest one,

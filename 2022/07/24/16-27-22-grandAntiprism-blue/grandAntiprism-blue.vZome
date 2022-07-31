@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="81" field="golden" version="7.0">
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="dev" field="golden" version="7.0">
   <EditHistory editNumber="158" lastStickyEdit="158">
     <BeginBlock/>
     <SelectAll/>
@@ -207,10 +207,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="361.00054931640625" far="722.0012817382812" near="0.9025014042854309" parallel="false" stereoAngle="0.0" width="162.4503173828125">
+    <ViewModel distance="361.00054931640625" far="722.0009765625" near="0.9025013446807861" parallel="false" stereoAngle="0.0" width="162.4502716064453">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.8774067759513855" y="0.4771808981895447" z="-0.04955054447054863"/>
-      <LookDirection x="-0.045804381370544434" y="-0.18613554537296295" z="-0.981455385684967"/>
+      <UpDirection x="0.17612110078334808" y="0.2688741087913513" z="0.9469366073608398"/>
+      <LookDirection x="0.8697952032089233" y="-0.4929308295249939" z="-0.021810509264469147"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">

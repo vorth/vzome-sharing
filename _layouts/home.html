@@ -81,7 +81,6 @@ layout: page
       <div class="post-entry">
         {% assign excerpt_length = site.excerpt_length | default: 50 %}
         {{ excerpt_vzome | strip_html | truncatewords: excerpt_length }}
-        <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
       </div>
       {% endunless %}
 

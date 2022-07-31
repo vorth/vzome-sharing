@@ -23,7 +23,7 @@ author: Scott Vorthmann
 ###############################################
 
 navbar-links:
-  About: "/about.html"
+  About: "/about"
   vZome Home: "https://www.vzome.com"
 
 ################
@@ -251,7 +251,7 @@ timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 # permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM

@@ -37,7 +37,7 @@ snub dodecahedra constructible with vZome orbits, such as these designs.
       src="https://vorth.github.io/vzome-sharing/2022/04/17/22-14-19-apple-green-purple-snub-dodec/apple-green-purple-snub-dodec.png" />
  </vzome-viewer>
  <figcaption style="text-align: center; font-style: italic;">
-    Snub dodecahedron analogue in sand, green, and apple struts.
+    Snub dodecahedron analogue in purple, green, and apple struts.
  </figcaption>
 </figure>
 
@@ -72,16 +72,17 @@ the command history is actually visible and randomly accessible if you do that.
 In all cases, the result is most naturally understood as the *alternating* vertices
 of some variant of the great rhombicosidodecahedron, whose edges will always be blue,
 and whose faces always have an even number of sides.
-If you think about this for a minute, you'll see that the vertices of these blue
+Notice that the vertices of these blue
 polyhedra can be colored black and white in an alternating fashion, so that a white ball
 is only connected to black balls, and vice versa.  This means that each of the structures
-above exist in two forms, one "right-handed" and one "left-handed".  We say they are *chiral* forms.
+above exist in two forms, one "right-handed" using white balls and one "left-handed" using black balls.
+We say they are *chiral* forms.
 
 <figure style="width: 87%; margin: 5%">
  <vzome-viewer style="width: 100%; height: 60vh"
-      src="https://vorth.github.io/vzome-sharing/2022/09/11/11-18-06-apple-orange-purple-snub-dodec/apple-orange-purple-snub-dodec.vZome" >
+      src="https://vorth.github.io/vzome-sharing/2022/09/11/11-38-08-apple-orange-purple-snub-dodec/apple-orange-purple-snub-dodec.vZome" >
    <img  style="width: 100%"
-      src="https://vorth.github.io/vzome-sharing/2022/09/11/11-18-06-apple-orange-purple-snub-dodec/apple-orange-purple-snub-dodec.png" >
+      src="https://vorth.github.io/vzome-sharing/2022/09/11/11-38-08-apple-orange-purple-snub-dodec/apple-orange-purple-snub-dodec.png" >
  </vzome-viewer>
  <figcaption style="text-align: center; font-style: italic;">
     Archimedean solid analogue using HB1 and HB2 struts, and one of the two chiral snub-dodecahedron analogues that it generates

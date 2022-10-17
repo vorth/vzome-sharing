@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="5" field="rootThree" version="7.1">
+  <EditHistory editNumber="269" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" index="0" len="0 9" symm="dodecagonal"/>
+    <StrutCreation anchor="0 9 0 0 0 0" index="4" len="0 9" symm="dodecagonal"/>
+    <StrutCreation anchor="0 9/2 27/2 0 0 0" index="6" len="0 9" symm="dodecagonal"/>
+    <StrutCreation anchor="0 -9/2 27/2 0 0 0" index="8" len="0 9" symm="dodecagonal"/>
+    <StrutCreation anchor="0 -9 0 0 0 0" index="10" len="0 9" symm="dodecagonal"/>
+    <StrutCreation anchor="0 -9/2 -27/2 0 0 0" index="0" len="0 9" symm="dodecagonal"/>
+    <StrutCreation anchor="0 9/2 -27/2 0 0 0" index="2" len="0 9" symm="dodecagonal"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="1" len="0 9" symm="dodecagonal"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="7" len="0 9" symm="dodecagonal"/>
+    <BeginBlock/>
+    <SelectManifestation point="-27/2 0 0 -9/2 0 0"/>
+    <SelectManifestation point="27/2 0 0 9/2 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -9/2 27/2 0 0 0" dir="red" index="0" len="0 1" symm="dodecagonal"/>
+    <StrutCreation anchor="0 9/2 27/2 0 0 0" dir="red" index="0" len="0 1" symm="dodecagonal"/>
+    <StrutCreation anchor="0 9 0 0 0 0" dir="red" index="0" len="0 1" symm="dodecagonal"/>
+    <StrutCreation anchor="0 9/2 -27/2 0 0 0" dir="red" index="0" len="0 1" symm="dodecagonal"/>
+    <StrutCreation anchor="0 -9/2 -27/2 0 0 0" dir="red" index="0" len="0 1" symm="dodecagonal"/>
+    <StrutCreation anchor="0 -9 0 0 0 0" dir="red" index="0" len="0 1" symm="dodecagonal"/>
+    <StrutCreation anchor="-27/2 0 0 -9/2 0 0" dir="red" index="0" len="0 1" sense="minus" symm="dodecagonal"/>
+    <StrutCreation anchor="-27/2 0 0 9/2 0 0" dir="red" index="0" len="0 1" sense="minus" symm="dodecagonal"/>
+    <StrutCreation anchor="0 0 0 9 0 0" dir="red" index="0" len="0 1" sense="minus" symm="dodecagonal"/>
+    <StrutCreation anchor="27/2 0 0 9/2 0 0" dir="red" index="0" len="0 1" sense="minus" symm="dodecagonal"/>
+    <StrutCreation anchor="27/2 0 0 -9/2 0 0" dir="red" index="0" len="0 1" sense="minus" symm="dodecagonal"/>
+    <StrutCreation anchor="0 0 0 -9 0 0" dir="red" index="0" len="0 1" sense="minus" symm="dodecagonal"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -9 0 -1"/>
+    <SelectManifestation point="0 9/2 -27/2 0 0 1"/>
+    <SelectManifestation point="27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="0 9 0 0 0 1"/>
+    <SelectManifestation point="27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="0 9/2 27/2 0 0 1"/>
+    <SelectManifestation point="0 0 0 9 0 -1"/>
+    <SelectManifestation point="0 -9/2 27/2 0 0 1"/>
+    <SelectManifestation point="-27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="0 -9 0 0 0 1"/>
+    <SelectManifestation point="-27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="0 -9/2 -27/2 0 0 1"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -9/2 -27/2 0 0 1"/>
+    <SelectManifestation point="0 0 0 -9 0 -1"/>
+    <SelectManifestation point="0 9/2 -27/2 0 0 1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -9/2 -27/2 0 0 1"/>
+    <SelectManifestation point="-27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="0 -9 0 0 0 1"/>
+    <EndBlock/>
+    <Polygon/>
+    <SelectManifestation>
+      <polygonVertex at="0 -9/2 -27/2 0 0 1"/>
+      <polygonVertex at="0 0 0 -9 0 -1"/>
+      <polygonVertex at="0 9/2 -27/2 0 0 1"/>
+    </SelectManifestation>
+    <PanelPanelIntersection/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 9/2 -27/2 0 0 1" dir="55" index="2" len="0 3" symm="dodecagonal"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-56223/9028 63999/9028 -191997/9028 56223/9028 3159/2257 6960/2257" startSegment="0 9/2 -27/2 0 0 1"/>
+    <SelectManifestation>
+      <polygonVertex at="0 -9/2 -27/2 0 0 1"/>
+      <polygonVertex at="-27/2 0 0 -9/2 0 -1"/>
+      <polygonVertex at="0 -9 0 0 0 1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <LinePlaneIntersect/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 12 7"/>
+    <SelectManifestation point="0 9/2 -27/2 0 0 1"/>
+    <SelectManifestation point="27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="0 9 0 0 0 1"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 -9/2 -27/2 0 0 1"/>
+      <polygonVertex at="0 0 0 -9 0 -1"/>
+      <polygonVertex at="0 9/2 -27/2 0 0 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -9/2 -27/2 0 0 1"/>
+      <polygonVertex at="-27/2 0 0 -9/2 0 -1"/>
+      <polygonVertex at="0 -9 0 0 0 1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 12 7"/>
+    <SelectManifestation point="0 9 0 0 0 0"/>
+    <SelectManifestation point="27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="0 9 0 0 0 0"/>
+    <SelectManifestation point="0 9 0 0 0 1"/>
+    <SelectManifestation point="27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="0 9/2 27/2 0 0 1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 9/2 27/2 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 9/2 27/2 0 0 1"/>
+    <SelectManifestation point="0 0 0 9 0 -1"/>
+    <SelectManifestation point="0 -9/2 27/2 0 0 1"/>
+    <SelectManifestation point="0 0 0 0 12 7"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 12 7"/>
+    <SelectManifestation point="0 -9/2 27/2 0 0 1"/>
+    <SelectManifestation point="-27/2 0 0 9/2 0 -1"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 12 7"/>
+    <SelectManifestation point="0 -9/2 27/2 0 0 1"/>
+    <SelectManifestation point="-27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="0 -9 0 0 0 1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 12 7"/>
+    <SelectManifestation point="0 -9 0 0 0 1"/>
+    <SelectManifestation point="-27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="0 -9/2 -27/2 0 0 1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 12 7"/>
+    <SelectManifestation point="0 -9/2 -27/2 0 0 1"/>
+    <SelectManifestation point="0 0 0 -9 0 -1"/>
+    <SelectManifestation point="0 9/2 -27/2 0 0 1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 -12 -7"/>
+      <polygonVertex at="0 -9/2 27/2 0 0 -1"/>
+      <polygonVertex at="-27/2 0 0 9/2 0 1"/>
+      <polygonVertex at="0 -9 0 0 0 -1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 9 0 -1" dir="55" index="1" len="0 3" sense="minus" symm="dodecagonal"/>
+    <BeginBlock/>
+    <SelectManifestation point="-27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="-67887/9028 -972/2257 -2916/2257 -67887/9028 1863/2257 -583/2257"/>
+    <SelectManifestation point="0 0 0 -9 0 -1"/>
+    <SelectManifestation point="-67887/9028 -972/2257 -2916/2257 -67887/9028 1863/2257 -583/2257"/>
+    <SelectManifestation point="0 -9/2 -27/2 0 0 1"/>
+    <DeselectAll/>
+    <SelectManifestation point="-27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="0 -9/2 -27/2 0 0 1"/>
+    <SelectManifestation point="0 0 0 -9 0 -1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 -56223/4514 63999/4514 -3159/2257 -6960/2257" startSegment="0 0 0 9 0 -1"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 12 7"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 -12 -7"/>
+    <SelectManifestation point="0 0 0 -9 0 -1"/>
+    <SelectManifestation point="0 -9/2 -27/2 0 0 1"/>
+    <SelectManifestation point="-27/2 0 0 -9/2 0 -1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-67887/9028 -972/2257 -2916/2257 -67887/9028 1863/2257 -583/2257"/>
+    <SelectManifestation point="-2916/2257 -27261/9028 -81783/9028 -2916/2257 5022/2257 4120/2257"/>
+    <DeselectAll/>
+    <SelectManifestation point="-2916/2257 -27261/9028 -81783/9028 -2916/2257 5022/2257 4120/2257"/>
+    <SelectManifestation point="-67887/9028 -972/2257 -2916/2257 -67887/9028 1863/2257 -583/2257"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-56223/9028 63999/9028 -191997/9028 56223/9028 3159/2257 6960/2257"/>
+    <Delete/>
+    <SelectManifestation point="0 0 -56223/4514 63999/4514 -3159/2257 -6960/2257"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 -12 -7"/>
+    <SelectManifestation point="-27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="0 -9 0 0 0 1"/>
+    <SelectManifestation point="-27/2 0 0 9/2 0 -1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 -12 -7"/>
+    <SelectManifestation point="-27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="0 -9/2 27/2 0 0 1"/>
+    <SelectManifestation point="0 0 0 9 0 -1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 9 0 -1"/>
+    <SelectManifestation point="0 9/2 27/2 0 0 1"/>
+    <SelectManifestation point="27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="0 0 0 0 -12 -7"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 -12 -7"/>
+    <SelectManifestation point="27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="0 9 0 0 0 1"/>
+    <SelectManifestation point="27/2 0 0 -9/2 0 -1"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <SelectManifestation point="27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="0 9/2 -27/2 0 0 1"/>
+    <SelectManifestation point="0 0 0 -9 0 -1"/>
+    <SelectManifestation point="0 0 0 0 -12 -7"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -9/2 27/2 0 0 1" startSegment="0 0 0 9 0 -1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -9 0 0 0 0" startSegment="0 -9/2 27/2 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <Delete/>
+    <SelectManifestation endSegment="-27/2 0 0 -9/2 0 -1" startSegment="-27/2 0 0 -9/2 0 0"/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -9 0 0 0 1" startSegment="0 -9 0 0 0 0"/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -56223/4514 63999/4514 -3159/2257 -6960/2257" startSegment="0 0 0 9 0 -1"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2916/2257 -27261/9028 -81783/9028 -2916/2257 5022/2257 4120/2257" startSegment="-67887/9028 -972/2257 -2916/2257 -67887/9028 1863/2257 -583/2257"/>
+    <Delete/>
+    <SelectManifestation endSegment="-56223/9028 63999/9028 -191997/9028 56223/9028 3159/2257 6960/2257" startSegment="0 9/2 -27/2 0 0 1"/>
+    <Delete/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 -12 -7"/>
+      <polygonVertex at="-27/2 0 0 -9/2 0 -1"/>
+      <polygonVertex at="0 -9 0 0 0 1"/>
+      <polygonVertex at="-27/2 0 0 9/2 0 -1"/>
+    </SelectManifestation>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="27/2 0 0 9/2 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 9 0 0 0 0" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-27/2 0 0 -9/2 0 0" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" panels="IGNORE" struts="SELECT"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="102" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 -12 -7"/>
+    <SelectManifestation point="0 0 0 9 0 -1"/>
+    <SelectManifestation point="27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="0 0 0 0 -12 -7"/>
+    <SelectManifestation point="-27/2 0 0 9/2 0 -1"/>
+    <SelectManifestation point="-27/2 0 0 -9/2 0 -1"/>
+    <SelectManifestation point="0 0 0 -9 0 -1"/>
+    <SelectManifestation point="0 0 0 0 -12 -7"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <setItemColor blue="0" green="204" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -9/2 -27/2 0 0 1"/>
+    <SelectManifestation point="0 9/2 -27/2 0 0 1"/>
+    <SelectManifestation point="0 9 0 0 0 1"/>
+    <SelectManifestation point="0 9/2 27/2 0 0 1"/>
+    <SelectManifestation point="0 -9/2 27/2 0 0 1"/>
+    <SelectManifestation point="0 -9 0 0 0 1"/>
+    <SelectManifestation point="0 0 0 0 12 7"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <setItemColor blue="0" green="204" red="255"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="218.95790100097656" far="437.9157409667969" near="0.5473944544792175" parallel="false" stereoAngle="0.0" width="98.5310287475586">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.08138522505760193" y="0.025797933340072632" z="-0.9963487386703491"/>
+      <LookDirection x="-0.8133229613304138" y="-0.5795348286628723" z="0.05142934247851372"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="dodecagonal" renderingStyle="prisms">
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="255,255,255" name="53" prototype="3/2 0 3 -3/2 2/3 0"/>
+    <Direction color="255,255,255" name="54" prototype="0 0 0 -2/3 -9/2 3"/>
+    <Direction color="255,255,255" name="55" prototype="-7791/9028 6247/9028 18741/9028 -7791/9028 4703/6771 351/2257"/>
+    <Direction color="0,118,149" name="blue"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="small octahedra">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

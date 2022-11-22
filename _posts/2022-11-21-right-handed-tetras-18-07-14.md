@@ -50,3 +50,14 @@ For the model below, only the left-handed tetrahedral sheet will work to align w
     REPLACE this caption!
  </figcaption>
 </figure>
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2022/11/21/18-38-24-tetrahedral-kaolinite-layer/tetrahedral-kaolinite-layer.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2022/11/21/18-38-24-tetrahedral-kaolinite-layer/tetrahedral-kaolinite-layer.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    REPLACE this caption!
+ </figcaption>
+</figure>

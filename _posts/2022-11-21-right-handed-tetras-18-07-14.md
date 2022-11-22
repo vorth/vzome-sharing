@@ -2,7 +2,7 @@
 title: Chiral Tetrahedral Lattices
 description: Zometool can create a tetrahedral lattice in two different ways.
 image: https://vorth.github.io/vzome-sharing/2022/11/21/18-07-14-right-handed-tetras/right-handed-tetras.png
-published: false
+published: true
 layout: vzome
 ---
 
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-Zometool can create a tetrahedral lattice in two different ways.
+Zometool (and thus vZome) can create a tetrahedral lattice in two different ways.
 In the figures below, the two are arbitrarily assigned a handedness;
 the important point is that they are different, mirror images of one another.
 

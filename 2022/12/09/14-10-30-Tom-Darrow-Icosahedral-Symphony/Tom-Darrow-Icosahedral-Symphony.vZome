@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="13" field="golden" version="7.1">
+  <EditHistory editNumber="75" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 2 3 2 3"/>
+    <SelectManifestation point="2 3 0 0 3 5"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <SelectManifestation point="2 3 2 3 2 3"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 0 0 3 5"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 3 2 3 2 3" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="2 3 0 0 3 5" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 1 2 3 5" dir="yellow" index="7" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 3 5 8"/>
+    <SelectManifestation endSegment="0 0 2 3 5 8" startSegment="0 0 1 2 3 5"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-3 -5 2 3 0 0" dir="red" index="45" len="1 1"/>
+    <StrutCreation anchor="-4 -7 3 4 0 0" dir="green" index="14" len="2 4"/>
+    <SelectManifestation endSegment="-3 -5 3 5 3 5" startSegment="-4 -7 3 4 0 0"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -7 3 4 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-4 -7 3 4 0 0" startSegment="-3 -5 2 3 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-4 -7 -3 -4 0 0" dir="green" index="32" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -8 -2 -4 2 3"/>
+    <SelectManifestation endSegment="-5 -8 -2 -4 2 3" startSegment="-4 -7 -3 -4 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-6 -9 -1 -2 0 0" index="37" len="2 4"/>
+    <SelectManifestation endSegment="-5 -8 -2 -4 2 3" startSegment="-6 -9 -1 -2 0 0"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-6 -9 1 2 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="-6 -9 1 2 0 0" index="16" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-6 -9 -1 -2 0 0" startSegment="-6 -9 1 2 0 0"/>
+    <SelectManifestation point="-6 -9 1 2 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 3 -5 -8 -2 -4" dir="green" index="15" len="1 2"/>
+    <StrutCreation anchor="4 6 -4 -7 -1 -2" dir="green" index="19" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="7/2 11/2 -11/2 -9 -2 -7/2"/>
+    <SelectManifestation endSegment="7/2 11/2 -11/2 -9 -2 -7/2" startSegment="2 3 -5 -8 -2 -4"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-5 -8 0 0 -2 -3" dir="green" index="38" len="2 3"/>
+    <SelectManifestation endSegment="-7 -11 0 0 0 0" startSegment="-5 -8 0 0 -2 -3"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="115.454833984375" far="230.90966796875" near="0.28863707184791565" parallel="false" stereoAngle="0.0" width="51.954673767089844">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.22802148759365082" y="0.5501529574394226" z="0.8033298254013062"/>
+      <LookDirection x="0.37490805983543396" y="0.7118377089500427" z="-0.5939123034477234"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+    <Direction color="0,118,149" name="blue"/>
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="154,117,74" name="sand"/>
+    <Direction color="18,73,48" name="spruce"/>
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="255,126,106" name="coral"/>
+    <Direction color="30,30,30" name="black"/>
+    <Direction color="117,0,50" name="maroon"/>
+    <Direction color="230,245,62" name="sulfur"/>
+    <Direction color="240,160,0" name="yellow"/>
+    <Direction color="255,51,143" name="rose"/>
+    <Direction color="18,205,148" name="turquoise"/>
+    <Direction color="116,195,0" name="apple"/>
+    <Direction color="136,37,0" name="cinnamon"/>
+    <Direction color="108,0,198" name="purple"/>
+    <Direction color="220,76,0" name="orange"/>
+    <Direction color="0,0,153" name="navy"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="175,135,255" name="lavender"/>
+    <Direction color="100,113,0" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="175,135,255" name="lavender"/>
+      <Direction color="18,205,148" name="turquoise"/>
+      <Direction color="30,30,30" name="black"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="100,113,0" name="olive"/>
+      <Direction color="117,0,50" name="maroon"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+      <Direction color="108,0,198" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

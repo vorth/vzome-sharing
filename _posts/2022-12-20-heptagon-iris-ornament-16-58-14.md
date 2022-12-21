@@ -26,7 +26,7 @@ for the holidays, featuring spiraling heptagons.
  </figcaption>
 </figure>
 
-I made the design in 2D years ago.  This makes a [perfect wrapping paper](https://vorth.github.io/vzome-sharing/2022/12/20/17-05-07-heptagon-iris-ornament/heptagon-iris-ornament.pdf)
+I made the design in 2D years ago.  If you want to gift the prints to friends, this makes a [perfect wrapping paper](https://vorth.github.io/vzome-sharing/2022/12/20/17-05-07-heptagon-iris-ornament/heptagon-iris-ornament.pdf)
 (appropriately scaled when printing).
 
 <figure style="width: 87%; margin: 5%">

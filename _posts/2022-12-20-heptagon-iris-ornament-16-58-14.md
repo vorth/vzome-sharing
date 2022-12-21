@@ -12,7 +12,8 @@ layout: vzome
  
 {% endcomment %}
 
-A 3D-printable tree ornament for the holidays, featuring spiraling heptagons.
+Whatever you celebrate this time of year, here's a [3D-printable ornament](https://vorth.github.io/vzome-sharing/2022/12/20/17-05-07-heptagon-iris-ornament/heptagon-iris-ornament.stl)
+for the holidays, featuring spiraling heptagons.
 
 <figure style="width: 87%; margin: 5%">
  <vzome-viewer style="width: 100%; height: 60vh"
@@ -21,6 +22,6 @@ A 3D-printable tree ornament for the holidays, featuring spiraling heptagons.
       src="https://vorth.github.io/vzome-sharing/2022/12/20/17-05-07-heptagon-iris-ornament/heptagon-iris-ornament.png" >
  </vzome-viewer>
  <figcaption style="text-align: center; font-style: italic;">
-    REPLACE this caption!
+    Spiraling heptagons.  This rendering makes it look stretched/squashed, but it is not.
  </figcaption>
 </figure>

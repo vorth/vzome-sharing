@@ -1,0 +1,63 @@
+---
+title: Affine-Regular 120-Cells
+image: https://www.vzome.com/models/2007/05-May/affine120cells/sulfurNavyRose-affine120cell_L.png
+description:
+  A sampling of squashed / stretched 120-cells that require minimal additions to the Zome directions.
+published: true
+layout: vzome
+---
+
+<p>
+	Anyone who has built a 120-cell (hyper-dodecahedron) model with Zome knows that it contains several
+  kinds of &quot;squashed&quot; dodecahedra, in addition on one regular blue dodecahedron in the center. 
+  There are two kinds of &quot;squashings&quot; along a red axis, and one along a yellow axis.
+  Each of these corresponds to an affine transformation in the Zome vector space, and that transformation 
+  can be applied uniformly to any vZome-constructible object. Furthermore, its inverse can be applied as well.
+</p>
+<p>
+	If we designate the kinds of dodecahedral cells as &quot;red-1&quot;, &quot;red-2&quot;,
+  &quot;yellow-1&quot;, and &quot;red/yellow-0&quot; (where the latter refers to the central dodecahedron),
+  we can enumerate eight different affine transformations with a simple nomenclature: 
+  <b>color-M-N</b> means that cell &quot;color-M&quot; is transformed into cell &quot;color-N&quot;.
+</p>
+<p>
+	Each of the eight possible affine transformations is illustrated below, applied to a 120-cell. 
+  Of course, there are an infinite number of affine transformations possible,
+  but these eight have the advantage of introducing a minimum number of non-rZome edges; 
+  in some cases, as you&#39;ll see, there is only one non-rZome color required.
+</p>
+<p>
+	<i>The views below are interactive 3D views; use your mouse to rotate, pan, and zoom.</i>
+</p>
+<p>
+	<select>
+    <option selected="selected" 
+            value="https://www.vzome.com/models/2007/05-May/affine120cells/sulfurNavyRose-affine120cell.vZome">red-0-1</option>
+    <option value="https://www.vzome.com/models/2007/05-May/affine120cells/greenRays-affine120cell.vZome" >red-1-0</option>
+    <option value="https://www.vzome.com/models/2007/05-May/affine120cells/red-0-2-120cell.vZome"         >red-0-2</option>
+    <option value="https://www.vzome.com/models/2007/05-May/affine120cells/blueTip-affine120cell.vZome"   >red-2-0</option>
+    <option value="https://www.vzome.com/models/2007/05-May/affineDodecs/lavender120cell.vZome"           >red-1-2</option>
+    <option value="https://www.vzome.com/models/2007/05-May/affineDodecs/olive120cell.vZome"              >red-2-1</option>
+    <option value="https://www.vzome.com/models/2007/05-May/affine120cells/threefold-120cell.vZome"       >yellow-0-1</option>
+    <option value="https://www.vzome.com/models/2007/05-May/affine120cells/yellowStretch-120cell.vZome"   >yellow-1-0</option>
+  </select>
+</p>
+  
+<vzome-viewer src="https://www.vzome.com/models/2007/05-May/affine120cells/sulfurNavyRose-affine120cell.vZome" style="width: 100%; height: 400px;"></vzome-viewer>
+
+<figure style="width: 87%; margin: 5%">
+  <vzome-viewer style="width: 100%; height: 60vh"
+       src="https://www.vzome.com/models/2007/05-May/affine120cells/sulfurNavyRose-affine120cell.vZome" >
+  </vzome-viewer>
+  <figcaption style="text-align: center; font-style: italic;">
+    various affine-regular 120-cells
+  </figcaption>
+</figure>
+
+<script>
+
+document.querySelector( "select" ) .addEventListener( "input", (e) => {
+  document.querySelector( "vzome-viewer" ).src = e.target.value;
+})
+</script>
+

@@ -39,3 +39,17 @@ This page documents the design, still a work-in-progress.
     A start on the design
   </figcaption>
 </figure>
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh" show-scenes='true'
+      src="https://vorth.github.io/vzome-sharing/2023/01/10/16-49-24-pentagon-hole-extension-SV-2/pentagon-hole-extension-SV-2.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2023/01/10/16-49-24-pentagon-hole-extension-SV-2/pentagon-hole-extension-SV-2.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    finalizing the design
+ </figcaption>
+</figure>
+
+The design is complete, but not yet ready for printing.  First, the mesh is not 2-manifold, a topological requirement
+for slicing.  Second, the tip and holes need to be replaced, as they are still placeholders.

@@ -3,9 +3,9 @@ name: vZome Twitter bot
 
 on:
   workflow_dispatch:
-  schedule:
-    # 1PM UTC = 8AM EST
-    - cron:  '0 13 */3 * *'
+#   schedule:
+#     # 1PM UTC = 8AM EST
+#     - cron:  '0 13 */3 * *'
 
 jobs:
   tweet:

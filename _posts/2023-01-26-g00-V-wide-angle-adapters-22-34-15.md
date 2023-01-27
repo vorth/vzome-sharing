@@ -12,7 +12,10 @@ layout: vzome
  
 {% endcomment %}
 
-A design for a 3D-printable adapter to simulate two green struts sharing a pentagonal hole in the Zome ball
+Here is a design for a 3D-printable adapter to simulate two green struts sharing a pentagonal hole in the Zome ball.
+It must be printed using a good laser-sintering printer.
+The [STL file](https://vorth.github.io/vzome-sharing/2023/01/26/22-34-15-g00-V-wide-angle-adapters/g00-V-wide-angle-adapters.stl)
+will soon be available in my [Shapeways store](http://www.shapeways.com/shops/vzome).
 
 <figure style="width: 87%; margin: 5%">
   <vzome-viewer style="width: 100%; height: 60vh"
@@ -24,3 +27,7 @@ A design for a 3D-printable adapter to simulate two green struts sharing a penta
     G00 V Wide-angle Adapters
   </figcaption>
 </figure>
+
+The adapter itself acts like two G00 struts and attached Zome balls.  Adding a G0 strut (as depicted) on each arm
+of the V shape yields effectively two G1 struts sharing a single hole.
+This is the wider angle of two possible angles for such a configuration.

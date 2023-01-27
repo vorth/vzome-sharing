@@ -14,17 +14,17 @@ layout: vzome
 
 Here is a design for a 3D-printable adapter to simulate two green struts sharing a pentagonal hole in the Zome ball.
 It must be printed using a good laser-sintering printer.
-The [STL file](https://vorth.github.io/vzome-sharing/2023/01/26/22-49-35-g00-V-narrow-angle-adapters/g00-V-wide-angle-adapters.stl)
+The [STL file](https://vorth.github.io/vzome-sharing/2023/01/26/22-49-35-g00-V-narrow-angle-adapters/g00-V-narrow-angle-adapters.stl)
 will soon be available in my [Shapeways store](http://www.shapeways.com/shops/vzome).
 
 <figure style="width: 87%; margin: 5%">
- <vzome-viewer style="width: 100%; height: 60vh"
+ <vzome-viewer style="width: 100%; height: 60vh" show-scenes="true"
       src="https://vorth.github.io/vzome-sharing/2023/01/26/22-49-35-g00-V-narrow-angle-adapters/g00-V-narrow-angle-adapters.vZome" >
    <img  style="width: 100%"
       src="https://vorth.github.io/vzome-sharing/2023/01/26/22-49-35-g00-V-narrow-angle-adapters/g00-V-narrow-angle-adapters.png" >
  </vzome-viewer>
  <figcaption style="text-align: center; font-style: italic;">
-    REPLACE this caption!
+    Six linked adapters
  </figcaption>
 </figure>
 

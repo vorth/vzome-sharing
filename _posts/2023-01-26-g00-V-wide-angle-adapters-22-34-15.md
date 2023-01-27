@@ -1,5 +1,5 @@
 ---
-title: G00 V Wide-angle Adapters
+title: G00 V Narrow-angle Adapters
 description: A design for a 3D-printable adapter to simulate two green struts sharing a pentagonal hole in the Zome ball
 image: https://vorth.github.io/vzome-sharing/2023/01/26/22-34-15-g00-V-wide-angle-adapters/g00-V-wide-angle-adapters.png
 published: true
@@ -30,4 +30,4 @@ will soon be available in my [Shapeways store](http://www.shapeways.com/shops/vz
 
 The adapter itself acts like two G00 struts and attached Zome balls.  Adding a G0 strut (as depicted) on each arm
 of the V shape yields effectively two G1 struts sharing a single hole.
-This is the wider angle of two possible angles for such a configuration.
+This is the narrower angle of two possible angles for such a configuration.

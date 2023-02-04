@@ -15,7 +15,7 @@ layout: vzome
 This compound of three octahedra features in Escher's "Stars" print, together with two chameleons
 
 <figure style="width: 87%; margin: 5%">
-  <vzome-viewer style="width: 100%; height: 60vh"
+  <vzome-viewer style="width: 100%; height: 60vh" show-scenes="true"
        src="https://vorth.github.io/vzome-sharing/2023/02/03/21-56-08-Eschers-Stars-compound/Eschers-Stars-compound.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2023/02/03/21-56-08-Eschers-Stars-compound/Eschers-Stars-compound.png" >

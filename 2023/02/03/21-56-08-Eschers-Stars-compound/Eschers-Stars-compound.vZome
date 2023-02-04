@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="19" field="rootTwo" version="7.1">
+  <EditHistory editNumber="117" lastStickyEdit="66">
+    <StrutCreation anchor="0 0 0 0 0 0" index="4" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="6" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="0" len="0 4" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 0 0 0" index="5" len="0 4" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 0 0 0" index="7" len="0 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="12" len="0 4" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 0 0 0" index="7" len="0 4" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 0 0 0" index="5" len="0 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -4 0 4 0 0"/>
+    <SelectManifestation point="0 0 0 0 8 0"/>
+    <SelectManifestation point="0 4 0 4 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="mirror.builtin/reflection through XY plane" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 4 0 4" startSegment="0 0 0 4 0 0"/>
+    <SelectManifestation endSegment="0 0 0 4 0 -4" startSegment="0 0 0 4 0 0"/>
+    <SelectManifestation endSegment="0 0 0 -4 0 -4" startSegment="0 0 0 -4 0 0"/>
+    <SelectManifestation endSegment="0 0 0 -4 0 4" startSegment="0 0 0 -4 0 0"/>
+    <SelectManifestation endSegment="0 4 0 0 0 4" startSegment="0 0 0 0 0 4"/>
+    <SelectManifestation endSegment="0 -4 0 0 0 4" startSegment="0 0 0 0 0 4"/>
+    <SelectManifestation endSegment="0 4 0 0 0 -4" startSegment="0 0 0 0 0 -4"/>
+    <SelectManifestation endSegment="0 -4 0 0 0 -4" startSegment="0 0 0 0 0 -4"/>
+    <SelectManifestation endSegment="0 4 0 4 0 0" startSegment="0 4 0 0 0 0"/>
+    <SelectManifestation endSegment="0 4 0 -4 0 0" startSegment="0 4 0 0 0 0"/>
+    <SelectManifestation endSegment="0 -4 0 -4 0 0" startSegment="0 -4 0 0 0 0"/>
+    <SelectManifestation endSegment="0 -4 0 4 0 0" startSegment="0 -4 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 4 0 -4"/>
+    <SelectManifestation point="0 0 0 4 0 4"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 4 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="SELECT"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="102" red="102"/>
+    <Snapshot id="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="8 0 0 0 8 0"/>
+    <SelectManifestation point="0 0 0 8 0 0"/>
+    <SelectManifestation point="-8 0 0 0 8 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 0 8 0 0 0"/>
+    <SelectManifestation point="-8 0 8 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 8"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 8 0 8 0"/>
+      <polygonVertex at="0 8 0 0 0 0"/>
+      <polygonVertex at="0 0 8 0 -8 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 8 0 -8 0"/>
+      <polygonVertex at="0 -8 0 0 0 0"/>
+      <polygonVertex at="0 0 8 0 8 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -8 0 8 0"/>
+      <polygonVertex at="0 0 8 0 8 0"/>
+      <polygonVertex at="0 -8 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 8 0 8 0"/>
+      <polygonVertex at="0 0 -8 0 8 0"/>
+      <polygonVertex at="0 8 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -8 0 -8 0"/>
+      <polygonVertex at="0 0 8 0 -8 0"/>
+      <polygonVertex at="0 8 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -8 0 -8 0"/>
+      <polygonVertex at="0 8 0 0 0 0"/>
+      <polygonVertex at="0 0 -8 0 8 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -8 0 8 0"/>
+      <polygonVertex at="0 -8 0 0 0 0"/>
+      <polygonVertex at="0 0 -8 0 -8 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 8 0 -8 0"/>
+      <polygonVertex at="0 0 -8 0 -8 0"/>
+      <polygonVertex at="0 -8 0 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="153" green="153" red="153"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="8 0 0 0 -8 0"/>
+      <polygonVertex at="0 0 0 -8 0 0"/>
+      <polygonVertex at="-8 0 0 0 -8 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-8 0 0 0 -8 0"/>
+      <polygonVertex at="0 0 0 8 0 0"/>
+      <polygonVertex at="8 0 0 0 -8 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="8 0 0 0 8 0"/>
+      <polygonVertex at="8 0 0 0 -8 0"/>
+      <polygonVertex at="0 0 0 8 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="8 0 0 0 -8 0"/>
+      <polygonVertex at="8 0 0 0 8 0"/>
+      <polygonVertex at="0 0 0 -8 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <setItemColor blue="102" green="102" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="8 0 -8 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 -8"/>
+      <polygonVertex at="8 0 8 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-8 0 8 0 0 0"/>
+      <polygonVertex at="8 0 8 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 -8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="8 0 8 0 0 0"/>
+      <polygonVertex at="-8 0 8 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="8 0 8 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 8"/>
+      <polygonVertex at="8 0 -8 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <setItemColor blue="153" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -8 0 -8 0"/>
+      <polygonVertex at="0 0 8 0 -8 0"/>
+      <polygonVertex at="0 8 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 8 0 8 0"/>
+      <polygonVertex at="0 8 0 0 0 0"/>
+      <polygonVertex at="0 0 8 0 -8 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 8 0 -8 0"/>
+      <polygonVertex at="0 -8 0 0 0 0"/>
+      <polygonVertex at="0 0 8 0 8 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 8 0 -8 0"/>
+      <polygonVertex at="0 0 -8 0 -8 0"/>
+      <polygonVertex at="0 -8 0 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <setItemColor blue="204" green="51" red="0"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="0" title="no panels">
+      <ViewModel distance="100.37162017822266" far="200.74327087402344" near="0.2509290874004364" parallel="false" stereoAngle="0.0" width="45.1672248840332">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.027180690318346024" y="0.9853991270065308" z="-0.16807788610458374"/>
+        <LookDirection x="-0.30709385871887207" y="-0.16824106872081757" z="-0.9366900324821472"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="100.37162017822266" far="200.74327087402344" near="0.2509290874004364" parallel="false" stereoAngle="0.0" width="45.1672248840332">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.027180690318346024" y="0.9853991270065308" z="-0.16807788610458374"/>
+      <LookDirection x="-0.30709385871887207" y="-0.16824106872081757" z="-0.9366900324821472"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="octahedral" renderingStyle="Tesseractix">
+    <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="0" orbit="[[0,1,2],[0,1,2]]" prototype="1 0 -1 0 0 1"/>
+    <Direction color="0,141,54" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+    <Direction color="240,160,0" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+    <Direction color="255,255,255" name="1" orbit="[[0,0,1],[0,1,2]]" prototype="0 0 1 0 0 1"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="synestructics" renderingStyle="small octahedra">
+      <Direction color="240,160,0" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="220,76,0" name="orange" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="255,41,183" name="magenta" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

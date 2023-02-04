@@ -1,6 +1,6 @@
 ---
 title: Escher's Solid
-description: This compound of three octahedra features in Escher's Waterfall print.
+description: This compound of three squashed octahedra features in Escher's Waterfall print.
 image: https://vorth.github.io/vzome-sharing/2023/02/03/21-27-28-Eschers-solid-octahedral/Eschers-solid-octahedral.png
 published: true
 layout: vzome
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-This compound of three octahedra features in Escher's Waterfall print.
+This compound of three squashed octahedra features in Escher's Waterfall print.
 
 <figure style="width: 87%; margin: 5%">
   <vzome-viewer style="width: 100%; height: 60vh"

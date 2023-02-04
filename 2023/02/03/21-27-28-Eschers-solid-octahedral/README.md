@@ -1,7 +1,9 @@
 
 ## How to Use or Share this Design
 
- - [raw vZome file](<https://raw.githubusercontent.com/vorth/vzome-sharing/main/2023/02/03/21-27-28-Eschers-solid-octahedral/Eschers-solid-octahedral.vZome>) to use in vZome desktop or vZome Online
+ - [***custom web page***][post] to share this design; *try it before you share it!*
+ - [source file for that custom page][source]; click to customize
+ - [raw vZome file][raw] to use in vZome desktop or vZome Online
  
  HTML for embedding in any web page:
  ```html
@@ -21,3 +23,7 @@
 
 ![Image](<Eschers-solid-octahedral.png>)
 
+
+[post]: <https://vorth.github.io/vzome-sharing/2023/02/03/Eschers-solid-octahedral-21-27-28.html>
+[source]: <https://github.com/vorth/vzome-sharing/edit/main/_posts/2023-02-03-Eschers-solid-octahedral-21-27-28.md>
+[raw]: <https://raw.githubusercontent.com/vorth/vzome-sharing/main/2023/02/03/21-27-28-Eschers-solid-octahedral/Eschers-solid-octahedral.vZome>

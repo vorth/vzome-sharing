@@ -1,0 +1,117 @@
+---
+title: Vertex-first Projection of the 120-cell
+layout: vzome
+---
+
+<p>
+	David Richter showed me a way to use 1/5 of the vertices of a cell-first 120 cell projection to construct
+  a cell-first 600-cell projection... a beautiful thing with tetrahedral symmetry.
+  Using that as a starting point, and adding a &quot;centroid&quot; command to vZome, 
+  I connected all the centroids of the 600-cell&#39;s tetrahedra. 
+  David assures me that projection is linear, so the projection of a centroid is the centroid of a projection. 
+  In short, this projection is valid. Note that the center of the model is a vertex surrounded by 4 yellow struts...
+  the edges of a tetrahedral clump of dodecahedra!</p>
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2023/02/04/10-05-19-vertexFirst120cell/vertexFirst120cell.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2023/02/04/10-05-19-vertexFirst120cell/vertexFirst120cell.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    vertex-first projection of the 120-cell
+ </figcaption>
+</figure>
+
+<p>
+	In truth, this is really only half of the vertex-first projection of the 120-cell. 
+  To be complete, it needs to have a central inversion applied. This makes it pretty noisy, however,
+  and it is harder to see the dodec cells, so I have not shown the full projection here.</p>
+<p>
+	I should say that even David&#39;s 600-cell projection is fairly difficult to derive...
+  you really want the original 120-cell to guide you in building the right tetrahedra.
+  This projection is further derived from that, so you can imagine how painstaking it was.</p>
+<p>
+	The projection needed three new &quot;automatic&quot; directions in vZome, colored here as lavender, maroon, and olive.
+  All three new directions lie in the blue plane, so they have simple representations as vectors:
+  maroon is the diagonal of a 1 by tau^4 rectangle, lavender is the diagonal of a tau+1 by tau+2 rectangle, 
+  and olive is the diagonal of a 1 by tau+2 rectangle. The yellow, green, and blue struts here are the usual Zome directions,
+  although perhaps not usual lengths. Perhaps not surprisingly, this same color scheme (set of 6 &quot;directions&quot;) 
+  appeared first in the cell-first 600-cell projection. I may add these directions to vZome permanently,
+  to simplify construction of models in this family. (Imagine the truncated 120-cell under this projection!)</p>
+<p>
+	Note also that the vertices of this model, being derived as centroids of tetrahedra, involve a division by four. 
+  That means that it is fairly likely that these points are not Zome-constructible, even with arbitrarily small tau-scales.
+  However, the vertices should be Zome-constructible if everything is multiplied by four. 
+  The points fit in the vZome coordinate system (obviously), since I&#39;m using rational coefficients. 
+  (It turns out that my coordinate system is essentially identical to the &quot;icosians with rational coefficients&quot;.)</p>
+<p>
+	It will be very interesting to compute the lengths of the struts in this model...
+  looks like I need some &quot;inspector&quot; features in vZome.</p>
+<hr />
+<p>
+	<em>Update, Nov. 20, 2010</em> - The emergence of <a href="http://shapeways.com">Shapeways</a> has enabled me to actually create the maroon,
+  olive, and lavender struts necessary to <a href="/vertexFirst120cell/rZomeModel">build this model</a>.
+  My son, Derek, and I built it over the course of four or five evenings. The construction is very challenging, 
+  possible only by following along in vZome, since it is hard to know exactly which strut to use at any point,
+  and to know exactly how it should go into the ball. Maroon struts are particularly tricky.</p>
+<hr />
+<p>
+	It turns out that both this model and the 600-cell projection can both be built in a new,
+  tetrahedral Zome-like system. It employ the same golden ratio scaling principles as icosahedral Zome,
+  but uses tetrahedral symmetry instead. To explore this world, I have added the three new directions to vZome permanently.</p>
+<p>
+	Playing around with these new directions, you can pretty quickly discover that the struts have
+  the same surprising property of regular Zome... you can make lots of triangles and tetrahedra.
+  (This should be obvious to anyone who has looked at David&#39;s 600-cell projection.)</p>
+<p>
+	Note that the new directions have struts in 60 different directions. However, the tetrahedral 
+  system uses only 1/5 of those directions, so staying &quot;within the system&quot; can be rather difficult. 
+  Eventually, I will implement a &quot;truly tetrahedral&quot; symmetry system that has at most 12
+  vectors for each of these directions. Sooner than that, I may define a new &quot;rendering&quot; 
+  style for the tetrahedral system, to help you stay in the right 1/5. One possibility for a connector
+  ball geometry is shown below. Note that this is not a &quot;real&quot; connector, in that the struts 
+  will be touching at vertices, rather than fitting in holes in faces.</p>
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2023/02/04/09-34-32-tetraSystemConnector/tetraSystemConnector.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2023/02/04/09-34-32-tetraSystemConnector/tetraSystemConnector.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    study for tetrahedral connector
+ </figcaption>
+</figure>
+
+<p>
+	There&#39;s another wrinkle... to be able to connect models together, the connector must 
+  fit onto both ends of any particular strut, WITHOUT being reoriented. One way to achieve 
+  this is to simply perform &quot;point reflect&quot; on the whole connector model, but you end up 
+  with something that allows octahedral symmetry! You can simply accept this, or you can be a
+  purist and model struts as being &quot;oriented&quot;. Imagine struts that are &quot;male&quot;
+  on one end and &quot;female&quot; on the other, and a connector ball with fittings for both!</p>
+<p>
+	If you want to have some fun, try to model a &quot;real&quot; connector, and struts to 
+  fit into its holes. Send me what you come up with, and I&#39;ll include it as a &quot;rendering&quot;, giving you credit.</p>
+<hr />
+<p>
+	It is clearly possible to build the entire family of 15 H4 polychora with this projection.
+  As a fun proof of concept, I started the one that has icosahedra and truncated tetrahedra...
+  one I don&#39;t think I had ever seen modeled, even in the red-yellow-blue projection.
+  This took some tinkering to get right, probably because there are a lot more directions in the 
+  icosahedral system than you want to use for the tetrahedral system.</p>
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2023/02/04/20-08-58-cell-first-H4-0011/cell-first-H4-0011.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2023/02/04/20-08-58-cell-first-H4-0011/cell-first-H4-0011.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    tetrahedral projection of the truncated 600-cell core
+ </figcaption>
+</figure>
+
+<p>
+	Note that each of the three viewers above have a small download button, so you can open these models yourself with vZome.</p>

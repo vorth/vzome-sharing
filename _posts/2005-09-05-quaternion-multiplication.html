@@ -1,0 +1,168 @@
+---
+title: Quaternion Multiplication and 4D Rotation
+image: https://vorth.github.io/vzome-sharing/2023/02/05/12-37-32-120cell-red-quaternion/120cell-red-quaternion.png
+layout: vzome
+---
+
+<p>
+	<a href="/vertexFirst120cell">A few days ago</a>, David Richter and I found a projection from 4D to 3D
+  that preserves tetrahedral symmetry, and produces a Zome-like system with six basic directions, 
+  and golden ratio length scaling. Today, David somehow derived a quaternion-based mechanism for
+  the projection that produces that system. Here is the critical excerpt from David&#39;s email today:</p>
+<blockquote>
+	The other thing I was going to mention was about those vertices of the 120-cell. The idea is to
+  think of them as quaternions and then obtain the other sets using quaternion multiplication.
+  For example, start with the 120 vertices of the 600-cell, those having the shapes (2,0,0,0) (8 vertices),
+  (1,1,1,1) (16 vertices), and (0,a,1,b) (96 vertices). Imagining these as quaternions, 
+  I suppose we could write them as 2, 1+i+j+k, ia+j+kb, and so on. Now multiply all of these 120 quaternions 
+  on the left by the quaternion 1+i. In effect, you can check, you are transforming each vector (w,x,y,z)
+  to the vector (-x+w,x+w,y-z,y+z). If you do this to all the 120 vertices listed above,
+  you will get the vertices of one of the 600-cells inscribed in the dual 120-cell, dilated by some factor.
+  You can use other quaternions to get other 600-cells as well. You can multiply on the right to get the mirror-images.</blockquote>
+
+<p>
+	It turned out to be trivial to implement the &quot;in effect&quot; transformation he mentions in vZome, so I did it.
+  Sure enough, my 4D data set for the 120 cell, which usually renders as our familiar red-yellow-blue friend with icosahedral symmetry,
+  showed up with the new tetrahedral symmetry.</p>
+<p>
+	Excited by this, I hastily boned up on my quaternion multiplication (not hard), and started trying other quaternions.</p>
+<pre>
+1+i+j+k</pre>
+<p>
+	was the first one I tried. Lo and behold, out came the usual red-yellow-blue projection again! Next I tried</p>
+<pre>
+1-i+j-k</pre>
+<p>
+	. Same thing! OK, so the important principle must be to drop one of the components. I tried</p>
+<pre>
+1+i+j</pre>
+<p>
+	... and got an edge-first projection with six-fold rotational symmetry!</p>
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2023/02/05/12-30-23-120cell-yellow-quaternion/120cell-yellow-quaternion.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2023/02/05/12-30-23-120cell-yellow-quaternion/120cell-yellow-quaternion.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    120-cell projected after <pre>1+i+j</pre> quaternion
+ </figcaption>
+</figure>
+
+<p>
+	This projection required five &quot;new&quot; directions in the icosahedral system.
+  Note that the existing &quot;purple&quot; vZome direction is in use. 
+  One of the endpoints of the animation loop shows the sixfold symmetry.</p>
+<p>
+	Next, I opened the 4D data set for the 24-cell. The result is below. It only needed one &quot;new&quot; direction,
+  colored turquoise here. This is one of the five directions required for the 120-cell projection!</p>
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2023/02/05/12-13-59-24cell-yellow-quaternion/24cell-yellow-quaternion.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2023/02/05/12-13-59-24cell-yellow-quaternion/24cell-yellow-quaternion.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    24-cell projected after <pre>1+i+j</pre> quaternion
+ </figcaption>
+</figure>
+
+<p>
+	Finally, I opened the 600-cell data set. 
+  It also requires the same five new directions. Note that the &quot;maroon&quot; direction from the tetrahedral system makes an appearance.
+  By the way, this is a &quot;face-first&quot; projection of the 600-cell.</p>
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2023/02/05/12-33-01-600cell-yellow-quaternion/600cell-yellow-quaternion.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2023/02/05/12-33-01-600cell-yellow-quaternion/600cell-yellow-quaternion.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    600-cell projected after <pre>1+i+j</pre> quaternion
+ </figcaption>
+</figure>
+
+<p>
+	There are so many directions to explore. What could be built with this sixfold prismatic system? 
+  A model of hexagonal close-packing of spheres? What else? More excitingly, what other symmetry groups,
+  and related &quot;zone&quot; systems, will emerge from using other quaternions? Fivefold prismatic symmetry?
+  Tenfold? Thirtyfold? I suspect that all of the symmetries of H4 are available.</p>
+<p>
+	Note that H4 does not actually contain sixfold symmetry. What we see here is threefold rotational symmetry,
+  with mirror symmetry through the orthogonal plane. The 4D polychora we are projecting here have only 
+  threefold symmetry, but when projected they exhibit sixfold symmetry, much like the isometric projection of a 3D cube,
+  which produces a hexagonal outline. All these polychora project with a required &quot;central reflection&quot;...
+  just as the tetrahedral projection of the 600 cell has two overlaid tetrahedra at its center,
+  the trigonal projection shown here has two triangles overlaid.</p>
+<p>
+	I have a conjecture that the projection preserving fivefold rotational symmetry 
+  (face-first for the 120-cell, edge-first for the 600-cell) is easily attainable,
+  using a quaternion that has a factor of tau somewhere in it... something like</p>
+<pre>
+1 + tau*i</pre>
+<p>
+	I&#39;m going to try that shortly. Another quaternion should produce the twofold symmetry.
+  Note that there seem to be &quot;classes&quot; of quaternions (rotations) that will all produce the same projection.
+  This is natural, since there is a great deal of symmetry in H4, and many ways to rotate a model to find an axis with a particular symmetry.
+  I expect that all quaternions that have exactly two coefficients of 1 or -1 and two of zero will produce tetrahedral symmetry...
+  I&#39;ve already found that k-i produces the same projection as 1+i.</p>
+
+<hr />
+<p>
+	I was right about 1+tau*i! Furthermore, I was correct in my (unstated) prediction that the projection would show pentagons in orange,
+  and be a face-first projection of the 120-cell, and have tenfold symmetry in 3D.
+  Here&#39;s an image looking down the only axis of rotational symmetry:</p>
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2023/02/05/12-37-32-120cell-red-quaternion/120cell-red-quaternion.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2023/02/05/12-37-32-120cell-red-quaternion/120cell-red-quaternion.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    120-cell projected after <pre>1 + tau*i</pre> quaternion
+ </figcaption>
+</figure>
+
+<p>
+	Just as the sixfold system reused maroon from the tetrahedral system, this one reuses lavender and olive from that system.
+  It requires just two new directions, colored here as navy and rose. 
+  Both of these are among the five new directions in the sixfold system... typically serendipitous.</p>
+
+<figure style="width: 87%; margin: 5%">
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2023/02/05/12-37-32-120cell-red-quaternion/120cell-red-quaternion.png" >
+ <figcaption style="text-align: center; font-style: italic;">
+    120-cell, looking at the equator
+ </figcaption>
+</figure>
+
+<p>
+	The image above is the same 120-cell, now viewed with along a blue axis.
+  Note that the mirror symmetry is not the usual XZ plane... it is through (obviously) the single axis of tenfold symmetry.
+  You can see the two &quot;poles&quot; of the model, to the upper left and lower right. 
+  The red edge you are looking straight at is a joint between two adjacent flat dodecahedra,
+  and there are ten identical ones circling the equator. In this flat dodec, you&#39;re seeing the largest Petrie polygon edge-on,
+  seen as a zigzag of rose, lavender, and blue struts.</p>
+<hr />
+<p>
+	Okay, now you, too, can play with quaternion multiplication! I just uploaded a <a href="https://www.vzome.com">new version of vZome</a>
+  that includes the ability to project 4D objects using different projections.</p>
+<p>
+	Before you can do anything, you need to get some 4D models to project.
+  Here are data files for the <a href="/sixfoldSymmetry/16cell.vef">16-cell</a>, the <a href="/sixfoldSymmetry/24cell.vef">24-cell</a>, 
+  the <a href="/sixfoldSymmetry/120cell.vef">120-cell</a>, and the <a href="/sixfoldSymmetry/600cell.vef">600-cell</a>.
+  You should download these files to your desktop.
+  To view one in vZome, you need to use &quot;File&quot; / &quot;Import 3D...&quot; / &quot;4D VEF projection&quot; menu command.
+  When you apply that command, you should always have an empty selection... no highlighted balls, struts, or panels.</p>
+<p>
+	Now here&#39;s the new trick to change the projection. Simply select any strut, 
+  and apply the &quot;Symmetry&quot; / &quot;Set Axis&quot; command. (You may need to build a strut first.)
+  The length of the strut will determine the scaling factor of the projection.
+  The direction will determine the symmetry of the projection. 
+  You&#39;ll find that using red, blue, or yellow struts gives you the same, old red-yellow-blue projection we had before,
+  perhaps scaled. For 10-fold symmetry, use an orange strut.
+  For 6-fold symmetry, use a purple strut. For tetrahedral symmetry, use a green strut.</p>

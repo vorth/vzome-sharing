@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vzome:vZome field="golden" version="2.1 Beta 17" xmlns:vzome="http://tns.vorthmann.org/vZome/3.0.0/">
+  <Viewing>
+    <ViewModel near="0.9393331286211775" far="751.4664916992188" width="169.07996063232432" distance="375.7332458496094"
+    stereoAngle="0.0" parallel="false">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.5371568243654664" y="-0.09937073936154835" z="0.8376085017455066"/>
+      <LookDirection x="0.8205257798320715" y="-0.291662312338285" z="0.49159997985400833"/>
+    </ViewModel>
+    <ViewModel near="0.10000000149011612" far="80.0" width="18.0" distance="40.0" stereoAngle="0.0" parallel="false"
+    name="default">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction name="blue" available="true" snap="true" render="true" color="0,118,149">
+      <LengthModel scale="5" taus="0" ones="1" divisor="2"/>
+    </Direction>
+    <Direction name="red" available="true" snap="true" render="true" color="175,0,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="yellow" available="true" snap="true" render="true" color="240,160,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="green" available="true" snap="true" render="true" color="0,141,54">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="orange" available="true" snap="true" render="true" color="220,76,0">
+      <LengthModel scale="4" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="purple" available="true" snap="true" build="true" render="true" color="108,0,198">
+      <LengthModel scale="4" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="black" render="true" color="30,30,30">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="lavender" render="true" color="175,135,255">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="olive" render="true" color="100,113,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="maroon" render="true" color="117,0,50">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="rose" render="true" color="255,51,143">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="navy" render="true" color="0,0,153">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="turquoise" render="true" color="18,205,148">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="coral" render="true" color="255,126,106">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="sulfur" render="true" color="230,245,62">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_0" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_1" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_2" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_3" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_4" render="true" color="239,255,239">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_5" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_6" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_7" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_9"/>
+    <Direction name="unnamed_10"/>
+    <Direction name="unnamed_11"/>
+    <Direction name="unnamed_12"/>
+    <Direction name="unnamed_13"/>
+    <Direction name="unnamed_14"/>
+    <Direction name="unnamed_15"/>
+    <Direction name="unnamed_16"/>
+    <Direction name="unnamed_17"/>
+    <Direction name="unnamed_18"/>
+    <Direction name="unnamed_19"/>
+    <Direction name="unnamed_20"/>
+    <Direction name="unnamed_21"/>
+    <Direction name="unnamed_22"/>
+    <Direction name="unnamed_23"/>
+    <Direction name="unnamed_24"/>
+    <Direction name="unnamed_25"/>
+  </SymmetrySystem>
+  <EditHistory editNumber="26">
+    <StrutCreation>
+      <point attrName="anchor"/>
+      <Axis symm="icosahedral" dir="blue" index="38" attrName="axis"/>
+      <IntegralNumber value="5phi+3" attrName="len"/>
+    </StrutCreation>
+    <StrutCreation>
+      <point attrName="anchor"/>
+      <Axis symm="icosahedral" dir="orange" index="43" attrName="axis"/>
+      <IntegralNumber value="3phi+2" attrName="len"/>
+    </StrutCreation>
+    <StrutCreation>
+      <point attrName="anchor"/>
+      <Axis symm="icosahedral" dir="purple" index="5" attrName="axis"/>
+      <IntegralNumber value="2phi+1" attrName="len"/>
+    </StrutCreation>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start/>
+        <end x="(8phi+5)/-2" y="(3phi+2)/2" z="(5phi+3)/2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start/>
+        <end x="(3phi+2)/-2" y="(11phi+7)/-2" z="(2phi+1)/2"/>
+      </segment>
+    </SelectManifestation>
+    <DeselectAll/>
+    <EndBlock/>
+    <CommandEdit command="CommandUniformH4Polytope">
+      <Integer value="8" attrName="polytope.index"/>
+    </CommandEdit>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start/>
+        <end x="(8phi+5)/-2" y="(3phi+2)/2" z="(5phi+3)/2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start/>
+        <end x="(3phi+2)/-2" y="(11phi+7)/-2" z="(2phi+1)/2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start/>
+        <end x="(5phi+3)/2" y="(2phi+1)/-2" z="(9phi+6)/2"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffineTransformAll/>
+    <BeginBlock/>
+    <InvertSelection/>
+    <SelectManifestation>
+      <point attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start/>
+        <end x="(8phi+5)/2" y="(7phi+4)/-2" z="(phi+1)/2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="(8phi+5)/2" y="(7phi+4)/-2" z="(phi+1)/2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="(phi+1)/2" y="(2phi+1)/2" z="(11phi+6)/2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start/>
+        <end x="(phi+1)/2" y="(2phi+1)/2" z="(11phi+6)/2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="(7phi+4)/2" y="(11phi+7)/2" z="(2phi+1)/-2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start/>
+        <end x="(7phi+4)/2" y="(11phi+7)/2" z="(2phi+1)/-2"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandHide"/>
+  </EditHistory>
+</vzome:vZome>

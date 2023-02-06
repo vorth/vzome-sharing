@@ -1,0 +1,148 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Projections of the Grand Antiprism</title>
+</head>
+
+<body>
+
+<h2>Projections of the Grand Antiprism</h2>
+<br/>
+
+<center><img src="grandAntiprism-blue.jpg"/></center>
+
+<p>
+Today I learned of the <a href="http://cs.stmarys.ca/~dawson/images3.html">grand antiprism</a>, a unique four-dimensional polytope discovered by Conway and Guy.
+ <a href="http://hometown.aol.com/hedrondude/antiprisms.html" >Jonathan Bowers</a> gives more information about it.  Since its vertices are 100 of the 120 vertices of the 600-cell, it certainly
+seemed to be possible to model the grand antiprism in <a href="http://www.zometool.com">Zome</a> and
+<a href="/zome">vZome</a>.  As you can see from the images on this page, this turns out to be true.
+</p>
+
+<p><a href="http://homepages.wmich.edu/~drichter/">David Richter</a> gave me the hint I needed to construct the object in Zome.  He explained that
+one way to "symmetrically" remove 20 of the 120 vertices of the 600-cell was to find the projections of two
+orthogonal decagons, and remove the balls and struts comprising those decagons and all attached struts.
+The usual Zome model of the 600-cell
+exhibits some obvious blue decagons as "equators", and each equator has an orthogonal red "polar axis"
+that turns out to be the other decagon, projected down to a line segment.
+Using "H_4 1",  shift-select, and "select neighbors" in vZome, it was trivial to produce this model.
+</p>
+
+<center>
+<table><tr>
+<td><a href="grandAntiprism-blue.jnlp"><img src="grandAntiprism-blue.gif"/></a></td>
+<td width="300">Click on the animation to launch vZome with this model.
+You can also get the <a href="grandAntiprism-blue.pov">POV-Ray input file</a>.</td>
+</tr></table>
+</center>
+
+<p>
+Building the object with Zome is fun and instructive, but you must keep in mind that this is only one of the
+infinitely many possible projections of the grand antiprism to three-dimensional space.  Let's call it the "Zome
+projection".  It could readily be described as the "most symmetric" projection of this object, since each of the
+interior cells (like the central blue pentagonal antiprism) actually represents the projections of two distinct
+cells in the four-dimensional polytope, overlaid to coincidence in three dimensions.
+This projection also clearly exhibits
+the three-dimensional symmetry group of the pentagonal antiprism.
+</p>
+
+<p>
+The Zome projection shows one of the cycles of pentagonal antiprism cells in its columnar interior (with the
+coincidence hiding the fact that there are 10 antiprisms).  But where is the "orthogonal" cycle of antiprisms
+mentioned by <a href="http://hometown.aol.com/hedrondude/antiprisms.html">Bowers</a>?  Flattened around the "equator"
+of the model, so all you see is the triangular sides of the antiprisms; the pentagons are projected down to
+red lines, two struts and three balls.
+</p>
+
+<p>
+There is another projection that is shows one cycle of antiprisms as a central column, but does not exhibit the
+coincidence of the Zome projection.  This projection, accomplished in vZome by using a red strut
+as a symmetry axis before creating the initial 600-cell, is shown below.  You would call this the
+"face first" projection of the grand antiprism, since two pentagonal faces lie in the very center of the model;
+the Zome projection is a "cell first" projection.
+</p>
+
+<center><img src="grandAntiprism-red.jpg"/></center>
+
+
+<p>
+In this projection, you can see all ten of the central column of pentagonal antiprisms.  As in the Zome
+projection, the equatorial ring of pentagons is projected down to red lines, but with a different orientation,
+so that none of the five vertices of the pentagons are coincident.  Note, of course, that most of the struts
+in this model are not real Zome struts... only the red struts and the perpendicular blue struts are.
+Because the coincidence (2-to-1 overlaying) is gone, this projection displays roughly twice the number of struts as the Zome
+projection, and has the symmetry of a decagonal prism rather than a pentagonal antiprism.
+</p>
+
+<center>
+<table><tr>
+<td><a href="grandAntiprism-red.jnlp"><img src="grandAntiprism-red.gif"/></a></td>
+<td width="300">Click on the animation to launch vZome with this model.
+You can also get the <a href="grandAntiprism-red.pov">POV-Ray input file</a>.</td>
+</tr></table>
+</center>
+
+
+<p>
+(I should note that all of the projections shown on this page were manually derived from the related
+600-cell projection, always by identifying two orthogonal decagons and removing them and any incident
+struts.  In the two projections we have seen thus far, identifying those orthogonal decagons was
+trivial; in the subsequent projections, there was more guessing involved, but the results seem to be
+pretty obviously correct.  The cycles of pentagons are almost completely disjoint, as they are
+in the four-dimensional object, though occasionally the projection collapses a separating edge
+down to a point.  Nonetheless, you should bear in mind that my "reverse-engineered
+projections" have not been rigorously proven to be faithful projections of the grand antiprism.)
+</p>
+
+
+<p>
+Is there a projection that shows more clearly both of the orthogonal chains of pentagonal antiprisms at once?  Yes, there are many.
+Two are easy to achieve with vZome.  The first is a "green strut" projection, and uses only an octahedral subset
+of the blue, yellow, and green zones from real Zome.
+</p>
+
+<center><img src="grandAntiprism-green.jpg"/></center>
+
+
+<p>
+In this projection, I have added panels to show the pentagonal faces of both antiprism cycles, which would
+be very hard to pick out otherwise.  This projection has no axis of prismatic or antiprismatic symmetry,
+so does not lend itself to animation.  However, it is very instructive to view it in vZome in a parallel ("perspective" off) projection, particularly with direction "snap" on.  Snapping to a particular red axis gives you
+the view below:
+</p>
+
+
+<center>
+<table><tr>
+<td><a href="grandAntiprism-green.jnlp"><img src="grandAntiprism-green-thumb.png"/></a></td>
+<td width="300">Click on the image to launch vZome with this model.
+You can also get a beautiful <a href="grandAntiprism-green.pdf">PDF version of this image</a>,
+or the <a href="grandAntiprism-green.pov">POV-Ray input file</a> for the larger view above.</td>
+</tr></table>
+</center>
+
+<p>
+Even if you select a particular projection direction (like the green or red strut), there are still a variety
+of different projections of the grand antiprism available in each case, depending on the orientation of the projection
+hyperplane with respect to the symmetry axes of the grand antiprism itself.  
+For example, even the Zome projection admits at least one other projection of the grand antiprism, shown below,
+with neither cycle of pentagons collapsed to line segments.  This projection has no antiprism symmetry, nor
+even pyritohedral symmetry.  Here's a simple
+<a href="grandAntiprism-blue4fold.pdf">line drawn parallel projection</a> of it that has the symmetry of a square.
+Can anyone generate some other projection that has interesting properties?
+</p>
+
+<center><img src="grandAntiprism-blue4fold.jpg"/></center>
+
+
+<center>
+<table><tr>
+<td><a href="grandAntiprism-blue4fold.jnlp"><img src="grandantiprism_blue4fold_thumb.jpg"/></a></td>
+<td width="300">Click on the image to launch vZome with this model.
+You can also get the <a href="grandAntiprism-blue4fold.pov">POV-Ray input file</a> for this model.</td>
+</tr></table>
+</center>
+
+
+
+</body>
+</html>

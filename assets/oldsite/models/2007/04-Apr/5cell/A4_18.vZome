@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vzome:vZome field="golden" version="2.1 Beta 14" xmlns:vzome="http://tns.vorthmann.org/vZome/3.0.0/">
+  <Viewing>
+    <ViewModel near="0.11502738170366557" far="92.02190399169922" width="20.704928398132324" distance="46.01095199584961"
+    stereoAngle="0.0" parallel="true">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.6881909521597284" y="0.5877852682121718" z="-0.42532539524255053"/>
+      <LookDirection x="-0.5257311082596874" y="-0.0" z="-0.8506508107373089"/>
+    </ViewModel>
+    <ViewModel near="0.10000000149011612" far="80.0" width="18.0" distance="40.0" stereoAngle="0.0" parallel="false"
+    name="default">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+    <ViewModel near="0.11502738170366557" far="92.02190399169922" width="20.704928398132324" distance="46.01095199584961"
+    stereoAngle="0.0" parallel="true" name="ghost">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.6881909521597284" y="0.5877852682121718" z="-0.42532539524255053"/>
+      <LookDirection x="-0.5257311082596874" y="-0.0" z="-0.8506508107373089"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" useGraphicalViews="false" renderingStyle="solid connectors">
+    <Direction name="blue" available="true" snap="true" render="true" color="0,118,149">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="red" available="true" snap="true" render="true" color="175,0,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="yellow" available="true" snap="true" render="true" color="240,160,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="green" available="true" snap="true" build="true" render="true" color="0,141,54">
+      <LengthModel scale="0" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="orange" available="true" snap="true" render="true" color="220,76,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="purple" available="true" snap="true" render="true" color="108,0,198">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="black" render="true" color="30,30,30">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="lavender" render="true" color="175,135,255">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="olive" render="true" color="100,113,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="maroon" render="true" color="117,0,50">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="rose" render="true" color="255,51,143">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="navy" render="true" color="0,0,153">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="turquoise" render="true" color="18,205,148">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="coral" render="true" color="255,126,106">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="sulfur" render="true" color="230,245,62">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_0" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_1" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_2" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_3" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_4" render="true" color="239,255,239">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_5" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_6" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_7" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+  </SymmetrySystem>
+  <EditHistory editNumber="24">
+    <StrutCreation>
+      <point attrName="anchor"/>
+      <Axis symm="icosahedral" dir="green" index="8" attrName="axis"/>
+      <IntegralNumber value="2" attrName="len"/>
+    </StrutCreation>
+    <SymmetryAxisChange>
+      <segment attrName="new">
+        <start/>
+        <end x="2" z="2"/>
+      </segment>
+    </SymmetryAxisChange>
+    <SelectAll/>
+    <CommandEdit command="CommandHide"/>
+    <CommandEdit command="CommandImportVEFData">
+      <Boolean value="false" attrName="org.vorthmann.zome.commands.CommandImportVEFData.no.inversion"/>
+      <String attrName="org.vorthmann.zome.commands.CommandImportVEFData.vef.string">5 (0,0) (0,0) (0,0) (0,-4)
+        (-2,1) (2,-1) (2,-1) (0,1) (2,-1) (-2,1) (2,-1) (0,1) (-2,1) (-2,1) (-2,1) (0,1) (2,-1) (2,-1) (-2,1) (0,1)
+        10 2 3 3 4 4 2 1 3 4 1 1 2 0 3 4 0 0 2 0 1 10 3 2 3 4 3 1 3 4 3 1 2 4 3 1 2 3 3 0 3 4 3 0 2 4 3 0 2 3 3
+        0 1 4 3 0 1 3 3 0 1 2 </String>
+    </CommandEdit>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygon attrName="manifestation">
+        <vertex y="8"/>
+        <vertex y="-4phi" z="8phi-4"/>
+        <vertex x="8phi-4" y="4phi-4"/>
+      </polygon>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygon attrName="manifestation">
+        <vertex y="8"/>
+        <vertex x="-8phi+4" y="4phi-4"/>
+        <vertex y="-4phi" z="8phi-4"/>
+      </polygon>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygon attrName="manifestation">
+        <vertex y="-4phi" z="8phi-4"/>
+        <vertex y="-4phi" z="-8phi+4"/>
+        <vertex x="8phi-4" y="4phi-4"/>
+      </polygon>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandHide"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygon attrName="manifestation">
+        <vertex y="8"/>
+        <vertex x="-8phi+4" y="4phi-4"/>
+        <vertex x="8phi-4" y="4phi-4"/>
+      </polygon>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygon attrName="manifestation">
+        <vertex x="-8phi+4" y="4phi-4"/>
+        <vertex y="-4phi" z="8phi-4"/>
+        <vertex x="8phi-4" y="4phi-4"/>
+      </polygon>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygon attrName="manifestation">
+        <vertex y="8"/>
+        <vertex y="-4phi" z="8phi-4"/>
+        <vertex y="-4phi" z="-8phi+4"/>
+      </polygon>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygon attrName="manifestation">
+        <vertex x="-8phi+4" y="4phi-4"/>
+        <vertex y="-4phi" z="-8phi+4"/>
+        <vertex x="8phi-4" y="4phi-4"/>
+      </polygon>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandHide"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygon attrName="manifestation">
+        <vertex y="8"/>
+        <vertex y="-4phi" z="-8phi+4"/>
+        <vertex x="8phi-4" y="4phi-4"/>
+      </polygon>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygon attrName="manifestation">
+        <vertex y="8"/>
+        <vertex x="-8phi+4" y="4phi-4"/>
+        <vertex y="-4phi" z="-8phi+4"/>
+      </polygon>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygon attrName="manifestation">
+        <vertex x="-8phi+4" y="4phi-4"/>
+        <vertex y="-4phi" z="8phi-4"/>
+        <vertex y="-4phi" z="-8phi+4"/>
+      </polygon>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandHide"/>
+  </EditHistory>
+</vzome:vZome>

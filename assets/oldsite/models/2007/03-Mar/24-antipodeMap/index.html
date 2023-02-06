@@ -1,0 +1,86 @@
+<HTML><HEAD><TITLE> 10-Cubes, Rhombo, and Subtle Symmetries </TITLE>
+</HEAD>
+<BODY bgcolor="#FFCCCC">
+<P align=center><B><FONT size=6>10-Cubes, Rhombo, and Subtle Symmetries<br>
+</FONT></B></P>
+
+<p>
+Today I "doodled" this simple object in Zome.  Although it appears rather uninteresting, it actually has quite a few interesting aspects, and I thought I'd share them.
+</p>
+
+<p>
+
+[img]http://www.vorthmann.org/zome/models/2007/03-Mar/24-antipodeMap/antipodeMap1.png[/img]
+
+</p>
+
+<p>
+Of course, one reason it appears uninteresting is that any two-dimensional image of a Zome model is hard to interpret.  To remedy this, you can download this [url=http://www.vorthmann.org/zome/models/2007/03-Mar/24-antipodeMap/antipodeMap2.jnlp]vZome model[/url], which is actually a vZome launcher pre-configured with the model.  The model has the interior struts removed; "undo" a few times to get them back.
+</p>
+
+<p>
+
+I made this object because I've been playing with the Zome projection of the 10-dimensional cube.  The full object is not really Zome-constructible in a practical sense, but vZome can render it.  A picture should convey it's complexity:
+</p>
+
+<p>
+
+[img]http://www.vorthmann.org/zome/models/2007/03-Mar/24-antipodeMap/yellow10cube.png[/img]
+
+</p>
+
+<p>
+But again, to really see it, open the [url=http://www.vorthmann.org/zome/models/2007/03-Mar/24-antipodeMap/yellow10cube.jnlp]vZome model[/url].
+
+</p>
+
+<p>
+Coxeter proved some facts about n-cube projections like this one, including the fact that it is an orthogonal projection.  I think of it as an "isometric" projection, as well, since all edges have the same length, like the isometric 2D projection of a 3-cube.
+
+</p>
+
+<p>
+The outer surface of the yellow 10-cube projection is a well-known polyhedron called the [url=http://mathworld.wolfram.com/RhombicEnneacontahedron.html]enneacontahedron[/url].  This is an example of a [url=http://mathworld.wolfram.com/EquilateralZonohedron.html]zonohedron[/url], and Coxeter also showed that this arises from any such n-cube projection.
+
+</p>
+
+<p>
+I think I recall seeing a proof that for any such zonohedron, an orthogonal projection of an n-cube, its interior can be partitioned into a collection of equilateral parallelipipeds.  I thought the proof was in Coxeter's [u]Regular Polytopes[/u], but I cannot find it.  It is clearly true of the 6-cube projection, since the [url=http://www.rhombo.com/]Rhombo[/url] toy is based on the principle.  I've been wondering if the same isn't true of the 10-cube, thus my explorations with yellow struts.  One thing is clear: there several (5, I think) types of parallelipiped involved, using two different rhombs as faces... the same 2 rhombs repeated in my simple little model, above.
+
+</p>
+
+<p>
+So, back to my little model.  It is clearly just a tiny portion of the 10-cube projection.  You may note (if you've opened the vZome model) that its interior is, indeed, partitioned into non-overlapping parallelipipeds.  If you subtract the interior structure, you'll also see that it, too, has a zonohedral outer hull, with five zones:
+
+[img]http://www.vorthmann.org/zome/models/2007/03-Mar/24-antipodeMap/antipodeMap2.png[/img]
+
+</p>
+
+<p>
+Since I'm trying to understand "10-cube Rhombo", I'm very interested in the partitioning of the interior.  Although I built up this model as if I were building with parallelipipeds, I'm fairly certain you could fill the same outer hull with a different arrangement of these "Rhombo blocks".  In fact, I'm reasonably certain that this object is a projection of a 5-cube... specifically, a [url=http://eusebeia.dyndns.org/4d/vis/07-hsr.html#Hidden_Surface_Removal]"hidden surface removed"[/url] projection.  If you included all the vertices and edges of the 5-cube in the projection, I think you'd end up with several different partitionings of the interior.
+
+</p>
+
+<p>
+I believe that the notion of hiding "back-facing" portions of the n-cube while projecting is the key to partitioning a zonohedron in 3-space.  But that is the subject of an entirely different discourse.
+
+</p>
+
+<p>
+As I held the Zome model in my hands, it struck me that I couldn't identify any sort of symmetry in the object.  In fact, there isn't any, unless you consider only the outer zonohedral hull.  Even there, the symmetry is subtle.  Any mirror planes?  No.  Any axes of rotational symmetry?  No.  What's left?  The "antipode map", or "central inversion": every vertex, edge, or face has its twin on the opposite side of the model.  This sort of symmetry is very common, in objects that have additional symmetry, like a cube or icosahedron.  However, I think this is the first Zome model I've constructed that has [i]no other[/i] symmetry but the central inversion!
+
+</p>
+
+<p>
+My intuition is that any object exhibiting [i]only[/i] central inversion symmetry must be a zonohedron, and therefore the convex hull of an n-cube projection to 3D.  I'd love for someone to make a convincing argument in support of this hypothesis, or in rejection of it.</p>
+
+
+<HR>
+
+<p>
+<a href="http://homepages.wmich.edu/~drichter/zomeindex.htm">David Richter's Zome Projects Index</a><br>
+<a href="/zome">vZome Home</a>
+</p>
+
+<HR>
+</BODY></HTML>

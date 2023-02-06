@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vzome:vZome field="golden" xmlns:vzome="http://tns.vorthmann.org/vZome/2.0.3/">
+   <editHistory editNumber="4">
+      <CommandUniformH4Polytope>
+         <attr name="symmetry.center">
+            <point x="0" y="0" z="0" w="0"/>
+         </attr>
+         <attr name="polytope.index">
+            <Integer value="1"/>
+         </attr>
+         <attr name="symmetry.axis.segment">
+            <segment>
+               <start x="0" y="0" z="0" w="0"/>
+               <end x="13phi+14" y="3" z="4phi-4" w="3phi+7"/>
+            </segment>
+         </attr>
+      </CommandUniformH4Polytope>
+      <CommandBuildAnchoredSegment>
+         <attr name="axis">
+            <Axis symm="icosahedral" dir="red" index="46"/>
+         </attr>
+         <attr name="length">
+            <IntegralNumber value="21phi+13"/>
+         </attr>
+         <point x="0" y="0" z="0" w="0"/>
+      </CommandBuildAnchoredSegment>
+      <CommandBuildAnchoredSegment>
+         <attr name="axis">
+            <Axis symm="icosahedral" dir="yellow" index="3"/>
+         </attr>
+         <attr name="length">
+            <IntegralNumber value="13phi+8"/>
+         </attr>
+         <point x="0" y="0" z="0" w="0"/>
+      </CommandBuildAnchoredSegment>
+      <CommandBuildAnchoredSegment>
+         <attr name="axis">
+            <Axis symm="icosahedral" dir="blue" index="22"/>
+         </attr>
+         <attr name="length">
+            <IntegralNumber value="42phi+26"/>
+         </attr>
+         <point x="0" y="0" z="0" w="0"/>
+      </CommandBuildAnchoredSegment>
+   </editHistory>
+</vzome:vZome>

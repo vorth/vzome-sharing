@@ -1,0 +1,192 @@
+<HTML><HEAD><TITLE>Zome 5-Cell with Ghost Symmetry</TITLE>
+</HEAD>
+<BODY bgcolor="#FFCCCC">
+<P align=center><B><FONT size=6>Zome 5-Cell with Ghost Symmetry<br>
+</FONT></B></P>
+
+<p>
+<b> Introduction.</b>
+</p>
+
+<p>
+The 5-cell is the simplest 4-dimensional regular polytope, consisting of 5 equivalent tetrahedral cells.  We can experience this in three dimensions only by projecting from 4D down to 3D.
+There is a well-known orthogonal projection that can be built in <a href="http://zometool.com">Zome</a>:
+</p>
+
+<table cellpadding=5>
+<tr valign="top">
+<td><p><a href="greenTetra.jnlp"><img src="greenTetra_L.png" height="250"></a></p></td>
+<td><p><a href="greenTetra.jnlp"><img src="greenTetra_R.png" height="250"></a></p></td>
+</tr>
+</table>
+
+<p>
+<i>The two images above form a "wall-eyed" stereo pair, as opposed to a "cross-eyed" pair.  Also, importantly, you can click on either image to load the model in <a href="/zome">vZome</a>, using Java Web Start.  This is true for all
+the images in the table below, as well.</i>
+</p>
+
+<p>
+Until recently, my friend, <a href='http://homepages.wmich.edu/~drichter'>David Richter</a>, and I believed that there
+was no other orthogonal 3D projection of the 5-cell that could be constructed with Zome.  This turns out to be false.  I recently stumbled upon such a projection, and
+David saw immediately that this implied that the entire family of 9 uniform A<sub>4</sub> polytopes could also be projected in this manner.  Furthermore, David showed that there are two other rZome-constructible projections, one using red, yellow, and blue, and one using just yellow and blue.
+</p>
+
+<p>
+The remarkable thing about this projection is that it exhibits "ghost symmetry".  This is our term
+for a phenomenon wherein the symmetry of a 4D object is subtly exposed in a 3D projection.
+Specifically, in this example, the new projection of the 5-cell has a 3D symmetry group that is nearly as simple as you can get: two orthogonal mirrors.  It certainly does not have any overt fivefold symmetry in 3D.  Nonetheless, there are two axes along which one can project orthogonally to 2D and
+obtain perfect fivefold symmetry!
+</p>
+
+<p>
+The table below shows stereo pairs for the new 5-cell projection, and the other 8 uniform A<sub>4</sub> polytopes.  It also shows the "ghost symmetry" 2D projection for each.  For explanation of the additional data in the table, and for more discussion of the A<sub>4</sub> Coxeter group, see <a href="http://homepages.wmich.edu/%7Edrichter/a4polychorazome.htm">David's page</a> on the other Zome projections of the A<sub>4</sub> family.
+</p>
+
+<p>
+All of these are constructible in real Zome, in principle.  In fact, several of them are challenging to build, due to the false intersections at inconvenient places, or simply due to the high degree of interconnectedness, making it difficult to get all the struts in place at the same time.  One alternative is to build the "hidden cell removed" versions, where half of the interior struts are omitted.  This corresponds to projecting only one hemisphere of the 4D hypersphere into 3D.
+</p>
+
+<p><b>The Models.</b></p>
+
+<p><center>
+<table width="90%" cellpadding=5>
+
+<tr valign="top">
+
+<td><p><a href="A4_18.jnlp"><img src="A4_18_L.png" height="250"></a></p></td>
+<td><p><a href="A4_18.jnlp"><img src="A4_18_R.png" height="250"></a></p></td>
+<td><p><a href="A4_18.jnlp"><img src="A4_18_ghost.png" height="250"></a></p></td>
+
+<td><p>
+<b>8 / 1000 /  (0)----0-----0-----0  </b> <br> 
+or <br>
+<b>1 / 0001 / 0-----0-----0----(0) </b><br>
+v=5, e=10, f=10{3}, <br>
+5 tetrahedra.  <br>
+This is the regular pentachoron.  
+</p></td>
+</tr>
+
+<tr valign="top">
+
+<td><p><a href="A4_24.jnlp"><img src="A4_24_L.png" height="250"></a></p></td>
+<td><p><a href="A4_24.jnlp"><img src="A4_24_R.png" height="250"></a></p></td>
+<td><p><a href="A4_24.jnlp"><img src="A4_24_ghost.png" height="250"></a></p></td>
+
+<td><p>
+<b>4 / 0100 /  0----(0)----0-----0  </b> <br>
+or <br> 
+<b>2 / 0010 / 0-----0----(0)----0 </b> <br>
+v=10, e=30, f=(10+20){3}, <br>
+5 tetrahedra, 5 octahedra.  <br>
+One may obtain this by truncating the regular pentachoron to its edge midpoints.
+</p></td></tr>
+
+<tr valign="top">
+
+<td><p><a href="A4_3C.jnlp"><img src="A4_3C_L.png" height="250"></a></p></td>
+<td><p><a href="A4_3C.jnlp"><img src="A4_3C_R.png" height="250"></a></p></td>
+<td><p><a href="A4_3C.jnlp"><img src="A4_3C_ghost.png" height="250"></a></p></td>
+
+<td><p>
+<b> C / 1100 /  (0)---(0)----0-----0 </b> <br>
+or <br>
+<b> 3 / 0011 / 0-----0----(0)---(0)</b><br>
+v=20, e=10+30, f=20{3}+10{6}, <br>
+5 tetrahedra, 5 truncated tetrahedra. <br>
+This is the truncated pentachoron.
+</p></td></tr>
+
+<tr valign="top">
+
+<td><p><a href="A4_5A.jnlp"><img src="A4_5A_L.png" height="250"></a></p></td>
+<td><p><a href="A4_5A.jnlp"><img src="A4_5A_R.png" height="250"></a></p></td>
+<td><p><a href="A4_5A.jnlp"><img src="A4_5A_ghost.png" height="250"></a></p></td>
+
+<td><p>
+<b>A / 1010 /  (0)----0----(0)----0  </b><br>
+or <br>
+<b>5 / 0101 / 0----(0)----0----(0)</b><br>
+v=30, e=30+60, f=(10+20+20){3}+30{4}, <br>
+5 octahedra, 5 cuboctahedra, 10 triangular prisms.
+</p></td></tr>
+
+<tr valign="top">
+
+<td><p><a href="A4_9.jnlp"><img src="A4_9_L.png" height="250"></a></p></td>
+<td><p><a href="A4_9.jnlp"><img src="A4_9_R.png" height="250"></a></p></td>
+<td><p><a href="A4_9.jnlp"><img src="A4_9_ghost.png" height="250"></a></p></td>
+
+<td><p>
+<b>9 / 1001 /  (0)----0-----0----(0)</b><br>
+v=20, e=60, f=40{3}+30{4}, <br>
+5+5 tetrahedra, 10+10 triangular prisms. 
+</p></td></tr>
+
+<tr valign="top">
+
+<td><p><a href="A4_6.jnlp"><img src="A4_6_L.png" height="250"></a></p></td>
+<td><p><a href="A4_6.jnlp"><img src="A4_6_R.png" height="250"></a></p></td>
+<td><p><a href="A4_6.jnlp"><img src="A4_6_ghost.png" height="250"></a></p></td>
+
+<td><p>
+<b>6 / 0110 /  0----(0)---(0)----0</b><br>
+v=30, e=60, f=20{3}+20{6}, <br>
+5+5 truncated tetrahedra.
+</p></td></tr>
+
+<tr valign="top">
+
+<td><p><a href="A4_7E.jnlp"><img src="A4_7E_L.png" height="250"></a></p></td>
+<td><p><a href="A4_7E.jnlp"><img src="A4_7E_R.png" height="250"></a></p></td>
+<td><p><a href="A4_7E.jnlp"><img src="A4_7E_ghost.png" height="250"></a></p></td>
+
+<td><p>
+<b>E / 1110 /  (0)---(0)---(0)----0  </b><br>
+or <br>
+<b>7 / 0111 / 0----(0)---(0)---(0)</b><br>
+v=60, e=30+30+60, f=20{3}+30{4}+(10+20){6}, <br>
+5 truncated tetrahedra, 5 truncated octahedra, 10 triangular prisms.
+</p></td></tr>
+
+<tr valign="top">
+
+<td><p><a href="A4_BD.jnlp"><img src="A4_BD_L.png" height="250"></a></p></td>
+<td><p><a href="A4_BD.jnlp"><img src="A4_BD_R.png" height="250"></a></p></td>
+<td><p><a href="A4_BD.jnlp"><img src="A4_BD_ghost.png" height="250"></a></p></td>
+
+<td><p>
+<b>D / 1101 / (0)---(0)----0----(0) </b><br>
+or <br>
+<b>B / 1011 / (0)----0----(0)---(0)</b><br>
+v=60, e=30+60+60, f=(20+20){3}+(30+30){4}+20{6}, <br>
+5 cuboctahedra, 5 truncated tetrahedra, 10 triangular prisms, 10 hexagonal prisms.
+</p></td></tr>
+
+<tr valign="top">
+
+<td><p><a href="A4_F.jnlp"><img src="A4_F_L.png" height="250"></a></p></td>
+<td><p><a href="A4_F.jnlp"><img src="A4_F_R.png" height="250"></a></p></td>
+<td><p><a href="A4_F.jnlp"><img src="A4_F_ghost.png" height="250"></a></p></td>
+
+<td><p>
+<b>F / 1111 /  (0)---(0)---(0)---(0)</b><br>
+v=120, e=60+60+60+60, f=(30+60){4}+(20+40){6},  <br>
+5+5 truncated octahedra, 10+10 hexagonal prisms.
+</p></td></tr>
+
+</table>
+</center></p>
+
+
+
+
+<HR>
+
+<p>
+<a href="http://homepages.wmich.edu/~drichter/zomeindex.htm">David Richter's Zome Projects Index</a><br>
+<a href="/zome">vZome Home</a>
+</p>
+
+<HR>
+</BODY></HTML>

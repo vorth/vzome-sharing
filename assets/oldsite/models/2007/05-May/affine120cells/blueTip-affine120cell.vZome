@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vzome:vZome field="golden" version="2.1 Beta 16" xmlns:vzome="http://tns.vorthmann.org/vZome/3.0.0/">
+  <Viewing>
+    <ViewModel near="0.49530327581321165" far="396.2426147460946" width="89.15458831787129" distance="198.12130737304688"
+    stereoAngle="0.0" parallel="false">
+      <LookAtPoint x="76.01315561749642" y="-46.97871376374779" z="0.0"/>
+      <UpDirection x="0.8397797207583645" y="-0.5357528832219829" z="0.0879708401820373"/>
+      <LookDirection x="0.5122012741947928" y="0.8355203122720873" z="0.19888605404600745"/>
+    </ViewModel>
+    <ViewModel near="0.10000000149011612" far="80.0" width="18.0" distance="40.0" stereoAngle="0.0" parallel="false"
+    name="default">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="tiny connectors">
+    <Direction name="blue" available="true" snap="true" build="true" render="true" color="0,118,149">
+      <LengthModel scale="4" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="red" available="true" snap="true" build="true" render="true" color="175,0,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="yellow" available="true" snap="true" render="true" color="240,160,0">
+      <LengthModel scale="4" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="green" available="true" snap="true" render="true" color="0,141,54">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="orange" available="true" snap="true" render="true" color="220,76,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="purple" available="true" snap="true" render="true" color="108,0,198">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="black" render="true" color="30,30,30">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="lavender" render="true" color="175,135,255">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="olive" render="true" color="100,113,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="maroon" render="true" color="117,0,50">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="rose" render="true" color="255,51,143">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="navy" render="true" color="0,0,153">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="turquoise" render="true" color="18,205,148">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="coral" render="true" color="255,126,106">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="sulfur" render="true" color="230,245,62">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_0" render="true" color="223,223,239">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_1" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_2" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_3" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_4" render="true" color="239,255,239">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_5" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_6" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_7" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_9" render="true">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="unnamed_10" render="true" color="239,239,223">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+  </SymmetrySystem>
+  <EditHistory editNumber="337">
+    <StrutCreation>
+      <point attrName="anchor"/>
+      <Axis symm="icosahedral" dir="yellow" index="9" attrName="axis"/>
+      <IntegralNumber value="2phi+1" attrName="len"/>
+    </StrutCreation>
+    <SelectManifestation>
+      <point x="3phi+2" y="3phi+2" z="3phi+2" attrName="manifestation"/>
+    </SelectManifestation>
+    <CommandEdit command="CommandSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <point x="3phi+2" y="3phi+2" z="3phi+2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point y="2phi+1" z="5phi+3" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <JoinPoints/>
+    <CommandEdit command="CommandSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start/>
+        <end x="3phi+2" y="3phi+2" z="3phi+2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandHide"/>
+    <StrutCreation>
+      <point x="-3phi-2" y="-3phi-2" z="-3phi-2" attrName="anchor"/>
+      <Axis symm="icosahedral" dir="blue" index="24" attrName="axis"/>
+      <IntegralNumber value="6phi+4" attrName="len"/>
+    </StrutCreation>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="-3phi-2" y="-3phi-2" z="-3phi-2"/>
+        <end y="-8phi-5" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="-2phi-1" y="-5phi-3"/>
+        <end x="-3phi-2" y="-3phi-2" z="-3phi-2"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="-3phi-2" y="-3phi-2" z="-3phi-2"/>
+        <end y="-8phi-5" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point y="-8phi-5" z="-5phi-3" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="3phi+2" y="-13phi-8" z="-3phi-2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="2phi+1" y="-11phi-7" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <StrutCreation>
+      <point x="-5phi-3" z="2phi+1" attrName="anchor"/>
+      <Axis symm="icosahedral" dir="red" index="45" attrName="axis"/>
+      <IntegralNumber value="2phi+1" attrName="len"/>
+    </StrutCreation>
+    <SymmetryAxisChange>
+      <segment attrName="new">
+        <start x="-5phi-3" z="2phi+1"/>
+        <end x="-8phi-5" y="2phi+1" z="2phi+1"/>
+      </segment>
+    </SymmetryAxisChange>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="-3phi-2" y="-3phi-2" z="-3phi-2"/>
+        <end y="-8phi-5" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start y="-2phi-1" z="-5phi-3"/>
+        <end x="-3phi-2" y="-3phi-2" z="-3phi-2"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <point x="3phi+2" y="-3phi-2" z="-3phi-2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="3phi+2" y="-3phi-2" z="-3phi-2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start y="-2phi-1" z="-5phi-3"/>
+        <end x="5phi+3" y="-6phi-4" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="5phi+3" y="-10phi-6" z="-8phi-5" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="5phi+3" z="-2phi-1"/>
+        <end x="3phi+2" y="3phi+2" z="-3phi-2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="3phi+2" y="3phi+2" z="-3phi-2"/>
+        <end x="10phi+6" y="2phi+1" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <point x="13phi+8" y="-3phi-2" z="-3phi-2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="16phi+10" y="-2phi-1" z="-5phi-3" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <point x="-8phi-5" y="2phi+1" z="2phi+1" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="-5phi-3" z="2phi+1"/>
+        <end x="-8phi-5" y="2phi+1" z="2phi+1"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandHide"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="8phi+5" y="5phi+3"/>
+        <end x="13phi+8" y="3phi+2" z="-3phi-2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="8phi+5" y="5phi+3"/>
+        <end x="13phi+8" y="3phi+2" z="3phi+2"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <point x="21phi+13" z="2phi+1" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="21phi+13" z="-2phi-1" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <DeselectAll/>
+    <SymmetryCenterChange>
+      <point x="16phi+10" y="-2phi-1" z="-5phi-3" attrName="new"/>
+    </SymmetryCenterChange>
+    <ShowPoint>
+      <point attrName="point"/>
+    </ShowPoint>
+    <SymmetryCenterChange>
+      <point attrName="new"/>
+    </SymmetryCenterChange>
+    <SelectManifestation>
+      <point attrName="manifestation"/>
+    </SelectManifestation>
+    <CommandEdit command="CommandHide"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="11phi+7" z="-8phi-5"/>
+        <end x="10phi+6" y="2phi+1" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="11phi+7" z="-8phi-5"/>
+        <end x="18phi+11" y="-5phi-3" z="-10phi-6"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="10phi+6" y="2phi+1" z="-5phi-3"/>
+        <end x="16phi+10" y="-2phi-1" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="21phi+13" y="-6phi-4" z="-8phi-5" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="5phi+3" z="-2phi-1"/>
+        <end x="3phi+2" y="-3phi-2" z="-3phi-2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="5phi+3" z="-2phi-1"/>
+        <end x="13phi+8" y="-3phi-2" z="-3phi-2"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="3phi+2" y="-3phi-2" z="-3phi-2"/>
+        <end x="10phi+6" y="-8phi-5" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="16phi+10" y="-8phi-5" z="-5phi-3" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="13phi+8" y="-3phi-2" z="-3phi-2"/>
+        <end x="16phi+10" y="-8phi-5" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="13phi+8" y="-3phi-2" z="-3phi-2"/>
+        <end x="18phi+11" y="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <point x="23phi+14" y="-13phi-8" z="-3phi-2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="24phi+15" y="-11phi-7" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="13phi+8" y="-3phi-2" z="3phi+2"/>
+        <end x="18phi+11" y="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="13phi+8" y="-3phi-2" z="3phi+2"/>
+        <end x="16phi+10" y="-2phi-1" z="5phi+3"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="16phi+10" y="-2phi-1" z="5phi+3"/>
+        <end x="23phi+14" y="-3phi-2" z="3phi+2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="24phi+15" y="-5phi-3" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="10phi+6" y="-8phi-5" z="-5phi-3"/>
+        <end x="11phi+7" y="-10phi-6" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="10phi+6" y="-8phi-5" z="-5phi-3"/>
+        <end x="16phi+10" y="-8phi-5" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="16phi+10" y="-8phi-5" z="-5phi-3"/>
+        <end x="21phi+13" y="-10phi-6" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="18phi+11" y="-11phi-7" z="-10phi-6" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="16phi+10" y="-8phi-5" z="5phi+3"/>
+        <end x="21phi+13" y="-10phi-6" z="8phi+5"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="16phi+10" y="-8phi-5" z="5phi+3"/>
+        <end x="23phi+14" y="-13phi-8" z="3phi+2"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <point x="32phi+20" y="-18phi-11" z="5phi+3" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="31phi+19" y="-16phi-10" z="8phi+5" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="21phi+13" y="-16phi-10" z="-2phi-1"/>
+        <end x="23phi+14" y="-13phi-8" z="-3phi-2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="23phi+14" y="-13phi-8" z="-3phi-2"/>
+        <end x="32phi+20" y="-18phi-11" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="21phi+13" y="-16phi-10" z="-2phi-1"/>
+        <end x="29phi+18" y="-23phi-14" z="-3phi-2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="36phi+22" y="-24phi-15" z="-5phi-3" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <point x="29phi+18" y="-23phi-14" z="-3phi-2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="39phi+24" y="-19phi-12" z="3phi+2" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandCentroid"/>
+    <SymmetryCenterChange>
+      <point x="34phi+21" y="-21phi-13" attrName="new"/>
+    </SymmetryCenterChange>
+    <CommandEdit command="CommandHide"/>
+    <SelectAll/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <point x="16phi+10" y="-8phi-5" z="-11phi-7" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="18phi+11" y="-11phi-7" z="-10phi-6" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <JoinPoints/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="31phi+19" y="-16phi-10" z="-8phi-5"/>
+        <end x="32phi+20" y="-18phi-11" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="32phi+20" y="-18phi-11" z="-5phi-3"/>
+        <end x="36phi+22" y="-24phi-15" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="37phi+23" y="-26phi-16" z="-8phi-5"/>
+        <end x="36phi+22" y="-24phi-15" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="34phi+21" y="-21phi-13" z="-10phi-6" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="37phi+23" y="-26phi-16" z="-8phi-5"/>
+        <end x="31phi+19" y="-26phi-16" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="47phi+29" y="-32phi-20" z="-8phi-5"/>
+        <end x="37phi+23" y="-26phi-16" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="47phi+29" y="-36phi-22" z="-8phi-5"/>
+        <end x="47phi+29" y="-32phi-20" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="37phi+23" y="-32phi-20" z="-8phi-5" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="37phi+23" y="-16phi-10" z="-8phi-5"/>
+        <end x="31phi+19" y="-16phi-10" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="37phi+23" y="-16phi-10" z="-8phi-5"/>
+        <end x="44phi+27" y="-21phi-13" z="-10phi-6"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="31phi+19" y="-16phi-10" z="-8phi-5"/>
+        <end x="34phi+21" y="-21phi-13" z="-10phi-6"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="42phi+26" y="-24phi-15" z="-11phi-7" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <point x="55phi+34" y="-23phi-14" z="-3phi-2" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="47phi+29" y="-16phi-10" z="-2phi-1" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <JoinPoints/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="63phi+39" y="-32phi-20" z="-8phi-5"/>
+        <end x="63phi+39" y="-36phi-22" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="60phi+37" y="-37phi-23" z="-10phi-6"/>
+        <end x="63phi+39" y="-36phi-22" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <point x="60phi+37" y="-31phi-19" z="-10phi-6" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="58phi+36" y="-34phi-21" z="-11phi-7" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="60phi+37" y="-37phi-23" z="-10phi-6"/>
+        <end x="58phi+36" y="-34phi-21" z="-11phi-7"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="60phi+37" y="-37phi-23" z="-10phi-6"/>
+        <end x="52phi+32" y="-34phi-21" z="-11phi-7"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <point x="49phi+30" y="-29phi-18" z="-13phi-8" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="45phi+28" y="-29phi-18" z="-13phi-8" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="63phi+39" y="-32phi-20" z="-8phi-5"/>
+        <end x="57phi+35" y="-26phi-16" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="63phi+39" y="-32phi-20" z="-8phi-5"/>
+        <end x="60phi+37" y="-31phi-19" z="-10phi-6"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <point x="50phi+31" y="-21phi-13" z="-10phi-6" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="52phi+32" y="-24phi-15" z="-11phi-7" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="50phi+31" y="-31phi-19" z="-10phi-6"/>
+        <end x="42phi+26" y="-24phi-15" z="-11phi-7"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="52phi+32" y="-34phi-21" z="-11phi-7"/>
+        <end x="50phi+31" y="-31phi-19" z="-10phi-6"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="52phi+32" y="-34phi-21" z="-11phi-7"/>
+        <end x="45phi+28" y="-29phi-18" z="-13phi-8"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="39phi+24" y="-23phi-14" z="-13phi-8" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="50phi+31" y="-37phi-23" z="-10phi-6"/>
+        <end x="52phi+32" y="-34phi-21" z="-11phi-7"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="50phi+31" y="-37phi-23" z="-10phi-6"/>
+        <end x="42phi+26" y="-34phi-21" z="-11phi-7"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="52phi+32" y="-34phi-21" z="-11phi-7"/>
+        <end x="45phi+28" y="-29phi-18" z="-13phi-8"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="39phi+24" y="-29phi-18" z="-13phi-8" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <point x="60phi+37" y="-47phi-29" attrName="manifestation"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="53phi+33" y="-42phi-26" z="-8phi-5"/>
+        <end x="44phi+27" y="-37phi-23" z="-10phi-6"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="53phi+33" y="-42phi-26" z="-8phi-5"/>
+        <end x="52phi+32" y="-44phi-27" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="52phi+32" y="-44phi-27" z="-5phi-3"/>
+        <end x="42phi+26" y="-40phi-25" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="37phi+23" y="-36phi-22" z="-8phi-5" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="42phi+26" y="-40phi-25" z="-5phi-3"/>
+        <end x="39phi+24" y="-39phi-24" z="-3phi-2"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="37phi+23" y="-36phi-22" z="-8phi-5"/>
+        <end x="42phi+26" y="-40phi-25" z="-5phi-3"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <point x="31phi+19" y="-32phi-20" z="-8phi-5" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="32phi+20" y="-34phi-21" z="-5phi-3" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="42phi+26" y="-34phi-21" z="-11phi-7"/>
+        <end x="44phi+27" y="-37phi-23" z="-10phi-6"/>
+      </segment>
+    </SelectManifestation>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="44phi+27" y="-37phi-23" z="-10phi-6"/>
+        <end x="37phi+23" y="-36phi-22" z="-8phi-5"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <point x="34phi+21" y="-31phi-19" z="-10phi-6" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="31phi+19" y="-32phi-20" z="-8phi-5" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="39phi+24" y="-23phi-14" z="-13phi-8"/>
+        <end x="45phi+28" y="-29phi-18" z="-13phi-8"/>
+      </segment>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <point x="39phi+24" y="-23phi-14" z="-13phi-8" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="29phi+18" y="-19phi-12" z="-13phi-8" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <JoinPoints/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <point x="29phi+18" y="-23phi-14" z="-13phi-8" attrName="manifestation"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <point x="39phi+24" y="-29phi-18" z="-13phi-8" attrName="manifestation"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <JoinPoints/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <segment attrName="manifestation">
+        <start x="29phi+18" y="-23phi-14" z="-13phi-8"/>
+        <end x="39phi+24" y="-29phi-18" z="-13phi-8"/>
+      </segment>
+    </SelectManifestation>
+    <EndBlock/>
+    <CommandEdit command="CommandCentralSymmetry"/>
+    <CommandEdit command="CommandAxialSymmetry"/>
+    <DeselectAll/>
+  </EditHistory>
+</vzome:vZome>

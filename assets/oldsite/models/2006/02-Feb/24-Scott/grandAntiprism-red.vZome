@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vzome:vZome field="golden" edition="vZome" version="4.0, build 107" revision="961" xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/">
+  <sceneModel ambientLight="45,45,45" background="43,56,66">
+    <directionalLight x="1.0" y="-1.0" z="-1.0" color="236,236,236"/>
+    <directionalLight x="-1.0" y="0.0" z="0.0" color="236,236,236"/>
+    <directionalLight x="0.0" y="0.0" z="-1.0" color="30,30,30"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel near="0.8166169097515484" far="653.2935180664066" width="146.9910415649415" distance="326.6467590332031"
+    stereoAngle="0.0" parallel="false">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.7113873907856936" y="-0.09947711805225468" z="0.6957242867797153"/>
+      <LookDirection x="-0.6809454950658079" y="0.3425089845133446" z="-0.6473027330988342"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors" single="true">
+    <Direction name="blue" available="true" snap="true" build="true" render="true" color="0,160,228">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="red" available="true" snap="true" render="true" color="175,0,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="yellow" available="true" snap="true" render="true" color="240,160,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="green" available="true" snap="true" render="true" color="0,141,54">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="orange" render="true" color="220,76,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="purple" render="true" color="108,0,198">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="black" render="true" color="30,30,30">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="lavender" render="true" color="175,135,255">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="olive" render="true" color="100,113,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="maroon" render="true" color="117,0,50">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="rose" render="true" color="255,51,143">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="navy" render="true" color="0,0,153">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="turquoise" render="true" color="18,205,148">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="coral" render="true" color="255,126,106">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="sulfur" render="true" color="230,245,62">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="sand" render="true" color="154,117,74">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="apple" render="true" color="116,195,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="cinnamon" render="true" color="136,37,0">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="spruce" render="true" color="18,73,48">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+    <Direction name="brown" render="true" color="107,53,26">
+      <LengthModel scale="3" taus="0" ones="1" divisor="1"/>
+    </Direction>
+  </SymmetrySystem>
+  <EditHistory editNumber="264" lastStickyEdit="264">
+    <BeginBlock/>
+    <SelectAll/>
+    <EndBlock/>
+    <BuildAnchoredSegment dir="red" index="17" len="3 5"/>
+    <BeginBlock/>
+    <SymmetryAxisChange start="0 0 0 0 0 0" end="3 5 0 0 -5 -8"/>
+    <SelectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <BeginBlock/>
+    <SymmetryAxisChange start="0 0 0 0 0 0 0 0" end="0 0 3 5 0 0 -5 -8"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <UniformH4Polytope quaternion="0 0 3 5 0 0 -5 -8">
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+      <Integer value="1" attrName="polytope.index"/>
+    </UniformH4Polytope>
+    <BeginBlock/>
+    <SymmetryAxisChange start="0 0 0 0 0 0" end="3 5 0 0 -5 -8"/>
+    <DeselectAll/>
+    <SelectManifestation point="6 10 0 0 -10 -16"/>
+    <SelectManifestation point="-6 -10 0 0 10 16"/>
+    <SelectManifestation point="-5 -8 0 0 8 13"/>
+    <SelectManifestation point="-2 -3 0 0 3 5"/>
+    <SelectManifestation point="2 3 0 0 -3 -5"/>
+    <SelectManifestation point="5 8 0 0 -8 -13"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="8 13 -5 -8 -6 -10"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="3 5 6 10 -5 -8"/>
+    <SelectManifestation startSegment="-2 -3 -5 -8 10 16" endSegment="-5 -8 0 0 8 13"/>
+    <SelectManifestation startSegment="0 0 -2 -3 -11 -18" endSegment="6 10 0 0 -10 -16"/>
+    <SelectManifestation startSegment="-3 -5 -5 -8 -2 -3" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="5 8 -2 -3 3 5" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="-5 -8 2 3 -3 -5" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="-2 -3 -2 -3 -8 -13"/>
+    <SelectManifestation startSegment="8 13 2 3 -2 -3" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="-6 -10 5 8 3 5" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="0 0 -6 -10 0 0" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="6 10 -5 -8 -3 -5" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="8 13 -2 -3 -2 -3"/>
+    <SelectManifestation startSegment="0 0 2 3 11 18" endSegment="-6 -10 0 0 10 16"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="-3 -5 -6 -10 5 8"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="3 5 6 10 -5 -8"/>
+    <SelectManifestation startSegment="0 0 -5 -8 -7 -11" endSegment="5 8 0 0 -8 -13"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-10 -16 -2 -3 5 8"/>
+    <SelectManifestation startSegment="8 13 -5 -8 -6 -10" endSegment="6 10 0 0 -10 -16"/>
+    <SelectManifestation startSegment="-8 -13 5 8 6 10" endSegment="-6 -10 0 0 10 16"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="-3 -5 5 8 -2 -3"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-8 -13 -5 -8 6 10"/>
+    <SelectManifestation startSegment="0 0 -6 -10 0 0" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-5 -8 -6 -10 8 13"/>
+    <SelectManifestation startSegment="-5 -8 -6 -10 8 13" endSegment="-6 -10 0 0 10 16"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="5 8 6 10 -8 -13"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="8 13 2 3 -2 -3"/>
+    <SelectManifestation startSegment="0 0 -5 -8 7 11" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="6 10 0 0 -10 -16"/>
+    <SelectManifestation startSegment="0 0 -2 -3 11 18" endSegment="-6 -10 0 0 10 16"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="3 5 -5 -8 2 3"/>
+    <SelectManifestation startSegment="0 0 -5 -8 7 11" endSegment="-5 -8 0 0 8 13"/>
+    <SelectManifestation startSegment="2 3 5 8 -10 -16" endSegment="5 8 0 0 -8 -13"/>
+    <SelectManifestation startSegment="-6 -10 -5 -8 3 5" endSegment="-5 -8 0 0 8 13"/>
+    <SelectManifestation startSegment="0 0 6 10 0 0" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="0 0 5 8 -7 -11" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-3 -5 -6 -10 5 8"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="3 5 -5 -8 2 3"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="-6 -10 0 0 10 16" endSegment="-10 -16 -2 -3 5 8"/>
+    <SelectManifestation startSegment="0 0 -5 -8 -7 -11" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="0 0 6 10 0 0" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="-8 -13 2 3 2 3"/>
+    <SelectManifestation startSegment="2 3 2 3 8 13" endSegment="-5 -8 0 0 8 13"/>
+    <SelectManifestation startSegment="0 0 2 3 -11 -18" endSegment="6 10 0 0 -10 -16"/>
+    <SelectManifestation startSegment="-2 -3 -2 -3 -8 -13" endSegment="5 8 0 0 -8 -13"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="2 3 2 3 8 13"/>
+    <SelectManifestation startSegment="-10 -16 2 3 5 8" endSegment="-5 -8 0 0 8 13"/>
+    <SelectManifestation startSegment="6 10 0 0 -10 -16" endSegment="5 8 -6 -10 -8 -13"/>
+    <SelectManifestation startSegment="0 0 5 8 7 11" endSegment="-5 -8 0 0 8 13"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="8 13 -2 -3 -2 -3"/>
+    <SelectManifestation startSegment="10 16 -2 -3 -5 -8" endSegment="5 8 0 0 -8 -13"/>
+    <SelectManifestation startSegment="6 10 0 0 -10 -16" endSegment="8 13 5 8 -6 -10"/>
+    <SelectManifestation startSegment="-6 -10 0 0 10 16" endSegment="-8 -13 -5 -8 6 10"/>
+    <SelectManifestation startSegment="2 3 -5 -8 -10 -16" endSegment="6 10 0 0 -10 -16"/>
+    <SelectManifestation startSegment="-2 -3 5 8 10 16" endSegment="-6 -10 0 0 10 16"/>
+    <SelectManifestation startSegment="6 10 0 0 -10 -16" endSegment="10 16 -2 -3 -5 -8"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="6 10 -5 -8 -3 -5"/>
+    <SelectManifestation startSegment="-6 -10 0 0 10 16" endSegment="-5 -8 6 10 8 13"/>
+    <SelectManifestation startSegment="0 0 -2 -3 -11 -18" endSegment="5 8 0 0 -8 -13"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="-6 -10 -5 -8 3 5"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="6 10 5 8 -3 -5"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-8 -13 2 3 2 3"/>
+    <SelectManifestation startSegment="-6 -10 0 0 10 16" endSegment="-10 -16 2 3 5 8"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="-2 -3 2 3 -8 -13"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="-3 -5 6 10 5 8"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="2 3 -2 -3 8 13"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="3 5 -6 -10 -5 -8"/>
+    <SelectManifestation startSegment="5 8 -6 -10 -8 -13" endSegment="5 8 0 0 -8 -13"/>
+    <SelectManifestation startSegment="-5 -8 6 10 8 13" endSegment="-5 -8 0 0 8 13"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="2 3 -5 -8 -10 -16"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-8 -13 5 8 6 10"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="-5 -8 2 3 -3 -5"/>
+    <SelectManifestation startSegment="5 8 6 10 -8 -13" endSegment="6 10 0 0 -10 -16"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="5 8 -2 -3 3 5"/>
+    <SelectManifestation startSegment="6 10 5 8 -3 -5" endSegment="5 8 0 0 -8 -13"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-6 -10 0 0 10 16"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-6 -10 5 8 3 5"/>
+    <SelectManifestation startSegment="-2 -3 2 3 -8 -13" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="0 0 5 8 7 11" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="2 3 -2 -3 8 13" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="-3 -5 5 8 -2 -3"/>
+    <SelectManifestation startSegment="-3 -5 6 10 5 8" endSegment="-5 -8 0 0 8 13"/>
+    <SelectManifestation startSegment="6 10 0 0 -10 -16" endSegment="10 16 2 3 -5 -8"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="8 13 5 8 -6 -10"/>
+    <SelectManifestation startSegment="0 0 5 8 -7 -11" endSegment="5 8 0 0 -8 -13"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="3 5 5 8 2 3"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-8 -13 -2 -3 2 3"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="0 0 2 3 11 18" endSegment="-5 -8 0 0 8 13"/>
+    <SelectManifestation startSegment="0 0 2 3 -11 -18" endSegment="5 8 0 0 -8 -13"/>
+    <SelectManifestation startSegment="-6 -10 0 0 10 16" endSegment="-2 -3 -5 -8 10 16"/>
+    <SelectManifestation startSegment="6 10 0 0 -10 -16" endSegment="2 3 5 8 -10 -16"/>
+    <SelectManifestation startSegment="3 5 5 8 2 3" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="-3 -5 -5 -8 -2 -3"/>
+    <SelectManifestation startSegment="-8 -13 -2 -3 2 3" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="0 0 -2 -3 11 18" endSegment="-5 -8 0 0 8 13"/>
+    <SelectManifestation startSegment="3 5 -6 -10 -5 -8" endSegment="5 8 0 0 -8 -13"/>
+    <SelectManifestation startSegment="5 8 0 0 -8 -13" endSegment="10 16 2 3 -5 -8"/>
+    <SelectManifestation startSegment="-5 -8 0 0 8 13" endSegment="-2 -3 5 8 10 16"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 -3 -5" endSegment="-2 -3 0 0 3 5"/>
+    <SelectManifestation startSegment="5 8 2 3 3 5" endSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="5 8 2 3 3 5"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="-5 -8 -2 -3 -3 -5"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="10 16 0 0 6 10"/>
+    <SelectManifestation point="8 13 -7 -11 5 8"/>
+    <EndBlock/>
+    <AxialSymmetry>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </AxialSymmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 13 -7 -11 5 8"/>
+    <SelectManifestation point="8 13 7 11 5 8"/>
+    <SelectManifestation point="3 5 -11 -18 2 3"/>
+    <SelectManifestation point="-10 -16 0 0 -6 -10"/>
+    <SelectManifestation point="10 16 0 0 6 10"/>
+    <SelectManifestation point="-8 -13 -7 -11 -5 -8"/>
+    <SelectManifestation point="-3 -5 11 18 -2 -3"/>
+    <SelectManifestation point="-3 -5 -11 -18 -2 -3"/>
+    <SelectManifestation point="-8 -13 7 11 -5 -8"/>
+    <SelectManifestation point="3 5 11 18 2 3"/>
+    <SelectManifestation startSegment="-10 -16 0 0 -6 -10" endSegment="-6 -10 3 5 -8 -13"/>
+    <SelectManifestation startSegment="-10 -16 0 0 -6 -10" endSegment="-8 -13 3 5 -5 -8"/>
+    <SelectManifestation startSegment="3 5 -11 -18 2 3" endSegment="2 3 -10 -16 -3 -5"/>
+    <SelectManifestation startSegment="5 8 -3 -5 10 16" endSegment="8 13 -7 -11 5 8"/>
+    <SelectManifestation startSegment="-8 -13 7 11 -5 -8" endSegment="-5 -8 8 13 -3 -5"/>
+    <SelectManifestation startSegment="7 11 8 13 0 0" endSegment="3 5 11 18 2 3"/>
+    <SelectManifestation startSegment="8 13 8 13 -2 -3" endSegment="8 13 7 11 5 8"/>
+    <SelectManifestation startSegment="11 18 -3 -5 0 0" endSegment="8 13 -7 -11 5 8"/>
+    <SelectManifestation startSegment="-8 -13 -3 -5 -5 -8" endSegment="-10 -16 0 0 -6 -10"/>
+    <SelectManifestation startSegment="-3 -5 11 18 -2 -3" endSegment="-8 -13 7 11 -5 -8"/>
+    <SelectManifestation startSegment="6 10 3 5 8 13" endSegment="10 16 0 0 6 10"/>
+    <SelectManifestation startSegment="-11 -18 -3 -5 0 0" endSegment="-10 -16 0 0 -6 -10"/>
+    <SelectManifestation startSegment="-10 -16 -3 -5 -2 -3" endSegment="-10 -16 0 0 -6 -10"/>
+    <SelectManifestation startSegment="10 16 3 5 2 3" endSegment="10 16 0 0 6 10"/>
+    <SelectManifestation startSegment="-11 -18 3 5 0 0" endSegment="-10 -16 0 0 -6 -10"/>
+    <SelectManifestation startSegment="8 13 7 11 5 8" endSegment="10 16 3 5 2 3"/>
+    <SelectManifestation startSegment="3 5 8 13 6 10" endSegment="8 13 7 11 5 8"/>
+    <SelectManifestation startSegment="8 13 -8 -13 -2 -3" endSegment="3 5 -11 -18 2 3"/>
+    <SelectManifestation startSegment="-8 -13 8 13 2 3" endSegment="-3 -5 11 18 -2 -3"/>
+    <SelectManifestation startSegment="-2 -3 -10 -16 3 5" endSegment="-3 -5 -11 -18 -2 -3"/>
+    <SelectManifestation startSegment="8 13 -3 -5 5 8" endSegment="8 13 -7 -11 5 8"/>
+    <SelectManifestation startSegment="-3 -5 11 18 -2 -3" endSegment="-3 -5 10 16 5 8"/>
+    <SelectManifestation startSegment="-3 -5 -10 -16 5 8" endSegment="-3 -5 -11 -18 -2 -3"/>
+    <SelectManifestation startSegment="-11 -18 3 5 0 0" endSegment="-8 -13 7 11 -5 -8"/>
+    <SelectManifestation startSegment="-11 -18 -3 -5 0 0" endSegment="-8 -13 -7 -11 -5 -8"/>
+    <SelectManifestation startSegment="8 13 7 11 5 8" endSegment="3 5 11 18 2 3"/>
+    <SelectManifestation startSegment="8 13 7 11 5 8" endSegment="2 3 8 13 8 13"/>
+    <SelectManifestation startSegment="-8 -13 -7 -11 -5 -8" endSegment="-10 -16 -3 -5 -2 -3"/>
+    <SelectManifestation startSegment="10 16 0 0 6 10" endSegment="8 13 -3 -5 5 8"/>
+    <SelectManifestation startSegment="-8 -13 3 5 -5 -8" endSegment="-8 -13 7 11 -5 -8"/>
+    <SelectManifestation startSegment="-8 -13 7 11 -5 -8" endSegment="-3 -5 8 13 -6 -10"/>
+    <SelectManifestation startSegment="0 0 -10 -16 0 0" endSegment="-3 -5 -11 -18 -2 -3"/>
+    <SelectManifestation startSegment="-3 -5 11 18 -2 -3" endSegment="-2 -3 10 16 3 5"/>
+    <SelectManifestation startSegment="3 5 11 18 2 3" endSegment="5 8 8 13 3 5"/>
+    <SelectManifestation startSegment="11 18 -3 -5 0 0" endSegment="10 16 0 0 6 10"/>
+    <SelectManifestation startSegment="11 18 3 5 0 0" endSegment="8 13 7 11 5 8"/>
+    <SelectManifestation startSegment="-3 -5 11 18 -2 -3" endSegment="3 5 10 16 -5 -8"/>
+    <SelectManifestation startSegment="-5 -8 3 5 -10 -16" endSegment="-8 -13 7 11 -5 -8"/>
+    <SelectManifestation startSegment="8 13 -7 -11 5 8" endSegment="5 8 -8 -13 3 5"/>
+    <SelectManifestation startSegment="-10 -16 3 5 -2 -3" endSegment="-8 -13 7 11 -5 -8"/>
+    <SelectManifestation startSegment="-7 -11 -8 -13 0 0" endSegment="-8 -13 -7 -11 -5 -8"/>
+    <SelectManifestation startSegment="-3 -5 -8 -13 -6 -10" endSegment="-8 -13 -7 -11 -5 -8"/>
+    <SelectManifestation startSegment="8 13 7 11 5 8" endSegment="6 10 3 5 8 13"/>
+    <SelectManifestation startSegment="-8 -13 7 11 -5 -8" endSegment="-2 -3 8 13 -8 -13"/>
+    <SelectManifestation startSegment="-8 -13 7 11 -5 -8" endSegment="-8 -13 8 13 2 3"/>
+    <SelectManifestation startSegment="-3 -5 -11 -18 -2 -3" endSegment="3 5 -11 -18 2 3"/>
+    <SelectManifestation startSegment="3 5 -11 -18 2 3" endSegment="3 5 -10 -16 -5 -8"/>
+    <SelectManifestation startSegment="8 13 7 11 5 8" endSegment="8 13 3 5 5 8"/>
+    <SelectManifestation startSegment="3 5 11 18 2 3" endSegment="-3 -5 11 18 -2 -3"/>
+    <SelectManifestation startSegment="8 13 -7 -11 5 8" endSegment="3 5 -8 -13 6 10"/>
+    <SelectManifestation startSegment="-8 -13 -7 -11 -5 -8" endSegment="-8 -13 -3 -5 -5 -8"/>
+    <SelectManifestation startSegment="-7 -11 8 13 0 0" endSegment="-8 -13 7 11 -5 -8"/>
+    <SelectManifestation startSegment="8 13 -7 -11 5 8" endSegment="8 13 -8 -13 -2 -3"/>
+    <SelectManifestation startSegment="8 13 -7 -11 5 8" endSegment="10 16 0 0 6 10"/>
+    <SelectManifestation startSegment="-8 -13 -7 -11 -5 -8" endSegment="-6 -10 -3 -5 -8 -13"/>
+    <SelectManifestation startSegment="-3 -5 10 16 5 8" endSegment="3 5 11 18 2 3"/>
+    <SelectManifestation startSegment="7 11 -8 -13 0 0" endSegment="3 5 -11 -18 2 3"/>
+    <SelectManifestation startSegment="7 11 -8 -13 0 0" endSegment="8 13 -7 -11 5 8"/>
+    <SelectManifestation startSegment="8 13 3 5 5 8" endSegment="10 16 0 0 6 10"/>
+    <SelectManifestation startSegment="10 16 0 0 6 10" endSegment="8 13 7 11 5 8"/>
+    <SelectManifestation startSegment="-10 -16 0 0 -6 -10" endSegment="-5 -8 3 5 -10 -16"/>
+    <SelectManifestation startSegment="10 16 0 0 6 10" endSegment="5 8 -3 -5 10 16"/>
+    <SelectManifestation startSegment="-8 -13 7 11 -5 -8" endSegment="-6 -10 3 5 -8 -13"/>
+    <SelectManifestation startSegment="-8 -13 -7 -11 -5 -8" endSegment="-2 -3 -8 -13 -8 -13"/>
+    <SelectManifestation startSegment="0 0 -10 -16 0 0" endSegment="3 5 -11 -18 2 3"/>
+    <SelectManifestation startSegment="3 5 -11 -18 2 3" endSegment="-3 -5 -10 -16 5 8"/>
+    <SelectManifestation startSegment="3 5 -11 -18 2 3" endSegment="8 13 -7 -11 5 8"/>
+    <SelectManifestation startSegment="3 5 11 18 2 3" endSegment="8 13 8 13 -2 -3"/>
+    <SelectManifestation startSegment="-3 -5 -11 -18 -2 -3" endSegment="-8 -13 -8 -13 2 3"/>
+    <SelectManifestation startSegment="0 0 10 16 0 0" endSegment="-3 -5 11 18 -2 -3"/>
+    <SelectManifestation startSegment="-3 -5 11 18 -2 -3" endSegment="2 3 10 16 -3 -5"/>
+    <SelectManifestation startSegment="0 0 10 16 0 0" endSegment="3 5 11 18 2 3"/>
+    <SelectManifestation startSegment="-6 -10 -3 -5 -8 -13" endSegment="-10 -16 0 0 -6 -10"/>
+    <SelectManifestation startSegment="-8 -13 7 11 -5 -8" endSegment="-10 -16 0 0 -6 -10"/>
+    <SelectManifestation startSegment="3 5 11 18 2 3" endSegment="2 3 8 13 8 13"/>
+    <SelectManifestation startSegment="3 5 -10 -16 -5 -8" endSegment="-3 -5 -11 -18 -2 -3"/>
+    <SelectManifestation startSegment="-10 -16 0 0 -6 -10" endSegment="-5 -8 -3 -5 -10 -16"/>
+    <SelectManifestation startSegment="10 16 0 0 6 10" endSegment="5 8 3 5 10 16"/>
+    <SelectManifestation startSegment="-8 -13 -7 -11 -5 -8" endSegment="-3 -5 -11 -18 -2 -3"/>
+    <SelectManifestation startSegment="3 5 -11 -18 2 3" endSegment="5 8 -8 -13 3 5"/>
+    <SelectManifestation startSegment="8 13 -7 -11 5 8" endSegment="2 3 -8 -13 8 13"/>
+    <SelectManifestation startSegment="2 3 -8 -13 8 13" endSegment="3 5 -11 -18 2 3"/>
+    <SelectManifestation startSegment="-3 -5 11 18 -2 -3" endSegment="-5 -8 8 13 -3 -5"/>
+    <SelectManifestation startSegment="-7 -11 8 13 0 0" endSegment="-3 -5 11 18 -2 -3"/>
+    <SelectManifestation startSegment="10 16 0 0 6 10" endSegment="10 16 -3 -5 2 3"/>
+    <SelectManifestation startSegment="-10 -16 0 0 -6 -10" endSegment="-10 -16 3 5 -2 -3"/>
+    <SelectManifestation startSegment="-3 -5 -11 -18 -2 -3" endSegment="-2 -3 -8 -13 -8 -13"/>
+    <SelectManifestation startSegment="2 3 10 16 -3 -5" endSegment="3 5 11 18 2 3"/>
+    <SelectManifestation startSegment="11 18 3 5 0 0" endSegment="10 16 0 0 6 10"/>
+    <SelectManifestation startSegment="3 5 -8 -13 6 10" endSegment="3 5 -11 -18 2 3"/>
+    <SelectManifestation startSegment="-3 -5 8 13 -6 -10" endSegment="-3 -5 11 18 -2 -3"/>
+    <SelectManifestation startSegment="-10 -16 0 0 -6 -10" endSegment="-8 -13 -7 -11 -5 -8"/>
+    <SelectManifestation startSegment="10 16 -3 -5 2 3" endSegment="8 13 -7 -11 5 8"/>
+    <SelectManifestation startSegment="-2 -3 8 13 -8 -13" endSegment="-3 -5 11 18 -2 -3"/>
+    <SelectManifestation startSegment="3 5 10 16 -5 -8" endSegment="3 5 11 18 2 3"/>
+    <SelectManifestation startSegment="8 13 -7 -11 5 8" endSegment="6 10 -3 -5 8 13"/>
+    <SelectManifestation startSegment="-8 -13 -7 -11 -5 -8" endSegment="-5 -8 -3 -5 -10 -16"/>
+    <SelectManifestation startSegment="10 16 0 0 6 10" endSegment="6 10 -3 -5 8 13"/>
+    <SelectManifestation startSegment="3 5 11 18 2 3" endSegment="-2 -3 10 16 3 5"/>
+    <SelectManifestation startSegment="7 11 8 13 0 0" endSegment="8 13 7 11 5 8"/>
+    <SelectManifestation startSegment="-3 -5 -11 -18 -2 -3" endSegment="2 3 -10 -16 -3 -5"/>
+    <SelectManifestation startSegment="-3 -5 -11 -18 -2 -3" endSegment="-5 -8 -8 -13 -3 -5"/>
+    <SelectManifestation startSegment="8 13 7 11 5 8" endSegment="5 8 3 5 10 16"/>
+    <SelectManifestation startSegment="3 5 -11 -18 2 3" endSegment="-2 -3 -10 -16 3 5"/>
+    <SelectManifestation startSegment="3 5 11 18 2 3" endSegment="3 5 8 13 6 10"/>
+    <SelectManifestation startSegment="-3 -5 -11 -18 -2 -3" endSegment="-3 -5 -8 -13 -6 -10"/>
+    <SelectManifestation startSegment="-8 -13 -8 -13 2 3" endSegment="-8 -13 -7 -11 -5 -8"/>
+    <SelectManifestation startSegment="-5 -8 -8 -13 -3 -5" endSegment="-8 -13 -7 -11 -5 -8"/>
+    <SelectManifestation startSegment="5 8 8 13 3 5" endSegment="8 13 7 11 5 8"/>
+    <SelectManifestation startSegment="-7 -11 -8 -13 0 0" endSegment="-3 -5 -11 -18 -2 -3"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <Snapshot id="0"/>
+    <Snapshot id="1"/>
+  </EditHistory>
+  <notes>
+    <page title="" snapshot="0">
+      <ViewModel near="0.8331136446165095" far="666.4909057617191" width="149.96045379638682" distance="333.2454528808594"
+      stereoAngle="0.0" parallel="false">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.7113873907856936" y="-0.09947711805225468" z="0.6957242867797153"/>
+        <LookDirection x="-0.6809454950658079" y="0.3425089845133446" z="-0.6473027330988342"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="1">
+      <ViewModel near="0.6685894112078758" far="534.8715209960942" width="120.34609222412115" distance="267.4357604980469"
+      stereoAngle="0.0" parallel="false">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.8651750719032822" y="0.1001400732306221" z="-0.4913695764803909"/>
+        <LookDirection x="0.4994076589024434" y="0.08328568182357737" z="-0.8623546169835031"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="1">
+      <ViewModel near="0.4572225257340451" far="365.77801513671915" width="82.30005340576176" distance="182.88900756835938"
+      stereoAngle="0.0" parallel="true">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.525731080231904" y="1.5668007142302512E-8" z="0.8506508280594307"/>
+        <LookDirection x="0.49999999541181067" y="-0.8090169951587037" z="0.309016999746893"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="1">
+      <ViewModel near="0.44816891384376467" far="358.5351257324223" width="80.67040328979496" distance="179.26756286621094"
+      stereoAngle="0.0" parallel="true">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.5000000039392045" y="-0.8090169937020508" z="0.3090169897628463"/>
+        <LookDirection x="0.5257311082596874" y="0.0" z="-0.8506508107373089"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+</vzome:vZome>

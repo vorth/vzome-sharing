@@ -1,262 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="19" field="golden" version="7.1">
-  <EditHistory editNumber="226" lastStickyEdit="222">
+  <EditHistory editNumber="280" lastStickyEdit="276">
     <StrutCreation anchor="0 0 0 0 0 0" index="8" len="4 6"/>
-    <StrutCreation anchor="3 5 -1 -2 2 3" dir="yellow" index="21" len="1 2"/>
-    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="19" len="1 2"/>
-    <StrutCreation anchor="-2 -3 -2 -3 -2 -3" dir="yellow" index="21" len="1 2"/>
-    <StrutCreation anchor="4 7 -4 -7 2 3" dir="yellow" index="19" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="39" len="4 6"/>
+    <StrutCreation anchor="3 5 -1 -2 2 3" index="39" len="4 6"/>
     <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 -5 -8 -2 -3"/>
-    <SelectManifestation grouping="2.1.1" point="2 4 -6 -10 0 0"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -4 -7 3 5"/>
+    <SelectManifestation grouping="2.1.1" point="-2 -3 -3 -5 1 2"/>
     <EndBlock/>
     <JoinPoints grouping="2.1.1">
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
     </JoinPoints>
     <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="2" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="0" len="1 2"/>
     <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="0 0 -1 -2 3 5"/>
     <SelectManifestation grouping="2.1.1" point="3 5 -1 -2 2 3"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 0 0 -1 -2"/>
     <EndBlock/>
     <JoinPoints grouping="2.1.1">
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
     </JoinPoints>
     <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="0 0 -1 -2 3 5" index="39" len="4 6"/>
-    <StrutCreation anchor="4 7 -4 -7 2 3" index="39" len="4 6"/>
-    <StrutCreation anchor="-2 -3 -2 -3 -2 -3" index="39" len="4 6"/>
+    <StrutCreation anchor="3 5 -1 -2 2 3" dir="yellow" index="21" len="1 2"/>
     <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 -5 -8 -2 -3"/>
-    <SelectManifestation grouping="2.1.1" point="-4 -6 -5 -8 -1 -1"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="2 4 -6 -10 0 0"/>
-    <SelectManifestation grouping="2.1.1" point="2 4 -7 -12 3 5"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="-4 -6 -5 -8 -1 -1" dir="yellow" index="2" len="1 2"/>
-    <StrutCreation anchor="2 4 -7 -12 3 5" dir="yellow" index="38" len="1 2"/>
-    <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 -7 -12 4 7"/>
-    <SelectManifestation grouping="2.1.1" point="-4 -6 -6 -10 2 4"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 -7 -12 4 7"/>
-    <SelectManifestation grouping="2.1.1" point="-2 -3 -4 -7 4 7"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="-4 -6 -6 -10 2 4"/>
-    <SelectManifestation grouping="2.1.1" point="-2 -3 -4 -7 4 7"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="-2 -3 -4 -7 4 7" dir="red" index="1" len="2 3"/>
-    <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="-2 -3 -1 -2 6 10"/>
-    <SelectManifestation grouping="2.1.1" point="0 0 -1 -2 3 5"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="-2 -3 -1 -2 6 10" dir="red" index="45" len="1 2"/>
-    <StrutCreation anchor="-4 -6 -6 -10 2 4" dir="red" index="45" len="1 2"/>
-    <StrutCreation anchor="-6 -9 -5 -8 2 4" dir="red" index="1" len="2 3"/>
-    <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="-4 -6 0 0 6 10"/>
-    <SelectManifestation grouping="2.1.1" point="-6 -9 -2 -3 4 7"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="-6 -9 -5 -8 2 4"/>
-    <SelectManifestation grouping="2.1.1" point="-4 -6 -5 -8 -1 -1"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="-2 -3 -2 -3 -2 -3" dir="red" index="1" len="2 3"/>
-    <StrutCreation anchor="-2 -3 1 2 0 0" dir="red" index="32" len="2 3"/>
-    <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="0 0 0 0 0 0"/>
-    <SelectManifestation grouping="2.1.1" point="-2 -3 1 2 0 0"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="-4 -6 0 0 6 10"/>
-    <SelectManifestation grouping="2.1.1" point="-4 -6 1 2 3 5"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="-4 -6 1 2 3 5"/>
-    <SelectManifestation grouping="2.1.1" point="-6 -9 -2 -3 4 7"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="-2 -3 -1 -2 6 10" dir="red" index="2" len="1 2"/>
-    <StrutCreation anchor="3 5 -1 -2 2 3" dir="red" index="2" len="1 2"/>
-    <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 -1 -2 8 13"/>
-    <SelectManifestation grouping="2.1.1" point="-4 -6 0 0 6 10"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="4 7 -1 -2 4 6" dir="red" index="32" len="2 3"/>
-    <StrutCreation anchor="-2 -3 1 2 0 0" dir="red" index="2" len="1 2"/>
-    <StrutCreation anchor="4 7 -1 -2 4 6" dir="red" index="45" len="1 2"/>
-    <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="2 4 0 0 4 6"/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 1 2 2 3"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="2 4 -1 -2 7 11"/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 -1 -2 8 13"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="2 4 -1 -2 7 11"/>
-    <SelectManifestation grouping="2.1.1" point="2 4 0 0 4 6"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="-4 -6 1 2 3 5"/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 1 2 2 3"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="4 7 -1 -2 4 6"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -4 -7 3 5"/>
     <SelectManifestation grouping="2.1.1" point="4 7 -4 -7 2 3"/>
     <EndBlock/>
     <JoinPoints grouping="2.1.1">
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
     </JoinPoints>
     <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="2 4 -7 -12 3 5" dir="red" index="32" len="2 3"/>
-    <StrutCreation anchor="0 1 -7 -12 6 10" dir="red" index="1" len="2 3"/>
+    <StrutCreation anchor="1 2 -4 -7 3 5" dir="yellow" index="19" len="1 2"/>
     <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 -7 -12 4 7"/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -7 -12 6 10"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -4 -7 8 13"/>
-    <SelectManifestation grouping="2.1.1" point="2 4 -1 -2 7 11"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 -1 -2 8 13"/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -4 -7 8 13"/>
+    <SelectManifestation grouping="2.1.1" point="-2 -3 -3 -5 1 2"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -6 -10 1 2"/>
     <EndBlock/>
     <JoinPoints grouping="2.1.1">
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
     </JoinPoints>
     <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="-6 -9 -5 -8 2 4" dir="red" index="2" len="1 2"/>
-    <StrutCreation anchor="0 1 -7 -12 6 10" dir="red" index="45" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="19" len="1 2"/>
     <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="-5 -7 -5 -8 4 7"/>
-    <SelectManifestation grouping="2.1.1" point="-2 -2 -6 -10 6 10"/>
+    <SelectManifestation grouping="2.1.1" point="-2 -3 -3 -5 1 2"/>
+    <SelectManifestation grouping="2.1.1" point="-2 -3 -2 -3 -2 -3"/>
     <EndBlock/>
     <JoinPoints grouping="2.1.1">
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
     </JoinPoints>
-    <BeginBlock/>
+    <StrutCreation anchor="4 7 -4 -7 2 3" dir="yellow" index="17" len="1 2"/>
+    <StrutCreation anchor="-1 -1 -6 -10 1 2" dir="yellow" index="17" len="1 2"/>
     <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="-6 -9 -2 -3 4 7"/>
-    <SelectManifestation grouping="2.1.1" point="-5 -7 -5 -8 4 7"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
+    <StrutCreation anchor="-2 -3 -2 -3 -2 -3" dir="yellow" index="0" len="1 2"/>
+    <StrutCreation anchor="-1 -1 -6 -10 1 2" dir="yellow" index="0" len="1 2"/>
     <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="-2 -2 -6 -10 6 10"/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -4 -7 8 13"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="-5 -7 -5 -8 4 7" dir="yellow" index="0" len="1 2"/>
-    <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="-2 -2 -6 -10 6 10"/>
-    <SelectManifestation grouping="2.1.1" point="-2 -2 -5 -8 3 5"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="-2 -2 -5 -8 3 5" index="6" len="4 6"/>
-    <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -2 -3 2 3"/>
-    <SelectManifestation grouping="2.1.1" point="2 4 0 0 4 6"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <BeginBlock/>
-    <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="-1 -1 1 2 2 3"/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -2 -3 2 3"/>
-    <EndBlock/>
-    <JoinPoints grouping="2.1.1">
-      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
-    </JoinPoints>
-    <DeselectAll grouping="2.1.1"/>
-    <StrutCreation anchor="-2 -2 -5 -8 3 5" dir="red" index="17" len="2 3"/>
-    <BeginBlock/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -2 -3 2 3"/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -5 -8 0 0"/>
+    <SelectManifestation grouping="2.1.1" point="2 4 -6 -10 0 0"/>
+    <SelectManifestation grouping="2.1.1" point="4 7 -4 -7 2 3"/>
     <EndBlock/>
     <JoinPoints grouping="2.1.1">
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
@@ -264,7 +62,23 @@
     <BeginBlock/>
     <DeselectAll grouping="2.1.1"/>
     <SelectManifestation grouping="2.1.1" point="-1 -1 -5 -8 -2 -3"/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -5 -8 0 0"/>
+    <SelectManifestation grouping="2.1.1" point="2 4 -6 -10 0 0"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -5 -8 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="-2 -3 -2 -3 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -5 -8 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -2 -3 -3 -5"/>
     <EndBlock/>
     <JoinPoints grouping="2.1.1">
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
@@ -272,15 +86,275 @@
     <BeginBlock/>
     <DeselectAll grouping="2.1.1"/>
     <SelectManifestation grouping="2.1.1" point="2 4 -6 -10 0 0"/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -5 -8 0 0"/>
+    <SelectManifestation grouping="2.1.1" point="4 7 -3 -5 -1 -2"/>
     <EndBlock/>
     <JoinPoints grouping="2.1.1">
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
     </JoinPoints>
     <BeginBlock/>
     <DeselectAll grouping="2.1.1"/>
-    <SelectManifestation grouping="2.1.1" point="0 1 -2 -3 2 3"/>
-    <SelectManifestation grouping="2.1.1" point="-2 -3 -4 -7 4 7"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -2 -3 -3 -5"/>
+    <SelectManifestation grouping="2.1.1" point="4 7 -3 -5 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -2 -3 -3 -5"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 0 0 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="4 7 -3 -5 -1 -2"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 0 0 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <DeselectAll grouping="2.1.1"/>
+    <StrutCreation anchor="-1 -1 -6 -10 1 2" dir="red" index="17" len="2 3"/>
+    <StrutCreation anchor="3 5 0 0 -1 -2" dir="red" index="16" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -5 -8 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -6 -10 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -6 -10 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="2 4 -6 -10 0 0"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -2 -3 -3 -5"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -3 -5 -3 -5"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -3 -5 -3 -5"/>
+    <SelectManifestation grouping="2.1.1" point="4 7 -3 -5 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -6 -10 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -3 -5 -3 -5"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <DeselectAll grouping="2.1.1"/>
+    <StrutCreation anchor="4 7 -3 -5 -1 -2" dir="red" index="32" len="2 3"/>
+    <StrutCreation anchor="1 2 -2 -3 -3 -5" dir="red" index="32" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -5 -8 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -2 -3 0 0"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="2 4 -3 -5 2 3"/>
+    <SelectManifestation grouping="2.1.1" point="2 4 -6 -10 0 0"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 4 -6 -10 0 0" grouping="2.1.1" startSegment="2 4 -3 -5 2 3"/>
+    <SelectManifestation grouping="2.1.1" point="2 4 -3 -5 2 3"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -2 -3 0 0"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="2 4 -3 -5 2 3"/>
+    <SelectManifestation grouping="2.1.1" point="4 7 -4 -7 2 3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="-2 -3 -2 -3 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -2 -3 0 0"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <DeselectAll grouping="2.1.1"/>
+    <StrutCreation anchor="-1 -1 -2 -3 0 0" dir="yellow" index="9" len="1 2"/>
+    <StrutCreation anchor="-1 -1 -2 -3 0 0" dir="yellow" index="2" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -6 -10 1 2"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -3 -5 3 5"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -3 -5 3 5"/>
+    <SelectManifestation grouping="2.1.1" point="2 4 -3 -5 2 3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -3 -5 3 5"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 0 0 2 3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="2 4 -3 -5 2 3"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 0 0 2 3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 0 0 2 3"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 0 0 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="-2 -3 -3 -5 1 2"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -3 -5 3 5"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -3 -5 3 5"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -4 -7 3 5"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="0 0 0 0 0 0"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 0 0 2 3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 0 0 2 3"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -1 -2 2 3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <DeselectAll grouping="2.1.1"/>
+    <StrutCreation anchor="1 2 -6 -10 -2 -3" dir="yellow" index="9" len="1 2"/>
+    <StrutCreation anchor="1 2 -6 -10 -2 -3" dir="yellow" index="1" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation grouping="2.1.1" point="0 0 -3 -5 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -4 -7 0 0"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -4 -7 0 0"/>
+    <SelectManifestation grouping="2.1.1" point="4 7 -4 -7 2 3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <SelectManifestation grouping="2.1.1" point="0 0 -3 -5 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="-2 -3 -2 -3 -2 -3"/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="0 0 -3 -5 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="-2 -3 -2 -3 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -4 -7 0 0"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -3 -5 -3 -5"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="0 0 -3 -5 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -3 -5 -3 -5"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation endSegment="3 5 -3 -5 -3 -5" grouping="2.1.1" startSegment="3 5 -4 -7 0 0"/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -4 -7 0 0"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -1 -2 2 3"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="1 2 -4 -7 3 5"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 -4 -7 0 0"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="0 0 -3 -5 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="-2 -3 -3 -5 1 2"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="0 0 -3 -5 -2 -3"/>
+    <SelectManifestation grouping="2.1.1" point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </JoinPoints>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="3 5 0 0 -1 -2"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -1 -6 -10 1 2"/>
     <EndBlock/>
     <Centroid grouping="2.1.1">
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
@@ -293,15 +367,15 @@
     </Branch>
     <AdjustSelectionByClass balls="SELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
     <NewCentroid/>
-    <SelectManifestation point="-1 -1 -3 -5 3 5"/>
+    <SelectManifestation point="1 2 -3 -5 0 0"/>
     <Delete/>
   </EditHistory>
   <notes>
     <page snapshot="0" title="ghost">
-      <ViewModel distance="83.83741760253906" far="167.67483520507812" near="0.20959354937076569" parallel="true" stereoAngle="0.0" width="37.726837158203125">
-        <LookAtPoint x="-2.6180338859558105" y="-11.090169906616211" z="11.090169906616211"/>
-        <UpDirection x="0.525731086730957" y="-0.8506507873535156" z="0.0"/>
-        <LookDirection x="0.8506507873535156" y="0.525731086730957" z="0.0"/>
+      <ViewModel distance="71.44154357910156" far="142.88308715820312" near="0.178603857755661" parallel="true" stereoAngle="0.0" width="32.1486930847168">
+        <LookAtPoint x="4.236067771911621" y="-11.090169906616211" z="0.0"/>
+        <UpDirection x="-0.30901700258255005" y="0.5" z="0.80901700258255"/>
+        <LookDirection x="-0.8506507873535156" y="-0.525731086730957" z="-0.0"/>
       </ViewModel>
       <content xml:space="preserve">This page was a saved view created by an older version of vZome.</content>
     </page>
@@ -312,8 +386,8 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="98.38412475585938" far="196.7682342529297" near="0.24596039950847626" parallel="true" stereoAngle="0.0" width="44.27286148071289">
-      <LookAtPoint x="-2.6180338859558105" y="-11.090169906616211" z="11.090169906616211"/>
+    <ViewModel distance="62.1082878112793" far="124.21659851074219" near="0.1552707552909851" parallel="true" stereoAngle="0.0" width="27.948734283447266">
+      <LookAtPoint x="4.236067771911621" y="-11.090169906616211" z="0.0"/>
       <UpDirection x="-0.30901700258255005" y="0.5" z="0.80901700258255"/>
       <LookDirection x="0.0" y="0.8506507873535156" z="-0.525731086730957"/>
     </ViewModel>

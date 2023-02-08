@@ -1,6 +1,7 @@
 ---
 title: Building the Vertex-first 120-cell
 image: https://user-images.githubusercontent.com/1584024/216853390-dae255c1-f892-42be-946c-e4f78add6219.jpg
+description: Using 3D-printed extensions to Zometool to model a 4D polytope
 layout: vzome
 ---
 

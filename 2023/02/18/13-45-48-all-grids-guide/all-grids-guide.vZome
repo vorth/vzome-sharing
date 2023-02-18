@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="19" field="golden" version="7.1">
-  <EditHistory editNumber="1084" lastStickyEdit="906">
+  <EditHistory editNumber="1184" lastStickyEdit="906">
     <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="7" len="1 1"/>
     <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="1 2"/>
     <StrutCreation anchor="0 0 0 0 0 0" index="2" len="6 10"/>
@@ -1174,6 +1174,106 @@
     <StrutCreation anchor="0 0 1 1 2 3" dir="yellow" index="7" len="5 8"/>
     <StrutCreation anchor="0 0 0 0 2 4" index="2" len="16 26"/>
     <StrutCreation anchor="1 1 0 0 1 2" dir="red" index="2" len="8 13"/>
+    <SelectManifestation point="1 2 1 2 11 18"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ConvexHull3d mode="noPanels"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 1 2 11 18"/>
+    <SelectManifestation endSegment="3 5 -4 -7 10 16" startSegment="1 2 1 2 11 18"/>
+    <SelectManifestation point="3 5 -4 -7 10 16"/>
+    <SelectManifestation endSegment="-1 -2 -1 -2 11 18" startSegment="1 2 1 2 11 18"/>
+    <SelectManifestation point="-1 -2 -1 -2 11 18"/>
+    <SelectManifestation endSegment="-1 -2 -1 -2 11 18" startSegment="3 5 -4 -7 10 16"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="1 1 1 2 10 17"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ConvexHull3d mode="noPanels"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 1 2 10 17"/>
+    <SelectManifestation endSegment="-1 -1 -1 -2 10 17" startSegment="1 1 1 2 10 17"/>
+    <SelectManifestation endSegment="3 4 -4 -7 9 15" startSegment="1 1 1 2 10 17"/>
+    <SelectManifestation endSegment="-1 -1 -1 -2 10 17" startSegment="3 4 -4 -7 9 15"/>
+    <SelectManifestation point="3 4 -4 -7 9 15"/>
+    <SelectManifestation point="-1 -1 -1 -2 10 17"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="1 2 1 1 10 16"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 -4 -6 9 14"/>
+    <SelectManifestation point="-1 -2 -1 -1 10 16"/>
+    <SelectManifestation point="1 2 1 1 10 16"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 6 9 8 13"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 -1 -1 10 16"/>
+    <SelectManifestation point="3 5 -4 -6 9 14"/>
+    <SelectManifestation point="1 2 1 1 10 16"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="1 1 1 1 9 15"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 4 -4 -6 8 13"/>
+    <SelectManifestation point="-1 -1 -1 -1 9 15"/>
+    <SelectManifestation point="1 1 1 1 9 15"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 1 1 9 15"/>
+    <SelectManifestation point="-1 -1 -1 -1 9 15"/>
+    <SelectManifestation point="3 4 -4 -6 8 13"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 2 3 12 20"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 4 -5 -8 11 18"/>
+    <SelectManifestation point="-1 -1 -2 -3 12 20"/>
+    <SelectManifestation point="1 1 2 3 12 20"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 2 3 12 20"/>
+    <SelectManifestation point="-1 -1 -2 -3 12 20"/>
+    <SelectManifestation point="3 4 -5 -8 11 18"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 1 1 9 14"/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 2 3 12 19"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 2 3 11 17"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 2 3 12 20"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 2 3 8 14"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ConvexHull3d mode="noPanels"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 2 3 8 14"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 2 3 10 16"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 1 2 6 11"/>
+    <EndBlock/>
+    <DeselectAll/>
   </EditHistory>
   <notes/>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
@@ -1182,10 +1282,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="182.88900756835938" far="365.7772216796875" near="0.457222044467926" parallel="false" stereoAngle="0.0" width="82.30001068115234">
+    <ViewModel distance="289.709716796875" far="579.4181518554688" near="0.7242739796638489" parallel="false" stereoAngle="0.0" width="130.36940002441406">
       <LookAtPoint x="2.6180338859558105" y="4.236067771911621" z="29.034440994262695"/>
-      <UpDirection x="0.2676418721675873" y="0.9634966850280762" z="0.001597345806658268"/>
-      <LookDirection x="0.8072214126586914" y="-0.22331614792346954" z="-0.5463699698448181"/>
+      <UpDirection x="0.06483138352632523" y="-0.9907222986221313" z="0.11923225969076157"/>
+      <LookDirection x="0.8754449486732483" y="-8.894116617739201E-4" z="-0.48330843448638916"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">

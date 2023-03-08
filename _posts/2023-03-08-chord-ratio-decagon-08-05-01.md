@@ -1,5 +1,5 @@
 ---
-title: New vZome Orbit Color: Pink
+title: New vZome Orbit Color - Pink
 description:
   I am on the lookout for vZome strut orbits that merit a defined color, because they appear naturally in geometric models.  Here is one such.
 image: https://vorth.github.io/vzome-sharing/2023/03/08/08-05-01-chord-ratio-decagon/chord-ratio-decagon.png

@@ -37,7 +37,7 @@ However, this orbit also turns out to be one of those identified by Nathaniel Li
 interesting for another reason, [discussed in this earlier post](/vzome-sharing/2023/02/17/all-grids-18-46-03.html).
 
 <figure style="width: 87%; margin: 5%">
- <vzome-viewer style="width: 100%; height: 60vh"
+ <vzome-viewer style="width: 100%; height: 60vh" show-scenes="true"
       src="https://vorth.github.io/vzome-sharing/2023/03/08/08-18-26-pink-radius-grid/pink-radius-grid.vZome" >
    <img  style="width: 100%"
       src="https://vorth.github.io/vzome-sharing/2023/03/08/08-18-26-pink-radius-grid/pink-radius-grid.png" >

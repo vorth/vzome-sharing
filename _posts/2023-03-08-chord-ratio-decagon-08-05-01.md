@@ -46,3 +46,11 @@ interesting for another reason, [discussed in this earlier post](/vzome-sharing/
     Using pink struts to define the vertices of a Zome-constructible polyhedron
  </figcaption>
 </figure>
+
+You can enable the pink color for this orbit by placing these lines in your `.vZome.prefs` file:
+```
+# HTML pink
+color.[[-4,3,5],[-11,7,5]]=255,192,203
+```
+As indicated, the RGB value of the color is exactly the value associated with the HTML color named "pink".
+

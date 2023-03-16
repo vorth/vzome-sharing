@@ -1,4 +1,5 @@
 ---
+subtitle: pink-radius-grid.vZome
 share-title: pink-radius-grid.vZome
 image: https://vorth.github.io/vzome-sharing/2023/03/08/08-18-26-pink-radius-grid/pink-radius-grid.png
 layout: design

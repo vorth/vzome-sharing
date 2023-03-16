@@ -2,6 +2,7 @@
 title: ''
 subtitle: pink-radius-grid.vZome
 share-title: pink-radius-grid.vZome
+share-description: An interactive 3D view, shared from vZome
 image: https://vorth.github.io/vzome-sharing/2023/03/08/08-18-26-pink-radius-grid/pink-radius-grid.png
 layout: design
 ---

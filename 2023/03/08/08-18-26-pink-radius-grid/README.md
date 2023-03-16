@@ -1,7 +1,7 @@
 
 ## How to Use or Share this Design
 
- - [***shareable web page***](https://vorth.github.io/vzome-sharing/2023/03/08/08-18-26-pink-radius-grid/pink-radius-grid) to share this design; *try it before you share it!*
+ - [***shareable web page***](https://vorth.github.io/vzome-sharing/2023/03/08/08-18-26-pink-radius-grid) to share this design; *try it before you share it!*
  - [raw vZome file](<https://raw.githubusercontent.com/vorth/vzome-sharing/main/2023/03/08/08-18-26-pink-radius-grid/pink-radius-grid.vZome>) to use in vZome desktop or vZome Online
  
  HTML for embedding in any web page:

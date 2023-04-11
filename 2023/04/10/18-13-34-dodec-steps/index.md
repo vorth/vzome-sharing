@@ -7,7 +7,7 @@ image: https://vorth.github.io/vzome-sharing/2023/04/10/18-13-34-dodec-steps/dod
 layout: design
 ---
 
-  <vzome-viewer style="width: 100%; height: 60vh"
+  <vzome-viewer style="width: 100%; height: 60vh" show-scenes="true"
        src="https://vorth.github.io/vzome-sharing/2023/04/10/18-13-34-dodec-steps/dodec-steps.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2023/04/10/18-13-34-dodec-steps/dodec-steps.png" >

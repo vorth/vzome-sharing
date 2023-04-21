@@ -1,7 +1,7 @@
 ---
 title: 600cell VanOss 3D snaps NO HISTORY
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: /vzome-sharing/2022/07/20/13-02-52-600cell-VanOss-3D-snaps-NO-HISTORY/600cell-VanOss-3D-snaps-NO-HISTORY.png
+image: /2022/07/20/13-02-52-600cell-VanOss-3D-snaps-NO-HISTORY/600cell-VanOss-3D-snaps-NO-HISTORY.png
 published: true
 layout: vzome
 ---

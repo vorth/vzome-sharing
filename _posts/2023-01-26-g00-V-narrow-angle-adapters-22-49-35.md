@@ -19,7 +19,7 @@ Here are some designs for 3D-printable adapters to simulate different combinatio
 They must be printed using a good laser-sintering (SLS) printer, and results will be
 very disappointing on a consumer-grade extrusion printer.
 
-## Two G00 Struts
+## Two G00 Struts, Narrow
 
 There are two possibilities for two green struts to share a pentagon hole, a narrow angle and a wider angle.
 
@@ -66,15 +66,17 @@ in some other CAD tool.
  </figcaption>
 </figure>
 
-***Wide-angle 2G00 design coming soon***
+## Two G00 Struts, Wide
+
+*design coming soon*
 
 ## One R00 and One G00 Strut
 
-***design coming soon***
+*design coming soon*
 
 ## One R00 and Two G00 Struts, Narrow
 
-***design coming soon***
+*design coming soon*
 
 ## One R00 and Two G00 Struts, Wide
 
@@ -85,7 +87,7 @@ in some other CAD tool.
       src="https://vorth.github.io/vzome-sharing/2023/05/24/07-52-45-red-2-green-adapter-wide/red-2-green-adapter-wide.png" >
  </vzome-viewer>
  <figcaption style="text-align: center; font-style: italic;">
-    REPLACE this caption!
+    One R00 and two G00 struts, wide variant
  </figcaption>
 </figure>
 
@@ -94,17 +96,17 @@ and you can order the part from my [Shapeways store](http://shpws.me/TuUg).
 
 ## One R00 and Three G00 Struts, Narrow
 
-***design coming soon***
+*design coming soon*
 
 ## One R00 and Three G00 Struts, Wide
 
-***design coming soon***
+*design coming soon*
 
 ## One R00 and Four G00 Struts
 
-***design coming soon***
+*design coming soon*
 
 ## One R00 and Five G00 Struts
 
-***design coming soon***
+*design coming soon*
 

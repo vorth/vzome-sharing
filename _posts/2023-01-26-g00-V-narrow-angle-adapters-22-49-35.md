@@ -90,7 +90,7 @@ in some other CAD tool.
 </figure>
 
 You can download the [STL file](https://vorth.github.io/vzome-sharing/2023/05/24/07-52-45-red-2-green-adapter-wide/red-2-green-adapter-wide.stl),
-and you can order the part from my [Shapeways store](http://shpws.me/TuUc).
+and you can order the part from my [Shapeways store](http://shpws.me/TuUg).
 
 ## One R00 and Three G00 Struts, Narrow
 

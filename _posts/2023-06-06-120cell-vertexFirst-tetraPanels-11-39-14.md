@@ -22,7 +22,7 @@ This is a test of AR QuickLook on a model designed in vZome.
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
     Testing Safari's AR QuickLook...
- <a rel="ar" href="https://vorth.github.io/vzome-sharing/2023/06/06/11-39-14-120cell-vertexFirst-tetraPanels/120cell-vertexFirst-tetraPanels.utdz">Try AR!
+ <a rel="ar" href="https://vorth.github.io/vzome-sharing/2023/06/06/11-39-14-120cell-vertexFirst-tetraPanels/120cell-vertexFirst-tetraPanels.usdz">Try AR!
  </a>
   </figcaption>
 </figure>

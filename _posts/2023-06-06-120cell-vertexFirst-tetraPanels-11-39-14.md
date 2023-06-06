@@ -15,14 +15,14 @@ layout: vzome
 This is a test of AR QuickLook on a model designed in vZome.
 
 <figure style="width: 87%; margin: 5%">
- <a rel="ar" href="https://vorth.github.io/vzome-sharing/2023/06/06/11-39-14-120cell-vertexFirst-tetraPanels/120cell-vertexFirst-tetraPanels.utdz">
   <vzome-viewer style="width: 100%; height: 60vh"
        src="https://vorth.github.io/vzome-sharing/2023/06/06/11-39-14-120cell-vertexFirst-tetraPanels/120cell-vertexFirst-tetraPanels.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2023/06/06/11-39-14-120cell-vertexFirst-tetraPanels/120cell-vertexFirst-tetraPanels.png" >
   </vzome-viewer>
- </a>
   <figcaption style="text-align: center; font-style: italic;">
-    Testing Safari's AR QuickLook
+    Testing Safari's AR QuickLook...
+ <a rel="ar" href="https://vorth.github.io/vzome-sharing/2023/06/06/11-39-14-120cell-vertexFirst-tetraPanels/120cell-vertexFirst-tetraPanels.utdz">Try AR!
+ </a>
   </figcaption>
 </figure>

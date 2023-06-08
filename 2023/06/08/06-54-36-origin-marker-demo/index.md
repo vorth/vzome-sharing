@@ -7,7 +7,7 @@ image: https://vorth.github.io/vzome-sharing/2023/06/08/06-54-36-origin-marker-d
 layout: design
 ---
 
-  <vzome-viewer style="width: 100%; height: 60vh"
+  <vzome-viewer style="width: 100%; height: 60vh" show-scenes="true"
        src="https://vorth.github.io/vzome-sharing/2023/06/08/06-54-36-origin-marker-demo/origin-marker-demo.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2023/06/08/06-54-36-origin-marker-demo/origin-marker-demo.png" >

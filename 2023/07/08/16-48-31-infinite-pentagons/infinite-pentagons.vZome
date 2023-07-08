@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="21" field="golden" version="7.1">
+  <EditHistory editNumber="19" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 2"/>
+    <SelectManifestation point="2 3 2 3 2 3"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ConvexHull3d mode="noPanels"/>
+    <Symmetry>
+      <Symmetry attrName="symmetry.group" name="octahedral"/>
+    </Symmetry>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <Symmetry>
+      <Symmetry attrName="symmetry.group" name="octahedral"/>
+    </Symmetry>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <Symmetry>
+      <Symmetry attrName="symmetry.group" name="octahedral"/>
+    </Symmetry>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="803.4214477539062" far="1606.8433837890625" near="2.008553981781006" parallel="false" stereoAngle="0.0" width="361.53973388671875">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.36268049478530884" y="-0.9318870902061462" z="0.006955980323255062"/>
+      <LookDirection x="-0.9270791411399841" y="-0.3600306808948517" z="0.10441822558641434"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction color="255,255,255" name="5" orbit="[[5,-3,3],[-14,9,3]]" prototype="5/4 -1 -3/4 -3/4 -1/2 1/4"/>
+    <Direction color="0,141,54" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="6" orbit="[[-62,85,211],[-7,13,211]]" prototype="-5/4 0 -3/4 1/4 1/2 -5/4"/>
+    <Direction color="255,255,255" name="3" orbit="[[-7,5,11],[-2,3,11]]" prototype="-1/2 0 -1/2 3/2 -1 1/2"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="4" orbit="[[166,-101,31],[-79,49,31]]" prototype="-1/2 3/4 3/4 -1 5/4 1/4"/>
+    <Direction color="255,255,255" name="1" orbit="[[2,-1,3],[5,-3,1]]" prototype="-3/2 1/2 -1 -1/2 -1/2 0"/>
+    <Direction color="255,255,255" name="2" orbit="[[2,-1,1],[-37,23,11]]" prototype="-1/2 -1/2 1 -1/2 -3/2 0"/>
+    <Direction color="255,255,255" name="0" orbit="[[-14,9,3],[5,-3,3]]" prototype="1/2 0 -1/2 -1/2 -1 3/2"/>
+    <Direction color="30,30,30" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="255,255,255" name="17" orbit="[[-158,103,101],[-25,31,101]]" prototype="5/4 0 -3/4 5/4 1/2 1/4"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="18,205,148" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="255,255,255" name="16" orbit="[[-122,89,41],[97,-59,41]]" prototype="1/2 -1/4 7/4 0 1/4 -3/4"/>
+    <Direction color="255,255,255" name="19" orbit="[[-1,3,11],[-42,27,11]]" prototype="3/2 -3/4 -1/4 -1 -1/4 -1/4"/>
+    <Direction color="255,255,255" name="18" orbit="[[78,-47,209],[-49,59,209]]" prototype="-1/4 1 1/4 -3/4 3/2 -1/4"/>
+    <Direction color="255,255,255" name="13" orbit="[[22,-13,29],[-99,73,145]]" prototype="1/4 -3/4 1/2 3/4 -5/4 1"/>
+    <Direction color="255,255,255" name="12" orbit="[[-78,49,139],[-125,91,139]]" prototype="-7/4 0 3/4 -1/4 -1/2 -1/4"/>
+    <Direction color="255,255,255" name="15" orbit="[[66,-31,71],[163,-97,71]]" prototype="-1/4 0 3/4 -5/4 -1/2 5/4"/>
+    <Direction color="108,0,198" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="14" orbit="[[-74,47,211],[59,11,211]]" prototype="-5/4 3/4 -1/2 3/4 1/4 1"/>
+    <Direction color="220,76,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="255,255,255" name="11" orbit="[[14,-3,145],[31,-17,29]]" prototype="3/4 -1 -1/4 3/4 -1/2 5/4"/>
+    <Direction color="255,255,255" name="10" orbit="[[22,39,179],[109,-59,179]]" prototype="-5/4 -1/4 3/2 -1/4 1/4 0"/>
+    <Direction color="255,255,255" name="9" orbit="[[5,-3,1],[2,-1,3]]" prototype="-3/4 -3/4 -3/2 3/4 -1/4 0"/>
+    <Direction color="255,255,255" name="7" orbit="[[158,-85,139],[-9,11,139]]" prototype="1/2 -3/4 7/4 0 -1/4 -1/4"/>
+    <Direction color="255,255,255" name="8" orbit="[[-38,35,101],[163,-89,101]]" prototype="1/4 -1 3/4 -5/4 -1/2 3/4"/>
+    <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="240,160,0" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="18,205,148" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="30,30,30" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,141,54" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="240,160,0" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="108,0,198" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

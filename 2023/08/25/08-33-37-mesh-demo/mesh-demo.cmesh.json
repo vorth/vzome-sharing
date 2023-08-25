@@ -1,0 +1,28 @@
+{
+  "field" : "golden",
+  "vertices" : [ [ [ -1, -2, 1 ], [ 0, 0, 1 ], [ 2, 3, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 1, 2, 1 ], [ 0, 0, 1 ], [ 2, 3, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 0,
+    "color" : "#FFFF00"
+  }, {
+    "vertex" : 2,
+    "color" : "#00CC33"
+  }, {
+    "vertex" : 1,
+    "color" : "#FFFFFF"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 0 ],
+    "color" : "#9933FF"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#AF0000"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#000000"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 0, 2, 1 ],
+    "color" : "#0066FF"
+  } ]
+}

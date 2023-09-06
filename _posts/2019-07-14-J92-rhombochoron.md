@@ -12,8 +12,8 @@ layout: vzome
  
 {% endcomment %}
 
-The object below represents a four-dimensional <a href="http://eusebeia.dyndns.org/4d/crf">CRF</a> polytope,
-the <a href="http://eusebeia.dyndns.org/4d/J92_rhombochoron">triangular hebesphenorotundaeic rhombochoron</a>,
+The object below represents a four-dimensional <a href="https://www.qfbox.info/4d/crf">CRF</a> polytope,
+the <a href="https://www.qfbox.info/4d/J92_rhombochoron">triangular hebesphenorotundaeic rhombochoron</a>,
 or J92 rhombochoron for short.
 
 <figure style="width: 87%; margin: 5%">
@@ -37,8 +37,8 @@ using expressions involving only integers and the golden ratio <span class="kate
 
 <p>In general, a CRF polytope is a 4D generalization of a <a href="https://en.wikipedia.org/wiki/Johnson_solid">Johnson solid</a>.
 There are 92 different Johnson solids, having variously esoteric names, but
-fortunately also numbered.  The polytope shown here has some <a href="http://eusebeia.dyndns.org/4d/J92">J92</a> cells
-and some <a href="http://eusebeia.dyndns.org/4d/J62">J62</a> cells.  In the first rendering, one of the J62 cells is
+fortunately also numbered.  The polytope shown here has some <a href="https://www.qfbox.info/4d/J92">J92</a> cells
+and some <a href="https://www.qfbox.info/4d/J62">J62</a> cells.  In the first rendering, one of the J62 cells is
 made entirely with blue struts, since that cell lies entirely in the
 3D hyperplane of projection.  All other cells are somewhat foreshortened
 in the 3D projection, because they do not lie in that hyperplane.</p>
@@ -65,7 +65,7 @@ rays are not orthogonal to the ground plane.
   </figcaption>
 </figure>
 
-<p>The <a href="http://eusebeia.dyndns.org/4d/J92_rhombochoron">Eusebeia page</a> gives vertex coordinates for the J92 rhombochoron
+<p>The <a href="https://www.qfbox.info/4d/J92_rhombochoron">Eusebeia page</a> gives vertex coordinates for the J92 rhombochoron
 in terms of <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>φ</mi></mrow><annotation encoding="application/x-tex">\varphi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault">φ</span></span></span></span> and <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mn>3</mn></msqrt></mrow><annotation encoding="application/x-tex">\sqrt{3}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1.04em; vertical-align: -0.13278em;"></span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.90722em;"><span class="svg-align" style="top: -3em;"><span class="pstrut" style="height: 3em;"></span><span class="mord" style="padding-left: 0.833em;"><span class="mord">3</span></span></span><span class="" style="top: -2.86722em;"><span class="pstrut" style="height: 3em;"></span><span class="hide-tail" style="min-width: 0.853em; height: 1.08em;"><svg width="400em" height="1.08em" viewBox="0 0 400000 1080" preserveAspectRatio="xMinYMin slice"><path d="M95,702
 c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14
 c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54

@@ -29,4 +29,4 @@ Here, I've reproduced the outer shell using real Zome red struts plus "double sh
 The inner structure of my design is simpler than his, which appears to use vertices of an icosahedron.
 
 Here is his original post:
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fghee.b.kim%2Fposts%2Fpfbid02Qn7UYuVohujZ6C7aSAAmccetGfNgGVcgVqStEvNWmSshEgxGPmbFna1UCyy2yd6Kl&show_text=false&width=500" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fghee.b.kim%2Fposts%2Fpfbid02Z82EKh65UNUrJU7yBDf1ss6JoMFeLDBawBH8EQeYLw7zQwiJHPQ5Y1LTtUJYG2aZl&show_text=false&width=500" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>

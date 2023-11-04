@@ -7,369 +7,369 @@ image: https://vorth.github.io/vzome-sharing/2023/11/04/10-35-53-H4-1000/H4-1000
 layout: design
 ---
 
-    <table>
-      <thead>
-        <tr>
-          <th>Wythoff symbol</th>
-          <th>viewer</th>
-        </tr>
-      </thead>
-      <tbody>
+<table>
+  <thead>
+    <tr>
+      <th>Wythoff symbol</th>
+      <th>viewer</th>
+    </tr>
+  </thead>
+  <tbody>
 
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="1" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-            <vzome-viewer style="width: 25rem; height: 15rem"
-                src="https://vorth.github.io/vzome-sharing/2023/11/04/10-35-53-H4-1000/H4-1000.vZome" >
-              <img  style="max-width: 30rem"
-                src="https://vorth.github.io/vzome-sharing/2023/11/04/10-35-53-H4-1000/H4-1000.png" >
-            </vzome-viewer>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="2" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="1" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="2" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="3" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="1" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="3" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="2" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="3" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="1" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="2" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="3" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="4" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="1" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="4" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="2" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="4" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="1" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="2" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="4" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="3" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="4" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="1" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="3" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="4" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="2" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="3" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="4" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
-        <tr>
-          <td style="width: 15rem">
-            <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
-              <style>.label { font: .35px sans-serif; }</style>
-              <g>
-                <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
-                <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
-                <g>
-                  <circle r="0.1" fill="black" cx="1" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="2" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="3" cy="1"></circle>
-                  <circle r="0.1" fill="black" cx="4" cy="1"></circle>
-                </g>
-                <g>
-                  <circle r="0.3" fill="none" cx="1" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="2" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="3" cy="1"></circle>
-                  <circle r="0.3" fill="none" cx="4" cy="1"></circle>
-                </g>
-              </g>
-            </svg>    
-          </td>
-          <td>
-          </td>
-        </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="1" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+        <vzome-viewer style="width: 25rem; height: 15rem"
+            src="https://vorth.github.io/vzome-sharing/2023/11/04/10-35-53-H4-1000/H4-1000.vZome" >
+          <img  style="max-width: 30rem"
+            src="https://vorth.github.io/vzome-sharing/2023/11/04/10-35-53-H4-1000/H4-1000.png" >
+        </vzome-viewer>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="2" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="1" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="2" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="3" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="1" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="3" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="2" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="3" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="1" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="2" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="3" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="4" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="1" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="4" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="2" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="4" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="1" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="2" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="4" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="3" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="4" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="1" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="3" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="4" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="2" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="3" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="4" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 15rem">
+        <svg viewBox="0 -0.5 5 3" stroke="black" stroke-width="0.03">
+          <style>.label { font: .35px sans-serif; }</style>
+          <g>
+            <text x="1.4" y="1.5" class="label" stroke-width="0.03">5</text>
+            <line stroke="black" stroke-width="0.05" x1="1" y1="1" x2="4" y2="1"></line>
+            <g>
+              <circle r="0.1" fill="black" cx="1" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="2" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="3" cy="1"></circle>
+              <circle r="0.1" fill="black" cx="4" cy="1"></circle>
+            </g>
+            <g>
+              <circle r="0.3" fill="none" cx="1" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="2" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="3" cy="1"></circle>
+              <circle r="0.3" fill="none" cx="4" cy="1"></circle>
+            </g>
+          </g>
+        </svg>    
+      </td>
+      <td>
+      </td>
+    </tr>
 
-      </tbody>
-    </table>
+  </tbody>
+</table>
 
 [Source folder](<https://github.com/vorth/vzome-sharing/tree/main/2023/11/04/10-35-53-H4-1000/>)

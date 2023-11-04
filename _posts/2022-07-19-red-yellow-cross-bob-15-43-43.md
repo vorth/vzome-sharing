@@ -25,7 +25,7 @@ With the availability of 3-D printing, we have an alternative:
 </vzome-viewer>
 
 This design is meant to be 3-D printed in color, to be used where red and yellow
-struts intersect in the [Triality](https://homepages.wmich.edu/~drichter/zometriality.htm) projection of the 24-cell, shown below.
+struts intersect in the [Triality](https://polytopologist.github.io/zome_pages/zometriality.htm) projection of the 24-cell, shown below.
 
 <vzome-viewer style="width: 87%; height: 60vh; margin: 5%"
       src="https://vorth.github.io/vzome-sharing/2022/07/19/17-28-31-triality-24-cell/triality-24-cell.vZome" >

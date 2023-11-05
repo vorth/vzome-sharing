@@ -7,7 +7,7 @@ image: https://vorth.github.io/vzome-sharing/2023/11/04/19-56-40-RT-stellation-c
 layout: design
 ---
 
-  <vzome-viewer style="width: 100%; height: 60vh"
+  <vzome-viewer style="width: 100%; height: 60vh" show-scenes="true"
        src="https://vorth.github.io/vzome-sharing/2023/11/04/19-56-40-RT-stellation-cells/RT-stellation-cells.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2023/11/04/19-56-40-RT-stellation-cells/RT-stellation-cells.png" >

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="21" field="golden" version="7.1">
-  <EditHistory editNumber="121" lastStickyEdit="50">
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="DEV" field="golden" version="7.1">
+  <EditHistory editNumber="92" lastStickyEdit="50">
     <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="2 3"/>
     <SelectManifestation point="2 3 0 0 3 5"/>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
@@ -156,35 +156,6 @@
     <Delete/>
     <SelectAll originLast="true"/>
     <ConvexHull3d mode="noPanels"/>
-    <BeginBlock/>
-    <DeselectAll/>
-    <SelectManifestation endSegment="-3 -5 2 3 0 0" startSegment="3 5 2 3 0 0"/>
-    <SelectManifestation endSegment="0 0 3 5 -2 -3" startSegment="0 0 -3 -5 -2 -3"/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
-    <Delete/>
-    <SelectAll originLast="true"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
-    <StrutCreation anchor="1 2 17 28 -5 -8" dir="red" index="16" len="1 2"/>
-    <DeselectAll/>
-    <SelectToolParameters name="tool-3"/>
-    <Delete/>
-    <BeginBlock/>
-    <AdjustSelectionByOrbitLength length="1 2" orbit="red" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
-    <SelectManifestation point="1 2 15 25 -6 -10"/>
-    <EndBlock/>
-    <Delete/>
-    <SelectToolParameters name="tool-3"/>
-    <Delete/>
-    <StrutCreation anchor="0 0 3 5 -2 -3" dir="red" index="31" len="2 3"/>
-    <BeginBlock/>
-    <SelectManifestation point="0 0 0 0 0 0"/>
-    <SelectManifestation point="0 0 0 0 0 0"/>
-    <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="0 0 3 5 -2 -3"/>
-    <EndBlock/>
-    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
-    <SelectManifestation point="0 0 0 0 0 0"/>
-    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
     <DeselectAll/>
   </EditHistory>
   <notes/>
@@ -194,10 +165,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="497.14385986328125" far="994.2865600585938" near="1.2428600788116455" parallel="false" stereoAngle="0.0" width="223.71473693847656">
+    <ViewModel distance="152.76174926757812" far="305.523193359375" near="0.3819045424461365" parallel="false" stereoAngle="0.0" width="68.7427978515625">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.9275396466255188" y="-0.247317835688591" z="-0.2801857888698578"/>
-      <LookDirection x="-0.30525586009025574" y="0.06882715225219727" z="0.9497799873352051"/>
+      <UpDirection x="-0.32659777998924255" y="0.031683549284935" z="-0.9446322917938232"/>
+      <LookDirection x="-0.6437341570854187" y="-0.7392521500587463" z="0.19777025282382965"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="lifelike">

@@ -2,7 +2,7 @@
 title: ''
 subtitle: red blue icosas
 share-title: red blue icosas
-share-description: I'm modifying this description, to try to trigger a failed vZome share
+share-description: An interactive 3D view, shared from vZome
 image: https://vorth.github.io/vzome-sharing/2023/07/04/15-56-40-red-blue-icosas/red-blue-icosas.png
 layout: design
 ---

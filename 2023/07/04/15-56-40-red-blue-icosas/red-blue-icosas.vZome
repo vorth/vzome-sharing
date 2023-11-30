@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="DEV" field="golden" version="7.1">
-  <EditHistory editNumber="92" lastStickyEdit="50">
+  <EditHistory editNumber="99" lastStickyEdit="50">
     <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="2 3"/>
     <SelectManifestation point="2 3 0 0 3 5"/>
     <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
@@ -157,6 +157,13 @@
     <SelectAll originLast="true"/>
     <ConvexHull3d mode="noPanels"/>
     <DeselectAll/>
+    <StrutCreation anchor="2 3 0 0 -3 -5" dir="red" index="0" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="4 6 1 2 -3 -5" startSegment="2 3 0 0 -3 -5"/>
+    <SelectManifestation point="4 6 1 2 -3 -5"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
   </EditHistory>
   <notes/>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
@@ -165,10 +172,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="152.76174926757812" far="305.523193359375" near="0.3819045424461365" parallel="false" stereoAngle="0.0" width="68.7427978515625">
+    <ViewModel distance="168.8278350830078" far="337.6553039550781" near="0.4220697283744812" parallel="false" stereoAngle="0.0" width="75.9725341796875">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.32659777998924255" y="0.031683549284935" z="-0.9446322917938232"/>
-      <LookDirection x="-0.6437341570854187" y="-0.7392521500587463" z="0.19777025282382965"/>
+      <UpDirection x="-0.6056151390075684" y="-0.21097005903720856" z="-0.767282247543335"/>
+      <LookDirection x="-0.6544159650802612" y="-0.416537880897522" z="0.6310602426528931"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="lifelike">

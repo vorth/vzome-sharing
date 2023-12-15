@@ -1,7 +1,7 @@
 ---
 title: ''
-subtitle: ghee boom kim dodec
-share-title: ghee boom kim dodec
+subtitle: ghee beom kim dodec
+share-title: ghee beom kim dodec
 share-description: An interactive 3D view, shared from vZome
 image: https://vorth.github.io/vzome-sharing/2023/12/15/10-41-05-ghee-boom-kim-dodec/ghee-boom-kim-dodec.png
 layout: design

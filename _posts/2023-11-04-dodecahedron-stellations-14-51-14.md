@@ -17,7 +17,7 @@ This design is intended to become fodder for another app similar to
 This one was inspired by [Nan Ma](https://nan.ma), who 3d-printed some parts for a physical model some years ago.
 
 <figure style="width: 87%; margin: 5%">
-  <vzome-viewer style="width: 100%; height: 60vh" show-scenes="true"
+  <vzome-viewer style="width: 100%; height: 60vh" show-scenes="named"
        src="https://vorth.github.io/vzome-sharing/2023/11/04/14-51-14-dodecahedron-stellations/dodecahedron-stellations.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2023/11/04/14-51-14-dodecahedron-stellations/dodecahedron-stellations.png" >

@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="39" field="golden" version="7.1">
+  <EditHistory editNumber="223" lastStickyEdit="196">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 0 0 2 3"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <AffinePentagon/>
+    <BeginBlock/>
+    <SelectManifestation point="3 5 4 6 -1 -2"/>
+    <SelectManifestation point="2 3 4 7 -2 -3"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-2 -3 4 7 -2 -3" startSegment="0 0 2 3 -1 -2"/>
+    <SelectManifestation endSegment="2 3 4 7 -2 -3" startSegment="0 0 2 3 -1 -2"/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -6 1 2 3 5"/>
+    <SelectManifestation point="-4 -7 2 3 2 3"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -13/2 3/2 5/2 5/2 4"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -5 4 6 -1 -2"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -5 4 6 -1 -2"/>
+    <SelectManifestation point="0 0 1 3/2 -1/2 -1"/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 4 6 -1 -2"/>
+    <SelectManifestation point="0 0 1 3/2 -1/2 -1"/>
+    <SelectManifestation point="-3 -5 4 6 -1 -2"/>
+    <EndBlock/>
+    <Polygon/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="16" len="1 2"/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 4 6 -1 -2"/>
+      <polygonVertex at="0 0 1 3/2 -1/2 -1"/>
+      <polygonVertex at="-3 -5 4 6 -1 -2"/>
+    </SelectManifestation>
+    <LinePlaneIntersect/>
+    <SelectManifestation endSegment="0 0 -2 -3 -1 -2" startSegment="0 0 0 0 0 0"/>
+    <LinePlaneIntersect/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 -2 -3 -1 -2" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 -2 -3 -1 -2"/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 4 6 -1 -2"/>
+      <polygonVertex at="0 0 1 3/2 -1/2 -1"/>
+      <polygonVertex at="-3 -5 4 6 -1 -2"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 4 6 -1 -2"/>
+      <polygonVertex at="0 0 1 3/2 -1/2 -1"/>
+      <polygonVertex at="-3 -5 4 6 -1 -2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MirrorTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 1 3/2 -1/2 -1"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 4 6 -1 -2"/>
+      <polygonVertex at="0 0 1 3/2 -1/2 -1"/>
+      <polygonVertex at="-3 -5 4 6 -1 -2"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 4 6 -1 -2"/>
+      <polygonVertex at="0 0 1 3/2 -1/2 -1"/>
+      <polygonVertex at="-3 -5 4 6 -1 -2"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -3 1 2 0 0"/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="-3 -5 4 6 -1 -2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="-2 -3 4 7 -2 -3" startSegment="-3 -5 4 6 -1 -2"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation endSegment="3 5 4 6 -1 -2" startSegment="2 3 1 2 0 0"/>
+    <SelectManifestation endSegment="3 5 4 6 -1 -2" startSegment="2 3 4 7 -2 -3"/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="-2 -3 1 2 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation endSegment="4 7 2 3 2 3" startSegment="2 3 1 2 0 0"/>
+    <SelectManifestation endSegment="3 5 4 6 -1 -2" startSegment="2 3 1 2 0 0"/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="-4 -7 2 3 2 3" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="-3 -5 4 6 -1 -2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <EndBlock/>
+    <LinearTransformTool name="tool-1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 4 6 -1 -2"/>
+    <SelectManifestation point="2 3 4 7 -2 -3"/>
+    <SelectManifestation point="-2 -3 4 7 -2 -3"/>
+    <SelectManifestation point="-3 -5 4 6 -1 -2"/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="-3 -5 4 6 -1 -2"/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="-2 -3 4 7 -2 -3"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="3 5 4 6 -1 -2"/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="2 3 4 7 -2 -3"/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <EndBlock/>
+    <LinearTransformTool name="tool-2"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 7 2 3 2 3"/>
+    <SelectManifestation point="-4 -7 2 3 2 3"/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="-2 -3 4 7 -2 -3"/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectManifestation endSegment="0 0 -1/2 -3/4 -1/4 -1/2" startSegment="2 3 4 7 -2 -3"/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <EndBlock/>
+    <LinearTransformTool name="tool-3"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <SelectNeighbors/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 4 6 -1 -2"/>
+      <polygonVertex at="0 0 1 3/2 -1/2 -1"/>
+      <polygonVertex at="-3 -5 4 6 -1 -2"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -13/2 3/2 5/2 5/2 4"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <SelectManifestation point="2 3 4 7 -2 -3"/>
+    <SelectManifestation point="3 5 4 6 -1 -2"/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <EndBlock/>
+    <ApplyTool copyColors="false" name="tool-3" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-3" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-3" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <Branch>
+      <DeselectAll/>
+      <StrutCreation anchor="0 0 -1/2 -3/4 -1/4 -1/2" dir="red" index="16" len="1 2"/>
+      <StrutCreation anchor="0 0 -5/2 -15/4 -5/4 -5/2" index="40" len="2 4"/>
+      <StrutCreation anchor="0 0 -5/2 -15/4 -5/4 -5/2" index="8" len="2 4"/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 -5/2 -15/4 -5/4 -5/2"/>
+      <SelectManifestation point="2 3 -7/2 -19/4 -1/4 -1/2"/>
+      <SelectManifestation point="-1 -1 -7/2 -23/4 3/4 1/2"/>
+      <EndBlock/>
+      <Polygon/>
+      <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+      <PerspectiveProjectionTool name="tool-4"/>
+    </Branch>
+    <DeselectAll/>
+    <Branch>
+      <StrutCreation anchor="0 0 -1/2 -3/4 -1/4 -1/2" dir="red" index="16" len="1 2"/>
+      <StrutCreation anchor="0 0 -5/2 -15/4 -5/4 -5/2" index="40" len="2 4"/>
+      <StrutCreation anchor="0 0 -5/2 -15/4 -5/4 -5/2" index="8" len="2 4"/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 -5/2 -15/4 -5/4 -5/2"/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 -5/2 -15/4 -5/4 -5/2"/>
+      <SelectManifestation point="2 3 -7/2 -19/4 -1/4 -1/2"/>
+      <SelectManifestation point="-1 -1 -7/2 -23/4 3/4 1/2"/>
+      <EndBlock/>
+      <Polygon/>
+      <DeselectAll/>
+      <StrutCreation anchor="0 0 -5/2 -15/4 -5/4 -5/2" dir="red" index="16" len="2 3"/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 -11/2 -35/4 -13/4 -11/2"/>
+      <SelectManifestation>
+        <polygonVertex at="0 0 -5/2 -15/4 -5/4 -5/2"/>
+        <polygonVertex at="2 3 -7/2 -19/4 -1/4 -1/2"/>
+        <polygonVertex at="-1 -1 -7/2 -23/4 3/4 1/2"/>
+      </SelectManifestation>
+      <EndBlock/>
+      <PerspectiveProjectionTool name="tool-5"/>
+    </Branch>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <SelectManifestation point="0 0 -1/2 -3/4 -1/4 -1/2"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 1 2 0 0"/>
+      <polygonVertex at="9 15 8 13 0 0"/>
+      <polygonVertex at="15 24 15 24 -1 -2"/>
+      <polygonVertex at="11 18 12 20 -2 -3"/>
+      <polygonVertex at="3 5 4 6 -1 -2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 1 2 0 0"/>
+      <polygonVertex at="4 7 2 3 2 3"/>
+      <polygonVertex at="14 22 8 13 5 8"/>
+      <polygonVertex at="17 28 11 18 5 8"/>
+      <polygonVertex at="10 16 7 11 2 3"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <setItemColor blue="204" green="153" red="255"/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 1 2 0 0"/>
+      <polygonVertex at="10 16 7 11 2 3"/>
+      <polygonVertex at="22 36 17 28 3 5"/>
+      <polygonVertex at="22 35 18 29 2 3"/>
+      <polygonVertex at="9 15 8 13 0 0"/>
+    </SelectManifestation>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <setItemColor blue="153" green="255" red="153"/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 4 7 -2 -3"/>
+      <polygonVertex at="9 15 18 29 -6 -10"/>
+      <polygonVertex at="15 24 26 42 -8 -13"/>
+      <polygonVertex at="11 18 17 28 -5 -8"/>
+      <polygonVertex at="3 5 4 6 -1 -2"/>
+    </SelectManifestation>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <setItemColor blue="102" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 4 6 -1 -2"/>
+      <polygonVertex at="17 27 22 36 -5 -8"/>
+      <polygonVertex at="33 54 42 68 -8 -13"/>
+      <polygonVertex at="30 48 36 58 -6 -10"/>
+      <polygonVertex at="11 18 12 20 -2 -3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 3 4 7 -2 -3"/>
+      <polygonVertex at="4 7 15 24 -6 -10"/>
+      <polygonVertex at="14 22 42 68 -16 -26"/>
+      <polygonVertex at="17 28 48 78 -18 -29"/>
+      <polygonVertex at="10 16 25 40 -9 -15"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <setItemColor blue="255" green="153" red="153"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="2 3 4 7 -2 -3"/>
+      <polygonVertex at="10 16 25 40 -9 -15"/>
+      <polygonVertex at="22 36 51 83 -18 -29"/>
+      <polygonVertex at="22 35 47 76 -16 -26"/>
+      <polygonVertex at="9 15 18 29 -6 -10"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 5 4 6 -1 -2"/>
+      <polygonVertex at="11 18 17 28 -5 -8"/>
+      <polygonVertex at="30 48 44 71 -11 -18"/>
+      <polygonVertex at="33 54 47 76 -11 -18"/>
+      <polygonVertex at="17 27 22 36 -5 -8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <setItemColor blue="102" green="153" red="255"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="803.4214477539062" far="1606.8397216796875" near="2.008552074432373" parallel="false" stereoAngle="0.0" width="361.5390625">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.9542255401611328" y="-0.040908705443143845" z="-0.296285480260849"/>
+      <LookDirection x="0.19281797111034393" y="0.8414252996444702" z="0.5048046112060547"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="tiny connectors">
+    <Direction color="255,255,255" name="5" orbit="[[-257,164,599],[-65,172,599]]" prototype="-1 1 309/109 -89/109 169/109 -103/109"/>
+    <Direction color="255,255,255" name="6" orbit="[[-78,83,251],[235,-131,251]]" prototype="1 0 -238/109 107/109 -115/109 43/109"/>
+    <Direction color="255,255,255" name="3" orbit="[[5,19,241],[0,0,1]]" prototype="0 0 -36/109 149/109 11/109 12/109"/>
+    <Direction color="255,255,255" name="4" orbit="[[-511,332,121],[-93,68,121]]" prototype="1 0 -274/109 256/109 -104/109 55/109"/>
+    <Direction color="255,255,255" name="1" orbit="[[-129,93,89],[84,-44,89]]" prototype="1 0 -60/109 -6/109 -18/109 -89/109"/>
+    <Direction color="255,255,255" name="260" orbit="[[970,-557,829],[-557,413,829]]" prototype="-112856/462521 -327528/462521 37728/462521 83264/462521 -83264/462521 -120992/462521"/>
+    <Direction color="255,255,255" name="2" orbit="[[-60,66,131],[-114,73,131]]" prototype="0 1 71/109 18/109 54/109 -60/109"/>
+    <Direction color="255,255,255" name="141" orbit="[[-340,215,149],[215,-125,149]]" prototype="73668/188339 104204/188339 -17740/188339 18880/188339 -18880/188339 -1140/188339"/>
+    <Direction color="255,255,255" name="262" orbit="[[282,-167,133],[-167,115,133]]" prototype="-72436/117867 -96488/117867 -32432/117867 2508/39289 -2508/39289 24908/117867"/>
+    <Direction color="255,255,255" name="0" orbit="[[0,0,1],[-1,1,3]]" prototype="0 0 -2 1 3 -3"/>
+    <Direction color="255,255,255" name="140" orbit="[[-82,59,145],[59,-23,145]]" prototype="-272/589 784/589 1032/589 -480/589 480/589 -552/589"/>
+    <Direction color="255,255,255" name="261" orbit="[[732,-389,1405],[-389,343,1405]]" prototype="-2512/46289 -33636/46289 -8004/46289 7516/46289 -7516/46289 488/46289"/>
+    <Direction color="255,255,255" name="143" orbit="[[-19,12,11],[12,-7,11]]" prototype="-2284/7739 6708/7739 -3812/7739 624/7739 -624/7739 3188/7739"/>
+    <Direction color="255,255,255" name="264" orbit="[[-402,251,29],[251,-151,29]]" prototype="-720032/2633367 -1723256/2633367 273760/2633367 88360/877789 -88360/877789 -538840/2633367"/>
+    <Direction color="255,255,255" name="142" orbit="[[-274,183,295],[183,-91,295]]" prototype="-856/4769 4412/4769 -3532/4769 1892/4769 -1892/4769 1640/4769"/>
+    <Direction color="255,255,255" name="263" orbit="[[4922,-3033,241],[-3033,1889,241]]" prototype="-476356/2113121 -1345928/2113121 432232/2113121 523916/2113121 -523916/2113121 -956148/2113121"/>
+    <Direction color="255,255,255" name="145" orbit="[[-62,43,61],[43,-19,61]]" prototype="8476/14839 8408/14839 2688/14839 -3356/14839 3356/14839 668/14839"/>
+    <Direction color="255,255,255" name="266" orbit="[[-548,651,3455],[651,103,3455]]" prototype="-63024/135761 -102052/135761 8332/135761 -32796/135761 32796/135761 24464/135761"/>
+    <Direction color="255,255,255" name="144" orbit="[[-50,33,239],[33,-17,239]]" prototype="-8692/5921 10064/5921 3208/5921 -1916/5921 1916/5921 -1292/5921"/>
+    <Direction color="255,255,255" name="265" orbit="[[-11692,7477,7711],[7477,-4215,7711]]" prototype="-3932288/8111381 -5750964/8111381 -385988/8111381 669356/8111381 -669356/8111381 -283368/8111381"/>
+    <Direction color="255,255,255" name="147" orbit="[[-5,4,11],[4,-1,11]]" prototype="-648/2317 -232/331 -296/2317 -88/2317 88/2317 384/2317"/>
+    <Direction color="255,255,255" name="268" orbit="[[-4710,2921,341],[2921,-1789,341]]" prototype="-1118428/2817627 -661188/939209 399868/2817627 591544/2817627 -591544/2817627 -991412/2817627"/>
+    <Direction color="255,255,255" name="146" orbit="[[-4,5,29],[5,1,29]]" prototype="84/71 -4/213 -92/71 24/71 -24/71 68/71"/>
+    <Direction color="255,255,255" name="267" orbit="[[340,-163,551],[-163,177,551]]" prototype="-17756/65703 -24868/65703 5372/65703 25976/65703 -25976/65703 -31348/65703"/>
+    <Direction color="255,255,255" name="149" orbit="[[304,-153,409],[-153,151,409]]" prototype="102052/225359 126156/225359 28660/225359 8400/225359 -8400/225359 -37060/225359"/>
+    <Direction color="255,255,255" name="148" orbit="[[-8,5,5],[5,-3,5]]" prototype="-80/133 -60/133 -68/133 44/133 -44/133 24/133"/>
+    <Direction color="255,255,255" name="269" orbit="[[2619,-1373,2729],[-1373,1246,2729]]" prototype="-4681856/10722941 -8404248/10722941 264840/10722941 1481680/10722941 -1481680/10722941 -1746520/10722941"/>
+    <Direction color="255,255,255" name="39" orbit="[[-27,32,61],[-205,130,61]]" prototype="-170 105 -36 23 -28 17"/>
+    <Direction color="255,255,255" name="38" orbit="[[58,-31,55],[9,-5,11]]" prototype="48 -30 24 -14 6 -4"/>
+    <Direction color="255,255,255" name="35" orbit="[[-28,31,55],[51,-27,55]]" prototype="39 -24 32 -19 27 -17"/>
+    <Direction color="255,255,255" name="34" orbit="[[-19,13,5],[36,-22,5]]" prototype="-26 16 3 -1 14 -9"/>
+    <Direction color="255,255,255" name="37" orbit="[[36,-20,11],[32,-19,11]]" prototype="23 -14 -8 6 -12 7"/>
+    <Direction color="255,255,255" name="36" orbit="[[-4,5,10],[-3,2,10]]" prototype="21 -13 50 -30 35 -22"/>
+    <Direction color="255,255,255" name="31" orbit="[[2,-1,1],[2,-1,3]]" prototype="-37 23 37 -22 14 -9"/>
+    <Direction color="255,255,255" name="30" orbit="[[-2,3,7],[15,-9,7]]" prototype="63 -39 -21 14 -12 7"/>
+    <Direction color="255,255,255" name="33" orbit="[[-42,27,11],[9,-5,11]]" prototype="1 -1 21 -12 14 -9"/>
+    <Direction color="255,255,255" name="32" orbit="[[13,-8,2],[5,-3,2]]" prototype="-1 1 -20 13 -10 6"/>
+    <Direction color="255,255,255" name="9" orbit="[[-91,119,341],[-430,300,341]]" prototype="-2 2 178/109 -113/109 97/109 -132/109"/>
+    <Direction color="255,255,255" name="7" orbit="[[251,-153,82],[98,-55,82]]" prototype="-3 1 -167/109 125/109 -61/109 -17/109"/>
+    <Direction color="255,255,255" name="8" orbit="[[-205,142,659],[-93,148,659]]" prototype="3 -2 -60/109 -6/109 -18/109 -89/109"/>
+    <Direction color="255,255,255" name="130" orbit="[[2,-1,5],[-1,1,5]]" prototype="-56/3 32/3 -40/3 8 -8 16/3"/>
+    <Direction color="255,255,255" name="251" orbit="[[31238,-19161,7201],[-19161,12077,7201]]" prototype="3715016/4820581 951088/4820581 149224/4820581 993232/4820581 -993232/4820581 -1142456/4820581"/>
+    <Direction color="255,255,255" name="250" orbit="[[-27888,20099,27869],[20099,-7789,27869]]" prototype="175988/5686361 4154664/5686361 1996184/5686361 -485788/5686361 485788/5686361 -1510396/5686361"/>
+    <Direction color="255,255,255" name="132" orbit="[[312,-191,31],[-191,121,31]]" prototype="36/209 -676/627 5252/627 -3304/627 3304/627 -1948/627"/>
+    <Direction color="255,255,255" name="253" orbit="[[566,-275,1167],[-275,291,1167]]" prototype="-732/8947 10104/8947 2736/8947 -2692/8947 2692/8947 -44/8947"/>
+    <Direction color="255,255,255" name="131" orbit="[[34,-19,149],[-19,15,149]]" prototype="-4648/10579 -7184/10579 2104/10579 -5488/10579 5488/10579 3384/10579"/>
+    <Direction color="255,255,255" name="252" orbit="[[-2799,2029,3169],[2029,-770,3169]]" prototype="341732/352407 3676/352407 4604/10679 2192/10679 -2192/10679 -6796/10679"/>
+    <Direction color="255,255,255" name="134" orbit="[[7,-4,4],[-4,3,4]]" prototype="6348/1199 -5056/1199 -72/1199 284/1199 -284/1199 -212/1199"/>
+    <Direction color="255,255,255" name="255" orbit="[[728,-339,2643],[-339,389,2643]]" prototype="13676/133529 110816/133529 -24000/133529 49076/133529 -49076/133529 -25076/133529"/>
+    <Direction color="255,255,255" name="133" orbit="[[-222,149,545],[149,-73,545]]" prototype="-2552/19291 -14556/19291 2940/19291 -1252/19291 1252/19291 -1688/19291"/>
+    <Direction color="255,255,255" name="254" orbit="[[-11658,10107,34469],[10107,-1551,34469]]" prototype="2236796/2267221 1164908/2267221 -414948/2267221 603456/2267221 -603456/2267221 -188508/2267221"/>
+    <Direction color="255,255,255" name="136" orbit="[[-342,235,601],[235,-107,601]]" prototype="-39292/142819 -113436/142819 -21996/142819 4832/142819 -4832/142819 17164/142819"/>
+    <Direction color="255,255,255" name="257" orbit="[[6,-1,87],[-1,5,87]]" prototype="244/101 -44/101 52/303 -16/303 16/303 -12/101"/>
+    <Direction color="255,255,255" name="135" orbit="[[-8,11,145],[11,3,145]]" prototype="-520/2071 -1340/2071 748/2071 -940/2071 940/2071 192/2071"/>
+    <Direction color="255,255,255" name="256" orbit="[[-6666,4851,10499],[4851,-1815,10499]]" prototype="-270216/538021 575032/538021 -70552/538021 282664/538021 -282664/538021 -212112/538021"/>
+    <Direction color="255,255,255" name="138" orbit="[[-8,21,545],[21,13,545]]" prototype="10132/33431 25556/33431 -836/33431 -1000/33431 1000/33431 1836/33431"/>
+    <Direction color="255,255,255" name="259" orbit="[[-892,623,7799],[623,-269,7799]]" prototype="211092/177161 -6704/177161 262464/177161 -112068/177161 112068/177161 -150396/177161"/>
+    <Direction color="255,255,255" name="137" orbit="[[36,-22,5],[-22,14,5]]" prototype="24/19 16/57 448/57 -272/57 272/57 -176/57"/>
+    <Direction color="255,255,255" name="258" orbit="[[303,115,3659],[115,418,3659]]" prototype="322076/303701 147168/303701 379992/303701 -162284/303701 162284/303701 -217708/303701"/>
+    <Direction color="255,255,255" name="49" orbit="[[-17,48,149],[-297,190,149]]" prototype="241 -149 87 -53 27 -17"/>
+    <Direction color="255,255,255" name="139" orbit="[[-4,9,101],[9,5,101]]" prototype="1084/3379 3112/3379 2096/3379 -2212/3379 2212/3379 116/3379"/>
+    <Direction color="255,255,255" name="46" orbit="[[-5,4,5],[7,-4,5]]" prototype="24 -15 -28 18 -15 9"/>
+    <Direction color="255,255,255" name="45" orbit="[[5,-2,11],[43,-26,11]]" prototype="-27 17 -10 7 6 -4"/>
+    <Direction color="255,255,255" name="48" orbit="[[167,-100,29],[9,-4,29]]" prototype="-41 25 -81 51 -41 25"/>
+    <Direction color="255,255,255" name="47" orbit="[[-9,21,61],[0,0,1]]" prototype="0 0 26 -15 9 -6"/>
+    <Direction color="255,255,255" name="42" orbit="[[-3,2,7],[7,-4,7]]" prototype="30 -19 -18 12 -15 9"/>
+    <Direction color="255,255,255" name="41" orbit="[[10,-6,5],[2,-1,5]]" prototype="17 -10 -21 14 -7 4"/>
+    <Direction color="255,255,255" name="44" orbit="[[-41,55,118],[-2,7,118]]" prototype="5 -3 -92 58 -59 36"/>
+    <Direction color="255,255,255" name="43" orbit="[[23,-7,29],[88,-52,29]]" prototype="-52 32 13 -7 -12 7"/>
+    <Direction color="255,255,255" name="40" orbit="[[-41,58,131],[-165,112,131]]" prototype="-92 57 52 -31 30 -19"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="240" orbit="[[21776,-6935,69659],[-6935,14841,69659]]" prototype="4653284/16724221 11990452/16724221 -635300/16724221 3225320/16724221 -3225320/16724221 -2590020/16724221"/>
+    <Direction color="255,255,255" name="121" orbit="[[174,-105,109],[-83,67,109]]" prototype="3 -2 12 -7 -123 77"/>
+    <Direction color="255,255,255" name="242" orbit="[[532,-141,1796],[-141,391,1796]]" prototype="519312/3835841 2112516/3835841 1568548/3835841 801924/3835841 -801924/3835841 -2370472/3835841"/>
+    <Direction color="255,255,255" name="120" orbit="[[-190,119,183],[5,37,183]]" prototype="34 -21 -247 153 435 -268"/>
+    <Direction color="255,255,255" name="241" orbit="[[-9206,6587,76805],[6587,-2619,76805]]" prototype="1243368/3661661 1846464/3661661 964736/3661661 328960/3661661 -328960/3661661 -1293696/3661661"/>
+    <Direction color="255,255,255" name="123" orbit="[[112,-67,551],[161,7,551]]" prototype="-186 115 261 -161 -125 78"/>
+    <Direction color="255,255,255" name="244" orbit="[[-21784,13815,8341],[13815,-7969,8341]]" prototype="2412092/3239101 911336/3239101 -380424/3239101 923788/3239101 -923788/3239101 -543364/3239101"/>
+    <Direction color="255,255,255" name="122" orbit="[[6,-3,17],[-3,3,17]]" prototype="91 -56 -56 35 113 -69"/>
+    <Direction color="255,255,255" name="243" orbit="[[1486,-911,95],[-911,575,95]]" prototype="8140/15457 12660/15457 5924/15457 -1432/15457 1432/15457 -4492/15457"/>
+    <Direction color="255,255,255" name="125" orbit="[[40,-22,59],[20,-11,59]]" prototype="-20 12 -106 66 76 -46"/>
+    <Direction color="255,255,255" name="246" orbit="[[7212,-4185,8129],[-4185,3027,8129]]" prototype="-24532/417121 509284/417121 -283956/417121 202272/417121 -202272/417121 81684/417121"/>
+    <Direction color="255,255,255" name="124" orbit="[[1116,-679,919],[253,5,919]]" prototype="-39 24 436 -269 -537 333"/>
+    <Direction color="255,255,255" name="245" orbit="[[-58,41,97],[41,-17,97]]" prototype="-21472/251187 229304/251187 752/251187 114256/251187 -114256/251187 -38336/83729"/>
+    <Direction color="255,255,255" name="127" orbit="[[48,-21,95],[-21,27,95]]" prototype="716/71 -372/71 -444/71 264/71 -264/71 180/71"/>
+    <Direction color="255,255,255" name="248" orbit="[[166,-101,133],[-101,65,133]]" prototype="10876/12221 3044/36663 -4740/12221 6120/12221 -6120/12221 -1380/12221"/>
+    <Direction color="255,255,255" name="126" orbit="[[12,-7,11],[-7,5,11]]" prototype="-56/11 76/33 140/33 -100/33 100/33 -40/33"/>
+    <Direction color="255,255,255" name="247" orbit="[[-386,2177,26491],[2177,1791,26491]]" prototype="601192/1748741 1429736/1748741 -535792/1748741 739144/1748741 -739144/1748741 -203352/1748741"/>
+    <Direction color="255,255,255" name="17" orbit="[[-1,2,5],[7,-4,5]]" prototype="-5 3 -3 1 -1 1"/>
+    <Direction color="255,255,255" name="129" orbit="[[-12,11,109],[11,-1,109]]" prototype="508/217 -516/217 -108/217 8/31 -8/31 52/217"/>
+    <Direction color="255,255,255" name="16" orbit="[[21,-12,5],[7,-4,5]]" prototype="10 -6 -10 7 -7 4"/>
+    <Direction color="255,255,255" name="128" orbit="[[46,-27,29],[-27,19,29]]" prototype="-384/497 -332/497 300/497 -20/71 20/71 -160/497"/>
+    <Direction color="255,255,255" name="249" orbit="[[-14694,9113,2305],[9113,-5581,2305]]" prototype="120008/221521 159164/221521 135764/221521 -89084/221521 89084/221521 -46680/221521"/>
+    <Direction color="255,255,255" name="19" orbit="[[-2,3,7],[-1,1,7]]" prototype="-5 3 -21 14 -12 7"/>
+    <Direction color="255,255,255" name="18" orbit="[[-3,2,2],[5,-3,2]]" prototype="6 -4 -7 5 -2 1"/>
+    <Direction color="255,255,255" name="13" orbit="[[-2,2,3],[2,-1,3]]" prototype="5 -3 6 -3 6 -4"/>
+    <Direction color="255,255,255" name="12" orbit="[[-84,52,1],[-8,5,1]]" prototype="-1 0 9/4 -9/4 3/2 -3/4"/>
+    <Direction color="255,255,255" name="15" orbit="[[-2,2,3],[-8,5,3]]" prototype="21 -13 6 -3 6 -4"/>
+    <Direction color="255,255,255" name="14" orbit="[[4,-1,11],[9,-5,11]]" prototype="-7 4 0 1 1 -1"/>
+    <Direction color="255,255,255" name="11" orbit="[[-3,3,5],[0,0,1]]" prototype="1 0 3/4 -1 1/4 -1/4"/>
+    <Direction color="255,255,255" name="10" orbit="[[3,-1,5],[-1,1,4]]" prototype="1 -1 131/109 24/109 72/109 29/109"/>
+    <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="110" orbit="[[-80,51,281],[-35,75,281]]" prototype="-152 94 20 -12 -18 12"/>
+    <Direction color="255,255,255" name="231" orbit="[[5814,-2787,7859],[-2787,3027,7859]]" prototype="53876/106609 53144/319827 -86312/319827 162164/319827 -162164/319827 -25284/106609"/>
+    <Direction color="255,255,255" name="230" orbit="[[-1498,971,13945],[971,-527,13945]]" prototype="11040/42229 66080/126687 -6488/42229 14800/42229 -14800/42229 -8312/42229"/>
+    <Direction color="255,255,255" name="112" orbit="[[250,-145,209],[71,-37,209]]" prototype="-15 9 143 -88 -146 91"/>
+    <Direction color="255,255,255" name="233" orbit="[[2038,-1241,495],[-1241,797,495]]" prototype="505072/763961 292716/763961 46940/763961 150316/763961 -150316/763961 -197256/763961"/>
+    <Direction color="255,255,255" name="111" orbit="[[44,-27,19],[169,-67,209]]" prototype="118 -73 -247 153 257 -158"/>
+    <Direction color="255,255,255" name="232" orbit="[[-1555,1205,3301],[1205,-350,3301]]" prototype="58696/77159 33448/77159 -15440/77159 17880/77159 -17880/77159 -2440/77159"/>
+    <Direction color="255,255,255" name="114" orbit="[[850,-515,781],[73,89,781]]" prototype="-16 10 292 -180 -448 278"/>
+    <Direction color="255,255,255" name="235" orbit="[[404,-243,327],[-243,161,327]]" prototype="41928/74989 52908/74989 12484/74989 -5108/74989 5108/74989 -7376/74989"/>
+    <Direction color="255,255,255" name="113" orbit="[[106,-65,11],[-37,23,11]]" prototype="20 -12 4 -2 -60 38"/>
+    <Direction color="255,255,255" name="234" orbit="[[-10168,7241,18971],[7241,-2927,18971]]" prototype="339668/2877821 2123904/2877821 202632/2877821 1094196/2877821 -1094196/2877821 -1296828/2877821"/>
+    <Direction color="255,255,255" name="116" orbit="[[350,-201,379],[-17,39,379]]" prototype="-36 22 -132 82 228 -140"/>
+    <Direction color="255,255,255" name="237" orbit="[[11814,-6779,53899],[-6779,5035,53899]]" prototype="1076/3629 1708/3629 -148/3629 1056/3629 -1056/3629 -908/3629"/>
+    <Direction color="255,255,255" name="115" orbit="[[-186,115,19],[163,-97,19]]" prototype="42 -26 62 -38 176 -108"/>
+    <Direction color="255,255,255" name="236" orbit="[[-39446,24413,479],[24413,-15033,479]]" prototype="2016/4129 1728/4129 112/4129 616/4129 -616/4129 -728/4129"/>
+    <Direction color="255,255,255" name="28" orbit="[[26,-14,29],[46,-27,29]]" prototype="-35 22 3 -1 6 -4"/>
+    <Direction color="255,255,255" name="118" orbit="[[-300,189,269],[49,31,269]]" prototype="0 0 114 -70 -160 100"/>
+    <Direction color="255,255,255" name="239" orbit="[[-5098,3801,26561],[3801,-1297,26561]]" prototype="1941388/2215081 903964/2215081 243260/2215081 -233680/2215081 233680/2215081 -9580/2215081"/>
+    <Direction color="255,255,255" name="27" orbit="[[-48,66,145],[84,-43,145]]" prototype="60 -37 79 -48 48 -30"/>
+    <Direction color="255,255,255" name="117" orbit="[[-16,11,41],[33,-15,41]]" prototype="18 -11 -27 17 -15 10"/>
+    <Direction color="255,255,255" name="238" orbit="[[-728,521,1271],[521,-207,1271]]" prototype="24524/50569 3260/50569 10212/50569 12080/50569 -12080/50569 -22292/50569"/>
+    <Direction color="255,255,255" name="29" orbit="[[2,-1,2],[7,-4,6]]" prototype="40 -25 11 -6 6 -4"/>
+    <Direction color="255,255,255" name="119" orbit="[[274,-165,139],[-27,33,139]]" prototype="31 -19 75 -46 -188 117"/>
+    <Direction color="255,255,255" name="24" orbit="[[-27,21,31],[32,-18,31]]" prototype="23 -14 27 -16 19 -12"/>
+    <Direction color="255,255,255" name="23" orbit="[[11,-2,19],[17,-10,19]]" prototype="13 -8 11 -6 -7 4"/>
+    <Direction color="255,255,255" name="26" orbit="[[0,1,4],[-1,2,20]]" prototype="-5 3 -44 28 -7 4"/>
+    <Direction color="255,255,255" name="25" orbit="[[-41,27,31],[38,-22,31]]" prototype="-20 12 32 -19 19 -12"/>
+    <Direction color="255,255,255" name="20" orbit="[[0,1,4],[7,-4,4]]" prototype="18 -11 8 -4 1 -1"/>
+    <Direction color="255,255,255" name="22" orbit="[[-56,41,29],[31,-17,29]]" prototype="-10 6 34 -20 22 -14"/>
+    <Direction color="255,255,255" name="21" orbit="[[0,0,1],[12,-7,11]]" prototype="-9 6 -2 2 -2 1"/>
+    <Direction color="255,255,255" name="220" orbit="[[8620,-5125,8129],[-5125,3495,8129]]" prototype="542004/249901 -180988/249901 -422484/249901 329968/249901 -329968/249901 92516/249901"/>
+    <Direction color="255,255,255" name="101" orbit="[[0,0,1],[-11,7,1]]" prototype="-13 8 -28 17 -19 11"/>
+    <Direction color="255,255,255" name="222" orbit="[[1530,-909,1807],[-909,621,1807]]" prototype="695244/1455229 2358176/4365687 672880/4365687 802580/4365687 -802580/4365687 -491820/1455229"/>
+    <Direction color="30,30,30" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="255,255,255" name="100" orbit="[[12,-7,11],[3,1,33]]" prototype="-2 1 43 -27 -63 38"/>
+    <Direction color="255,255,255" name="221" orbit="[[-1351,1084,3379],[1084,-267,3379]]" prototype="197776/2368021 1714248/2368021 470864/2368021 -72008/2368021 72008/2368021 -398856/2368021"/>
+    <Direction color="255,255,255" name="103" orbit="[[5,-3,2],[0,0,1]]" prototype="7 -4 -12 7 23 -15"/>
+    <Direction color="255,255,255" name="224" orbit="[[-7206,4497,4105],[4497,-2709,4105]]" prototype="63436/303281 45928/303281 140992/303281 67580/303281 -67580/303281 -208572/303281"/>
+    <Direction color="255,255,255" name="102" orbit="[[5,-3,6],[0,1,6]]" prototype="-16 10 -46 28 76 -48"/>
+    <Direction color="255,255,255" name="223" orbit="[[-10340,7907,24121],[7907,-2433,24121]]" prototype="1615692/7613941 4499676/7613941 873780/7613941 2554480/7613941 -2554480/7613941 -3428260/7613941"/>
+    <Direction color="255,255,255" name="105" orbit="[[58,-35,109],[-37,43,109]]" prototype="29 -18 -12 7 55 -35"/>
+    <Direction color="255,255,255" name="226" orbit="[[-8682,5397,619],[5397,-3285,619]]" prototype="695744/1970547 1457672/1970547 275072/1970547 113152/656849 -113152/656849 -614528/1970547"/>
+    <Direction color="255,255,255" name="104" orbit="[[114,-67,79],[11,-3,79]]" prototype="-7 4 -38 23 55 -35"/>
+    <Direction color="255,255,255" name="225" orbit="[[-72,45,23],[45,-27,23]]" prototype="9200/22143 17572/22143 1860/7381 -876/7381 876/7381 -984/7381"/>
+    <Direction color="255,255,255" name="107" orbit="[[-45,28,38],[-8,13,38]]" prototype="-21 13 117 -72 -324 201"/>
+    <Direction color="255,255,255" name="228" orbit="[[3972,-2225,4409],[-2225,1747,4409]]" prototype="4284/25699 6712/25699 549680/1516241 227260/1516241 -227260/1516241 -776940/1516241"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="255,255,255" name="106" orbit="[[110,-65,87],[-3,11,87]]" prototype="2 -1 93 -57 -173 108"/>
+    <Direction color="255,255,255" name="227" orbit="[[21850,-12755,24431],[-12755,9095,24431]]" prototype="3861596/14240921 8310248/14240921 3255704/14240921 2944132/14240921 -2944132/14240921 -6199836/14240921"/>
+    <Direction color="255,255,255" name="109" orbit="[[200,-121,61],[69,-39,61]]" prototype="49 -30 80 -49 -81 51"/>
+    <Direction color="255,255,255" name="108" orbit="[[10,-6,9],[-1,2,9]]" prototype="-18 11 -111 69 241 -148"/>
+    <Direction color="255,255,255" name="229" orbit="[[3300,-181,20561],[-181,3119,20561]]" prototype="1363544/2200421 1445492/2200421 721948/2200421 2484/2200421 -2484/2200421 -724432/2200421"/>
+    <Direction color="108,0,198" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="255,255,255" name="211" orbit="[[3034,-1353,5835],[-1353,1681,5835]]" prototype="-122244/93881 150948/93881 -98564/93881 71832/93881 -71832/93881 26732/93881"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="210" orbit="[[444,-255,2099],[-255,189,2099]]" prototype="1764/589 -1256/1767 -424/589 252/589 -252/589 172/589"/>
+    <Direction color="255,255,255" name="213" orbit="[[240,-140,143],[-140,100,143]]" prototype="508352/492001 79976/492001 -774880/492001 441760/492001 -441760/492001 333120/492001"/>
+    <Direction color="255,255,255" name="212" orbit="[[859,-440,2819],[-440,419,2819]]" prototype="370596/168221 -82972/168221 296148/168221 -138096/168221 138096/168221 -158052/168221"/>
+    <Direction color="255,255,255" name="215" orbit="[[-8332,5379,3435],[5379,-2953,3435]]" prototype="-241028/322981 374656/322981 206328/322981 -73748/322981 73748/322981 -132580/322981"/>
+    <Direction color="255,255,255" name="214" orbit="[[2548,-1439,2281],[-1439,1109,2281]]" prototype="371084/862961 759652/862961 -64716/862961 135232/862961 -135232/862961 -70516/862961"/>
+    <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,255,255" name="217" orbit="[[5734,-3351,1889],[-3351,2383,1889]]" prototype="419972/129481 -143064/129481 25720/129481 -36460/129481 36460/129481 10740/129481"/>
+    <Direction color="255,255,255" name="216" orbit="[[44,14,589],[14,58,589]]" prototype="-1500/9089 6956/9089 -12772/9089 11432/9089 -11432/9089 1340/9089"/>
+    <Direction color="255,255,255" name="219" orbit="[[1186,183,10259],[183,1369,10259]]" prototype="26588/39919 26364/39919 17372/39919 -2264/39919 2264/39919 -15108/39919"/>
+    <Direction color="255,255,255" name="218" orbit="[[1057,-640,355],[-640,417,355]]" prototype="74920/217961 215720/217961 -165832/217961 118328/217961 -118328/217961 47504/217961"/>
+    <Direction color="255,255,255" name="200" orbit="[[300,-185,11],[-185,115,11]]" prototype="-24884/22781 -7092/22781 -804/22781 7168/22781 -7168/22781 -6364/22781"/>
+    <Direction color="255,255,255" name="202" orbit="[[-174,125,229],[125,-49,229]]" prototype="-23004/73139 -54232/73139 1480/6649 460/6649 -460/6649 -1940/6649"/>
+    <Direction color="255,255,255" name="201" orbit="[[-140,87,149],[87,-53,149]]" prototype="-38424/82099 -40652/82099 -708/4321 -884/4321 884/4321 1592/4321"/>
+    <Direction color="255,255,255" name="204" orbit="[[4,-1,22],[-1,3,22]]" prototype="-2672/29039 -21776/29039 -504/29039 2848/29039 -2848/29039 -2344/29039"/>
+    <Direction color="255,255,255" name="203" orbit="[[28,-17,19],[-17,11,19]]" prototype="-556/3379 -2628/3379 1532/3379 -1024/3379 1024/3379 -508/3379"/>
+    <Direction color="255,255,255" name="206" orbit="[[174,-105,109],[-105,69,109]]" prototype="159064/472999 268612/472999 -4836/472999 16812/472999 -16812/472999 -11976/472999"/>
+    <Direction color="255,255,255" name="205" orbit="[[-48,39,121],[39,-9,121]]" prototype="10096/17639 13388/17639 -1740/17639 5380/17639 -5380/17639 -3640/17639"/>
+    <Direction color="255,255,255" name="208" orbit="[[138,-73,331],[-73,65,331]]" prototype="54064/120153 95692/120153 -1436/120153 -6868/120153 6868/120153 2768/40051"/>
+    <Direction color="255,255,255" name="207" orbit="[[66,-37,109],[-37,29,109]]" prototype="616/71 -976/213 832/213 -464/213 464/213 -368/213"/>
+    <Direction color="255,255,255" name="209" orbit="[[-9,7,31],[7,-2,31]]" prototype="3476/7781 3548/7781 4388/7781 -4296/7781 4296/7781 -92/7781"/>
+    <Direction color="255,255,255" name="301" orbit="[[-28,18,7],[18,-10,7]]" prototype="45336/40081 -5772/40081 37940/40081 -6740/40081 6740/40081 -31200/40081"/>
+    <Direction color="255,255,255" name="300" orbit="[[-608,393,389],[393,-215,389]]" prototype="-1324/1883 2588/1883 4684/1883 -2768/1883 2768/1883 -1916/1883"/>
+    <Direction color="255,255,255" name="303" orbit="[[-60,63,461],[63,3,461]]" prototype="-220/149 952/447 72/149 -28/149 28/149 -44/149"/>
+    <Direction color="255,255,255" name="302" orbit="[[614,-281,3061],[-281,333,3061]]" prototype="384/269 -48/269 392/269 -184/269 184/269 -208/269"/>
+    <Direction color="255,255,255" name="305" orbit="[[38,-23,123],[-23,15,123]]" prototype="-12/149 104/149 2312/1043 -1164/1043 1164/1043 -164/149"/>
+    <Direction color="18,205,148" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="255,255,255" name="304" orbit="[[-23,16,19],[16,-7,19]]" prototype="40/447 -136/149 392/447 -184/447 184/447 -208/447"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="220,76,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="255,255,255" name="97" orbit="[[-194,126,61],[78,-45,61]]" prototype="12 -7 94 -57 56 -35"/>
+    <Direction color="255,255,255" name="96" orbit="[[7,10,57],[-3,2,3]]" prototype="115 -71 -81 51 1 -1"/>
+    <Direction color="255,255,255" name="99" orbit="[[-30,19,31],[13,-1,31]]" prototype="0 0 20 -12 -18 12"/>
+    <Direction color="255,255,255" name="98" orbit="[[22,-13,29],[5,1,29]]" prototype="-3 2 12 -7 -13 9"/>
+    <Direction color="255,255,255" name="93" orbit="[[102,-63,1],[47,-29,1]]" prototype="-43 27 37 -22 40 -25"/>
+    <Direction color="255,255,255" name="92" orbit="[[-30,35,66],[21,-8,66]]" prototype="73 -45 186 -114 145 -90"/>
+    <Direction color="255,255,255" name="95" orbit="[[-37,46,93],[103,-56,93]]" prototype="-217 134 147 -90 103 -64"/>
+    <Direction color="255,255,255" name="94" orbit="[[104,-63,59],[87,-51,59]]" prototype="90 -56 40 -24 32 -20"/>
+    <Direction color="255,255,255" name="190" orbit="[[1344,-793,1255],[-793,551,1255]]" prototype="-22252/50457 -42056/50457 -2744/50457 1468/16819 -1468/16819 -1660/50457"/>
+    <Direction color="255,255,255" name="192" orbit="[[-144,143,655],[143,-1,655]]" prototype="-33548/73211 -42064/73211 -1808/73211 -7260/73211 7260/73211 9068/73211"/>
+    <Direction color="255,255,255" name="191" orbit="[[-140,165,1229],[165,25,1229]]" prototype="-139844/358679 -216712/358679 74896/358679 27628/358679 -27628/358679 -102524/358679"/>
+    <Direction color="255,255,255" name="194" orbit="[[24,-13,19],[-13,11,19]]" prototype="-332/671 -456/671 2040/12749 700/12749 -700/12749 -2740/12749"/>
+    <Direction color="255,255,255" name="193" orbit="[[-103,64,79],[64,-39,79]]" prototype="-31488/44581 -26344/44581 -19712/44581 12504/44581 -12504/44581 7208/44581"/>
+    <Direction color="255,255,255" name="196" orbit="[[4,-1,77],[-1,3,77]]" prototype="-101192/158339 -127876/158339 -3596/158339 -3668/158339 3668/158339 7264/158339"/>
+    <Direction color="255,255,255" name="195" orbit="[[162,-95,59],[-95,67,59]]" prototype="10816/2761 -8832/2761 -1104/2761 248/2761 -248/2761 856/2761"/>
+    <Direction color="255,255,255" name="198" orbit="[[192,-116,71],[-116,76,71]]" prototype="-142344/313519 -251312/313519 25664/313519 -36448/313519 36448/313519 10784/313519"/>
+    <Direction color="255,255,255" name="197" orbit="[[18,13,389],[13,31,389]]" prototype="-34076/119339 -88908/119339 4548/119339 8224/119339 -8224/119339 -12772/119339"/>
+    <Direction color="255,255,255" name="199" orbit="[[-592,379,319],[379,-213,319]]" prototype="-213188/403859 -322244/403859 -12780/403859 38120/403859 -38120/403859 -25340/403859"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+    <Direction color="255,255,255" name="80" orbit="[[31,-19,11],[-38,24,11]]" prototype="-12 7 32 -19 -2 1"/>
+    <Direction color="255,255,255" name="181" orbit="[[140,-15,691],[-15,125,691]]" prototype="-78908/158339 -94064/158339 -31392/158339 -5476/158339 5476/158339 36868/158339"/>
+    <Direction color="255,255,255" name="180" orbit="[[-16,11,11],[11,-5,11]]" prototype="-9308/39919 -34284/39919 9396/39919 1328/39919 -1328/39919 -10724/39919"/>
+    <Direction color="255,255,255" name="183" orbit="[[-34,95,1009],[95,61,1009]]" prototype="27372/62021 -63404/62021 6892/62021 1256/62021 -1256/62021 -8148/62021"/>
+    <Direction color="255,255,255" name="182" orbit="[[466,-287,95],[-287,179,95]]" prototype="-1676/3879 -2528/3879 -584/3879 100/1293 -100/1293 284/3879"/>
+    <Direction color="255,255,255" name="185" orbit="[[1004,-549,2189],[-549,455,2189]]" prototype="-1093244/2416439 -1931232/2416439 -17072/2416439 -127236/2416439 127236/2416439 144308/2416439"/>
+    <Direction color="255,255,255" name="184" orbit="[[-54,103,1205],[103,49,1205]]" prototype="-69384/181511 -108032/181511 -25192/181511 -22984/181511 22984/181511 48176/181511"/>
+    <Direction color="255,255,255" name="187" orbit="[[76,-42,205],[-42,34,205]]" prototype="-49724/116251 -89792/116251 14360/116251 30308/116251 -30308/116251 -44668/116251"/>
+    <Direction color="255,255,255" name="186" orbit="[[14,1,209],[1,15,209]]" prototype="-39332/72237 -58796/72237 972/24079 4408/72237 -4408/72237 -7324/72237"/>
+    <Direction color="255,255,255" name="189" orbit="[[-89,80,509],[80,-9,509]]" prototype="-57016/221861 -229008/221861 -26024/221861 -4912/221861 4912/221861 30936/221861"/>
+    <Direction color="255,255,255" name="188" orbit="[[306,-181,499],[-181,125,499]]" prototype="8812/1707 -6584/1707 3944/1707 -2828/1707 2828/1707 -372/569"/>
+    <Direction color="255,255,255" name="79" orbit="[[13,-1,155],[38,-22,31]]" prototype="106 -65 26 -15 14 -9"/>
+    <Direction color="255,255,255" name="78" orbit="[[-67,136,379],[349,-188,379]]" prototype="293 -181 239 -147 95 -59"/>
+    <Direction color="255,255,255" name="75" orbit="[[-181,116,19],[67,-40,19]]" prototype="-3 2 -133 83 -62 38"/>
+    <Direction color="255,255,255" name="74" orbit="[[-23,44,118],[87,-51,118]]" prototype="-102 63 102 -62 43 -27"/>
+    <Direction color="255,255,255" name="77" orbit="[[-35,59,149],[-4,11,149]]" prototype="-26 16 -358 222 -172 106"/>
+    <Direction color="255,255,255" name="76" orbit="[[-10,7,10],[17,-10,10]]" prototype="-96 59 100 -61 40 -25"/>
+    <Direction color="255,255,255" name="71" orbit="[[-117,163,359],[128,-74,359]]" prototype="68 -42 141 -86 85 -53"/>
+    <Direction color="255,255,255" name="70" orbit="[[68,-41,5],[-69,43,5]]" prototype="24 -15 -65 41 -7 4"/>
+    <Direction color="255,255,255" name="73" orbit="[[1,1,11],[14,-8,11]]" prototype="-104 64 29 -17 14 -9"/>
+    <Direction color="255,255,255" name="72" orbit="[[58,-23,79],[139,-81,79]]" prototype="83 -51 5 -2 -12 7"/>
+    <Direction color="255,255,255" name="91" orbit="[[-59,46,38],[5,-1,38]]" prototype="-5 3 34 -20 77 -48"/>
+    <Direction color="255,255,255" name="170" orbit="[[-16,11,17],[11,-5,17]]" prototype="-79032/142819 -104036/142819 -5516/142819 -33428/142819 33428/142819 38944/142819"/>
+    <Direction color="255,255,255" name="291" orbit="[[4592,-2645,4619],[-2645,1947,4619]]" prototype="229344/158441 29812/158441 210932/158441 -118764/158441 118764/158441 -92168/158441"/>
+    <Direction color="255,255,255" name="90" orbit="[[-52,35,33],[9,-5,11]]" prototype="40 -25 -117 73 -91 56"/>
+    <Direction color="255,255,255" name="290" orbit="[[-3,3,16],[3,0,16]]" prototype="1152/449 -1024/1347 280/449 -216/449 216/449 -64/449"/>
+    <Direction color="255,255,255" name="172" orbit="[[-250,177,451],[177,-73,451]]" prototype="-19088/82099 -68004/82099 16108/82099 -3516/82099 3516/82099 -12592/82099"/>
+    <Direction color="255,255,255" name="293" orbit="[[152,-83,118],[-83,69,118]]" prototype="648/149 -276/149 -84/149 28/149 -28/149 56/149"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="255,255,255" name="171" orbit="[[18,-5,209],[-5,13,209]]" prototype="-3088/14883 -11284/14883 4/14883 -628/14883 628/14883 208/4961"/>
+    <Direction color="255,255,255" name="292" orbit="[[216,413,6941],[413,629,6941]]" prototype="15436/15049 6604/45147 85252/45147 -45064/45147 45064/45147 -13396/15049"/>
+    <Direction color="255,255,255" name="174" orbit="[[-494,313,295],[313,-181,295]]" prototype="-13496/57671 -34368/57671 -9864/57671 -7616/57671 7616/57671 17480/57671"/>
+    <Direction color="255,255,255" name="295" orbit="[[3290,-1921,2551],[-1921,1369,2551]]" prototype="-133736/263307 -94408/263307 4784/263307 -30656/87769 30656/87769 87184/263307"/>
+    <Direction color="255,255,255" name="173" orbit="[[32,-19,55],[-19,13,55]]" prototype="-52/9 8/3 8/3 -4/3 4/3 -4/3"/>
+    <Direction color="255,255,255" name="294" orbit="[[-944,593,131],[593,-351,131]]" prototype="-1292/3427 -2556/3427 -2260/3427 1000/3427 -1000/3427 1260/3427"/>
+    <Direction color="255,255,255" name="176" orbit="[[-1618,1015,451],[1015,-603,451]]" prototype="-580024/1559039 -893572/1559039 -69852/1559039 110644/1559039 -110644/1559039 -40792/1559039"/>
+    <Direction color="255,255,255" name="297" orbit="[[10,-3,49],[-3,7,49]]" prototype="-68412/291401 76944/291401 -95496/291401 -96028/291401 96028/291401 191524/291401"/>
+    <Direction color="255,255,255" name="175" orbit="[[-1472,937,599],[937,-535,599]]" prototype="-373636/969573 -195196/323191 2164/969573 -61448/969573 61448/969573 59284/969573"/>
+    <Direction color="255,255,255" name="296" orbit="[[-54,37,82],[37,-17,82]]" prototype="-13996/35929 -8996/35929 -9684/35929 -13248/35929 13248/35929 22932/35929"/>
+    <Direction color="255,255,255" name="178" orbit="[[-29,23,71],[23,-6,71]]" prototype="-2152/763 744/763 160/109 -760/763 760/763 -360/763"/>
+    <Direction color="255,255,255" name="299" orbit="[[-2494,1695,2101],[1695,-799,2101]]" prototype="94268/1699141 85304/1699141 -520152/1699141 -489436/1699141 489436/1699141 1009588/1699141"/>
+    <Direction color="255,255,255" name="177" orbit="[[-74,49,58],[49,-25,58]]" prototype="-325052/654919 -469776/654919 57336/654919 137828/654919 -137828/654919 -195164/654919"/>
+    <Direction color="255,255,255" name="298" orbit="[[1288,-751,605],[-751,537,605]]" prototype="-4624/57761 -21752/57761 5552/57761 -25048/57761 25048/57761 19496/57761"/>
+    <Direction color="255,255,255" name="179" orbit="[[44,-13,1195],[-13,31,1195]]" prototype="-6056/11619 -7628/11619 140/11619 44/3873 -44/3873 -272/11619"/>
+    <Direction color="255,255,255" name="89" orbit="[[7,-2,11],[11,-6,11]]" prototype="99 -61 -13 9 1 -1"/>
+    <Direction color="255,255,255" name="86" orbit="[[7,-3,7],[4,-2,7]]" prototype="-32 20 21 -12 1 -1"/>
+    <Direction color="255,255,255" name="85" orbit="[[-4,5,10],[13,-8,10]]" prototype="-89 55 50 -30 35 -22"/>
+    <Direction color="255,255,255" name="88" orbit="[[11,-2,19],[-213,132,19]]" prototype="165 -102 11 -6 -7 4"/>
+    <Direction color="255,255,255" name="87" orbit="[[130,-74,41],[38,-21,41]]" prototype="66 -41 74 -45 40 -25"/>
+    <Direction color="255,255,255" name="82" orbit="[[-19,13,5],[-87,54,5]]" prototype="204 -126 -8 6 -46 28"/>
+    <Direction color="255,255,255" name="81" orbit="[[110,-67,4],[7,-4,4]]" prototype="-107 66 -225 140 -143 88"/>
+    <Direction color="255,255,255" name="84" orbit="[[27,-14,15],[7,-4,5]]" prototype="-57 35 -26 17 -20 12"/>
+    <Direction color="255,255,255" name="83" orbit="[[1,4,44],[41,-23,44]]" prototype="138 -85 32 -19 40 -25"/>
+    <Direction color="0,141,54" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="280" orbit="[[-2328,1475,829],[1475,-853,829]]" prototype="-889336/2113121 -1139908/2113121 147836/2113121 387748/2113121 -387748/2113121 -535584/2113121"/>
+    <Direction color="255,255,255" name="161" orbit="[[-37,24,76],[24,-13,76]]" prototype="441696/1070239 594688/1070239 27240/1070239 -37760/1070239 37760/1070239 10520/1070239"/>
+    <Direction color="255,255,255" name="282" orbit="[[800,-369,1501],[-369,431,1501]]" prototype="-49316/56221 74292/56221 -44548/56221 33456/56221 -33456/56221 11092/56221"/>
+    <Direction color="255,255,255" name="160" orbit="[[-444,335,899],[335,-109,899]]" prototype="6344/3997 132/3997 -3084/3997 2348/3997 -2348/3997 736/3997"/>
+    <Direction color="255,255,255" name="281" orbit="[[2138,-1229,2419],[-1229,909,2419]]" prototype="102624/40081 -22228/40081 -101996/40081 60492/40081 -60492/40081 41504/40081"/>
+    <Direction color="255,255,255" name="163" orbit="[[59,-12,239],[-12,47,239]]" prototype="251008/556259 473784/556259 38176/556259 80568/556259 -80568/556259 -118744/556259"/>
+    <Direction color="255,255,255" name="284" orbit="[[3704,-2133,2155],[-2133,1571,2155]]" prototype="16956/77341 63488/77341 33696/77341 -29500/77341 29500/77341 -4196/77341"/>
+    <Direction color="255,255,255" name="162" orbit="[[38,9,341],[9,47,341]]" prototype="13916/52459 35688/52459 7336/52459 -12852/52459 12852/52459 5516/52459"/>
+    <Direction color="255,255,255" name="283" orbit="[[1714,-1053,165],[-1053,661,165]]" prototype="81720/23941 -34160/23941 -14336/23941 13680/23941 -13680/23941 656/23941"/>
+    <Direction color="255,255,255" name="165" orbit="[[6,-1,35],[-1,5,35]]" prototype="34860/101851 76720/101851 -3784/101851 -9964/101851 9964/101851 13748/101851"/>
+    <Direction color="255,255,255" name="286" orbit="[[-78,109,905],[109,31,905]]" prototype="2608/23941 16044/23941 33204/23941 -24716/23941 24716/23941 -8488/23941"/>
+    <Direction color="255,255,255" name="164" orbit="[[-56,39,569],[39,-17,569]]" prototype="109428/176279 138044/176279 -1308/176279 3376/176279 -3376/176279 -2068/176279"/>
+    <Direction color="255,255,255" name="285" orbit="[[-2962,1857,389],[1857,-1105,389]]" prototype="221324/174581 55852/174581 -27508/174581 62536/174581 -62536/174581 -35028/174581"/>
+    <Direction color="255,255,255" name="167" orbit="[[119,-69,145],[-69,50,145]]" prototype="110680/235049 121720/235049 32912/235049 -10696/235049 10696/235049 -22216/235049"/>
+    <Direction color="255,255,255" name="288" orbit="[[-2056,2127,10355],[2127,71,10355]]" prototype="118908/82681 -3596/82681 -24348/82681 24400/82681 -24400/82681 -52/82681"/>
+    <Direction color="255,255,255" name="166" orbit="[[-170,123,295],[123,-47,295]]" prototype="210756/455851 327548/455851 40812/455851 89072/455851 -89072/455851 -129884/455851"/>
+    <Direction color="255,255,255" name="287" orbit="[[179,-109,649],[-109,70,649]]" prototype="17536/382261 291208/382261 44072/382261 -28464/382261 28464/382261 -15608/382261"/>
+    <Direction color="255,255,255" name="169" orbit="[[904,-545,671],[-545,359,671]]" prototype="167964/654919 409472/654919 -70440/654919 -127740/654919 127740/654919 198180/654919"/>
+    <Direction color="255,255,255" name="168" orbit="[[-1108,749,1349],[749,-359,1349]]" prototype="363196/888933 182056/296311 -4936/888933 -56308/888933 56308/888933 61244/888933"/>
+    <Direction color="255,255,255" name="289" orbit="[[-936,601,4331],[601,-335,4331]]" prototype="127276/96701 9528/96701 10256/8791 -3172/8791 3172/8791 -7084/8791"/>
+    <Direction color="255,255,255" name="57" orbit="[[-12,44,145],[-144,93,145]]" prototype="102 -63 -73 46 -20 12"/>
+    <Direction color="255,255,255" name="56" orbit="[[-7,38,151],[177,-98,151]]" prototype="100 -62 -37 24 -25 15"/>
+    <Direction color="255,255,255" name="59" orbit="[[147,-89,11],[-28,18,11]]" prototype="-15 9 -76 48 -33 20"/>
+    <Direction color="255,255,255" name="58" orbit="[[-130,83,19],[39,-23,19]]" prototype="2 -1 -91 57 -49 30"/>
+    <Direction color="255,255,255" name="53" orbit="[[-138,133,191],[-51,45,191]]" prototype="-39 24 -94 59 -109 67"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="255,255,255" name="52" orbit="[[-47,31,38],[24,-13,38]]" prototype="22 -14 -52 33 -49 30"/>
+    <Direction color="255,255,255" name="55" orbit="[[-92,60,41],[-8,7,41]]" prototype="12 -7 -34 22 -41 25"/>
+    <Direction color="255,255,255" name="54" orbit="[[-88,99,178],[1,10,178]]" prototype="5 -3 -170 106 -143 88"/>
+    <Direction color="255,255,255" name="51" orbit="[[13,-8,7],[7,-4,7]]" prototype="-51 32 37 -22 19 -12"/>
+    <Direction color="255,255,255" name="50" orbit="[[106,-10,229],[258,-141,229]]" prototype="175 -108 5 -2 9 -6"/>
+    <Direction color="255,255,255" name="150" orbit="[[-178,111,395],[111,-67,395]]" prototype="84/109 52/109 1836/8611 -1168/8611 1168/8611 -668/8611"/>
+    <Direction color="255,255,255" name="271" orbit="[[1340,-301,6169],[-301,1039,6169]]" prototype="-79428/235829 -380872/707487 209008/707487 210484/707487 -210484/707487 -419492/707487"/>
+    <Direction color="255,255,255" name="270" orbit="[[2248,-1289,2731],[-1289,959,2731]]" prototype="-990268/2063381 -1375464/2063381 -165928/2063381 -15604/2063381 15604/2063381 181532/2063381"/>
+    <Direction color="255,255,255" name="152" orbit="[[-2,69,979],[69,67,979]]" prototype="157272/381799 273896/381799 1008/34709 7264/34709 -7264/34709 -8272/34709"/>
+    <Direction color="255,255,255" name="273" orbit="[[257,-67,1529],[-67,190,1529]]" prototype="-185048/504447 -148728/168149 11552/504447 47336/504447 -47336/504447 -58888/504447"/>
+    <Direction color="255,255,255" name="151" orbit="[[6,-1,29],[-1,5,29]]" prototype="3544/6061 3052/6061 -628/6061 -404/6061 404/6061 1032/6061"/>
+    <Direction color="255,255,255" name="272" orbit="[[262,-5,6119],[-5,257,6119]]" prototype="-381368/1077747 -225348/359249 24196/359249 82908/359249 -82908/359249 -107104/359249"/>
+    <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="154" orbit="[[550,-287,1021],[-287,263,1021]]" prototype="-16/551 1516/1653 452/1653 -404/1653 404/1653 -16/551"/>
+    <Direction color="255,255,255" name="275" orbit="[[-3082,2657,8569],[2657,-425,8569]]" prototype="-2393592/6280241 -3334816/6280241 1569760/6280241 2168560/6280241 -2168560/6280241 -3738320/6280241"/>
+    <Direction color="255,255,255" name="153" orbit="[[440,-195,2791],[-195,245,2791]]" prototype="272188/410861 165604/410861 31340/410861 -4480/410861 4480/410861 -26860/410861"/>
+    <Direction color="255,255,255" name="274" orbit="[[-393,252,899],[252,-141,899]]" prototype="-258512/2063381 -513636/2063381 653940/2063381 813380/2063381 -813380/2063381 -1467320/2063381"/>
+    <Direction color="255,255,255" name="156" orbit="[[458,-277,199],[-277,181,199]]" prototype="78224/119339 75692/119339 16284/119339 28572/119339 -28572/119339 -44856/119339"/>
+    <Direction color="255,255,255" name="277" orbit="[[322,-175,341],[-175,147,341]]" prototype="4328/169289 15700/169289 41516/169289 69868/169289 -69868/169289 -111384/169289"/>
+    <Direction color="255,255,255" name="155" orbit="[[53,-31,205],[-31,22,205]]" prototype="1420/4959 1100/1653 -4/87 -8/29 8/29 28/87"/>
+    <Direction color="255,255,255" name="276" orbit="[[3028,-1841,1145],[-1841,1187,1145]]" prototype="-16112/33137 -20276/33137 4140/33137 7116/33137 -7116/33137 -11256/33137"/>
+    <Direction color="255,255,255" name="158" orbit="[[1940,-1191,229],[-1191,749,229]]" prototype="300268/601141 501864/601141 66376/601141 -79812/601141 79812/601141 13436/601141"/>
+    <Direction color="255,255,255" name="279" orbit="[[5764,-2121,15551],[-2121,3643,15551]]" prototype="-5056992/24782441 -8917296/24782441 4786984/24782441 6455832/24782441 -6455832/24782441 -11242816/24782441"/>
+    <Direction color="255,255,255" name="157" orbit="[[-142,101,302],[101,-41,302]]" prototype="2214208/4297639 3745104/4297639 211384/4297639 232072/4297639 -232072/4297639 -443456/4297639"/>
+    <Direction color="255,255,255" name="278" orbit="[[2177,-1339,2855],[-1339,838,2855]]" prototype="-609332/4166161 -637056/4166161 786928/4166161 1193476/4166161 -1193476/4166161 -1980404/4166161"/>
+    <Direction color="255,255,255" name="159" orbit="[[-320,261,1201],[261,-59,1201]]" prototype="393556/954179 623488/954179 -63016/954179 -191188/954179 191188/954179 254204/954179"/>
+    <Direction color="240,160,0" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,255,255" name="68" orbit="[[-128,227,589],[-453,311,589]]" prototype="293 -181 -267 166 -122 75"/>
+    <Direction color="255,255,255" name="67" orbit="[[-11,21,57],[224,-134,57]]" prototype="-450 278 84 -51 35 -22"/>
+    <Direction color="255,255,255" name="69" orbit="[[-134,83,2],[39,-24,2]]" prototype="15 -9 -206 128 -91 56"/>
+    <Direction color="255,255,255" name="64" orbit="[[-28,31,55],[-71,57,165]]" prototype="-160 99 249 -153 213 -132"/>
+    <Direction color="255,255,255" name="63" orbit="[[-52,56,95],[-52,37,95]]" prototype="173 -107 220 -135 200 -124"/>
+    <Direction color="255,255,255" name="66" orbit="[[50,-29,57],[61,-35,57]]" prototype="166 -103 45 -27 19 -12"/>
+    <Direction color="255,255,255" name="65" orbit="[[-3,2,5],[2,-1,5]]" prototype="33 -20 32 -19 53 -33"/>
+    <Direction color="255,255,255" name="60" orbit="[[-52,90,229],[-208,131,229]]" prototype="-123 76 -97 61 -46 28"/>
+    <Direction color="255,255,255" name="62" orbit="[[-83,66,155],[81,-42,155]]" prototype="74 -46 -62 39 -91 56"/>
+    <Direction color="255,255,255" name="61" orbit="[[58,-6,149],[190,-107,149]]" prototype="175 -108 19 -11 6 -4"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="18,205,148" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="30,30,30" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,141,54" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="240,160,0" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="108,0,198" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="false" deleteInputs="false" hidden="true" id="tool-0" label="mirror 0" selectInputs="true"/>
+    <Tool copyColors="false" deleteInputs="false" hidden="true" id="tool-1" label="linear map 1" selectInputs="true"/>
+    <Tool copyColors="false" deleteInputs="false" hidden="true" id="tool-2" label="linear map 2" selectInputs="true"/>
+    <Tool copyColors="false" deleteInputs="false" id="tool-3" label="linear map 3" selectInputs="true"/>
+    <Tool copyColors="false" deleteInputs="false" hidden="true" id="tool-4" label="perspective 4" selectInputs="false"/>
+    <Tool copyColors="false" deleteInputs="false" id="tool-5" label="perspective 5" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>

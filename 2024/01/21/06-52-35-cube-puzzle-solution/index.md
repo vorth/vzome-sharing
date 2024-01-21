@@ -26,7 +26,7 @@ To see the solution in the viewer, click one of the buttons below.
 <script>
   const viewer = document .getElementById( 'viewer' );
   const explodedButton = document .getElementById( 'exploded' );
-  explodedButton .addEventListener( 'click', () => { viewer.scene = 'exploded'; viewer.update(); } );
+  explodedButton .addEventListener( 'click', () => { viewer.scene = 'apart'; viewer.update(); } );
   const solvedButton = document .getElementById( 'solved' );
-  solvedButton .addEventListener( 'click', () => { viewer.scene = 'solved'; viewer.update(); } );
+  solvedButton .addEventListener( 'click', () => { viewer.scene = 'together'; viewer.update(); } );
 </script>

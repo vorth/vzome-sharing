@@ -13,7 +13,7 @@ The figure below is not an image, it is an interactive 3D viewer.  Use your mous
 
 To see the solution in the viewer, click one of the buttons below.
 
-<button id='exploded'>here</button> <button id='solved'>here</button>
+<button id='exploded'>Exploded Solution</button> <button id='solved'>Assembled Solution</button>
 
   <vzome-viewer style="width: 100%; height: 60vh" id='viewer' scene='unsolved'
        src="https://vorth.github.io/vzome-sharing/2024/01/21/06-52-35-cube-puzzle-solution/cube-puzzle-solution.vZome" >
@@ -26,7 +26,7 @@ To see the solution in the viewer, click one of the buttons below.
 <script>
   const viewer = document .getElementById( 'viewer' );
   const explodedButton = document .getElementById( 'exploded' );
-  explodedButton .addEventListener( 'click', () => viewer.scene = 'exploded' );
+  explodedButton .addEventListener( 'click', () => { viewer.scene = 'exploded'; viewer.update(); } );
   const solvedButton = document .getElementById( 'solved' );
-  solvedButton .addEventListener( 'click', () => viewer.scene = 'solved' );
+  solvedButton .addEventListener( 'click', () => { viewer.scene = 'solved'; viewer.update(); } );
 </script>

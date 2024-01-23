@@ -12,6 +12,7 @@ image: https://vorth.github.io/vzome-sharing/experiment/gltf/5BrunnVenn.png
     <meta name="viewport" content="width=device-width, initial-scale=1" />    
   
     <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.3.0/model-viewer.min.js"></script>
+    <script type="module" src="https://www.vzome.com/modules/gltf-viewer.js"></script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -21,7 +22,15 @@ image: https://vorth.github.io/vzome-sharing/experiment/gltf/5BrunnVenn.png
       <model-viewer alt="Sample glTF file" src="./5BrunnVenn.gltf" ar camera-controls touch-action="pan-y" style="height:500px; width:800px;">
       </model-viewer>
       <figcaption style="text-align: center; font-style: italic;">
-        Sample model loaded as a glTF file
+        Sample model loaded as a glTF file, using Google's viewer
+      </figcaption>
+    </figure>
+
+    <figure style="width: 87%; margin: 5%">
+      <gltf-viewer src="./5BrunnVenn.gltf" style="height:500px; width:800px;">
+      </gltf-viewer>
+      <figcaption style="text-align: center; font-style: italic;">
+        Sample model loaded as a glTF file, using vZome's gltf-viewer
       </figcaption>
     </figure>
 

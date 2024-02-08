@@ -1,4 +1,11 @@
 
+## Blog Post Generated
+
+ - [***custom blog post***](<https://vorth.github.io/vzome-sharing/2024/02/07/actual-bluto-ball-chiclet-17-22-19.html>) about this design; *try it before you share it!*
+ - [source file for that blog post](<https://github.com/vorth/vzome-sharing/edit/main/_posts/2024-02-07-actual-bluto-ball-chiclet-17-22-19.md>); click to customize
+ 
+
+
 ## How to Use or Share this Design
 
  - [***simple web page***](<https://vorth.github.io/vzome-sharing/2024/02/07/17-22-19-actual-bluto-ball-chiclet/>) to just share this design; *try it before you share it!*

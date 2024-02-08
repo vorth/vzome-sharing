@@ -1,7 +1,7 @@
 ---
 title: ''
-subtitle: actual bluto ball chiclet
-share-title: actual bluto ball chiclet
+subtitle: The Proto-Zomeball
+share-title: The Proto-Zomeball
 share-description: An interactive 3D view, shared from vZome
 image: https://vorth.github.io/vzome-sharing/2024/02/07/17-22-19-actual-bluto-ball-chiclet/actual-bluto-ball-chiclet.png
 layout: design

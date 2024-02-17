@@ -89,7 +89,7 @@ layout: vzome
   </vzome-viewer>
 
   <script type="module">
-    const scenes: [
+    const scenes = [
      "default scene",
      "pentagon",
      "dodecahedron",

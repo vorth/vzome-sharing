@@ -129,7 +129,6 @@ layout: vzome
       let div = document .getElementById( scene );
       div .classList .add( 'hidden' );
       index = Math.min( Math.max( index + delta, 0 ), scenes.length - 1 );
-      document .getElementById( 'index' ) .textContent = index .toString();
       scene = scenes[ index ];
       div = document .getElementById( scene );
       div .classList .remove( 'hidden' );

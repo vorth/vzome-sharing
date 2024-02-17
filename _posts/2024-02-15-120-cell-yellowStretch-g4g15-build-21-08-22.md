@@ -138,7 +138,7 @@ layout: vzome
       viewer .update( { camera: false } );
     }
 
-    welcomeViewer .addEventListener( "vzome-scenes-discovered", (e) => {
+    viewer .addEventListener( "vzome-scenes-discovered", (e) => {
       document.querySelector( "#prev" ) .addEventListener( "click", e => changeScene( -1 ) );
       document.querySelector( "#next" ) .addEventListener( "click", e => changeScene( +1 ) );
     } );

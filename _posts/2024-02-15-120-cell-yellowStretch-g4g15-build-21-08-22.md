@@ -2,7 +2,7 @@
 title: Building the Yellow-Stretch 120-Cell
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.png
-published: false
+published: true
 layout: vzome
 ---
 
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-A 3D design created in vZome.  Use your mouse or touch to interact.
+Step through the stages of building the model.
 
 <figure style="width: 87%; margin: 5%">
   <div>

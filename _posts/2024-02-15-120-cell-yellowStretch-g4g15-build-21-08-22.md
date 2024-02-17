@@ -21,40 +21,107 @@ layout: vzome
     }
   </style>
 
-Step through the stages of building the model.
+  <div>
+    <div id="default scene" class="instruction">
+      This is the first instruction.
+    </div>
+    <div id="pentagon" class="instruction hidden">
+      This is the second step to perform.
+    </div>
+    <div id="dodecahedron" class="instruction hidden">
+    </div>
+    <div id="dodec-wings" class="instruction hidden">
+    </div>
+    <div id="short-oranges" class="instruction hidden">
+    </div>
+    <div id="first-greens" class="instruction hidden">
+    </div>
+    <div id="more-pents" class="instruction hidden">
+    </div>
+    <div id="more-greens" class="instruction hidden">
+    </div>
+    <div id="layer-2" class="instruction hidden">
+    </div>
+    <div id="start-faces" class="instruction hidden">
+    </div>
+    <div id="mirror-faces" class="instruction hidden">
+    </div>
+    <div id="layer-3" class="instruction hidden">
+    </div>
+    <div id="first-yellow" class="instruction hidden">
+    </div>
+    <div id="mirror-yellows" class="instruction hidden">
+    </div>
+    <div id="layer-4" class="instruction hidden">
+    </div>
+    <div id="finish-flat-faces" class="instruction hidden">
+    </div>
+    <div id="three-w" class="instruction hidden">
+    </div>
+    <div id="long-oranges" class="instruction hidden">
+    </div>
+    <div id="three-vs" class="instruction hidden">
+    </div>
+    <div id="orange-yellow" class="instruction hidden">
+    </div>
+    <div id="dangling-orange" class="instruction hidden">
+    </div>
+    <div id="dangling-blue-green" class="instruction hidden">
+    </div>
+    <div id="three-pents" class="instruction hidden">
+    </div>
+    <div id="shared-balls" class="instruction hidden">
+    </div>
+    <div id="stitches" class="instruction hidden">
+    </div>
+    <div id="finished" class="instruction hidden">
+    </div>
+  </div>
 
   <div>
     <button id="prev">prev</button>
     <button id="next">next</button>
-    <h2 id="title"></h2>
   </div>
-  <vzome-viewer style="width: 100%; height: 60vh" id='welcome'
+  <vzome-viewer style="width: 100%; height: 60vh" id='viewer'
        src="https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.png" >
   </vzome-viewer>
 
-  <div>
-    <div id="first" class="instruction">
-      This is the first instruction.
-    </div>
-    <div id="second" class="instruction hidden">
-      This is the second step to perform.
-    </div>
-    <div id="third scene" class="instruction hidden">
-      The third step is really obvious.
-    </div>
-    <div id="fourth-scene" class="instruction hidden">
-      You're done!  That was the final step.
-    </div>
-  </div>
-
   <script type="module">
-    let scenes;
+    const scenes: [
+     "default scene",
+     "pentagon",
+     "dodecahedron",
+     "dodec-wings",
+     "short-oranges",
+     "first-greens",
+     "more-pents",
+     "more-greens",
+     "layer-2",
+     "start-faces",
+     "mirror-faces",
+     "layer-3",
+     "first-yellow",
+     "mirror-yellows",
+     "layer-4",
+     "finish-flat-faces",
+     "three-w",
+     "long-oranges",
+     "three-vs",
+     "orange-yellow",
+     "dangling-orange",
+     "dangling-blue-green",
+     "three-pents",
+     "shared-balls",
+     "stitches",
+     "finished"
+   ];
+
     let index = 1; // Yes, skipping the default scene 0 intentionally
 
-    const welcomeViewer = document.querySelector( "#welcome" );
-    welcomeViewer.reactive = false;
+    const viewer = document.querySelector( "#viewer" );
+    viewer.reactive = false;
    
     const changeScene = delta =>
     {
@@ -67,14 +134,11 @@ Step through the stages of building the model.
       div = document .getElementById( scene );
       div .classList .remove( 'hidden' );
 
-      welcomeViewer .scene = scenes[index];
-      welcomeViewer .update( { camera: false } );
+      viewer .scene = scene;
+      viewer .update( { camera: false } );
     }
 
     welcomeViewer .addEventListener( "vzome-scenes-discovered", (e) => {
-      scenes = e.detail;
-      console.log( 'scenes:', JSON.stringify( scenes, null, 2 ) );
-      console.log( 'NOTE: we are intentionally bypassing the default scene for this page.' );
       document.querySelector( "#prev" ) .addEventListener( "click", e => changeScene( -1 ) );
       document.querySelector( "#next" ) .addEventListener( "click", e => changeScene( +1 ) );
     } );

@@ -12,9 +12,17 @@ layout: vzome
  
 {% endcomment %}
 
+  <style>
+    .instruction {
+      font-size: x-large;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+
 Step through the stages of building the model.
 
-<figure style="width: 87%; margin: 5%">
   <div>
     <button id="prev">prev</button>
     <button id="next">next</button>
@@ -25,37 +33,50 @@ Step through the stages of building the model.
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.png" >
   </vzome-viewer>
-  <figcaption style="text-align: center; font-style: italic;">
-    Building the Yellow-Stretch 120-Cell
-  </figcaption>
-</figure>
+
+  <div>
+    <div id="first" class="instruction">
+      This is the first instruction.
+    </div>
+    <div id="second" class="instruction hidden">
+      This is the second step to perform.
+    </div>
+    <div id="third scene" class="instruction hidden">
+      The third step is really obvious.
+    </div>
+    <div id="fourth-scene" class="instruction hidden">
+      You're done!  That was the final step.
+    </div>
+  </div>
 
   <script type="module">
     let scenes;
     let index = 1; // Yes, skipping the default scene 0 intentionally
-    let camera = false;
 
-    const prevButton = document.querySelector( "#prev" );
-    const nextButton = document.querySelector( "#next" );
-    const title = document.querySelector( "#title" );
     const welcomeViewer = document.querySelector( "#welcome" );
     welcomeViewer.reactive = false;
-
+   
     const changeScene = delta =>
     {
-      index = Math.min( Math.max( index + delta, 1 ), scenes.length-1 );
-      title .innerHTML = scenes[index];
+      let scene = scenes[ index ];
+      let div = document .getElementById( scene );
+      div .classList .add( 'hidden' );
+      index = Math.min( Math.max( index + delta, 0 ), scenes.length - 1 );
+      document .getElementById( 'index' ) .textContent = index .toString();
+      scene = scenes[ index ];
+      div = document .getElementById( scene );
+      div .classList .remove( 'hidden' );
+
       welcomeViewer .scene = scenes[index];
-      welcomeViewer .update( { camera } );
+      welcomeViewer .update( { camera: false } );
     }
 
     welcomeViewer .addEventListener( "vzome-scenes-discovered", (e) => {
       scenes = e.detail;
-      console.log( 'welcome scenes:', JSON.stringify( scenes, null, 2 ) );
+      console.log( 'scenes:', JSON.stringify( scenes, null, 2 ) );
       console.log( 'NOTE: we are intentionally bypassing the default scene for this page.' );
-      title .innerHTML = scenes[index];
-      prevButton .addEventListener( "click", e => changeScene( -1 ) );
-      nextButton .addEventListener( "click", e => changeScene( +1 ) );
+      document.querySelector( "#prev" ) .addEventListener( "click", e => changeScene( -1 ) );
+      document.querySelector( "#next" ) .addEventListener( "click", e => changeScene( +1 ) );
     } );
 
   </script>

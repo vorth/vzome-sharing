@@ -22,7 +22,7 @@ layout: design
     }
     
     viewer .addEventListener( "vzome-scenes-discovered", (e) => {
-      scenes = e.detail;
+      const scenes = e.detail;
       console.log( 'scenes:', JSON.stringify( scenes, null, 2 ) );
       document .querySelectorAll( ".scene-link" ) .forEach( el => {
         const id = el.id;

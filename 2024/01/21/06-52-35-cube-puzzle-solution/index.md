@@ -1,11 +1,14 @@
 ---
 title: ''
-subtitle: cube puzzle solution
-share-title: cube puzzle solution
-share-description: An interactive 3D view, shared from vZome
+subtitle: Hashimoto's Bucolic Cube
+share-title: Hashimoto's Bucolic Cube
+share-description: History, hints, analysis, and solution for Hashimoto's wonderful Bucolic Cube puzzle.
 image: https://vorth.github.io/vzome-sharing/2024/01/21/06-52-35-cube-puzzle-solution/cube-puzzle-solution.png
 layout: design
 ---
+
+Three simple, identical pieces can be assembled to form a cube shape.  This delightful puzzle is in the Goldilocks zone, "just right"...
+tricky enough to challenge even experts, yet still easy enough for novice solvers.  It can even be solved by accident!
 
   <style>
     .instruction {
@@ -25,6 +28,17 @@ layout: design
       grid-template-columns: 100px 1fr;
     }
   </style>
+  
+<figure style="width: 87%; margin: 5%">
+  <vzome-viewer style="width: 100%; height: 60vh" id='viewer' scene='unsolved'
+       src="https://vorth.github.io/vzome-sharing/2024/01/21/06-52-35-cube-puzzle-solution/cube-puzzle-solution.vZome" >
+    <img  style="width: 100%"
+       src="https://vorth.github.io/vzome-sharing/2024/01/21/06-52-35-cube-puzzle-solution/cube-puzzle-solution.png" >
+  </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    This is not an image, it is an interactive 3D viewer.  Use your mouse or touch to rotate, pan, and zoom.
+ </figcaption>
+</figure>
 
 <h2>History</h2>
 
@@ -97,19 +111,6 @@ This puzzle was designed by Yasuhiro Hashimoto, and submitted to the competition
     } );
 
   </script>
-  
-If you have exhausted your patience, scroll down for the solution.
-
-<figure style="width: 87%; margin: 5%">
-  <vzome-viewer style="width: 100%; height: 60vh" id='viewer' scene='unsolved'
-       src="https://vorth.github.io/vzome-sharing/2024/01/21/06-52-35-cube-puzzle-solution/cube-puzzle-solution.vZome" >
-    <img  style="width: 100%"
-       src="https://vorth.github.io/vzome-sharing/2024/01/21/06-52-35-cube-puzzle-solution/cube-puzzle-solution.png" >
-  </vzome-viewer>
- <figcaption style="text-align: center; font-style: italic;">
-    This is not an image, it is an interactive 3D viewer.  Use your mouse or touch to rotate, pan, and zoom.
- </figcaption>
-</figure>
 
 <h3>Solution</h3>
 

@@ -28,7 +28,7 @@ layout: design
         const id = el.id;
         document .getElementById( `show-${id}` ) .addEventListener( "click", e => showScene( id ) );
       } );
-    }
+    } );
 
   </script>
   

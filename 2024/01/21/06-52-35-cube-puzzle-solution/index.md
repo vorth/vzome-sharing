@@ -155,14 +155,18 @@ To see the solution in the viewer above, click one of the buttons below.
   
   <div>
     <div id="analysis" class="instruction hidden">
+      <p>
       The puzzle seems to play on our tendencies and assumptions, as indicated by some of the hints above.
-
+      </p>
+      <p>
       First, most people tend to put the L-shape down on the table, thinking that it defines one face of the cube.
       This could even be based on a heuristic, an instinct to "define the edges first", or "stay out of the center to
       have more room for the other pieces".
-
+      </p>
+      <p>
       Second, most people can easily see the 4-fold and even 2-fold symmetries of a cube, but the 3-fold symmetry
       around the central diagonal is harder to visualize, and physically more awkward to examine and manipulate.
+      </p>
     </div>
   </div>
 

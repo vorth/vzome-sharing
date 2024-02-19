@@ -1,10 +1,10 @@
 ---
-title: ''
-subtitle: Hashimoto's Bucolic Cube
+title: 'Hashimoto's Bucolic Cube'
+subtitle: G4G15 Gift from Stan Isaacs and Scott Vorthmann
 share-title: Hashimoto's Bucolic Cube
 share-description: History, hints, analysis, and solution for Hashimoto's wonderful Bucolic Cube puzzle.
 image: https://vorth.github.io/vzome-sharing/2024/01/21/06-52-35-cube-puzzle-solution/cube-puzzle-solution.png
-layout: design
+layout: vzome
 ---
 
 Three simple, identical pieces can be assembled to form a cube shape.  This delightful puzzle is in the Goldilocks zone, "just right"...

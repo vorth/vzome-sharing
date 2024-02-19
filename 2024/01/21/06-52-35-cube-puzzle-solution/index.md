@@ -128,6 +128,12 @@ We think it is among the best 3-piece puzzles we’ve ever seen!
       document .getElementById( `show-${id}` ) .addEventListener( "click", e => el.classList .remove( 'hidden' ) );
     } );
 
+    const viewer = document .getElementById( 'viewer' );
+    const explodedButton = document .getElementById( 'exploded' );
+    explodedButton .addEventListener( 'click', () => { viewer.scene = 'apart'; viewer.update(); } );
+    const solvedButton = document .getElementById( 'solved' );
+    solvedButton .addEventListener( 'click', () => { viewer.scene = 'together'; viewer.update(); } );
+
   </script>
 
 <h3>Solution</h3>
@@ -136,23 +142,19 @@ To see the solution in the viewer above, click one of the buttons below.
 
 <button id='exploded'>Exploded Solution</button> <button id='solved'>Assembled Solution</button>
 
-<script>
-  const viewer = document .getElementById( 'viewer' );
-  const explodedButton = document .getElementById( 'exploded' );
-  explodedButton .addEventListener( 'click', () => { viewer.scene = 'apart'; viewer.update(); } );
-  const solvedButton = document .getElementById( 'solved' );
-  solvedButton .addEventListener( 'click', () => { viewer.scene = 'together'; viewer.update(); } );
-</script>
-
 <h3>Analysis</h3>
 
-What makes this puzzle so challenging?
-
-Spoiler alert: don't reveal the analysis until you've solved the puzzle!
+  <p>
+    What makes this puzzle so challenging?
+  </p>
+  <p>
+    Spoiler alert: don't reveal the analysis until you've solved the puzzle!
+  </p>
 
     <button id="show-analysis">Show Analysis</button>
+    
     <div>
-      <div id="analysis" class="hidden">
+      <div id="analysis" class="instruction hidden">
         The puzzle seems to play on our tendencies and assumptions, as indicated by some of the hints above.
 
         First, most people tend to put the L-shape down on the table, thinking that it defines one face of the cube.

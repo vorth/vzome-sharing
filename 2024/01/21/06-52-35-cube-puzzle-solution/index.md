@@ -30,7 +30,7 @@ tricky enough to challenge even experts, yet still easy enough for novice solver
   </style>
   
 <figure style="width: 87%; margin: 5%">
-  <vzome-viewer style="width: 100%; height: 60vh" id='viewer' scene='unsolved'
+  <vzome-viewer style="width: 100%; height: 40vh" id='viewer' scene='unsolved'
        src="https://vorth.github.io/vzome-sharing/2024/01/21/06-52-35-cube-puzzle-solution/cube-puzzle-solution.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2024/01/21/06-52-35-cube-puzzle-solution/cube-puzzle-solution.png" >

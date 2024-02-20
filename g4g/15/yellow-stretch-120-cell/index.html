@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta property="og:type" content="website"/>
+
+
+    <title>Building the Stretched 120-Cell</title>
+    <meta property="og:site_name"  content="Building the Stretched 120-Cell"/>
+    <meta property="og:title"      content="Building the Stretched 120-Cell"/>
+    <meta property="twitter:title" content="Building the Stretched 120-Cell"/>
+
+    <meta name="author" content="Scott Vorthmann"/>
+  
+    <meta name="description"             content="Step-by-step instructions for building a stretched 120-cell, using Zometool and custom 3D-printed struts"/>
+    <meta property="og:description"      content="Step-by-step instructions for building a stretched 120-cell, using Zometool and custom 3D-printed struts"/>
+    <meta property="twitter:description" content="Step-by-step instructions for building a stretched 120-cell, using Zometool and custom 3D-printed struts"/>
+
+    <meta name="keywords" content="instructions,geometry,zome,vzome"/>
+    
+    <meta property="og:image"  content="https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.png"/>
+    <meta name="twitter:image" content="https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.png"/>
+    
+    <meta property="og:url" content="https://vorth.github.io/vzome-sharing/g4g/15/yellow-stretch-120-cell/"/>
+    <link rel="canonical"      href="https://vorth.github.io/vzome-sharing/g4g/15/yellow-stretch-120-cell/">
+
+
+  <style>
+    body {
+      user-select: none;
+      position: absolute;
+      inset: 0;
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      grid-template-rows: min-content 1fr 10dvh;
+      grid-template-areas:
+        "title       canvas"
+        "instruction canvas"
+        "buttons     canvas";
+    }
+
+    .safe-grid-item {
+      width: 100%;
+      height: 100%;
+      position: relative;
+    }
+
+    .centered-scroller {
+      height: 100%;
+      width: 100%;
+      position: relative;
+      overflow: auto;
+    }
+
+    .scroller-content {
+      position: absolute;
+      inset: 0;
+      margin: auto;
+    }
+
+    #viewer {
+      grid-area: canvas;
+      width: 100%;
+      height: 100%
+    }
+
+    #title {
+      grid-area: title;
+    }
+
+    #instructions {
+      grid-area: instruction;
+    }
+
+    #buttons {
+      grid-area: buttons;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      margin-block-start: 8px;
+      margin-inline-end: 8px;
+    }
+
+    button {
+      font-size: xx-large;
+    }
+
+    .instruction {
+      margin-inline: 1rem;
+      font-size: large;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    @media ( max-aspect-ratio: 1/1 ) {
+      body {
+        grid-template-columns: 1fr;
+        grid-template-rows: min-content 1fr 1fr 10dvh;
+        grid-template-areas:
+          "title"
+          "canvas"
+          "instruction"
+          "buttons";
+      }
+      h2 {
+        font-size: 1.4em;
+        margin-block: 0.4em;
+      }
+      #instructions {
+        margin-block-start: 8px;
+      }
+    }
+  </style>
+
+  <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
+
+</head>
+
+<body>
+
+  <div id="title">
+    <h2>Building the Yellow-Stretch 120-Cell</h2>
+  </div>
+
+  <div id="buttons">
+    <button id="prev">prev</button>
+    <button id="next">next</button>
+  </div>
+
+  <div id="instructions" class="safe-grid-item">
+    <div class="centered-scroller">
+      <div class="scroller-content">
+
+        <div id="default scene" class="instruction">
+          <p>
+            This page provides instructions for constructing
+            this stretched 120-cell using Zometool (and additional custom struts).
+          </p>
+          <p>
+            Use the buttons below to step through the instructions.
+            Each step will be illustrated in the interactive 3D view on the right.
+            Use your mouse (or touch on a mobile device) to rotate, pan, and zoom in that view.
+          </p>
+          <p>
+            Before you go to the next step, make sure you have zoomed out so you can see the whole model,
+            since the next scene shows just the very end of the model.
+          </p>
+        </div>
+
+        <div id="pentagon" class="instruction hidden">
+          <p>
+            The first step is to build a single pentagon. This can be a little tricky for novices,
+            but you'll get the hang of it quickly.
+          </p>
+          <p>
+            This is a good time to practice zooming, panning, and rotating the view.
+            Try to center the pentagon so that it is about half the width of the view,
+            and it stays mostly centered when you rotate the view.
+            You'll need those skills as you continue these instructions, so you can tell
+            exactly how to add the new struts.
+          </p>
+          <p>
+            You're 3D perception is strongest when you are rotating the view,
+            so you'll find yourself doing that a lot!
+          </p>
+          <p>
+            Zoom in to get a good look at the way two blue struts are related to each
+            other in the ball.
+            Memorize the pattern of holes between the two strut ends.
+          </p>
+          <p>
+            One tip that's really helpful for building anything with Zometool:
+            always make "lollipops"... adding a ball to a strut is always easier
+            before to add the strut to an existing structure.
+          </p>
+        </div>
+
+        <div id="dodecahedron" class="instruction hidden">
+          <p>
+            Now build a regular dodecahedron, with twelve pentagon faces.
+            Remember, symmetry requires that each face is like every other, and likewise
+            for edges and vertices. Learn the patterns, and it will go quickly.
+          </p>
+          <p>
+            In each step going forward, we will illustrate the new parts to add with a glowing highlight.
+            If you have any difficulty seeing the colors, just hit "next" and "prev" to get a peek
+            at the normal strut colors, without the highlight.
+          </p>
+          <p>
+            Once you've finished the dodecahedron, build a second one!
+            The complete model is made of two identical halves, so until we get near the end,
+            you need to build two of everything.
+            If you have several people building the model, you may want to divide them
+            into two teams.
+          </p>
+        </div>
+
+        <div id="dodec-wings" class="instruction hidden">
+          <p>
+            The two dodecahedra will form the extreme ends of the model,
+            with a three-fold corner lying on the central axis.
+            You will see this three-fold symmetry throughout these instructions.
+          </p>
+          <p>
+            The 120-cell is entirely composed of dodecahedra, though most of them are
+            distorted in some way by the projection from 4D to 3D. The ones on the surface
+            of the model are completely flattened, and that's what we're building in this step.
+          </p>
+          <p>
+            Since the dodecahedra are mostly distorted, so are most of the pentagons they contain.
+            You will still see 60 regular pentagons in the final model, 10 each in six elliptical rings.
+            We are adding three regular pentagons (to each end) here.
+          </p>
+          <p>
+            Did you read the part in the previous instruction about building two of everything,
+            so you're building both ends of the model at once?
+          </p>
+        </div>
+
+        <div id="short-oranges" class="instruction hidden">
+          <p>
+            To complete the three flattened dodecahedra, we need six short orange struts.
+          </p>
+          <p>
+            An orange strut fits into a triangular hole of the Zome ball in three different orientations,
+            similar to the five possible orientations of a green strut in a pentagonal hole.
+            It can be tricky to find the right orientation!
+            Fortunately, there are three things that help us.
+          </p>
+          <p>
+            First, if you grab the end of an orange strut between your thumb and two fingers,
+            you'll find that there is a comfortable grip where your thumb nestles into the flat "ramp"
+            on one side. Use this to help you orient the strut without looking at it!
+          </p>
+          <p>
+            Second, look for orientation hints in the model itself, based on symmetries.
+            For example, in this step we are completing a flat dodecahedron.
+            Notice that the orange struts lay flat in that plane, and observe which end has the "ramp"
+            facing outward (away from the interior of the model).
+          </p>
+          <p>
+            Finally, every dodecahedron in this model, regardless of how stretched or flattened,
+            always has the same strut in the same orientation on opposite sides,
+            like the two orange struts in each flattened dodec here.
+            (Notice that every blue strut here has a "twin" also!)
+            You can almost always use existing struts to help you orient new struts, in this way.
+          </p>
+        </div>
+
+        <div id="first-greens" class="instruction hidden">
+          <p>
+            This step may be the most challenging of the whole model.
+            You need to orient these green struts correctly, with no existing "twins" to guide you.
+          </p>
+          <p>
+            Zoom in to get a good look at where a green strut goes into an existing ball.
+            Like the orange struts, green struts have kinks at the ends.
+            (Mark Pelletier called them "ginks", for fun!)
+            Unlike orange kinks, green kinks have no comfortable ramp for your thumb, but you can
+            still feel the gink in your hand.
+          </p>
+          <p>
+            You can also notice the mirror symmetry of the gink,
+            and recognize the "top" and "bottom" of the gink as you look at the 3D view,
+            to help you orient your green strut as you insert it.
+          </p>
+          <p>
+            For the three blue struts, notice that each has its twin on the dodecahedron.
+            This makes it easy to get the orientation right,
+            though you can always sight the line between the balls at the ends of the green struts.
+            Did you remember to make lollipops for the green struts?
+          </p>
+        </div>
+
+        <div id="more-pents" class="instruction hidden">
+          <p>
+            Now we will add three regular pentagons to the blue struts we just created.
+          </p>
+          <p>
+            Build each partial pentagon from three balls and four struts before adding each
+            one to the model.
+          </p>
+          <p>
+            Pentagons have an "up" and a "down" side in Zometool,
+            due to the orientations of the blue struts.
+            Notice the orientation of these new pentagons in the model,
+            and notice that each has an oppositely-oriented twin on the original dodecahedron.
+            Every dodecahedral cell in the model has twin pentagons on opposite sides like this,
+            always with opposite orientations.
+          </p>
+        </div>
+
+        <div id="more-greens" class="instruction hidden">
+          <p>
+            Here you can see we are starting to define the first rank of stretched
+            (but not flattened) dodecahedra.
+          </p>
+          <p>
+            The easiest approach here is to add blue lollipops first, since the blue struts
+            already have twins on the opposite sides of the cells.
+            Adding the green struts is then much easier.
+            Notice that the two greens in each dodec are twins.
+          </p>
+        </div>
+
+        <div id="layer-2" class="instruction hidden">
+          <p>
+            Now we will finish up this rank of stretched dodecahedra.
+          </p>
+          <p>
+            As in the last step, it is easiest to make your short blue (b0) lollipops
+            first and add them to the structure, since each one has an existing twin to guide you.
+            Finally, add the orange and green struts to match their twins as well.
+          </p>
+          <p>
+            Remember to use your grip to help you orient the orange and green struts in your hand.
+          </p>
+        </div>
+
+        <div id="start-faces" class="instruction hidden">
+          <p>
+            In this step, we are working on the second rank of stretched dodecahedra.
+            These cells have some nice symmetry to help us, with three mirrors at right angles.
+            You can see the "notch" of two blue regular pentagons, reflections of each other in one of the mirrors.
+          </p>
+          <p>
+            Here you should make three b2 lollipops and six b1 lollipops.
+            The b2 lollipops go in first.
+            Each should be at right angles to both the b1 strut in the middle of the notch
+            and the two b0 struts on the sides of the dodec.
+          </p>
+          <p>
+            The b1 lollipops have twins in the notch pentagons to help you align them correctly,
+            and finally the green struts have existing twins also.
+          </p>
+        </div>
+
+        <div id="mirror-faces" class="instruction hidden">
+          <p>
+            This step is just a mirror of the previous step,
+            so now every strut has an existing twin to help you.
+          </p>
+        </div>
+
+        <div id="layer-3" class="instruction hidden">
+          <p>
+            This step finishes up the second rank of stretched dodecahedra.
+          </p>
+          <p>
+            This is just completing two regular b1 pentagons.
+            You already have all the tools to complete this, so it should go quickly.
+          </p>
+        </div>
+
+        <div id="first-yellow" class="instruction hidden">
+          <p>
+            The fourth rank of stretched dodecs lie bunched around the central threefold axis of the model,
+            so here we see our first yellow strut.
+            All the yellow struts in the model will be parallel to this one;
+            we say there is only one <em>zone</em> of yellow struts.
+          </p>
+          <p>
+            These yellow struts are not normal Zometool struts because they must be twice the length of a y1 strut.
+            If you don't have the 3d-printed struts, you can substitute two y1 struts and a ball.
+          </p>
+          <p>
+            Build three green lollipops and one yellow one.
+            Placement of the yellow one is pretty obvious, right down the centerline.
+          </p>
+          <p>
+            The green lollipops all have twins to guide you, as do the orange struts.
+          </p>
+        </div>
+
+        <div id="mirror-yellows" class="instruction hidden">
+          <p>
+            Everything here has an existing twin on the opposite side of the dodec cell we are building,
+            so this should not challenge you very much.
+            Are you getting the hang of it?
+          </p>
+          <p>
+            I start with a yellow lollipop and two b2 lollipops here, for each cell.
+          </p>
+          <p>
+            Did you notice the right angle between the b1 and b2 struts?
+            Surprising?
+          </p>
+        </div>
+
+        <div id="layer-4" class="instruction hidden">
+          <p>
+            Now we finish up the fourth rank.
+          </p>
+          <p>
+            Since you're so good at blue pentagons by now, I'd start with that,
+            then find the twins to orient the green struts, if necessary.
+          </p>
+        </div>
+
+        <div id="finish-flat-faces" class="instruction hidden">
+          <p>
+            This step completes the second rank of flattened dodecs on the exterior of the model.
+          </p>
+          <p>
+            The symmetry of the flat dodecs (twins for everything) and the planar structure
+            here should make this pretty easy for you.
+          </p>
+          <p>
+            More serendipity: the blue struts here are all at 60 or 120 degree angles to each other.
+          </p>
+        </div>
+
+        <div id="three-w" class="instruction hidden">
+          <p>
+            This is rank three of the flat outer dodecahedra.
+          </p>
+          <p>
+            Since you're so good at blue pentagon angles, try making the W shapes first
+            and then attaching them.
+          </p>
+        </div>
+
+        <div id="long-oranges" class="instruction hidden">
+          <p>
+            Here we find our first long orange struts.
+            As before, the orange struts lie flat in the plane of the dodec.
+          </p>
+          <p>
+            Like the yellow struts, all our orange struts in this model are actually double lengths, in two sizes.
+            Since orange struts have the same length as red struts, we have struts with
+            double-r0 length and double-r1 length.
+          </p>
+        </div>
+
+        <div id="three-vs" class="instruction hidden">
+          <p>
+            The blue and green V shapes lie in a mirror plane for the model,
+            and both struts have twins (on two sides!),
+            so this step should be simple for you.
+          </p>
+        </div>
+
+        <div id="orange-yellow" class="instruction hidden">
+          <p>
+            Place the long yellow lollipop parallel to its twin,
+            and likewise for the b0 lollipop
+            and the final long orange strut.
+          </p>
+        </div>
+
+        <div id="dangling-orange" class="instruction hidden">
+          <p>
+            We have reached the center plane of the model now,
+            so we don't want lollipops here, just long orange struts
+            aligned to match their twins.
+          </p>
+          <p>
+            Be sure to match the right twin!
+          </p>
+        </div>
+
+        <div id="dangling-blue-green" class="instruction hidden">
+          <p>
+            No lollipops wanted here either!
+            We don't even want to add the obvious ball at the intersection of the blue and green struts.
+          </p>
+        </div>
+
+        <div id="three-pents" class="instruction hidden">
+          <p>
+            The six balls here lie on the center plane.
+          </p>
+          <p>
+            You know how to do this.
+          </p>
+        </div>
+
+        <div id="shared-balls" class="instruction hidden">
+          <p>
+            We are almost ready to join our two halves.
+            (You did remember to make both halves, right?)
+          </p>
+          <p>
+            Six balls here lie in the center plane, <em>so we only need to add them to one half of our model!</em>
+          </p>
+        </div>
+
+        <div id="stitches" class="instruction hidden">
+          <p>
+            Now it is time to stitch our two halves together.
+          </p>
+          <p>
+            Start by connecting the dangling long orange struts to the regular blue pentagons on the other half.
+          </p>
+          <p>
+            Next connect the last six balls on the central plane to the dangling blue struts on the other half.
+          </p>
+          <p>
+            Now, insert the six central long orange struts.
+            They all have twins in the cells wrapping around the central dodecahedron,
+            but it is still a little tricky to get them in the right direction.
+          </p>
+          <p>
+            Finally insert the remaining green and orange struts on the outer surface,
+            using twins as usual to align them.
+          </p>
+        </div>
+
+        <div id="finished" class="instruction hidden">
+          <p>
+            Congratulations, you're finished!
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <vzome-viewer id='viewer' scene="default scene"
+    src="https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.vZome">
+    <img style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.png">
+  </vzome-viewer>
+
+  <script type="module">
+    const scenes = [
+      "default scene",
+      "pentagon",
+      "dodecahedron",
+      "dodec-wings",
+      "short-oranges",
+      "first-greens",
+      "more-pents",
+      "more-greens",
+      "layer-2",
+      "start-faces",
+      "mirror-faces",
+      "layer-3",
+      "first-yellow",
+      "mirror-yellows",
+      "layer-4",
+      "finish-flat-faces",
+      "three-w",
+      "long-oranges",
+      "three-vs",
+      "orange-yellow",
+      "dangling-orange",
+      "dangling-blue-green",
+      "three-pents",
+      "shared-balls",
+      "stitches",
+      "finished"
+    ];
+
+    let index = 0;
+
+    const viewer = document.querySelector("#viewer");
+    viewer.reactive = false;
+
+    const changeScene = delta => {
+      let scene = scenes[index];
+      let div = document.getElementById(scene);
+      div.classList.add('hidden');
+      index = Math.min(Math.max(index + delta, 0), scenes.length - 1);
+      scene = scenes[index];
+      div = document.getElementById(scene);
+      div.classList.remove('hidden');
+
+      viewer.scene = scene;
+      viewer.update({ camera: false });
+    }
+
+    viewer.addEventListener("vzome-scenes-discovered", (e) => {
+      document.querySelector("#prev").addEventListener("click", e => changeScene(-1));
+      document.querySelector("#next").addEventListener("click", e => changeScene(+1));
+    });
+
+  </script>
+</body>
+
+</html>

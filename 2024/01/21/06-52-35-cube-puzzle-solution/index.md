@@ -133,6 +133,8 @@ We think it is among the best 3-piece puzzles we’ve ever seen!
     explodedButton .addEventListener( 'click', () => { viewer.scene = 'apart'; viewer.update(); } );
     const solvedButton = document .getElementById( 'solved' );
     solvedButton .addEventListener( 'click', () => { viewer.scene = 'together'; viewer.update(); } );
+    const unsolvedButton = document .getElementById( 'unsolved' );
+    unsolvedButton .addEventListener( 'click', () => { viewer.scene = 'unsolved'; viewer.update(); } );
 
   </script>
 
@@ -141,6 +143,7 @@ We think it is among the best 3-piece puzzles we’ve ever seen!
 To see the solution in the viewer above, click one of the buttons below.
 
 <button id='exploded'>Exploded Solution</button> <button id='solved'>Assembled Solution</button>
+<button id='unsolved'>Unsolved</button>
 
 <h3>Analysis</h3>
 

@@ -125,7 +125,7 @@ We think it is among the best 3-piece puzzles we’ve ever seen!
 
     document .querySelectorAll( ".instruction" ) .forEach( el => {
       const id = el.id;
-      document .getElementById( `show-${id}` ) .addEventListener( "click", e => el.classList .remove( 'hidden' ) );
+      document .getElementById( `show-${id}` ) .addEventListener( "click", e => el.classList .toggle( 'hidden' ) );
     } );
 
     const viewer = document .getElementById( 'viewer' );
@@ -179,11 +179,11 @@ To see the solution in the viewer above, click one of the buttons below.
 
   <h4>Space Filling</h4>
   <p>
-    First of all, can the puzzle shape tile space, leaving no voids?  The answer is yes!
-    See if you can figure out how, before you reveal the solution.
+    First of all, can the puzzle shape tile space, leaving no voids? 
+    See if you can prove (or disprove) it, before you reveal the answer
   </p>
 
-  <button id="show-space">Show Space-filling Solution</button>
+  <button id="show-space">Show Space-filling Answer</button>
   <div>
     <div id="space" class="instruction hidden">
       <pre>

@@ -1,7 +1,7 @@
 ---
 title: ''
-subtitle: derek bosch g4g15 puzzle
-share-title: derek bosch g4g15 puzzle
+subtitle: Derek Bosch's puzzle prototype from G4G15
+share-title: Derek Bosch's puzzle prototype from G4G15
 share-description: An interactive 3D view, shared from vZome
 image: https://vorth.github.io/vzome-sharing/2024/02/22/11-32-34-derek-bosch-g4g15-puzzle/derek-bosch-g4g15-puzzle.png
 layout: design

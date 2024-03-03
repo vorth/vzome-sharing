@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zome Primer figures</title>
+  <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
+</head>
+<body>
+  
+<style>
+  .instruction {
+    padding-inline-start: 10px;
+    font-size: large;
+  }
+  .hidden {
+    display: none;
+  }
+  button {
+    padding-block-end: 15px;
+  }
+  #hints {
+    min-width: 400px;
+    max-width: 800px;
+    display: grid;
+    grid-template-columns: 100px 1fr;
+  }
+</style>
+
+<button id="a-figure 27">figure 27</button>
+<button id="c-figure 36">figure 36</button>
+<button id="c-figure 37">figure 37</button>
+<button id="c-figure 38">figure 38</button>
+<button id="c-figure 39">figure 39</button>
+<button id="c-figure 40">figure 40</button>
+<button id="c-figure 41">figure 41</button>
+<button id="a-figure 42">figure 42</button>
+<button id="b-figure 43">figure 43</button>
+<button id="b-figure 44">figure 44</button>
+
+<figure style="width: 60%; margin: auto; height: 90dvh;">
+  <vzome-viewer id="viewer" style="width: 100%; height: 100%"
+       src="https://vorth.github.io/vzome-sharing/2024/03/02/14-07-34-figures-36-41/figures-36-41.vZome" >
+    <img  style="width: 100%"
+       src="https://vorth.github.io/vzome-sharing/2024/03/02/14-07-34-figures-36-41/figures-36-41.png" >
+  </vzome-viewer>
+ </figure>
+
+
+<script type="module">
+
+  const designs = {
+    "a": "https://vorth.github.io/vzome-sharing/2024/03/02/15-09-49-figures-27+42/figures-27+42.vZome",
+    "b": "https://vorth.github.io/vzome-sharing/2024/03/02/15-41-36-figure-43-44/figure-43-44.vZome",
+    "c": "https://vorth.github.io/vzome-sharing/2024/03/02/14-07-34-figures-36-41/figures-36-41.vZome",
+  }
+
+  const viewer = document .getElementById( 'viewer' );
+  viewer .reactive = false;
+  const setScene = ( design, scene ) =>
+  {
+    viewer.src = designs[ design ];
+    viewer.scene = scene;
+    viewer.update();
+  }
+
+  document .querySelectorAll( "button" ) .forEach( el => {
+    const [ design, scene ] = el.id .split( '-' );
+    el .addEventListener( "click", e => setScene( design, scene ) );
+  } );
+
+</script>
+
+</body>
+</html>

@@ -1,86 +1,310 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Zome Primer figures</title>
+
+  <meta name="author" content="Scott Vorthmann">
+
+  <meta name="keywords" content="geometry,zome,vzome,architecture,dome">
+
+  
+  <title>Annotated Zome Primer</title>
+  <meta property="og:site_name" content="The Annotated Zome Primer">
+  <meta property="og:title" content="The Annotated Zome Primer">
+  <meta property="twitter:title" content="The Annotated Zome Primer">
+
+  <meta name="description" content="An annotated, interactive version of Steve Baer's original Zome Primer.">
+  <meta property="og:description" content="An annotated, interactive version of Steve Baer's original Zome Primer.">
+  <meta property="twitter:description" content="An annotated, interactive version of Steve Baer's original Zome Primer.">
+
+  
+  <meta name="twitter:image" content="https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.png">
+  <meta property="og:image" content="https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.png">
+  
+  <meta property="og:type" content="article">
+  <meta property="og:article:author" content="Scott Vorthmann">
+  <meta property="og:url" content="https://vorth.github.io/vzome-sharing/zome-primer/">
+  <link rel="canonical" href="https://vorth.github.io/vzome-sharing/zome-primer/">
+  
+  <meta name="twitter:card" content="summary_large_image">
+    
+
+  <style>
+    body {
+      user-select: none;
+      position: absolute;
+      inset: 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: min-content 1fr;
+      grid-template-areas:
+        "title    title"
+        "original annotations";
+    }
+
+    .safe-grid-item {
+      width: 100%;
+      height: 100%;
+      position: relative;
+    }
+
+    .centered-scroller {
+      height: 100%;
+      width: 100%;
+      position: relative;
+      overflow: auto;
+    }
+
+    .scroller-content {
+      position: absolute;
+      inset: 0;
+      margin: auto;
+    }
+
+    .no-scroll {
+      overflow: hidden;
+    }
+
+    .annotated-page {
+      position: relative;
+    }
+    /* When you mouse over the container, fade in the overlay title */
+    .annotation:hover {
+      opacity: 1;
+    }
+
+    .page-image {
+      width: 100%;
+    }
+
+    .annotation {
+      position: absolute;
+      border: 2px solid #fbdc3e;
+      
+      background: rgb(0, 0, 0);
+      background: rgba(0, 0, 0, 0.25); /* Black see-through */
+      color: #f1f1f1;
+      width: 100%;
+      transition: .5s ease;
+      opacity:0;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    #annotations {
+      grid-area: annotations;
+      width: 100%;
+      height: 100%;
+      border-block-start: 1px solid gray;
+    }
+
+    #hint {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin: auto;
+      font-size: large;
+      font-style: italic;
+      height: 100%;
+      color: gray;
+    }
+
+    #viewer {
+      width: 100%;
+      height: 100%
+    }
+
+    #title {
+      grid-area: title;
+      margin: auto;
+    }
+
+    #original {
+      grid-area: original;
+      border-block-start: 1px solid gray;
+    }
+
+    #buttons {
+      grid-area: buttons;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      margin-block-start: 8px;
+      margin-inline-end: 8px;
+    }
+
+    button {
+      font-size: xx-large;
+    }
+
+    .trigger {
+      text-decoration: none;
+      color: #fbdc3e;
+      background: rgb(0, 0, 0);
+      background: rgba(0, 0, 0, 0.45); /* Black see-through */
+      border: 1px solid #fbdc3e;
+      border-radius: 5px;
+      max-width: fit-content;
+      margin: auto;
+      padding-inline: 10px;
+      padding-block: 6px;
+    }
+
+    img {
+      display: block;
+      margin: auto;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    @media (max-aspect-ratio: 1/1) {
+      body {
+        grid-template-columns: 1fr;
+        grid-template-rows: min-content 1fr 1fr;
+        grid-template-areas:
+          "title"
+          "annotations"
+          "original";
+      }
+
+      h2 {
+        font-size: 1.4em;
+        margin-block: 0.4em;
+      }
+
+      #original {
+        margin-block-start: 8px;
+      }
+    }
+  </style>
+
   <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
 </head>
+
 <body>
-  
-<style>
-  .instruction {
-    padding-inline-start: 10px;
-    font-size: large;
-  }
-  .hidden {
-    display: none;
-  }
-  button {
-    padding-block-end: 15px;
-  }
-  #hints {
-    min-width: 400px;
-    max-width: 800px;
-    display: grid;
-    grid-template-columns: 100px 1fr;
-  }
-  figure {
-    width: 60%;
-    margin: auto;
-    height: 90dvh;
-  }
-  @media (max-aspect-ratio: 1/1) {
-    figure {
-      width: 100vw;
+
+  <div id="title">
+    <h2>The Annotated Zome Primer</h2>
+  </div>
+
+  <div id="original" class="safe-grid-item">
+    <div class="centered-scroller">
+      <div class="scroller-content">
+
+        <div class="annotated-page">
+          <img class="page-image" src="zome-primer-cover.png" alt="Zome Primer cover">
+          <div class="annotation" style="top: 5%; left: 6%; width: 77%; height: 62%">
+            <div class="trigger" data-img-src="zome-primer-cover.svg">
+              SVG image
+            </div>, 
+            <div class="trigger" data-design="https://vorth.github.io/vzome-sharing/2024/03/03/18-04-24-zome-primer-cover/zome-primer-cover.vZome">
+              Zometool model
+            </div>
+          </div>
+        </div>
+
+        <div class="annotated-page">
+          <img class="page-image" src="zome-primer-p08.png" alt="Zome Primer page 8">
+          <div class="annotation" style=" top: 20%; left: 6%; width: 20%; height: 15%; ">
+            <div class="trigger" data-scene="figure 36" data-design="https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.vZome">
+              Zometool model
+            </div>
+          </div>
+          <div class="annotation" style="top: 42%; left: 6%; width: 20.5%; height: 11.5%;">
+            <div class="trigger" data-scene="figure 37" data-design="https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.vZome">
+              Zometool model
+            </div>
+          </div>
+          <div class="annotation" style="top: 60%; left: 6%; width: 20%; height: 11%;">
+            <div class="trigger" data-scene="figure 38" data-design="https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.vZome">
+              Zometool model
+            </div>
+          </div>
+          <div class="annotation" style="top: 9%; left: 36%; width: 21%; height: 11%;">
+            <div class="trigger" data-scene="figure 39" data-design="https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.vZome">
+              Zometool model
+            </div>
+          </div>
+          <div class="annotation" style="top: 27%; left: 36%; width: 21%; height: 14%;">
+            <div class="trigger" data-scene="figure 40" data-design="https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.vZome">
+              Zometool model
+            </div>
+          </div>
+          <div class="annotation" style="top: 48%; left: 36%; width: 21%; height: 14%;">
+            <div class="trigger" data-scene="figure 41" data-design="https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.vZome">
+              Zometool model
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div id="annotations" class="safe-grid-item">
+    <div class="centered-scroller">
+      <div class="scroller-content no-scroll">
+
+        <div id="hint">
+          <p>
+            Click on <span class="trigger noclick">highlights in the original</span> to show annotations here.
+          </p>
+          <p>
+            Some are interactive 3D views; use your mouse or touch to rotate, pan, and zoom.
+          </p>
+        </div>
+
+        <img id="slide" class="hidden" >
+
+        <vzome-viewer id='viewer' scene="default scene" class="hidden"
+          src="https://vorth.github.io/vzome-sharing/2024/03/03/18-04-24-zome-primer-cover/zome-primer-cover.vZome">
+          <img style="width: 100%" src="zome-primer-cover.svg">
+        </vzome-viewer>
+      </div>
+    </div>
+  </div>
+
+
+  <script type="module">
+
+    const hint = document.querySelector( "#hint" );
+    const slide = document.querySelector( "#slide" );
+    const viewer = document.querySelector( "#viewer" );
+    viewer.reactive = false;
+
+    const handleTrigger = ( el ) =>
+    {
+      const { imgSrc, design, scene } = el.dataset;
+      console.log( 'handleTrigger', imgSrc, design, scene );
+
+      hint.style.display = 'none';
+      if ( !!imgSrc ) {
+        // show the indicated image
+        slide.src = imgSrc;
+
+        viewer.classList .add( 'hidden' );
+        slide.classList .remove( 'hidden' );
+      } else {
+        // show the vzome-viewer with the required design and scene
+        viewer .src = design;
+        viewer .scene = scene;
+        viewer .update( { camera: true } );
+
+        slide.classList .add( 'hidden' );
+        viewer.classList .remove( 'hidden' );
+      }
     }
-  }
-</style>
 
-<button id="a-figure 27">figure 27</button>
-<button id="c-figure 36">figure 36</button>
-<button id="c-figure 37">figure 37</button>
-<button id="c-figure 38">figure 38</button>
-<button id="c-figure 39">figure 39</button>
-<button id="c-figure 40">figure 40</button>
-<button id="c-figure 41">figure 41</button>
-<button id="a-figure 42">figure 42</button>
-<button id="b-figure 43">figure 43</button>
-<button id="b-figure 44">figure 44</button>
+    document .querySelectorAll( ".trigger" ) .forEach( el => {
+      if ( ! el.classList .contains( "noclick" ) )
+        el .addEventListener( "click", e => handleTrigger( el ) );
+    } );
 
-<figure>
-  <vzome-viewer id="viewer" style="width: 100%; height: 100%"
-       src="https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.vZome" >
-    <img  style="width: 100%"
-       src="https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.png" >
-  </vzome-viewer>
- </figure>
-
-
-<script type="module">
-
-  const designs = {
-    "a": "https://vorth.github.io/vzome-sharing/2024/03/02/15-09-49-figures-27+42/figures-27+42.vZome",
-    "b": "https://vorth.github.io/vzome-sharing/2024/03/02/15-41-36-figure-43-44/figure-43-44.vZome",
-    "c": "https://vorth.github.io/vzome-sharing/2024/03/03/13-21-04-figures-36-41/figures-36-41.vZome",
-  }
-
-  const viewer = document .getElementById( 'viewer' );
-  viewer .reactive = false;
-  const setScene = ( design, scene ) =>
-  {
-    viewer.src = designs[ design ];
-    viewer.scene = scene;
-    viewer.update();
-  }
-
-  document .querySelectorAll( "button" ) .forEach( el => {
-    const [ design, scene ] = el.id .split( '-' );
-    el .addEventListener( "click", e => setScene( design, scene ) );
-  } );
-
-</script>
+  </script>
 
 </body>
 </html>

@@ -3,13 +3,16 @@ title: Building the Stretched 120-Cell
 description: Step-by-step instructions for building a stretched 120-cell, using Zometool and custom 3D-printed struts
 image: https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.png
 published: true
-layout: page
+layout: design
 full-width: true
 ---
-    <!-- Enable the vzome-viewer custom element -->
-    <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
 
   <style>
+
+    .intro-header .page-heading h1 {
+      font-size: 2rem;
+    }
+      
     #main-body {
       user-select: none;
       min-height: 65dvh;
@@ -17,7 +20,6 @@ full-width: true
       grid-template-columns: 1fr 2fr;
       grid-template-rows: min-content 1fr 10dvh;
       grid-template-areas:
-        "title       canvas"
         "instruction canvas"
         "buttons     canvas";
     }
@@ -47,10 +49,6 @@ full-width: true
       height: 100%
     }
 
-    #title {
-      grid-area: title;
-    }
-
     #instructions {
       grid-area: instruction;
     }
@@ -69,7 +67,7 @@ full-width: true
 
     .instruction {
       margin-inline: 1rem;
-      font-size: x-large;
+      font-size: large;
     }
 
     .hidden {
@@ -77,11 +75,10 @@ full-width: true
     }
 
     @media ( max-aspect-ratio: 1/1 ) {
-      body {
+      #main-body {
         grid-template-columns: 1fr;
         grid-template-rows: min-content 5fr 3fr 10dvh;
         grid-template-areas:
-          "title"
           "canvas"
           "instruction"
           "buttons";
@@ -97,10 +94,6 @@ full-width: true
   </style>
 
 <div id="main-body">
-
-  <div id="title">
-    <h2>Building the Yellow-Stretch 120-Cell</h2>
-  </div>
 
   <div id="buttons">
     <button id="prev">prev</button>

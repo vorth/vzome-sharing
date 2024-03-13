@@ -542,6 +542,7 @@ full-width: true
       viewer.scene = scene;
       viewer.update({ camera: false });
     }
+    changeScene(0);
 
     viewer.addEventListener("vzome-scenes-discovered", (e) => {
       document.querySelector("#prev").addEventListener("click", e => changeScene(-1));

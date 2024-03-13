@@ -489,7 +489,7 @@ full-width: true
     </div>
   </div>
 
-  <vzome-viewer id='viewer' scene="default scene"
+  <vzome-viewer id='viewer' scene="finished"
     src="https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.vZome">
     <img style="width: 100%"
       src="https://vorth.github.io/vzome-sharing/2024/02/15/21-08-22-120-cell-yellowStretch-g4g15-build/120-cell-yellowStretch-g4g15-build.png">
@@ -542,7 +542,7 @@ full-width: true
       viewer.scene = scene;
       viewer.update({ camera: false });
     }
-    changeScene(0);
+    viewer.update({ camera: true });
 
     viewer.addEventListener("vzome-scenes-discovered", (e) => {
       document.querySelector("#prev").addEventListener("click", e => changeScene(-1));

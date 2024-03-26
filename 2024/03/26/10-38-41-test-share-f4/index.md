@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'edit index link works'
 subtitle: test share f4
 share-title: test share f4
 share-description: An interactive 3D view, shared from vZome

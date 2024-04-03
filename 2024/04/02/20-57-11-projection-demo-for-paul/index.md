@@ -1,11 +1,13 @@
 ---
-title: ''
-subtitle: skjslkerjwlekrj
-share-title: skjslkerjwlekrj
+title: 'Big Title wow'
 share-description: An interactive 3D view, shared from vZome
 image: https://vorth.github.io/vzome-sharing/2024/04/02/20-57-11-projection-demo-for-paul/projection-demo-for-paul.png
 layout: design
 ---
+
+Look, Paul, some text.
+
+## And a heading
 
   <vzome-viewer style="width: 100%; height: 60vh"
        src="https://vorth.github.io/vzome-sharing/2024/04/02/20-57-11-projection-demo-for-paul/projection-demo-for-paul.vZome" >

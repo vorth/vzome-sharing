@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="DEV" field="golden" version="7.1">
-  <EditHistory editNumber="4" lastStickyEdit="2">
+  <EditHistory editNumber="8" lastStickyEdit="2">
     <Polytope4d group="H4" quaternion="3 5 0 0 0 0 0 0" renderEdges="1000" wythoff="1000"/>
     <Branch>
       <Snapshot id="0"/>
@@ -97,7 +97,11 @@
       <Delete/>
       <Snapshot id="10"/>
     </Branch>
+    <BeginBlock/>
     <SelectManifestation endSegment="0 0 5 8 13 21" startSegment="3 5 3 5 13 21"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-2 -3 0 0 13 21" startSegment="-3 -5 3 5 13 21"/>
+    <EndBlock/>
     <DeselectAll/>
   </EditHistory>
   <notes>

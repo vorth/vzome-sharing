@@ -8,7 +8,7 @@
  HTML for embedding in any web page:
  ```html
 <figure style="width: 87%; margin: 5%">
-  
+  <div style='margin: auto;'><button is='vzome-viewer-previous'>prev scene</button><button is='vzome-viewer-next'>next scene</button></div>
   <vzome-viewer style="width: 100%; height: 60vh" reactive='false'
        src="https://vorth.github.io/vzome-sharing/2024/04/04/10-02-51-hyperdo-steps/hyperdo-steps.vZome" >
     <img  style="width: 100%"

@@ -16,7 +16,7 @@ layout: design
 
 [Source folder](<https://github.com/vorth/vzome-sharing/tree/main/2024/04/04/09-53-29-hyperdo-steps/>)
 
-<script>
+<script type="module">
   const viewer = document.querySelector( "vzome-viewer" );
   viewer.scene = '#5';
   viewer.update();

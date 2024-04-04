@@ -7,8 +7,8 @@ image: https://vorth.github.io/vzome-sharing/2024/04/04/10-10-01-hyperdo-steps/h
 layout: design
 ---
 
-  
-  <vzome-viewer style="width: 100%; height: 60vh" show-scenes='all'
+  <div style='margin: auto;'><button is='vzome-viewer-previous'>prev scene</button><button is='vzome-viewer-next'>next scene</button></div>
+  <vzome-viewer style="width: 100%; height: 60vh" indexed='true'
        src="https://vorth.github.io/vzome-sharing/2024/04/04/10-10-01-hyperdo-steps/hyperdo-steps.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2024/04/04/10-10-01-hyperdo-steps/hyperdo-steps.png" >

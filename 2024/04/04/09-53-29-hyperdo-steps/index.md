@@ -8,7 +8,7 @@ layout: design
 ---
 
   
-  <vzome-viewer style="width: 100%; height: 60vh" reactive='false'
+  <vzome-viewer style="width: 100%; height: 60vh" reactive='false' id='vzome-viewer'
        src="https://vorth.github.io/vzome-sharing/2024/04/04/09-53-29-hyperdo-steps/hyperdo-steps.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2024/04/04/09-53-29-hyperdo-steps/hyperdo-steps.png" >
@@ -17,7 +17,7 @@ layout: design
 [Source folder](<https://github.com/vorth/vzome-sharing/tree/main/2024/04/04/09-53-29-hyperdo-steps/>)
 
 <script type="module">
-  const viewer = document.querySelector( "vzome-viewer" );
+  const viewer = document.querySelector( "#vzome-viewer" );
   viewer.scene = '#5';
   viewer.update();
 </script>

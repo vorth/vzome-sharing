@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="50" field="golden" version="7.1">
+  <EditHistory editNumber="81" lastStickyEdit="79">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="6" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="8" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="7" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 2 4 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="2 4 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="2 4 2 4 0 0" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <LinearTransformTool name="linear map.2/yellow stretch"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="52" len="2 2"/>
+    <SymmetryAxisChange end="0 1 1 1 -1 -2" start="0 0 0 0 0 0"/>
+    <SelectAll/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Polytope4d group="A4" quaternion="0 0 0 1 1 1 -1 -2" wythoff="1111"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 -6 0 -4 2 0" startSegment="0 -6 4 -2 0 -2"/>
+    <SelectManifestation endSegment="4 -4 2 -2 4 2" startSegment="2 -4 6 0 2 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="-2 0 10 4 -2 -4"/>
+    <SelectManifestation point="-4 -2 8 2 -4 -6"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <SymmetryAxisChange end="-4 6 0 2 -4 -6" start="-2 8 2 4 -2 -4"/>
+    <SymmetryAxisChange end="0 8 -6 -2 0 -6" start="-2 8 -2 0 -2 -8"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 2 2 -2 -2 -10"/>
+    <SelectManifestation endSegment="-4 2 0 -2 -4 -10" startSegment="-2 2 2 -2 -2 -10"/>
+    <SelectManifestation endSegment="-2 2 2 -2 -2 -10" startSegment="0 6 0 -2 0 -10"/>
+    <SelectManifestation point="0 6 0 -2 0 -10"/>
+    <SelectManifestation endSegment="2 6 -4 -4 2 -8" startSegment="0 6 0 -2 0 -10"/>
+    <SelectManifestation point="0 6 0 -2 0 -10"/>
+    <SelectManifestation endSegment="2 6 -4 -4 2 -8" startSegment="0 6 0 -2 0 -10"/>
+    <SelectManifestation point="2 2 -6 -6 2 -6"/>
+    <SelectManifestation endSegment="0 2 -8 -6 0 -6" startSegment="2 2 -6 -6 2 -6"/>
+    <SelectManifestation endSegment="2 2 -6 -6 2 -6" startSegment="2 6 -4 -4 2 -8"/>
+    <SelectManifestation point="6 6 -2 -2 6 -2"/>
+    <SelectManifestation point="6 6 -2 -2 6 -2"/>
+    <SelectManifestation point="4 -2 -8 -6 4 2"/>
+    <SelectManifestation point="4 -2 -8 -6 4 2"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="4 -2 -8 -6 4 2"/>
+    <SelectManifestation point="6 0 -6 -4 6 4"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 6 -4 -4 2 -8" startSegment="0 6 0 -2 0 -10"/>
+    <SelectManifestation endSegment="2 10 -4 0 2 -4" startSegment="0 10 0 2 0 -6"/>
+    <SelectManifestation endSegment="2 10 -4 0 2 -4" startSegment="0 10 0 2 0 -6"/>
+    <SelectManifestation endSegment="4 8 -2 -2 4 -6" startSegment="2 8 2 0 2 -8"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="2 10 2 2 2 -6"/>
+    <SelectManifestation point="4 10 -2 0 4 -4"/>
+    <SelectManifestation point="0 6 -6 -4 0 -8"/>
+    <SelectManifestation point="-2 6 -2 -2 -2 -10"/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-2 6 -2 -2 -2 -10"/>
+    <SelectManifestation point="0 6 -6 -4 0 -8"/>
+    <SelectManifestation point="4 10 -2 0 4 -4"/>
+    <SelectManifestation point="2 10 2 2 2 -6"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectAll/>
+    <ApplyTool copyColors="true" deselectOutputs="true" hideInputs="true" name="linear map.2/yellow stretch"/>
+    <Branch>
+      <Snapshot id="0"/>
+    </Branch>
+    <SelectAll originLast="true"/>
+    <MapToColor colorMapper="SystemColorMap" symmetry="icosahedral"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="0" title="The Yellow Stretch">
+      <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve">This model defines a linear map that I call the "yellow stretch".  The map is defined as follows.  First, manually construct the result of applying the map to the XYZ coordinates (modeled as short blue struts).  The desired map, in this case, takes those three short blues into the three green struts shown.
+
+Next, select the three greens in "right-handed" order: counter-clockwise around the yellow axis.  Finally, hit the "+" button in the tools pane, and choose "linear map".  I've done those steps already, in this document.
+</content>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="12,14,5">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="223.3811492919922" far="446.7621765136719" near="0.5584529042243958" parallel="false" stereoAngle="0.0" width="100.52152252197266">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.028129369020462036" y="0.8814086318016052" z="-0.47151613235473633"/>
+      <LookDirection x="0.7456382513046265" y="-0.29566216468811035" z="-0.5971662402153015"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="0,160,228" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,141,54" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="6" orbit="[[2,-1,3],[5,-3,3]]" prototype="4 -2 4 -2 8 -4"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="1" orbit="[[134,-23,285],[-333,211,285]]" prototype="-22 14 942 -582 40 -24"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="255,255,255" name="2" orbit="[[594,-357,1481],[-359,313,1481]]" prototype="22 -14 -40 24 942 -582"/>
+    <Direction color="255,255,255" name="0" orbit="[[-2,3,11],[5,-3,1]]" prototype="-19 11 17 -10 -28 17"/>
+    <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="30,30,30" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="240,160,0" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="18,205,148" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="108,0,198" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="220,76,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="255,255,255" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="18,205,148" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="30,30,30" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,141,54" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="240,160,0" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="108,0,198" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="linear map.2/yellow stretch" label="" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>

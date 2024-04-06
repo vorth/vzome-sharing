@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="50" field="golden" version="7.1">
+  <EditHistory editNumber="19" lastStickyEdit="-1">
+    <BeginBlock/>
+    <SymmetryAxisChange end="14 0 12 14 0 0 2 -2" start="0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <UniformH4Polytope quaternion="14 0 12 14 0 0 2 -2">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      <Integer attrName="polytope.index" value="1"/>
+    </UniformH4Polytope>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <BuildAnchoredSegment index="36" len="16 26"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <BuildAnchoredSegment dir="yellow" index="5" len="5 8"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <BuildAnchoredSegment dir="red" index="17" len="8 13"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="0,0,0">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="671.0741577148438" far="1342.146728515625" near="1.6776843070983887" parallel="true" stereoAngle="0.0" width="301.98333740234375">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.80901700258255" y="0.30901700258255005" z="0.5"/>
+      <LookDirection x="-0.525731086730957" y="0.0" z="0.8506507873535156"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="255,255,255" name="5" orbit="[[-30,21,38],[-9,12,38]]" prototype="292 -180 840 -520 220 -136"/>
+    <Direction color="2,130,53" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="6" orbit="[[-8,11,29],[39,-21,29]]" prototype="252 -156 180 -112 -368 228"/>
+    <Direction color="255,255,255" name="3" orbit="[[91,-49,29],[0,0,1]]" prototype="0 0 -228 140 -952 588"/>
+    <Direction color="187,144,85" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="4" orbit="[[-60,39,29],[-41,31,29]]" prototype="64 -40 840 -520 0 0"/>
+    <Direction color="255,255,255" name="1" orbit="[[-1,1,7],[0,0,1]]" prototype="-364 224 84 -52 0 0"/>
+    <Direction color="255,255,255" name="2" orbit="[[0,0,1],[21,-9,19]]" prototype="-220 136 -952 588 228 -140"/>
+    <Direction color="255,255,255" name="0" orbit="[[0,0,1],[-20,13,29]]" prototype="-228 140 0 0 -220 136"/>
+    <Direction color="36,35,38" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="255,255,255" name="17" orbit="[[-3,3,10],[2,-1,10]]" prototype="952 -588 116 -72 40 -24"/>
+    <Direction color="251,94,160" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="53,181,179" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="255,255,255" name="16" orbit="[[-13,10,61],[-39,30,61]]" prototype="228 -140 -544 336 156 -96"/>
+    <Direction color="255,255,255" name="19" orbit="[[-2,2,5],[0,0,1]]" prototype="-408 252 588 -364 700 -432"/>
+    <Direction color="255,255,255" name="18" orbit="[[0,0,1],[-14,10,11]]" prototype="-292 180 -364 224 408 -252"/>
+    <Direction color="255,255,255" name="13" orbit="[[21,-9,19],[0,0,1]]" prototype="840 -520 -64 40 544 -336"/>
+    <Direction color="255,255,255" name="12" orbit="[[-17,11,2],[-24,15,2]]" prototype="660 -408 -40 24 472 -292"/>
+    <Direction color="255,255,255" name="15" orbit="[[-10,7,19],[21,-9,19]]" prototype="0 0 336 -208 40 -24"/>
+    <Direction color="113,64,178" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="14" orbit="[[51,-30,19],[17,-10,19]]" prototype="-228 140 336 -208 -180 112"/>
+    <Direction color="236,89,1" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="105,54,1" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="255,255,255" name="11" orbit="[[21,-9,19],[68,-40,19]]" prototype="180 -112 -252 156 -880 544"/>
+    <Direction color="255,255,255" name="10" orbit="[[11,-2,19],[51,-30,19]]" prototype="180 -112 116 -72 660 -408"/>
+    <Direction color="255,255,255" name="9" orbit="[[52,-28,29],[-60,39,29]]" prototype="-180 112 -292 180 816 -504"/>
+    <Direction color="255,255,255" name="7" orbit="[[-9,12,38],[21,-9,38]]" prototype="-116 72 180 -112 -724 448"/>
+    <Direction color="255,255,255" name="8" orbit="[[39,-21,29],[-80,52,29]]" prototype="-40 24 -292 180 952 -588"/>
+    <Direction color="6,96,141" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="12,84,55" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="197,3,20" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="254,124,123" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="141,2,41" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="245,163,1" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="218,225,83" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="129,191,30" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="144,56,14" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="52,48,136" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="255,255,255" name="20" orbit="[[21,-9,38],[-30,21,38]]" prototype="660 -408 -584 360 408 -252"/>
+    <Direction color="255,255,255" name="21" orbit="[[-16,10,1],[0,0,1]]" prototype="292 -180 156 -96 -432 268"/>
+    <Direction color="144,127,227" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="116,104,1" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="18,205,148" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="30,30,30" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,141,54" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="240,160,0" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="108,0,198" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

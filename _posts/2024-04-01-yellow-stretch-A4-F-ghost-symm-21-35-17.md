@@ -17,8 +17,8 @@ The 4D simplex is called the 5-cell, since it has five cells that are regular te
 The symmetry group of the 5-cell is A4, a Coxeter reflection group.
 That group admits the possibility of [nine distinct uniform polytopes](https://en.wikipedia.org/wiki/A4_polytope), including the 5-cell and two relatives shown below.
 
-<button is="vzome-viewer-previous" viewer="withScenes">previous</button>
-<button is="vzome-viewer-next"     viewer="withScenes">next</button>
+<vzome-viewer-previous viewer="withScenes" label="previous"></vzome-viewer-previous>
+<vzome-viewer-next viewer="withScenes" label="next"></vzome-viewer-next>
 <figure style="width: 87%; margin: 5%">
  <vzome-viewer style="width: 100%; height: 60vh" id="withScenes" indexed="true"
       src="https://vorth.github.io/vzome-sharing/2024/04/01/22-00-43-yellow-stretch-runcinated-5-cell-ghost/yellow-stretch-runcinated-5-cell-ghost.vZome" >

@@ -8,7 +8,7 @@ layout: design
 ---
 
   
-  <vzome-viewer style="width: 100%; height: 60vh" show-scenes='named'
+  <vzome-viewer style="width: 100%; height: 60vh" show-scenes='all'
        src="https://vorth.github.io/vzome-sharing/2024/05/01/16-14-17-hyperdo-steps/hyperdo-steps.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2024/05/01/16-14-17-hyperdo-steps/hyperdo-steps.png" >

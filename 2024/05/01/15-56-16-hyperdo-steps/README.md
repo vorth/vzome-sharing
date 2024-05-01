@@ -9,7 +9,7 @@
  ```html
 <figure style="width: 87%; margin: 5%">
   
-  <vzome-viewer style="width: 100%; height: 60vh" 
+  <vzome-viewer style="width: 100%; height: 60vh" show-scenes='named'
        src="https://vorth.github.io/vzome-sharing/2024/05/01/15-56-16-hyperdo-steps/hyperdo-steps.vZome" >
     <img  style="width: 100%"
        src="https://vorth.github.io/vzome-sharing/2024/05/01/15-56-16-hyperdo-steps/hyperdo-steps.png" >

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" field="golden" edition="online" version="1.0" buildNumber="DEV">
-  <EditHistory editNumber="1" lastStickyEdit="-1">
-    <Polytope4d quaternion="3 5 0 0 0 0 0 0" group="A4" wythoff="1100"/>
+  <EditHistory editNumber="8" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 1"/>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Symmetry/>
+    <Symmetry/>
+    <DeselectAll/>
   </EditHistory>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
     <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,118,149"/>
@@ -48,10 +55,10 @@
     <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="107.99999999999946" far="215.99999999999892" near="0.0999999999999995" parallel="false" stereoAngle="0.0" width="53.99999999999972">
+    <ViewModel distance="46.83169970632254" far="93.66339941264508" near="0.04336268491326161" parallel="false" stereoAngle="0.0" width="23.415849853161266">
       <LookAtPoint x="0" y="0" z="0"/>
-      <UpDirection x="0.18807413603495066" y="0.9706760990371743" z="-0.14971983874117553"/>
-      <LookDirection x="0.34823355798663314" y="-0.20844093063504887" z="-0.913939695783023"/>
+      <UpDirection x="0" y="1" z="0"/>
+      <LookDirection x="0" y="0" z="-1"/>
     </ViewModel>
   </Viewing>
 </vzome:vZome>

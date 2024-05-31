@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" field="golden" edition="online" version="1.0" buildNumber="DEV">
-  <EditHistory editNumber="9" lastStickyEdit="-1">
-    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="5" len="1 1"/>
+  <EditHistory editNumber="11" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 1"/>
     <BeginBlock/>
     <SelectAll originLast="true"/>
     <SelectAll originLast="true"/>
     <EndBlock/>
     <ApplyTool name="translation.builtin/b1 move along +X" deleteInputs="true" copyColors="true"/>
     <ApplyTool name="translation.builtin/b1 move along +X" deleteInputs="true" copyColors="true"/>
-    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="translation.builtin/b1 move along +X" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true" copyColors="true"/>
     <DeselectAll/>
   </EditHistory>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
@@ -56,10 +58,10 @@
     <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="107.99999478100396" far="215.99998956200793" near="0.09999999516759626" parallel="false" stereoAngle="0.0" width="53.999997390501974">
+    <ViewModel distance="168.12231144698669" far="336.24462289397337" near="0.15566880689535806" parallel="false" stereoAngle="0.0" width="84.06115572349333">
       <LookAtPoint x="0" y="0" z="0"/>
-      <UpDirection x="0" y="0.525731086730957" z="-0.8506507873535156"/>
-      <LookDirection x="0" y="-0.8506508139021284" z="-0.5257311031389017"/>
+      <UpDirection x="-0.35682210326194763" y="0" z="-0.9341723322868347"/>
+      <LookDirection x="0" y="-1" z="0"/>
     </ViewModel>
   </Viewing>
 </vzome:vZome>

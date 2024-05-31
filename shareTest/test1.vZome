@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" field="golden" edition="online" version="1.0" buildNumber="DEV">
-  <EditHistory editNumber="2" lastStickyEdit="-1">
-    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="1 2"/>
-    <StrutCreation anchor="0 0 2 3 1 2" dir="yellow" index="2" len="1 1"/>
+  <EditHistory editNumber="1" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" index="11" len="2 4"/>
   </EditHistory>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
     <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,118,149"/>

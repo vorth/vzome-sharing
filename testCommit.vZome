@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" field="golden" edition="online" version="1.0" buildNumber="DEV">
-  <EditHistory editNumber="10" lastStickyEdit="-1">
-    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="0" len="1 2"/>
-    <StrutCreation anchor="2 3 1 2 0 0" dir="yellow" index="24" len="1 1"/>
-    <StrutCreation anchor="3 5 0 0 -1 -2" dir="yellow" index="9" len="1 1"/>
-    <BeginBlock/>
-    <SelectAll originLast="true"/>
-    <SelectAll originLast="true"/>
-    <EndBlock/>
-    <Symmetry/>
-    <Symmetry/>
-    <DeselectAll/>
+  <EditHistory editNumber="1" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="8" len="1 1"/>
   </EditHistory>
   <SymmetrySystem name="icosahedral" renderingStyle="printable">
     <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,118,149"/>
@@ -57,10 +48,10 @@
     <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="108" far="216" near="0.1" parallel="false" stereoAngle="0.0" width="53.99999999999999">
+    <ViewModel distance="108" far="216" near="0.1" parallel="false" stereoAngle="0.0" width="54">
       <LookAtPoint x="0" y="0" z="0"/>
-      <UpDirection x="0" y="0.999979399095126" z="0.0064188305282367715"/>
-      <LookDirection x="0" y="0.006418830528236773" z="-0.9999793990951262"/>
+      <UpDirection x="0" y="1" z="0"/>
+      <LookDirection x="0" y="0" z="-1"/>
     </ViewModel>
   </Viewing>
 </vzome:vZome>

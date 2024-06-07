@@ -1,8 +1,6 @@
 ---
-title: ''
-subtitle: tetra compound cradle prism
-share-title: tetra compound cradle prism
-share-description: An interactive 3D view, shared from vZome
+title: tetra compound cradle prism
+share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://vorth.github.io/vzome-sharing/2024/05/31/14-45-55-tetra-compound-cradle-prism/tetra-compound-cradle-prism.png
 layout: design
 ---

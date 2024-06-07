@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="DEV" field="golden" version="7.1">
-  <EditHistory editNumber="964" lastStickyEdit="575">
+  <EditHistory editNumber="961" lastStickyEdit="575">
     <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 2"/>
     <SelectManifestation point="2 3 2 3 2 3"/>
     <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
@@ -852,7 +852,9 @@
       <polygonVertex at="-1 -2 -1 -1 -2 -2"/>
     </SelectManifestation>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <StrutCreation anchor="-2 -3 -2 -3 -2 -3" dir="red" index="1" len="1 2"/>
     <StrutCreation anchor="-2 -2 -1 -2 -1 -1" dir="green" index="54" len="2 0"/>
     <BeginBlock/>
@@ -935,7 +937,9 @@
     <SelectManifestation point="-1 -4 -1 -1 0 -2"/>
     <SelectManifestation point="-1 -2 -1 -1 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <SelectManifestation>
       <polygonVertex at="1 2 -3 -5 0 0"/>
       <polygonVertex at="0 -1 -2 -3 0 -1"/>
@@ -947,7 +951,9 @@
     <SelectManifestation point="-1 -4 -1 -1 0 -2"/>
     <SelectManifestation point="-2 -2 -1 -2 -1 -1"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <SelectManifestation>
       <polygonVertex at="0 -1 -2 -3 0 -1"/>
       <polygonVertex at="1 2 -3 -5 0 0"/>
@@ -1049,7 +1055,9 @@
     <SelectManifestation point="7 -6 14 -12 -6 1"/>
     <SelectManifestation point="0 0 -6 1 7 -6"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1071,7 +1079,9 @@
     <SelectManifestation point="1 -5 1 -5 1 -5"/>
     <SelectManifestation point="0 0 -6 1 -5 -4"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <SelectManifestation endSegment="-13 7 -1 -8 -14 5" startSegment="-13 7 1 -5 -13 7"/>
     <LinePlaneIntersect/>
     <BeginBlock/>
@@ -1097,7 +1107,9 @@
     <SelectManifestation point="-6 1 -5 -4 0 0"/>
     <SelectManifestation point="1 -5 1 -5 1 -5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="7 -6 32/5 -44/5 24/5 -33/5"/>
@@ -1105,7 +1117,9 @@
     <SelectManifestation point="-13 7 1 -5 -13 7"/>
     <SelectManifestation point="-13 7 -33/5 -9/5 -11/5 -3/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="0 -1 -2 -3 0 1"/>
@@ -1114,7 +1128,9 @@
     <SelectManifestation point="-1 -2 -3 -5 0 0"/>
     <SelectManifestation point="0 -1 -2 -3 0 1"/>
     <EndBlock/>
-    <TauDivision/>
+    <TauDivision>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </TauDivision>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="-1 -1 -2 -4 1 0"/>
@@ -1126,7 +1142,9 @@
     <SelectManifestation point="-2 -2 -1 -2 -1 -1"/>
     <SelectManifestation point="-1 -3 -2 -2 -1 -2"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="-1 -3 -2 -2 -1 -2"/>
@@ -1149,7 +1167,9 @@
     <SelectManifestation point="-1 -2 -1 -3 0 0"/>
     <SelectManifestation point="-1 -3 -2 -2 -1 -2"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1157,7 +1177,9 @@
     <SelectManifestation point="-1 -3 -2 -2 -1 -2"/>
     <SelectManifestation point="-1 -2 -1 -3 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1256,7 +1278,9 @@
     <SelectManifestation point="-2 -3 -2 -3 -2 -3"/>
     <SelectManifestation point="1 -5 1 -5 1 -5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1274,7 +1298,9 @@
     <SelectManifestation point="-1 -3 -2 -2 -1 -2"/>
     <SelectManifestation point="-19 8 14 -12 -6 1"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1283,7 +1309,9 @@
     <SelectManifestation point="-2 -3 0 -1 -2 -1"/>
     <SelectManifestation point="1 -5 -13 7 27 -19"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1291,7 +1319,9 @@
     <SelectManifestation point="1 -5 -13 7 27 -19"/>
     <SelectManifestation point="-19 8 14 -12 -6 1"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1300,7 +1330,9 @@
     <SelectManifestation point="-1 -4 -1 -1 0 -2"/>
     <SelectManifestation point="-32 15 7 -6 -26 14"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1308,7 +1340,9 @@
     <SelectManifestation point="-32 15 7 -6 -26 14"/>
     <SelectManifestation point="-19 8 14 -12 -6 1"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1316,7 +1350,9 @@
     <SelectManifestation point="-32 15 7 -6 -26 14"/>
     <SelectManifestation point="14 -12 -6 1 7 -6"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1335,7 +1371,9 @@
     <SelectManifestation point="-13 7 1 -5 13 -7"/>
     <SelectManifestation point="13 -7 1 -5 13 -7"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1347,7 +1385,9 @@
     <SelectManifestation point="14 -12 -6 1 7 -6"/>
     <SelectManifestation point="-19 8 14 -12 -6 1"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1355,7 +1395,9 @@
     <SelectManifestation point="-19 8 14 -12 -6 1"/>
     <SelectManifestation point="1 -5 1 -5 1 -5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1364,7 +1406,9 @@
     <SelectManifestation point="-1 -2 -1 -3 0 0"/>
     <SelectManifestation point="-6 1 -19 8 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1372,7 +1416,9 @@
     <SelectManifestation point="-6 1 -19 8 0 0"/>
     <SelectManifestation point="1 -5 1 -5 1 -5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
     <BeginBlock/>
     <DeselectAll/>
@@ -1429,7 +1475,9 @@
     <SelectManifestation point="-6 1 7 -6 14 -12"/>
     <SelectManifestation point="-1 -2 -1 -1 -2 -2"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <SelectManifestation>
       <polygonVertex at="1 -5 1 -5 1 -5"/>
       <polygonVertex at="-2 -3 -2 -3 -2 -3"/>
@@ -1559,11 +1607,8 @@
     <SelectManifestation point="-1 -2 -3 -5 0 0"/>
     <EndBlock/>
     <Delete/>
-    <BeginBlock/>
     <SelectManifestation point="-1 -2 -3 -5 0 0"/>
     <SelectManifestation point="-2 -3 -2 -3 -2 -3"/>
-    <EndBlock/>
-    <DeselectAll/>
   </EditHistory>
   <notes/>
   <sceneModel ambientLight="41,41,41" background="175,200,220">
@@ -1572,10 +1617,10 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="60.87846374511719" far="121.75675201416016" near="0.15219636261463165" parallel="false" stereoAngle="0.0" width="27.395320892333984">
+    <ViewModel distance="106.57825469970703" far="213.15623474121094" near="0.26644599437713623" parallel="false" stereoAngle="0.0" width="47.960235595703125">
       <LookAtPoint x="0.0" y="-4.236067771911621" z="-2.6180338859558105"/>
-      <UpDirection x="0.04277292639017105" y="0.8657832145690918" z="0.498569518327713"/>
-      <LookDirection x="0.6314733028411865" y="0.3632771968841553" z="-0.6850296854972839"/>
+      <UpDirection x="0.6259835958480835" y="0.691927969455719" z="-0.3596683442592621"/>
+      <LookDirection x="0.5700567364692688" y="-0.7207477688789368" z="-0.39440086483955383"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="tiny connectors">

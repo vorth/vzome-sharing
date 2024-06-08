@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="DEV" field="heptagon">
+  <EditHistory editNumber="13" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" symm="heptagonal antiprism corrected" index="4" outbound="false" len="0 2 1"/>
+    <SelectManifestation point="2 -1 2 -1 2 0 0 0 0"/>
+    <ApplyTool name="symmetry.builtin/heptagonal antiprism around origin" selectInputs="true" copyColors="true"/>
+    <JoinPoints closedLoop="false" joinMode="ALL_POSSIBLE"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="-2 1 -2 2 -1 2 0 0 0" endSegment="0 2 1 1 -2 0 0 0 0"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <setItemColor red="255" green="0" blue="51"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0 0 0 0" endSegment="2 -1 2 -1 2 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation startSegment="0 0 0 0 2 1 0 0 0" endSegment="0 -2 -1 0 0 0 0 0 0"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <setItemColor red="0" green="51" blue="204"/>
+  </EditHistory>
+  <SymmetrySystem name="heptagonal antiprism corrected" renderingStyle="heptagonal antiprism">
+    <Direction name="red" orbit="red" color="175,0,0"/>
+    <Direction name="green" orbit="[[-2,0,1,1],[0,0,0,1]]" color="0,141,54"/>
+    <Direction name="blue" orbit="[[0,0,0,1],[0,0,0,1]]" color="0,118,149"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+      <Direction name="blue" orbit="[[0,0,0,1],[0,0,0,1]]" color="0,118,149"/>
+      <Direction name="green" orbit="[[0,0,0,1],[-1,0,0,1]]" color="0,141,54"/>
+      <Direction name="yellow" orbit="[[1,0,0,1],[-1,0,0,1]]" color="240,160,0"/>
+    </SymmetrySystem>
+    <SymmetrySystem name="heptagonal antiprism" renderingStyle="heptagonal antiprism">
+      <Direction name="green" orbit="[[-2,0,1,1],[0,0,0,1]]" color="0,141,54"/>
+      <Direction name="blue" orbit="[[0,0,0,1],[0,0,0,1]]" color="0,118,149"/>
+      <Direction name="red" orbit="red" color="175,0,0"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+  <sceneModel ambientLight="51,51,51" background="140,194,231">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="38.35504087394044" far="76.71008174788088" near="0.035513926735130034" parallel="false" stereoAngle="0.0" width="19.17751410060194">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="-0.12388229557481398" y="0.9480417087793972" z="-0.29303608656566765"/>
+      <LookDirection x="-0.029192372983468707" y="0.2917011887948322" z="0.9560639214065532"/>
+    </ViewModel>
+  </Viewing>
+</vzome:vZome>

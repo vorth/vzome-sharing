@@ -2,7 +2,7 @@
 title: Test Blog post from online
 description: this should create an unpublished blog post
 image: https://vorth.github.io/vzome-sharing/2024/06/08/17-58-42-158Z-Test-Blog-post-from-online/Test-Blog-post-from-online.png
-published: false
+published: true
 layout: vzome
 ---
 

@@ -96,7 +96,7 @@ full-width: true
 <div id="main-body">
 
   <div id="buttons">
-    <button id="prev">prev</button>
+    <button id="prev" disabled="true">prev</button>
     <button id="next">next</button>
   </div>
 
@@ -541,6 +541,15 @@ full-width: true
 
       viewer.scene = scene;
       viewer.update({ camera: false });
+
+      if ( index === 0 ) {
+        document.querySelector("#prev") .setAttribute( 'disabled', 'true' );
+      } else if ( index === scenes.length - 1 ) {
+        document.querySelector("#next") .setAttribute( 'disabled', 'true' );
+      } else {
+        document.querySelector("#prev") .setAttribute( 'disabled', 'false' );
+        document.querySelector("#next") .setAttribute( 'disabled', 'false' );
+      }
     }
     viewer.update({ camera: true });
 

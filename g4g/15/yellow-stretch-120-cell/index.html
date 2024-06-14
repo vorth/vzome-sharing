@@ -547,8 +547,8 @@ full-width: true
       } else if ( index === scenes.length - 1 ) {
         document.querySelector("#next") .setAttribute( 'disabled', 'true' );
       } else {
-        document.querySelector("#prev") .setAttribute( 'disabled', 'false' );
-        document.querySelector("#next") .setAttribute( 'disabled', 'false' );
+        document.querySelector("#prev") .removeAttribute( 'disabled' );
+        document.querySelector("#next") .removeAttribute( 'disabled' );
       }
     }
     viewer.update({ camera: true });

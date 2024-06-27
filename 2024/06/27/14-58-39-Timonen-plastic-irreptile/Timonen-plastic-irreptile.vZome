@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="64" field="plasticNumber" version="7.1">
+  <EditHistory editNumber="11" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" dir="green" index="18" len="1 1 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" dir="green" index="2" len="1 1 1" symm="octahedral"/>
+    <StrutCreation anchor="1 1 1 0 0 0 -1 -1 -1" dir="green" index="16" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="1 1 1 -1 -2 -2 0 1 1" dir="green" index="13" len="2 3 2" symm="octahedral"/>
+    <StrutCreation anchor="-1 -2 -1 1 1 0 0 1 1" dir="green" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 1 1 0 -1 -1 0" dir="green" index="18" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 2 3 2 -2 -3 -2" dir="green" index="3" len="3 5 4" symm="octahedral"/>
+    <StrutCreation anchor="3 5 4 -1 -2 -2 -2 -3 -2" dir="green" index="12" len="2 4 3" symm="octahedral"/>
+    <StrutCreation anchor="1 1 1 -1 -2 -2 0 1 1" dir="green" index="12" len="3 5 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -3 -1 -2 -2 3 6 5" dir="green" index="18" len="4 7 5" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -3 3 5 3 -1 -1 0" dir="green" index="3" len="2 4 3" symm="octahedral"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="141.01686096191406" far="282.0335388183594" near="0.352541983127594" parallel="true" stereoAngle="0.0" width="63.45756530761719">
+      <LookAtPoint x="0.0" y="2.3247179985046387" z="-2.3247179985046387"/>
+      <UpDirection x="-0.40824830532073975" y="0.8164966106414795" z="-0.40824830532073975"/>
+      <LookDirection x="-0.5773502588272095" y="-0.5773502588272095" z="-0.5773502588272095"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+    <Direction color="0,118,149" name="blue" orbit="[[0,0,0,1],[0,0,0,1]]"/>
+    <Direction color="0,141,54" name="green" orbit="[[0,0,0,1],[-1,0,0,1]]"/>
+    <Direction color="240,160,0" name="yellow" orbit="[[1,0,0,1],[-1,0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries/>
+  <Tools/>
+</vzome:vZome>

@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="250" field="golden">
+  <EditHistory editNumber="140" lastStickyEdit="63">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="8" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="2" len="2 4"/>
+    <StrutCreation anchor="2 4 0 0 2 4" index="45" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 2 4" dir="red" index="46" len="1 2"/>
+    <StrutCreation anchor="0 0 0 0 2 4" dir="yellow" index="3" len="1 1"/>
+    <StrutCreation anchor="2 4 0 0 2 4" dir="yellow" index="54" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 1"/>
+    <StrutCreation anchor="0 0 2 3 1 2" dir="red" index="15" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="0" len="2 4"/>
+    <StrutCreation anchor="2 4 0 0 0 0" index="2" len="2 4"/>
+    <StrutCreation anchor="1 2 1 2 1 2" dir="yellow" index="24" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="1 2 0 0 2 3" dir="red" index="17" len="1 2"/>
+    <StrutCreation anchor="1 2 0 0 2 3" index="0" len="2 4"/>
+    <StrutCreation anchor="1 2 0 0 2 3" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="2 4 0 0 4 6" dir="red" index="17" len="1 2"/>
+    <StrutCreation anchor="1 2 0 0 2 3" dir="yellow" index="8" len="0 1"/>
+    <StrutCreation anchor="1 2 1 2 1 2" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="2 4 0 0 2 4" dir="red" index="47" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 3 1 2"/>
+    <SelectManifestation point="0 0 0 0 2 4"/>
+    <SelectManifestation point="2 4 0 0 0 0"/>
+    <SelectManifestation point="0 0 2 3 1 2"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 0 0 4 6"/>
+    <SelectManifestation point="3 6 0 0 2 3"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="1 2 0 0 0 1"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <DeselectAll/>
+    <StrutCreation anchor="1 2 1 2 1 2" dir="yellow" index="8" len="0 1"/>
+    <StrutCreation anchor="1 2 0 0 2 3" dir="yellow" index="5" len="1 1"/>
+    <StrutCreation anchor="1 2 0 0 0 1" dir="yellow" index="5" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="5" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 -1 -2 1 2"/>
+    <SelectManifestation point="1 2 0 0 2 3"/>
+    <SelectManifestation point="1 2 1 2 1 2"/>
+    <SelectManifestation point="1 2 0 0 0 1"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 1 2 1 3"/>
+    <SelectManifestation point="2 4 1 2 3 5"/>
+    <SelectManifestation point="2 4 -1 -2 3 5"/>
+    <SelectManifestation point="2 4 -1 -2 1 3"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 4 0 0 2 4" index="1" len="2 4"/>
+    <SelectManifestation startSegment="2 4 0 0 2 4" endSegment="2 4 2 4 2 4"/>
+    <RotationTool full="true" corrected="true" symmetry="icosahedral" name="tool-0"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 0 0 2 3"/>
+    <SelectManifestation point="2 4 1 2 3 5"/>
+    <SelectManifestation point="3 6 0 0 4 7"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 6 0 0 2 5"/>
+    <SelectManifestation point="2 4 1 2 1 3"/>
+    <SelectManifestation point="1 2 0 0 0 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 6 -1 -2 3 6"/>
+    <SelectManifestation point="2 4 -1 -2 3 5"/>
+    <SelectManifestation point="1 2 -1 -2 1 2"/>
+    <SelectManifestation point="2 4 -1 -2 1 3"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 0 0 2 4"/>
+    <SelectNeighbors/>
+    <SelectManifestation point="2 4 0 0 2 4"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="2 4 0 0 2 4"/>
+    <SelectManifestation startSegment="4 8 0 0 4 8" endSegment="2 4 0 0 2 4"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="2 4 2 4 2 4"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="4 8 2 3 3 6"/>
+    <SelectManifestation startSegment="4 8 2 3 3 6" endSegment="3 6 1 2 3 6"/>
+    <SelectManifestation startSegment="4 8 0 0 4 8" endSegment="4 8 2 3 3 6"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <SelectManifestation point="0 0 2 3 1 2"/>
+    <SelectManifestation startSegment="0 0 2 3 1 2" endSegment="1 2 1 2 1 2"/>
+    <InvertSelection/>
+    <SelectManifestation point="2 4 0 0 2 4"/>
+    <SelectManifestation point="2 4 0 0 2 4"/>
+    <DeselectAll/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -3,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        4,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 1,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 2,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 3,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 4,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 5,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 6,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 7,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 10,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 11,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 12,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 13,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 8,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 9,
+      "color": "#ffffff"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        2
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        0,
+        4
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        1,
+        5
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        3,
+        6
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        7,
+        1
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        0,
+        3
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        3,
+        7
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        4,
+        2
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        2,
+        5
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        5,
+        6
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        6,
+        4
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        8,
+        9
+      ],
+      "color": "#008d36"
+    },
+    {
+      "vertices": [
+        8,
+        10
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        8,
+        11
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        10,
+        4
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        8,
+        12
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        10,
+        2
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        11,
+        6
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        12,
+        5
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        8,
+        13
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        13,
+        11
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        11,
+        10
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        10,
+        12
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        12,
+        13
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        1,
+        2
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        2,
+        12
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        11,
+        4
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        4,
+        3
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        13,
+        5
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        5,
+        7
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        7,
+        6
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        6,
+        13
+      ],
+      "color": "#af0000"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 0 0 6 12"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -3,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        4,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 1,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 2,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 3,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 4,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 5,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 6,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 7,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 10,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 11,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 12,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 13,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 8,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 9,
+      "color": "#ffffff"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        2
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        0,
+        4
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        1,
+        5
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        3,
+        6
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        7,
+        1
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        0,
+        3
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        3,
+        7
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        4,
+        2
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        2,
+        5
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        5,
+        6
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        6,
+        4
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        8,
+        9
+      ],
+      "color": "#008d36"
+    },
+    {
+      "vertices": [
+        8,
+        10
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        8,
+        11
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        10,
+        4
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        8,
+        12
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        10,
+        2
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        11,
+        6
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        12,
+        5
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        8,
+        13
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        13,
+        11
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        11,
+        10
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        10,
+        12
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        12,
+        13
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        1,
+        2
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        2,
+        12
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        11,
+        4
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        4,
+        3
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        13,
+        5
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        5,
+        7
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        7,
+        6
+      ],
+      "color": "#f0a000"
+    },
+    {
+      "vertices": [
+        6,
+        13
+      ],
+      "color": "#af0000"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <SelectManifestation point="6 12 0 0 6 12"/>
+    <SelectManifestation point="2 4 0 0 2 4"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 3 1 2"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="8 16 0 0 8 16"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <DeselectAll/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,118,149"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,141,54"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="220,76,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="108,0,198"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="30,30,30"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="18,205,148"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="230,245,62"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="240,160,0"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="175,0,0"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,118,149"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="240,160,0"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,141,54"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="175,0,0"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="108,0,198"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="30,30,30"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="18,205,148"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="axial symmetry 0" selectInputs="true" deleteInputs="false" copyColors="true"/>
+  </Tools>
+  <sceneModel ambientLight="51,51,51" background="140,194,231">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="109.72078122100764" far="219.44156244201528" near="0.10159331594537745" parallel="false" stereoAngle="0.0" width="54.86039061050381">
+      <LookAtPoint x="18.519889291499062" y="-0.24851246565193608" z="15.202336938885075"/>
+      <UpDirection x="-0.5631073390250492" y="0.8207108364879508" z="0.09666357952881972"/>
+      <LookDirection x="0.5697892615951802" y="0.4703168960820872" z="-0.6739007453850534"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

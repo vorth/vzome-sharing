@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-  <script type="module" src="https://vzome.com/modules/zometool.js" >
+  <script type="module" src="https://www.vzome.com/modules/zometool.js" >
 
 This is an approximation of the Triamond lattice, so named by Conway et al. in <em>The Symmetries of Things</em>.
 The ideal lattice would have lines of true 4-fold rotational symmetry.

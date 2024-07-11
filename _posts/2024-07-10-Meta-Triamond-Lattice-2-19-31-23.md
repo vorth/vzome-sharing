@@ -19,7 +19,7 @@ The ideal lattice would have lines of true 4-fold rotational symmetry.
 Here, we only approximate those lines.
 The trusses here follow Zometool green lines.
 
- <zometool-instructions style="width: 100%; height: 70vh"
+ <zometool-instructions style="width: 100%; height: 85vh"
       src="https://vorth.github.io/vzome-sharing/2024/07/10/19-31-23-Meta-Triamond-Lattice-2/Meta-Triamond-Lattice-2.vZome" >
    <img  style="width: 100%"
       src="https://vorth.github.io/vzome-sharing/2024/07/10/19-31-23-Meta-Triamond-Lattice-2/Meta-Triamond-Lattice-2.png" >

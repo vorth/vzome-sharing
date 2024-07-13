@@ -12,7 +12,7 @@
   <vzome-viewer style="width: 100%; height: 60vh" 
        src="https://vorth.github.io/vzome-sharing/2024/07/13/23-08-02-900Z-Triamond-Lattice/Triamond-Lattice.vZome" >
     <img  style="width: 100%"
-       src="https://vorth.github.io/vzome-sharing/2024/07/13/23-08-02-900Z-Triamond-Lattice/Triamond-Lattice.png" >
+       src="https://vorth.github.io/vzome-sharing/2024/07/13/23-08-02-900Z-Triamond-Lattice/meta-triamond-lattice-3.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
      REPLACE this caption!
@@ -23,5 +23,5 @@
 
 [vZome Sharing documentation](https://vzome.github.io/vzome/sharing.html#how-it-works)
 
-![Image](<Triamond-Lattice.png>)
+![Image](<meta-triamond-lattice-3.png>)
 

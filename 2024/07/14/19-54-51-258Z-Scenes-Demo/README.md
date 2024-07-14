@@ -12,7 +12,7 @@
   <vzome-viewer style="width: 100%; height: 60vh" indexed='true'
        src="https://vorth.github.io/vzome-sharing/2024/07/14/19-54-51-258Z-Scenes-Demo/Scenes-Demo.vZome" >
     <img  style="width: 100%"
-       src="https://vorth.github.io/vzome-sharing/2024/07/14/19-54-51-258Z-Scenes-Demo/Scenes-Demo.png" >
+       src="https://vorth.github.io/vzome-sharing/2024/07/14/19-54-51-258Z-Scenes-Demo/Screenshot 2024-07-14 at 12.55.27.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
      REPLACE this caption!
@@ -23,5 +23,5 @@
 
 [vZome Sharing documentation](https://vzome.github.io/vzome/sharing.html#how-it-works)
 
-![Image](<Scenes-Demo.png>)
+![Image](<Screenshot 2024-07-14 at 12.55.27.png>)
 

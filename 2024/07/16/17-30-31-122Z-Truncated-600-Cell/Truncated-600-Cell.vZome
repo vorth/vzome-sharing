@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="259" field="golden">
+  <EditHistory editNumber="171" lastStickyEdit="171">
+    <Polytope4d quaternion="3 5 0 0 0 0 0 0" group="H4" wythoff="0011" renderEdges="0011"/>
+    <BeginBlock/>
+    <SelectManifestation point="15 24 -4 -6 8 13"/>
+    <SelectManifestation point="8 13 -4 -6 3 5"/>
+    <SelectManifestation point="16 26 -4 -6 6 10"/>
+    <SelectManifestation point="15 24 2 3 7 11"/>
+    <EndBlock/>
+    <SelectByPlane/>
+    <InvertSelection/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="26 42 -6 -10 10 16"/>
+    <SelectManifestation point="-5 -8 28 45 -3 -5"/>
+    <SelectManifestation point="0 0 15 24 -3 -5"/>
+    <SelectManifestation point="0 0 5 8 3 5"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 15 24 -3 -5"/>
+    <SelectManifestation point="0 0 5 8 3 5"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="0 0 10 16 0 0"/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="5 8 -6 -10 -24 -39"/>
+    <SelectManifestation point="5 8 -6 -10 24 39"/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 -6 -10 -24 -39"/>
+    <SelectManifestation point="5 8 -6 -10 24 39"/>
+    <SelectManifestation point="-18 -29 -6 -10 3 5"/>
+    <SelectManifestation point="0 0 19 31 18 29"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-0"/>
+    <Branch>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation startSegment="-15 -24 21 34 11 18" endSegment="-15 -24 18 29 13 21"/>
+      <EndBlock/>
+      <Snapshot id="0"/>
+      <ApplyTool name="bookmark.builtin/ball at origin" selectInputs="true" copyColors="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <SymmetryTool symmetry="icosahedral" name="tool-1"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <Delete/>
+      <BeginBlock/>
+      <SelectManifestation point="-3 -5 28 45 0 0"/>
+      <SelectManifestation point="3 5 28 45 0 0"/>
+      <SelectManifestation point="-5 -8 28 45 -3 -5"/>
+      <SelectManifestation point="0 0 28 45 -5 -8"/>
+      <SelectManifestation point="5 8 28 45 -3 -5"/>
+      <SelectManifestation point="5 8 28 45 3 5"/>
+      <SelectManifestation point="0 0 28 45 5 8"/>
+      <SelectManifestation point="-5 -8 28 45 3 5"/>
+      <DeselectAll/>
+      <SelectManifestation startSegment="6 10 26 42 0 0" endSegment="3 5 28 45 0 0"/>
+      <SelectManifestation startSegment="-3 -5 28 45 0 0" endSegment="-6 -10 26 42 0 0"/>
+      <SelectManifestation startSegment="10 16 26 42 6 10" endSegment="5 8 28 45 3 5"/>
+      <SelectManifestation startSegment="-10 -16 26 42 6 10" endSegment="-5 -8 28 45 3 5"/>
+      <SelectManifestation startSegment="0 0 28 45 5 8" endSegment="0 0 26 42 10 16"/>
+      <SelectManifestation startSegment="-5 -8 28 45 -3 -5" endSegment="-10 -16 26 42 -6 -10"/>
+      <SelectManifestation startSegment="5 8 28 45 -3 -5" endSegment="10 16 26 42 -6 -10"/>
+      <SelectManifestation startSegment="0 0 26 42 -10 -16" endSegment="0 0 28 45 -5 -8"/>
+      <EndBlock/>
+      <ApplyTool name="tool-1" selectInputs="true" justSelect="true" copyColors="false"/>
+      <Snapshot id="2"/>
+      <Hide>
+        <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+      </Hide>
+      <Branch>
+        <Snapshot id="1"/>
+      </Branch>
+      <BeginBlock/>
+      <SelectManifestation point="3 5 28 45 0 0"/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <ApplyTool name="tool-1" selectInputs="true" justSelect="true" copyColors="false"/>
+      <Branch>
+        <Snapshot id="3"/>
+      </Branch>
+      <Hide>
+        <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+      </Hide>
+      <Snapshot id="4"/>
+      <BeginBlock/>
+      <SelectManifestation startSegment="6 10 24 39 5 8" endSegment="3 5 24 39 10 16"/>
+      <SelectManifestation startSegment="0 0 18 29 11 18" endSegment="0 0 21 34 13 21"/>
+      <EndBlock/>
+      <ApplyTool name="tool-1" selectInputs="true" justSelect="true" copyColors="false"/>
+      <Snapshot id="5"/>
+      <Hide>
+        <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+      </Hide>
+      <Snapshot id="6"/>
+      <BeginBlock/>
+      <SelectManifestation point="5 8 24 39 13 21"/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <Snapshot id="7"/>
+      <ApplyTool name="tool-1" selectInputs="true" justSelect="true" copyColors="false"/>
+      <Snapshot id="8"/>
+      <Hide>
+        <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+      </Hide>
+      <Snapshot id="9"/>
+      <BeginBlock/>
+      <SelectManifestation startSegment="-15 -24 13 21 10 16" endSegment="-15 -24 11 18 5 8"/>
+      <SelectManifestation startSegment="-11 -18 21 34 5 8" endSegment="-13 -21 18 29 10 16"/>
+      <EndBlock/>
+      <ApplyTool name="tool-1" selectInputs="true" justSelect="true" copyColors="false"/>
+      <Snapshot id="10"/>
+      <Hide>
+        <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+      </Hide>
+      <Snapshot id="11"/>
+      <BeginBlock/>
+      <SelectManifestation startSegment="-6 -10 24 39 5 8" endSegment="-11 -18 24 39 3 5"/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <Snapshot id="12"/>
+      <ApplyTool name="tool-1" selectInputs="true" justSelect="true" copyColors="false"/>
+      <Snapshot id="13"/>
+      <Hide>
+        <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+      </Hide>
+      <Snapshot id="14"/>
+      <BeginBlock/>
+      <SelectManifestation startSegment="0 0 15 24 3 5" endSegment="0 0 15 24 -3 -5"/>
+      <SelectManifestation startSegment="0 0 10 16 6 10" endSegment="0 0 5 8 3 5"/>
+      <EndBlock/>
+      <ApplyTool name="tool-1" selectInputs="true" justSelect="true" copyColors="false"/>
+      <Snapshot id="15"/>
+      <Hide>
+        <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+      </Hide>
+      <Snapshot id="16"/>
+      <BeginBlock/>
+      <SelectManifestation point="13 21 14 23 0 0"/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <Snapshot id="17"/>
+      <ApplyTool name="tool-1" selectInputs="true" justSelect="true" copyColors="false"/>
+      <Snapshot id="18"/>
+      <Hide>
+        <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+      </Hide>
+      <Snapshot id="19"/>
+      <BeginBlock/>
+      <SelectManifestation point="5 8 -3 -5 0 0"/>
+      <SelectManifestation startSegment="-5 -8 3 5 0 0" endSegment="-3 -5 0 0 5 8"/>
+      <DeselectAll/>
+      <SelectManifestation point="-5 -8 3 5 0 0"/>
+      <SelectManifestation point="5 8 -3 -5 0 0"/>
+      <EndBlock/>
+      <NewCentroid/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <SelectManifestation point="5 8 -3 -5 0 0"/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <SymmetryTool symmetry="icosahedral" name="tool-2"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <SelectManifestation point="5 8 -3 -5 0 0"/>
+      <EndBlock/>
+      <JoinPoints closedLoop="false"/>
+      <ApplyTool name="tool-2" selectInputs="true" copyColors="true"/>
+      <Snapshot id="20"/>
+      <DeselectAll/>
+      <Snapshot id="21"/>
+      <Snapshot id="22"/>
+    </Branch>
+    <StrutCreation anchor="0 0 -5 -8 3 5" dir="red" index="30" len="1 2"/>
+    <StrutCreation anchor="0 0 -5 -8 -3 -5" dir="red" index="30" len="1 2"/>
+    <StrutCreation anchor="0 0 -5 -8 -3 -5" dir="red" index="15" len="1 2"/>
+    <StrutCreation anchor="0 0 -5 -8 3 5" dir="red" index="15" len="1 2"/>
+    <StrutCreation anchor="2 3 -6 -10 -3 -5" index="45" len="4 6"/>
+    <StrutCreation anchor="2 3 -6 -10 3 5" index="45" len="4 6"/>
+    <StrutCreation anchor="6 10 -5 -8 -13 -21" dir="red" index="30" len="1 2"/>
+    <StrutCreation anchor="6 10 -5 -8 -13 -21" dir="red" index="15" len="1 2"/>
+    <StrutCreation anchor="11 18 -5 -8 -15 -24" dir="red" index="30" len="1 2"/>
+    <StrutCreation anchor="11 18 -5 -8 -15 -24" dir="red" index="15" len="1 2"/>
+    <StrutCreation anchor="8 13 -6 -10 -13 -21" index="45" len="4 6"/>
+    <StrutCreation anchor="13 21 -6 -10 -15 -24" index="45" len="4 6"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="8 13 -6 -10 -13 -21" endSegment="4 7 -6 -10 -13 -21"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="24 39 -3 -5 -11 -18" endSegment="24 39 -5 -8 -6 -10"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="24 39 -3 -5 -11 -18" endSegment="24 39 -5 -8 -6 -10"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="8 13 -6 -10 -13 -21" endSegment="4 7 -6 -10 -13 -21"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="6 10 -5 -8 -13 -21"/>
+    <SelectManifestation point="6 10 -5 -8 -13 -21"/>
+    <SelectManifestation point="-6 -10 -5 -8 13 21"/>
+    <DeselectAll/>
+    <SelectManifestation point="-6 -10 -5 -8 13 21"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 0,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 2,
+      "color": "#ffffff"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        2,
+        1
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        2,
+        0
+      ],
+      "color": "#af0000"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-11 -18 -5 -8 15 24"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 0,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 2,
+      "color": "#ffffff"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        2,
+        1
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        2,
+        0
+      ],
+      "color": "#af0000"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="2 3 -6 -10 3 5" endSegment="-2 -3 -6 -10 3 5"/>
+    <SelectManifestation startSegment="2 3 -6 -10 -3 -5" endSegment="-2 -3 -6 -10 -3 -5"/>
+    <SelectManifestation startSegment="-9 -15 -6 -10 15 24" endSegment="-13 -21 -6 -10 15 24"/>
+    <SelectManifestation startSegment="-4 -7 -6 -10 13 21" endSegment="-8 -13 -6 -10 13 21"/>
+    <SelectManifestation startSegment="8 13 -6 -10 -13 -21" endSegment="4 7 -6 -10 -13 -21"/>
+    <SelectManifestation startSegment="13 21 -6 -10 -15 -24" endSegment="9 15 -6 -10 -15 -24"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Snapshot id="23"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="18 29 13 21 -15 -24" endSegment="13 21 15 24 -18 -29"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="tool-2" selectInputs="true" copyColors="true"/>
+    <SelectNeighbors/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 24 39 -15 -24"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="tool-2" selectInputs="true" copyColors="true"/>
+    <Hide/>
+    <SelectManifestation point="11 18 -5 -8 15 24"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 0,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 2,
+      "color": "#ffffff"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        2,
+        1
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        2,
+        0
+      ],
+      "color": "#af0000"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 10 -5 -8 13 21"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 0,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 2,
+      "color": "#ffffff"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        2,
+        1
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        2,
+        0
+      ],
+      "color": "#af0000"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-11 -18 -5 -8 -15 -24"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 0,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 2,
+      "color": "#ffffff"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        2,
+        1
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        2,
+        0
+      ],
+      "color": "#af0000"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-6 -10 -5 -8 -13 -21"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 0,
+      "color": "#ffffff"
+    },
+    {
+      "vertex": 2,
+      "color": "#ffffff"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#007695"
+    },
+    {
+      "vertices": [
+        2,
+        1
+      ],
+      "color": "#af0000"
+    },
+    {
+      "vertices": [
+        2,
+        0
+      ],
+      "color": "#af0000"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 21 34 -13 -21"/>
+    <SelectManifestation point="0 0 21 34 13 21"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="-13 -21 14 23 0 0"/>
+    <SelectManifestation point="13 21 14 23 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 10 16 6 10"/>
+    <SelectManifestation point="0 0 10 16 -6 -10"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="8 13 -6 -10 -13 -21" endSegment="4 7 -6 -10 -13 -21"/>
+    <SelectManifestation startSegment="13 21 -6 -10 -15 -24" endSegment="9 15 -6 -10 -15 -24"/>
+    <SelectManifestation startSegment="13 21 -6 -10 15 24" endSegment="9 15 -6 -10 15 24"/>
+    <SelectManifestation startSegment="8 13 -6 -10 13 21" endSegment="4 7 -6 -10 13 21"/>
+    <SelectManifestation startSegment="2 3 -6 -10 -3 -5" endSegment="-2 -3 -6 -10 -3 -5"/>
+    <SelectManifestation startSegment="2 3 -6 -10 3 5" endSegment="-2 -3 -6 -10 3 5"/>
+    <SelectManifestation startSegment="-4 -7 -6 -10 13 21" endSegment="-8 -13 -6 -10 13 21"/>
+    <SelectManifestation startSegment="-9 -15 -6 -10 15 24" endSegment="-13 -21 -6 -10 15 24"/>
+    <SelectManifestation startSegment="-4 -7 -6 -10 -13 -21" endSegment="-8 -13 -6 -10 -13 -21"/>
+    <SelectManifestation startSegment="-9 -15 -6 -10 -15 -24" endSegment="-13 -21 -6 -10 -15 -24"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Snapshot id="24"/>
+    <DeselectAll/>
+    <Snapshot id="25"/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,118,149"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,141,54"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="175,0,0"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="30,30,30"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="230,245,62"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="240,160,0"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="18,205,148"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="108,0,198"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="220,76,0"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,118,149"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="18,205,148"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="30,30,30"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,141,54"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="240,160,0"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="175,0,0"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="108,0,198"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="bookmark 0" selectInputs="true" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-1" label="icosahedral 1" selectInputs="true" deleteInputs="false" copyColors="false"/>
+    <Tool id="tool-2" label="icosahedral 2" selectInputs="true" deleteInputs="false" copyColors="true"/>
+  </Tools>
+  <sceneModel ambientLight="51,51,51" background="140,194,231">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="303.96677176228144" far="607.9335435245629" near="0.28145071459470505" parallel="false" stereoAngle="0.0" width="136.78514213876525">
+      <LookAtPoint x="4.2864074887238655" y="-4.220189235055283" z="1.0999430106893904"/>
+      <UpDirection x="0.05864200815018832" y="0.9974359673841178" z="0.040656173070978914"/>
+      <LookDirection x="0.3595862432641648" y="-0.0590979463216533" z="0.9312385120879225"/>
+    </ViewModel>
+  </Viewing>
+  <notes>
+    <page title="" snapshot="23">
+      <ViewModel distance="189.0988172707241" far="378.1976345414482" near="0.1750914974728927" parallel="false" stereoAngle="0.0" width="85.09452677569952">
+        <LookAtPoint x="5.390948600987582" y="-13.292835384797836" z="-1.2166009298201812"/>
+        <UpDirection x="-0.25031749589826635" y="0.9533269245197024" z="-0.16875794734823354"/>
+        <LookDirection x="-0.23257193255155012" y="0.10999544482864422" z="0.9663391217922339"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="21">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="20">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="19">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="17">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="18">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="16">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="24">
+      <ViewModel distance="303.9667717622816" far="607.9335435245632" near="0.2814507145947052" parallel="false" stereoAngle="0.0" width="136.78514213876537">
+        <LookAtPoint x="4.2864074887238655" y="-4.220189235055283" z="1.0999430106893904"/>
+        <UpDirection x="0.06967570952361395" y="0.9974359199312139" z="-0.015401288696330208"/>
+        <LookDirection x="0.2902847116351486" y="-0.005500991263813108" z="0.9569245138912548"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="25">
+      <ViewModel distance="303.9667717622816" far="607.9335435245632" near="0.2814507145947052" parallel="false" stereoAngle="0.0" width="136.78514213876537">
+        <LookAtPoint x="4.2864074887238655" y="-4.220189235055283" z="1.0999430106893904"/>
+        <UpDirection x="0.06967570952361395" y="0.9974359199312139" z="-0.015401288696330208"/>
+        <LookDirection x="0.2902847116351486" y="-0.005500991263813108" z="0.9569245138912548"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="15">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="14">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="12">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="13">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="11">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="10">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="9">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="7">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="8">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="6">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="5">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="4">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="3">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="1">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="2">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="0">
+      <ViewModel distance="571.8515014648438" far="1143.701171875" near="1.429628849029541" parallel="false" stereoAngle="0.0" width="257.3333740234375">
+        <LookAtPoint x="0" y="35.88854217529297" z="0"/>
+        <UpDirection x="0.0333893857896328" y="0.999406635761261" z="0.00471731461584568"/>
+        <LookDirection x="-0.9945518970489502" y="0.033693790435791016" z="-0.09856307506561279"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+</vzome:vZome>

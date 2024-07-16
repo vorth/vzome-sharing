@@ -19,11 +19,11 @@
   <zometool-instructions style="width: 100%; height: 80dvh"
         src="https://vorth.github.io/vzome-sharing/2024/07/16/17-30-31-122Z-Truncated-600-Cell/Truncated-600-Cell.vZome" >
     <img  style="width: 100%"
-        src="https://vorth.github.io/vzome-sharing/2024/07/16/17-30-31-122Z-Truncated-600-Cell/Truncated-600-Cell.png" >
+        src="https://vorth.github.io/vzome-sharing/2024/07/16/17-30-31-122Z-Truncated-600-Cell/SUMaC-600-cell.jpg" >
   </zometool-instructions>
 
   <figcaption style="text-align: center; font-style: italic;">
-     REPLACE this caption!
+     Build steps to create the truncated 600-cell
   </figcaption>
 </figure>
 
@@ -31,5 +31,5 @@
 
 [vZome Sharing documentation](https://vzome.github.io/vzome/sharing.html#how-it-works)
 
-![Image](<Truncated-600-Cell.png>)
+![Image](<SUMaC-600-cell.jpg>)
 

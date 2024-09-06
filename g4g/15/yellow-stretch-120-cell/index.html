@@ -7,6 +7,9 @@ layout: design
 full-width: true
 ---
 
+<!-- To test locally, comment out the frontmatter above, and uncomment the next line: -->
+<!-- <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script> -->
+
   <style>
 
     .intro-header .page-heading h1 {
@@ -557,6 +560,14 @@ full-width: true
       document.querySelector("#prev").addEventListener("click", e => changeScene(-1));
       document.querySelector("#next").addEventListener("click", e => changeScene(+1));
     });
+
+    document.body .addEventListener( "keydown", evt => {
+      if ( evt.code === 'ArrowRight' ) {
+        changeScene(+1)
+      } else if ( evt.code === 'ArrowLeft' ) {
+        changeScene(-1)
+      }
+    } );
 
   </script>
 </div>

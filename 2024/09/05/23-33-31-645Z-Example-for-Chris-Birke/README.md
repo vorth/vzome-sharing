@@ -25,5 +25,5 @@
 
 [vZome Sharing documentation](https://vzome.github.io/vzome/sharing.html#how-it-works)
 
-![Image](<Example-for-Chris-Birke.png>)
+![Image](<red-strut-degree-2-example.png>)
 

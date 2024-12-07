@@ -33,6 +33,7 @@ those angles add up to zero, allowing the flat ribbon to close in on itself in a
 If we want to weave these ribbons in a consistent over-under pattern, we can never have three or more ribbons passing over the same point.
 There are ten points on each pentagonal face where three ribbons touch edge-to-edge.  These ten points, and the overall icosahedral symmetry,
 constrain the possible width of the ribbons relative to the size of the dodecahedron.
+The design shown here uses the widest possible ribbons.
 
-I believe there is another scheme for a ribbon weaving with similar constraints, with pairs of loops oriented relative to
+I believe there is another scheme for a ribbon weaving with similar constraints, with pairs of loops oriented according to
 the fivefold axes of the dodecedron, whereas the scheme shown here has loops oriented according to the threefold axes.

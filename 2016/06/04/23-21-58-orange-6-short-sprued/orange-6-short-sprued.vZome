@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="73" field="golden" version="7.0">
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="76" field="golden" version="7.1">
   <EditHistory editNumber="1437" lastStickyEdit="1238">
     <StrutCreation anchor="0 0 0 0 0 0" index="2" len="2 4"/>
     <StrutCreation anchor="0 0 0 0 0 0" index="1" len="2 4"/>
@@ -2967,255 +2967,255 @@ Eventually there will be a 'vZome Player' application that will display the page
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="432.1961669921875" far="864.3922729492188" near="1.0804904699325562" parallel="false" stereoAngle="0.0" width="194.48829650878906">
+    <ViewModel distance="527.885498046875" far="1055.7708740234375" near="1.3197139501571655" parallel="false" stereoAngle="0.0" width="237.54849243164062">
       <LookAtPoint x="10.70820426940918" y="101.81153106689453" z="6.85410213470459"/>
-      <UpDirection x="0.7961920499801636" y="-0.4883222281932831" z="-0.3572392165660858"/>
-      <LookDirection x="-0.3273625671863556" y="0.14886853098869324" z="-0.9330981969833374"/>
+      <UpDirection x="0.8702781796455383" y="-0.46865347027778625" z="-0.15159110724925995"/>
+      <LookDirection x="-0.004333836026489735" y="0.30046385526657104" z="-0.9537833333015442"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
-    <Direction color="255,255,255" name="5" prototype="98 -60 80 -50 0 0"/>
-    <Direction color="255,255,255" name="6" prototype="-7 4 4 -3 29 -17"/>
-    <Direction color="255,255,255" name="3" prototype="9 -6 54 -33 -81 51"/>
-    <Direction color="255,255,255" name="4" prototype="-17/2 6 -13 8 -5 7/2"/>
-    <Direction color="255,255,255" name="1" prototype="-22 14 942 -582 40 -24"/>
-    <Direction color="255,255,255" name="2" prototype="22 -14 -40 24 942 -582"/>
-    <Direction color="255,255,255" name="141" prototype="-4 2 5 -7/2 31/2 -9"/>
-    <Direction color="255,255,255" name="0" prototype="-19 11 17 -10 -28 17"/>
-    <Direction color="255,255,255" name="140" prototype="58 -36 0 0 44 -28"/>
-    <Direction color="255,255,255" name="143" prototype="9/2 -3 10 -7 12 -15/2"/>
-    <Direction color="255,255,255" name="142" prototype="9/2 -3 -10 7 12 -15/2"/>
-    <Direction color="255,255,255" name="145" prototype="21 -13 31 -18 -34 21"/>
-    <Direction color="255,255,255" name="144" prototype="13/2 -4 -5 7/2 -17/2 9/2"/>
-    <Direction color="255,255,255" name="147" prototype="-4 2 -5 7/2 31/2 -9"/>
-    <Direction color="255,255,255" name="2352" prototype="-37/2 12 -41/2 27/2 0 0"/>
-    <Direction color="255,255,255" name="146" prototype="13 -8 -5 7/2 17/2 -6"/>
-    <Direction color="255,255,255" name="2351" prototype="-11/2 7/2 -9 11/2 3 -1"/>
-    <Direction color="255,255,255" name="149" prototype="-72 44 0 0 -112 70"/>
-    <Direction color="255,255,255" name="2354" prototype="-2 3/2 4 -3 17/2 -9/2"/>
-    <Direction color="255,255,255" name="148" prototype="-80 50 0 0 -98 60"/>
-    <Direction color="255,255,255" name="2353" prototype="-17/2 9/2 2 -3/2 0 0"/>
-    <Direction color="255,255,255" name="39" prototype="12 -15/2 9/2 -3 10 -7"/>
-    <Direction color="255,255,255" name="38" prototype="12 -15/2 9/2 -3 -10 7"/>
-    <Direction color="255,255,255" name="35" prototype="-5 3 -2 1 10 -7"/>
-    <Direction color="255,255,255" name="34" prototype="-5 3 -2 1 -10 7"/>
-    <Direction color="255,255,255" name="37" prototype="31/2 -9 -4 2 5 -7/2"/>
-    <Direction color="255,255,255" name="36" prototype="44 -28 58 -36 0 0"/>
-    <Direction color="255,255,255" name="31" prototype="17/2 -6 13 -8 5 -7/2"/>
-    <Direction color="255,255,255" name="30" prototype="65 -40 4 -3 33 -21"/>
-    <Direction color="255,255,255" name="33" prototype="-60 36 78 -48 0 0"/>
-    <Direction color="255,255,255" name="32" prototype="-5 4 28 -17 9 -5"/>
-    <Direction color="255,255,255" name="9" prototype="9 -6 54 -33 -81 51"/>
-    <Direction color="255,255,255" name="7" prototype="17/2 -9/2 -13/2 4 -5 7/2"/>
-    <Direction color="255,255,255" name="8" prototype="26 -17 -1 1 43 -26"/>
-    <Direction color="255,255,255" name="130" prototype="-21/2 6 -5 7/2 -3/2 3/2"/>
-    <Direction color="255,255,255" name="132" prototype="4 -3 -33 21 65 -40"/>
-    <Direction color="255,255,255" name="131" prototype="-54 33 -81 51 -9 6"/>
-    <Direction color="255,255,255" name="134" prototype="4 -3 33 -21 65 -40"/>
-    <Direction color="255,255,255" name="133" prototype="-48 30 12 -8 -8 4"/>
-    <Direction color="255,255,255" name="136" prototype="28 -17 9 -5 -5 4"/>
-    <Direction color="255,255,255" name="135" prototype="13 -8 5 -7/2 17/2 -6"/>
-    <Direction color="255,255,255" name="138" prototype="-2 1 -10 7 -5 3"/>
-    <Direction color="255,255,255" name="137" prototype="78 -48 0 0 -60 36"/>
-    <Direction color="255,255,255" name="49" prototype="17/2 -9/2 -13/2 4 5 -7/2"/>
-    <Direction color="255,255,255" name="139" prototype="-2 1 10 -7 -5 3"/>
-    <Direction color="255,255,255" name="46" prototype="112 -70 72 -44 0 0"/>
-    <Direction color="255,255,255" name="45" prototype="-112 70 -72 44 0 0"/>
-    <Direction color="255,255,255" name="48" prototype="-7 4 4 -3 -29 17"/>
-    <Direction color="255,255,255" name="47" prototype="98 -60 80 -50 0 0"/>
-    <Direction color="255,255,255" name="42" prototype="17/2 -6 13 -8 -5 7/2"/>
-    <Direction color="255,255,255" name="41" prototype="-34 21 21 -13 31 -18"/>
-    <Direction color="255,255,255" name="44" prototype="-98 60 -80 50 0 0"/>
-    <Direction color="255,255,255" name="43" prototype="31/2 -9 -4 2 -5 7/2"/>
-    <Direction color="255,255,255" name="40" prototype="-17/2 9/2 13/2 -4 -5 7/2"/>
-    <Direction color="154,117,74" name="sand"/>
-    <Direction color="255,255,255" name="121" prototype="31 -18 34 -21 -21 13"/>
-    <Direction color="255,255,255" name="120" prototype="-5 7/2 17/2 -9/2 -13/2 4"/>
-    <Direction color="255,255,255" name="123" prototype="-5 7/2 -31/2 9 4 -2"/>
-    <Direction color="255,255,255" name="122" prototype="-5 7/2 -17/2 6 -13 8"/>
-    <Direction color="255,255,255" name="125" prototype="13/2 -4 5 -7/2 -17/2 9/2"/>
-    <Direction color="255,255,255" name="124" prototype="-4 3 -29 17 7 -4"/>
-    <Direction color="255,255,255" name="127" prototype="-18 12 20 -12 12 -8"/>
-    <Direction color="255,255,255" name="126" prototype="1 -1 -43 26 -26 17"/>
-    <Direction color="255,255,255" name="129" prototype="-54 33 81 -51 -9 6"/>
-    <Direction color="255,255,255" name="128" prototype="-21/2 6 5 -7/2 -3/2 3/2"/>
-    <Direction color="255,255,255" name="12" prototype="112 -70 72 -44 0 0"/>
-    <Direction color="255,255,255" name="11" prototype="98 -60 80 -50 0 0"/>
-    <Direction color="255,255,255" name="10" prototype="-17/2 6 -13 8 -5 7/2"/>
-    <Direction color="0,160,228" name="blue"/>
-    <Direction color="255,255,255" name="110" prototype="33 -21 -65 40 -4 3"/>
-    <Direction color="255,255,255" name="112" prototype="9 -5 5 -4 -28 17"/>
-    <Direction color="255,255,255" name="111" prototype="5 -7/2 -17/2 6 -13 8"/>
-    <Direction color="255,255,255" name="114" prototype="-10 7 5 -3 2 -1"/>
-    <Direction color="255,255,255" name="113" prototype="0 0 60 -36 -78 48"/>
-    <Direction color="255,255,255" name="116" prototype="0 0 -44 28 -58 36"/>
-    <Direction color="255,255,255" name="115" prototype="10 -7 5 -3 2 -1"/>
-    <Direction color="255,255,255" name="28" prototype="65 -40 4 -3 -33 21"/>
-    <Direction color="255,255,255" name="118" prototype="-10 7 -12 15/2 -9/2 3"/>
-    <Direction color="255,255,255" name="27" prototype="-9 6 -54 33 -81 51"/>
-    <Direction color="255,255,255" name="117" prototype="5 -7/2 -31/2 9 4 -2"/>
-    <Direction color="255,255,255" name="29" prototype="-8 4 -48 30 12 -8"/>
-    <Direction color="255,255,255" name="119" prototype="10 -7 -12 15/2 -9/2 3"/>
-    <Direction color="255,255,255" name="24" prototype="-3/2 3/2 -21/2 6 5 -7/2"/>
-    <Direction color="255,255,255" name="23" prototype="12 -8 -18 12 20 -12"/>
-    <Direction color="255,255,255" name="26" prototype="-3/2 3/2 -21/2 6 -5 7/2"/>
-    <Direction color="255,255,255" name="25" prototype="-9 6 -54 33 81 -51"/>
-    <Direction color="255,255,255" name="20" prototype="7 -4 -4 3 -29 17"/>
-    <Direction color="255,255,255" name="22" prototype="-26 17 1 -1 -43 26"/>
-    <Direction color="255,255,255" name="21" prototype="-17/2 9/2 13/2 -4 5 -7/2"/>
-    <Direction color="255,255,255" name="101" prototype="5 -7/2 17/2 -9/2 -13/2 4"/>
-    <Direction color="30,30,30" name="black"/>
-    <Direction color="255,255,255" name="100" prototype="-29 17 -7 4 4 -3"/>
-    <Direction color="255,255,255" name="103" prototype="20 -12 -12 8 18 -12"/>
-    <Direction color="255,255,255" name="102" prototype="-43 26 26 -17 -1 1"/>
-    <Direction color="255,255,255" name="105" prototype="81 -51 9 -6 54 -33"/>
-    <Direction color="255,255,255" name="104" prototype="5 -7/2 3/2 -3/2 21/2 -6"/>
-    <Direction color="255,255,255" name="107" prototype="-81 51 9 -6 54 -33"/>
-    <Direction color="255,51,143" name="rose"/>
-    <Direction color="255,255,255" name="106" prototype="-5 7/2 3/2 -3/2 21/2 -6"/>
-    <Direction color="255,255,255" name="109" prototype="12 -8 8 -4 48 -30"/>
-    <Direction color="255,255,255" name="108" prototype="-33 21 -65 40 -4 3"/>
-    <Direction color="108,0,198" name="purple"/>
-    <Direction color="255,126,106" name="coral"/>
-    <Direction color="117,0,50" name="maroon"/>
-    <Direction color="255,255,255" name="210" prototype="-1699 1050 474 -293 291 -179"/>
-    <Direction color="230,245,62" name="sulfur"/>
-    <Direction color="255,255,255" name="200" prototype="1852 -1144 -376 232 -376 232"/>
-    <Direction color="255,255,255" name="202" prototype="-1303 806 297 -184 -145 90"/>
-    <Direction color="255,255,255" name="201" prototype="-1303 806 297 -184 145 -90"/>
-    <Direction color="255,255,255" name="204" prototype="3552 -2196 -1216 752 0 0"/>
-    <Direction color="255,255,255" name="203" prototype="1852 -1144 -376 232 376 -232"/>
-    <Direction color="255,255,255" name="206" prototype="-1521 940 762 -471 -291 179"/>
-    <Direction color="255,255,255" name="205" prototype="-182 112 180 -112 -180 112"/>
-    <Direction color="255,255,255" name="208" prototype="-292 181 113 -69 -1 0"/>
-    <Direction color="255,255,255" name="207" prototype="1700 -1050 -652 404 0 0"/>
-    <Direction color="255,255,255" name="209" prototype="1699 -1050 -474 293 291 -179"/>
-    <Direction color="18,205,148" name="turquoise"/>
-    <Direction color="116,195,0" name="apple"/>
-    <Direction color="0,0,153" name="navy"/>
-    <Direction color="220,76,0" name="orange"/>
-    <Direction color="255,255,255" name="97" prototype="0 0 -112 70 -72 44"/>
-    <Direction color="255,255,255" name="96" prototype="0 0 -98 60 -80 50"/>
-    <Direction color="255,255,255" name="99" prototype="0 0 98 -60 80 -50"/>
-    <Direction color="255,255,255" name="98" prototype="0 0 112 -70 72 -44"/>
-    <Direction color="255,255,255" name="93" prototype="31 -18 -34 21 21 -13"/>
-    <Direction color="255,255,255" name="92" prototype="-5 7/2 -17/2 9/2 13/2 -4"/>
-    <Direction color="255,255,255" name="95" prototype="-5 7/2 31/2 -9 -4 2"/>
-    <Direction color="255,255,255" name="94" prototype="-5 7/2 17/2 -6 13 -8"/>
-    <Direction color="255,255,255" name="190" prototype="18 -12 30 -18 -171 105"/>
-    <Direction color="255,255,255" name="192" prototype="-4983 3079 3138 -1939 -1072 663"/>
-    <Direction color="255,255,255" name="191" prototype="-104 64 60 -36 0 0"/>
-    <Direction color="255,255,255" name="194" prototype="-658 406 -488 302 488 -302"/>
-    <Direction color="255,255,255" name="193" prototype="-658 406 -488 302 -488 302"/>
-    <Direction color="255,255,255" name="196" prototype="-1967 1215 1410 -871 1072 -663"/>
-    <Direction color="255,255,255" name="195" prototype="54 -34 -488 302 488 -302"/>
-    <Direction color="255,255,255" name="198" prototype="54 -34 -488 302 -488 302"/>
-    <Direction color="255,255,255" name="197" prototype="-1967 1215 1410 -871 -1072 663"/>
-    <Direction color="255,255,255" name="199" prototype="3972 -2454 -1360 840 0 0"/>
-    <Direction color="136,37,0" name="cinnamon"/>
-    <Direction color="175,135,255" name="lavender"/>
-    <Direction color="100,113,0" name="olive"/>
-    <Direction color="255,255,255" name="80" prototype="-33 21 65 -40 4 -3"/>
-    <Direction color="255,255,255" name="181" prototype="1699 -1050 -474 293 -291 179"/>
-    <Direction color="255,255,255" name="180" prototype="805 -498 -430 265 197 -121"/>
-    <Direction color="255,255,255" name="183" prototype="292 -181 -113 69 -1 0"/>
-    <Direction color="255,255,255" name="182" prototype="-1699 1050 474 -293 -291 179"/>
-    <Direction color="255,255,255" name="185" prototype="-1521 940 762 -471 291 -179"/>
-    <Direction color="255,255,255" name="184" prototype="182 -112 -180 112 180 -112"/>
-    <Direction color="255,255,255" name="187" prototype="388 -240 -222 138 0 0"/>
-    <Direction color="255,255,255" name="186" prototype="1521 -940 -762 471 291 -179"/>
-    <Direction color="255,255,255" name="189" prototype="18 -12 30 -18 171 -105"/>
-    <Direction color="255,255,255" name="188" prototype="-176 108 84 -52 0 0"/>
-    <Direction color="255,255,255" name="79" prototype="-81 51 -9 6 -54 33"/>
-    <Direction color="255,255,255" name="78" prototype="-5 7/2 -3/2 3/2 -21/2 6"/>
-    <Direction color="255,255,255" name="75" prototype="20 -12 12 -8 -18 12"/>
-    <Direction color="255,255,255" name="74" prototype="-43 26 -26 17 1 -1"/>
-    <Direction color="255,255,255" name="77" prototype="81 -51 -9 6 -54 33"/>
-    <Direction color="255,255,255" name="76" prototype="5 -7/2 -3/2 3/2 -21/2 6"/>
-    <Direction color="255,255,255" name="71" prototype="-31/2 9 4 -2 -5 7/2"/>
-    <Direction color="255,255,255" name="70" prototype="-17/2 6 -13 8 -5 7/2"/>
-    <Direction color="255,255,255" name="73" prototype="5 -7/2 -17/2 9/2 13/2 -4"/>
-    <Direction color="255,255,255" name="72" prototype="-29 17 7 -4 -4 3"/>
-    <Direction color="255,255,255" name="91" prototype="10 -7 12 -15/2 9/2 -3"/>
-    <Direction color="255,255,255" name="170" prototype="-9/2 3 -10 7 -12 15/2"/>
-    <Direction color="255,255,255" name="90" prototype="-10 7 12 -15/2 9/2 -3"/>
-    <Direction color="255,255,255" name="172" prototype="-13/2 4 -5 7/2 17/2 -9/2"/>
-    <Direction color="18,73,48" name="spruce"/>
-    <Direction color="255,255,255" name="171" prototype="-9/2 3 10 -7 -12 15/2"/>
-    <Direction color="255,255,255" name="174" prototype="-13 8 -5 7/2 -17/2 6"/>
-    <Direction color="255,255,255" name="173" prototype="-21 13 31 -18 34 -21"/>
-    <Direction color="255,255,255" name="176" prototype="-805 498 430 -265 -197 121"/>
-    <Direction color="255,255,255" name="175" prototype="4 -2 -5 7/2 -31/2 9"/>
-    <Direction color="255,255,255" name="178" prototype="-1700 1050 652 -404 0 0"/>
-    <Direction color="255,255,255" name="177" prototype="-805 498 430 -265 197 -121"/>
-    <Direction color="255,255,255" name="179" prototype="182 -112 -180 112 -180 112"/>
-    <Direction color="255,255,255" name="89" prototype="5 -7/2 31/2 -9 -4 2"/>
-    <Direction color="255,255,255" name="86" prototype="-10 7 -5 3 -2 1"/>
-    <Direction color="255,255,255" name="85" prototype="0 0 -60 36 78 -48"/>
-    <Direction color="255,255,255" name="88" prototype="0 0 44 -28 58 -36"/>
-    <Direction color="255,255,255" name="87" prototype="10 -7 -5 3 -2 1"/>
-    <Direction color="255,255,255" name="82" prototype="33 -21 65 -40 4 -3"/>
-    <Direction color="255,255,255" name="81" prototype="12 -8 -8 4 -48 30"/>
-    <Direction color="255,255,255" name="84" prototype="9 -5 -5 4 28 -17"/>
-    <Direction color="255,255,255" name="83" prototype="5 -7/2 17/2 -6 13 -8"/>
-    <Direction color="0,141,54" name="green"/>
-    <Direction color="255,255,255" name="161" prototype="48 -30 12 -8 8 -4"/>
-    <Direction color="255,255,255" name="160" prototype="-4 3 -33 21 -65 40"/>
-    <Direction color="255,255,255" name="163" prototype="-13 8 5 -7/2 -17/2 6"/>
-    <Direction color="255,255,255" name="162" prototype="-4 3 33 -21 -65 40"/>
-    <Direction color="255,255,255" name="165" prototype="-78 48 0 0 60 -36"/>
-    <Direction color="255,255,255" name="164" prototype="-28 17 9 -5 5 -4"/>
-    <Direction color="255,255,255" name="167" prototype="2 -1 10 -7 5 -3"/>
-    <Direction color="255,255,255" name="166" prototype="2 -1 -10 7 5 -3"/>
-    <Direction color="255,255,255" name="169" prototype="4 -2 5 -7/2 -31/2 9"/>
-    <Direction color="255,255,255" name="168" prototype="-58 36 0 0 -44 28"/>
-    <Direction color="255,255,255" name="57" prototype="8 -4 48 -30 12 -8"/>
-    <Direction color="255,255,255" name="56" prototype="-65 40 -4 3 -33 21"/>
-    <Direction color="255,255,255" name="59" prototype="-17/2 6 -13 8 5 -7/2"/>
-    <Direction color="255,255,255" name="58" prototype="-65 40 -4 3 33 -21"/>
-    <Direction color="255,255,255" name="53" prototype="9 -6 54 -33 81 -51"/>
-    <Direction color="107,53,26" name="brown"/>
-    <Direction color="255,255,255" name="52" prototype="3/2 -3/2 21/2 -6 5 -7/2"/>
-    <Direction color="255,255,255" name="55" prototype="9 -6 54 -33 -81 51"/>
-    <Direction color="255,255,255" name="54" prototype="3/2 -3/2 21/2 -6 -5 7/2"/>
-    <Direction color="255,255,255" name="51" prototype="-12 8 18 -12 20 -12"/>
-    <Direction color="255,255,255" name="50" prototype="26 -17 -1 1 -43 26"/>
-    <Direction color="255,255,255" name="150" prototype="72 -44 0 0 112 -70"/>
-    <Direction color="255,255,255" name="152" prototype="4 -3 -29 17 -7 4"/>
-    <Direction color="255,255,255" name="151" prototype="80 -50 0 0 98 -60"/>
-    <Direction color="175,0,0" name="red"/>
-    <Direction color="255,255,255" name="154" prototype="-1 1 -43 26 26 -17"/>
-    <Direction color="255,255,255" name="153" prototype="-13/2 4 5 -7/2 17/2 -9/2"/>
-    <Direction color="255,255,255" name="156" prototype="21/2 -6 5 -7/2 3/2 -3/2"/>
-    <Direction color="255,255,255" name="155" prototype="18 -12 20 -12 -12 8"/>
-    <Direction color="255,255,255" name="158" prototype="21/2 -6 -5 7/2 3/2 -3/2"/>
-    <Direction color="255,255,255" name="157" prototype="54 -33 81 -51 9 -6"/>
-    <Direction color="255,255,255" name="159" prototype="54 -33 -81 51 9 -6"/>
-    <Direction color="240,160,0" name="yellow"/>
-    <Direction color="255,255,255" name="68" prototype="17/2 -9/2 -13/2 4 -5 7/2"/>
-    <Direction color="255,255,255" name="67" prototype="-12 15/2 -9/2 3 10 -7"/>
-    <Direction color="255,255,255" name="69" prototype="34 -21 -21 13 31 -18"/>
-    <Direction color="255,255,255" name="64" prototype="-44 28 -58 36 0 0"/>
-    <Direction color="255,255,255" name="63" prototype="5 -3 2 -1 10 -7"/>
-    <Direction color="255,255,255" name="66" prototype="-12 15/2 -9/2 3 -10 7"/>
-    <Direction color="255,255,255" name="65" prototype="-31/2 9 4 -2 5 -7/2"/>
-    <Direction color="255,255,255" name="60" prototype="5 -4 -28 17 9 -5"/>
-    <Direction color="255,255,255" name="62" prototype="5 -3 2 -1 -10 7"/>
-    <Direction color="255,255,255" name="61" prototype="60 -36 -78 48 0 0"/>
+    <Direction color="255,255,255" name="5" orbit="[[-100,91,121],[51,-21,121]]" prototype="98 -60 80 -50 0 0"/>
+    <Direction color="255,255,255" name="6" orbit="[[38,-23,41],[-23,15,41]]" prototype="-7 4 4 -3 29 -17"/>
+    <Direction color="255,255,255" name="3" orbit="[[2,-1,2],[0,0,1]]" prototype="9 -6 54 -33 -81 51"/>
+    <Direction color="255,255,255" name="4" orbit="[[33,-18,38],[15,-3,38]]" prototype="-17/2 6 -13 8 -5 7/2"/>
+    <Direction color="255,255,255" name="1" orbit="[[134,-23,285],[-333,211,285]]" prototype="-22 14 942 -582 40 -24"/>
+    <Direction color="255,255,255" name="2" orbit="[[594,-357,1481],[-359,313,1481]]" prototype="22 -14 -40 24 942 -582"/>
+    <Direction color="255,255,255" name="141" orbit="[[33,-18,38],[15,-3,38]]" prototype="-4 2 5 -7/2 31/2 -9"/>
+    <Direction color="255,255,255" name="0" orbit="[[-2,3,11],[5,-3,1]]" prototype="-19 11 17 -10 -28 17"/>
+    <Direction color="255,255,255" name="140" orbit="[[2,-1,2],[0,0,1]]" prototype="58 -36 0 0 44 -28"/>
+    <Direction color="255,255,255" name="143" orbit="[[33,-18,38],[15,-3,38]]" prototype="9/2 -3 10 -7 12 -15/2"/>
+    <Direction color="255,255,255" name="142" orbit="[[33,-18,38],[15,-3,38]]" prototype="9/2 -3 -10 7 12 -15/2"/>
+    <Direction color="255,255,255" name="145" orbit="[[64,-39,79],[-39,25,79]]" prototype="21 -13 31 -18 -34 21"/>
+    <Direction color="255,255,255" name="144" orbit="[[-6,5,19],[-1,4,19]]" prototype="13/2 -4 -5 7/2 -17/2 9/2"/>
+    <Direction color="255,255,255" name="147" orbit="[[33,-18,38],[15,-3,38]]" prototype="-4 2 -5 7/2 31/2 -9"/>
+    <Direction color="255,255,255" name="2352" orbit="[[14,-8,5],[32,-19,5]]" prototype="-37/2 12 -41/2 27/2 0 0"/>
+    <Direction color="255,255,255" name="146" orbit="[[33,-18,38],[15,-3,38]]" prototype="13 -8 -5 7/2 17/2 -6"/>
+    <Direction color="255,255,255" name="2351" orbit="[[-3,2,2],[5,-3,2]]" prototype="-11/2 7/2 -9 11/2 3 -1"/>
+    <Direction color="255,255,255" name="149" orbit="[[-96,111,139],[71,-43,139]]" prototype="-72 44 0 0 -112 70"/>
+    <Direction color="255,255,255" name="2354" orbit="[[-11,7,5],[0,0,1]]" prototype="-2 3/2 4 -3 17/2 -9/2"/>
+    <Direction color="255,255,255" name="148" orbit="[[-100,91,121],[51,-21,121]]" prototype="-80 50 0 0 -98 60"/>
+    <Direction color="255,255,255" name="2353" orbit="[[-1,3,11],[0,0,1]]" prototype="-17/2 9/2 2 -3/2 0 0"/>
+    <Direction color="255,255,255" name="39" orbit="[[33,-18,38],[15,-3,38]]" prototype="12 -15/2 9/2 -3 10 -7"/>
+    <Direction color="255,255,255" name="38" orbit="[[33,-18,38],[15,-3,38]]" prototype="12 -15/2 9/2 -3 -10 7"/>
+    <Direction color="255,255,255" name="35" orbit="[[-6,5,19],[-1,4,19]]" prototype="-5 3 -2 1 10 -7"/>
+    <Direction color="255,255,255" name="34" orbit="[[-6,5,19],[-1,4,19]]" prototype="-5 3 -2 1 -10 7"/>
+    <Direction color="255,255,255" name="37" orbit="[[33,-18,38],[15,-3,38]]" prototype="31/2 -9 -4 2 5 -7/2"/>
+    <Direction color="255,255,255" name="36" orbit="[[2,-1,2],[0,0,1]]" prototype="44 -28 58 -36 0 0"/>
+    <Direction color="255,255,255" name="31" orbit="[[33,-18,38],[15,-3,38]]" prototype="17/2 -6 13 -8 5 -7/2"/>
+    <Direction color="255,255,255" name="30" orbit="[[2,-1,2],[0,0,1]]" prototype="65 -40 4 -3 33 -21"/>
+    <Direction color="255,255,255" name="33" orbit="[[2,-1,2],[0,0,1]]" prototype="-60 36 78 -48 0 0"/>
+    <Direction color="255,255,255" name="32" orbit="[[38,-23,41],[-23,15,41]]" prototype="-5 4 28 -17 9 -5"/>
+    <Direction color="255,255,255" name="9" orbit="[[2,-1,2],[0,0,1]]" prototype="9 -6 54 -33 -81 51"/>
+    <Direction color="255,255,255" name="7" orbit="[[-6,5,19],[-1,4,19]]" prototype="17/2 -9/2 -13/2 4 -5 7/2"/>
+    <Direction color="255,255,255" name="8" orbit="[[64,-39,79],[-39,25,79]]" prototype="26 -17 -1 1 43 -26"/>
+    <Direction color="255,255,255" name="130" orbit="[[-6,5,19],[-1,4,19]]" prototype="-21/2 6 -5 7/2 -3/2 3/2"/>
+    <Direction color="255,255,255" name="132" orbit="[[2,-1,2],[0,0,1]]" prototype="4 -3 -33 21 65 -40"/>
+    <Direction color="255,255,255" name="131" orbit="[[2,-1,2],[0,0,1]]" prototype="-54 33 -81 51 -9 6"/>
+    <Direction color="255,255,255" name="134" orbit="[[2,-1,2],[0,0,1]]" prototype="4 -3 33 -21 65 -40"/>
+    <Direction color="255,255,255" name="133" orbit="[[64,-39,79],[-39,25,79]]" prototype="-48 30 12 -8 -8 4"/>
+    <Direction color="255,255,255" name="136" orbit="[[38,-23,41],[-23,15,41]]" prototype="28 -17 9 -5 -5 4"/>
+    <Direction color="255,255,255" name="135" orbit="[[33,-18,38],[15,-3,38]]" prototype="13 -8 5 -7/2 17/2 -6"/>
+    <Direction color="255,255,255" name="138" orbit="[[-6,5,19],[-1,4,19]]" prototype="-2 1 -10 7 -5 3"/>
+    <Direction color="255,255,255" name="137" orbit="[[2,-1,2],[0,0,1]]" prototype="78 -48 0 0 -60 36"/>
+    <Direction color="255,255,255" name="49" orbit="[[-6,5,19],[-1,4,19]]" prototype="17/2 -9/2 -13/2 4 5 -7/2"/>
+    <Direction color="255,255,255" name="139" orbit="[[-6,5,19],[-1,4,19]]" prototype="-2 1 10 -7 -5 3"/>
+    <Direction color="255,255,255" name="46" orbit="[[-96,111,139],[71,-43,139]]" prototype="112 -70 72 -44 0 0"/>
+    <Direction color="255,255,255" name="45" orbit="[[-96,111,139],[71,-43,139]]" prototype="-112 70 -72 44 0 0"/>
+    <Direction color="255,255,255" name="48" orbit="[[38,-23,41],[-23,15,41]]" prototype="-7 4 4 -3 -29 17"/>
+    <Direction color="255,255,255" name="47" orbit="[[-100,91,121],[51,-21,121]]" prototype="98 -60 80 -50 0 0"/>
+    <Direction color="255,255,255" name="42" orbit="[[33,-18,38],[15,-3,38]]" prototype="17/2 -6 13 -8 -5 7/2"/>
+    <Direction color="255,255,255" name="41" orbit="[[64,-39,79],[-39,25,79]]" prototype="-34 21 21 -13 31 -18"/>
+    <Direction color="255,255,255" name="44" orbit="[[-100,91,121],[51,-21,121]]" prototype="-98 60 -80 50 0 0"/>
+    <Direction color="255,255,255" name="43" orbit="[[33,-18,38],[15,-3,38]]" prototype="31/2 -9 -4 2 -5 7/2"/>
+    <Direction color="255,255,255" name="40" orbit="[[-6,5,19],[-1,4,19]]" prototype="-17/2 9/2 13/2 -4 -5 7/2"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="121" orbit="[[64,-39,79],[-39,25,79]]" prototype="31 -18 34 -21 -21 13"/>
+    <Direction color="255,255,255" name="120" orbit="[[-6,5,19],[-1,4,19]]" prototype="-5 7/2 17/2 -9/2 -13/2 4"/>
+    <Direction color="255,255,255" name="123" orbit="[[33,-18,38],[15,-3,38]]" prototype="-5 7/2 -31/2 9 4 -2"/>
+    <Direction color="255,255,255" name="122" orbit="[[33,-18,38],[15,-3,38]]" prototype="-5 7/2 -17/2 6 -13 8"/>
+    <Direction color="255,255,255" name="125" orbit="[[-6,5,19],[-1,4,19]]" prototype="13/2 -4 5 -7/2 -17/2 9/2"/>
+    <Direction color="255,255,255" name="124" orbit="[[38,-23,41],[-23,15,41]]" prototype="-4 3 -29 17 7 -4"/>
+    <Direction color="255,255,255" name="127" orbit="[[38,-23,41],[-23,15,41]]" prototype="-18 12 20 -12 12 -8"/>
+    <Direction color="255,255,255" name="126" orbit="[[64,-39,79],[-39,25,79]]" prototype="1 -1 -43 26 -26 17"/>
+    <Direction color="255,255,255" name="129" orbit="[[2,-1,2],[0,0,1]]" prototype="-54 33 81 -51 -9 6"/>
+    <Direction color="255,255,255" name="128" orbit="[[-6,5,19],[-1,4,19]]" prototype="-21/2 6 5 -7/2 -3/2 3/2"/>
+    <Direction color="255,255,255" name="12" orbit="[[-96,111,139],[71,-43,139]]" prototype="112 -70 72 -44 0 0"/>
+    <Direction color="255,255,255" name="11" orbit="[[-100,91,121],[51,-21,121]]" prototype="98 -60 80 -50 0 0"/>
+    <Direction color="255,255,255" name="10" orbit="[[33,-18,38],[15,-3,38]]" prototype="-17/2 6 -13 8 -5 7/2"/>
+    <Direction color="0,160,228" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="110" orbit="[[2,-1,2],[0,0,1]]" prototype="33 -21 -65 40 -4 3"/>
+    <Direction color="255,255,255" name="112" orbit="[[38,-23,41],[-23,15,41]]" prototype="9 -5 5 -4 -28 17"/>
+    <Direction color="255,255,255" name="111" orbit="[[33,-18,38],[15,-3,38]]" prototype="5 -7/2 -17/2 6 -13 8"/>
+    <Direction color="255,255,255" name="114" orbit="[[-6,5,19],[-1,4,19]]" prototype="-10 7 5 -3 2 -1"/>
+    <Direction color="255,255,255" name="113" orbit="[[2,-1,2],[0,0,1]]" prototype="0 0 60 -36 -78 48"/>
+    <Direction color="255,255,255" name="116" orbit="[[2,-1,2],[0,0,1]]" prototype="0 0 -44 28 -58 36"/>
+    <Direction color="255,255,255" name="115" orbit="[[-6,5,19],[-1,4,19]]" prototype="10 -7 5 -3 2 -1"/>
+    <Direction color="255,255,255" name="28" orbit="[[2,-1,2],[0,0,1]]" prototype="65 -40 4 -3 -33 21"/>
+    <Direction color="255,255,255" name="118" orbit="[[33,-18,38],[15,-3,38]]" prototype="-10 7 -12 15/2 -9/2 3"/>
+    <Direction color="255,255,255" name="27" orbit="[[2,-1,2],[0,0,1]]" prototype="-9 6 -54 33 -81 51"/>
+    <Direction color="255,255,255" name="117" orbit="[[33,-18,38],[15,-3,38]]" prototype="5 -7/2 -31/2 9 4 -2"/>
+    <Direction color="255,255,255" name="29" orbit="[[64,-39,79],[-39,25,79]]" prototype="-8 4 -48 30 12 -8"/>
+    <Direction color="255,255,255" name="119" orbit="[[33,-18,38],[15,-3,38]]" prototype="10 -7 -12 15/2 -9/2 3"/>
+    <Direction color="255,255,255" name="24" orbit="[[-6,5,19],[-1,4,19]]" prototype="-3/2 3/2 -21/2 6 5 -7/2"/>
+    <Direction color="255,255,255" name="23" orbit="[[38,-23,41],[-23,15,41]]" prototype="12 -8 -18 12 20 -12"/>
+    <Direction color="255,255,255" name="26" orbit="[[-6,5,19],[-1,4,19]]" prototype="-3/2 3/2 -21/2 6 -5 7/2"/>
+    <Direction color="255,255,255" name="25" orbit="[[2,-1,2],[0,0,1]]" prototype="-9 6 -54 33 81 -51"/>
+    <Direction color="255,255,255" name="20" orbit="[[38,-23,41],[-23,15,41]]" prototype="7 -4 -4 3 -29 17"/>
+    <Direction color="255,255,255" name="22" orbit="[[64,-39,79],[-39,25,79]]" prototype="-26 17 1 -1 -43 26"/>
+    <Direction color="255,255,255" name="21" orbit="[[-6,5,19],[-1,4,19]]" prototype="-17/2 9/2 13/2 -4 5 -7/2"/>
+    <Direction color="255,255,255" name="101" orbit="[[-6,5,19],[-1,4,19]]" prototype="5 -7/2 17/2 -9/2 -13/2 4"/>
+    <Direction color="30,30,30" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="255,255,255" name="100" orbit="[[38,-23,41],[-23,15,41]]" prototype="-29 17 -7 4 4 -3"/>
+    <Direction color="255,255,255" name="103" orbit="[[38,-23,41],[-23,15,41]]" prototype="20 -12 -12 8 18 -12"/>
+    <Direction color="255,255,255" name="102" orbit="[[64,-39,79],[-39,25,79]]" prototype="-43 26 26 -17 -1 1"/>
+    <Direction color="255,255,255" name="105" orbit="[[2,-1,2],[0,0,1]]" prototype="81 -51 9 -6 54 -33"/>
+    <Direction color="255,255,255" name="104" orbit="[[-6,5,19],[-1,4,19]]" prototype="5 -7/2 3/2 -3/2 21/2 -6"/>
+    <Direction color="255,255,255" name="107" orbit="[[2,-1,2],[0,0,1]]" prototype="-81 51 9 -6 54 -33"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="255,255,255" name="106" orbit="[[-6,5,19],[-1,4,19]]" prototype="-5 7/2 3/2 -3/2 21/2 -6"/>
+    <Direction color="255,255,255" name="109" orbit="[[64,-39,79],[-39,25,79]]" prototype="12 -8 8 -4 48 -30"/>
+    <Direction color="255,255,255" name="108" orbit="[[2,-1,2],[0,0,1]]" prototype="-33 21 -65 40 -4 3"/>
+    <Direction color="108,0,198" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="210" orbit="[[2338,-1429,551],[-641,417,551]]" prototype="-1699 1050 474 -293 291 -179"/>
+    <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,255,255" name="200" orbit="[[78,-45,61],[89,-49,61]]" prototype="1852 -1144 -376 232 -376 232"/>
+    <Direction color="255,255,255" name="202" orbit="[[259,-140,229],[259,-140,229]]" prototype="-1303 806 297 -184 -145 90"/>
+    <Direction color="255,255,255" name="201" orbit="[[259,-140,229],[259,-140,229]]" prototype="-1303 806 297 -184 145 -90"/>
+    <Direction color="255,255,255" name="204" orbit="[[64,181,589],[1061,-653,589]]" prototype="3552 -2196 -1216 752 0 0"/>
+    <Direction color="255,255,255" name="203" orbit="[[78,-45,61],[89,-49,61]]" prototype="1852 -1144 -376 232 376 -232"/>
+    <Direction color="255,255,255" name="206" orbit="[[2092,-1281,551],[-1035,663,551]]" prototype="-1521 940 762 -471 -291 179"/>
+    <Direction color="255,255,255" name="205" orbit="[[348,-181,461],[-303,249,461]]" prototype="-182 112 180 -112 -180 112"/>
+    <Direction color="255,255,255" name="208" orbit="[[348,-181,461],[-303,249,461]]" prototype="-292 181 113 -69 -1 0"/>
+    <Direction color="255,255,255" name="207" orbit="[[-372,291,551],[439,-179,551]]" prototype="1700 -1050 -652 404 0 0"/>
+    <Direction color="255,255,255" name="209" orbit="[[2338,-1429,551],[-641,417,551]]" prototype="1699 -1050 -474 293 291 -179"/>
+    <Direction color="18,205,148" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="220,76,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="255,255,255" name="97" orbit="[[-96,111,139],[71,-43,139]]" prototype="0 0 -112 70 -72 44"/>
+    <Direction color="255,255,255" name="96" orbit="[[-100,91,121],[51,-21,121]]" prototype="0 0 -98 60 -80 50"/>
+    <Direction color="255,255,255" name="99" orbit="[[-100,91,121],[51,-21,121]]" prototype="0 0 98 -60 80 -50"/>
+    <Direction color="255,255,255" name="98" orbit="[[-96,111,139],[71,-43,139]]" prototype="0 0 112 -70 72 -44"/>
+    <Direction color="255,255,255" name="93" orbit="[[64,-39,79],[-39,25,79]]" prototype="31 -18 -34 21 21 -13"/>
+    <Direction color="255,255,255" name="92" orbit="[[-6,5,19],[-1,4,19]]" prototype="-5 7/2 -17/2 9/2 13/2 -4"/>
+    <Direction color="255,255,255" name="95" orbit="[[33,-18,38],[15,-3,38]]" prototype="-5 7/2 31/2 -9 -4 2"/>
+    <Direction color="255,255,255" name="94" orbit="[[33,-18,38],[15,-3,38]]" prototype="-5 7/2 17/2 -6 13 -8"/>
+    <Direction color="255,255,255" name="190" orbit="[[-8,5,9],[-13,9,9]]" prototype="18 -12 30 -18 -171 105"/>
+    <Direction color="255,255,255" name="192" orbit="[[16364,-9551,36781],[16429,-6867,36781]]" prototype="-4983 3079 3138 -1939 -1072 663"/>
+    <Direction color="255,255,255" name="191" orbit="[[0,0,1],[4,-2,3]]" prototype="-104 64 60 -36 0 0"/>
+    <Direction color="255,255,255" name="194" orbit="[[1296,-795,101],[-299,193,101]]" prototype="-658 406 -488 302 488 -302"/>
+    <Direction color="255,255,255" name="193" orbit="[[1296,-795,101],[-299,193,101]]" prototype="-658 406 -488 302 -488 302"/>
+    <Direction color="255,255,255" name="196" orbit="[[7420,-4035,18601],[4121,-599,18601]]" prototype="-1967 1215 1410 -871 1072 -663"/>
+    <Direction color="255,255,255" name="195" orbit="[[-464,303,311],[783,-453,311]]" prototype="54 -34 -488 302 488 -302"/>
+    <Direction color="255,255,255" name="198" orbit="[[-464,303,311],[783,-453,311]]" prototype="54 -34 -488 302 -488 302"/>
+    <Direction color="255,255,255" name="197" orbit="[[7420,-4035,18601],[4121,-599,18601]]" prototype="-1967 1215 1410 -871 -1072 663"/>
+    <Direction color="255,255,255" name="199" orbit="[[64,181,589],[1061,-653,589]]" prototype="3972 -2454 -1360 840 0 0"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+    <Direction color="255,255,255" name="80" orbit="[[2,-1,2],[0,0,1]]" prototype="-33 21 65 -40 4 -3"/>
+    <Direction color="255,255,255" name="181" orbit="[[2338,-1429,551],[-641,417,551]]" prototype="1699 -1050 -474 293 -291 179"/>
+    <Direction color="255,255,255" name="180" orbit="[[856,-377,2045],[-239,423,2045]]" prototype="805 -498 -430 265 197 -121"/>
+    <Direction color="255,255,255" name="183" orbit="[[348,-181,461],[-303,249,461]]" prototype="292 -181 -113 69 -1 0"/>
+    <Direction color="255,255,255" name="182" orbit="[[2338,-1429,551],[-641,417,551]]" prototype="-1699 1050 474 -293 -291 179"/>
+    <Direction color="255,255,255" name="185" orbit="[[2092,-1281,551],[-1035,663,551]]" prototype="-1521 940 762 -471 291 -179"/>
+    <Direction color="255,255,255" name="184" orbit="[[348,-181,461],[-303,249,461]]" prototype="182 -112 -180 112 180 -112"/>
+    <Direction color="255,255,255" name="187" orbit="[[0,0,1],[4,-2,3]]" prototype="388 -240 -222 138 0 0"/>
+    <Direction color="255,255,255" name="186" orbit="[[2092,-1281,551],[-1035,663,551]]" prototype="1521 -940 -762 471 291 -179"/>
+    <Direction color="255,255,255" name="189" orbit="[[-8,5,9],[-13,9,9]]" prototype="18 -12 30 -18 171 -105"/>
+    <Direction color="255,255,255" name="188" orbit="[[-6,5,19],[0,0,1]]" prototype="-176 108 84 -52 0 0"/>
+    <Direction color="255,255,255" name="79" orbit="[[2,-1,2],[0,0,1]]" prototype="-81 51 -9 6 -54 33"/>
+    <Direction color="255,255,255" name="78" orbit="[[-6,5,19],[-1,4,19]]" prototype="-5 7/2 -3/2 3/2 -21/2 6"/>
+    <Direction color="255,255,255" name="75" orbit="[[38,-23,41],[-23,15,41]]" prototype="20 -12 12 -8 -18 12"/>
+    <Direction color="255,255,255" name="74" orbit="[[64,-39,79],[-39,25,79]]" prototype="-43 26 -26 17 1 -1"/>
+    <Direction color="255,255,255" name="77" orbit="[[2,-1,2],[0,0,1]]" prototype="81 -51 -9 6 -54 33"/>
+    <Direction color="255,255,255" name="76" orbit="[[-6,5,19],[-1,4,19]]" prototype="5 -7/2 -3/2 3/2 -21/2 6"/>
+    <Direction color="255,255,255" name="71" orbit="[[33,-18,38],[15,-3,38]]" prototype="-31/2 9 4 -2 -5 7/2"/>
+    <Direction color="255,255,255" name="70" orbit="[[33,-18,38],[15,-3,38]]" prototype="-17/2 6 -13 8 -5 7/2"/>
+    <Direction color="255,255,255" name="73" orbit="[[-6,5,19],[-1,4,19]]" prototype="5 -7/2 -17/2 9/2 13/2 -4"/>
+    <Direction color="255,255,255" name="72" orbit="[[38,-23,41],[-23,15,41]]" prototype="-29 17 7 -4 -4 3"/>
+    <Direction color="255,255,255" name="91" orbit="[[33,-18,38],[15,-3,38]]" prototype="10 -7 12 -15/2 9/2 -3"/>
+    <Direction color="255,255,255" name="170" orbit="[[33,-18,38],[15,-3,38]]" prototype="-9/2 3 -10 7 -12 15/2"/>
+    <Direction color="255,255,255" name="90" orbit="[[33,-18,38],[15,-3,38]]" prototype="-10 7 12 -15/2 9/2 -3"/>
+    <Direction color="255,255,255" name="172" orbit="[[-6,5,19],[-1,4,19]]" prototype="-13/2 4 -5 7/2 17/2 -9/2"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="255,255,255" name="171" orbit="[[33,-18,38],[15,-3,38]]" prototype="-9/2 3 10 -7 -12 15/2"/>
+    <Direction color="255,255,255" name="174" orbit="[[33,-18,38],[15,-3,38]]" prototype="-13 8 -5 7/2 -17/2 6"/>
+    <Direction color="255,255,255" name="173" orbit="[[64,-39,79],[-39,25,79]]" prototype="-21 13 31 -18 34 -21"/>
+    <Direction color="255,255,255" name="176" orbit="[[856,-377,2045],[-239,423,2045]]" prototype="-805 498 430 -265 -197 121"/>
+    <Direction color="255,255,255" name="175" orbit="[[33,-18,38],[15,-3,38]]" prototype="4 -2 -5 7/2 -31/2 9"/>
+    <Direction color="255,255,255" name="178" orbit="[[-372,291,551],[439,-179,551]]" prototype="-1700 1050 652 -404 0 0"/>
+    <Direction color="255,255,255" name="177" orbit="[[856,-377,2045],[-239,423,2045]]" prototype="-805 498 430 -265 197 -121"/>
+    <Direction color="255,255,255" name="179" orbit="[[348,-181,461],[-303,249,461]]" prototype="182 -112 -180 112 -180 112"/>
+    <Direction color="255,255,255" name="89" orbit="[[33,-18,38],[15,-3,38]]" prototype="5 -7/2 31/2 -9 -4 2"/>
+    <Direction color="255,255,255" name="86" orbit="[[-6,5,19],[-1,4,19]]" prototype="-10 7 -5 3 -2 1"/>
+    <Direction color="255,255,255" name="85" orbit="[[2,-1,2],[0,0,1]]" prototype="0 0 -60 36 78 -48"/>
+    <Direction color="255,255,255" name="88" orbit="[[2,-1,2],[0,0,1]]" prototype="0 0 44 -28 58 -36"/>
+    <Direction color="255,255,255" name="87" orbit="[[-6,5,19],[-1,4,19]]" prototype="10 -7 -5 3 -2 1"/>
+    <Direction color="255,255,255" name="82" orbit="[[2,-1,2],[0,0,1]]" prototype="33 -21 65 -40 4 -3"/>
+    <Direction color="255,255,255" name="81" orbit="[[64,-39,79],[-39,25,79]]" prototype="12 -8 -8 4 -48 30"/>
+    <Direction color="255,255,255" name="84" orbit="[[38,-23,41],[-23,15,41]]" prototype="9 -5 -5 4 28 -17"/>
+    <Direction color="255,255,255" name="83" orbit="[[33,-18,38],[15,-3,38]]" prototype="5 -7/2 17/2 -6 13 -8"/>
+    <Direction color="0,141,54" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="161" orbit="[[64,-39,79],[-39,25,79]]" prototype="48 -30 12 -8 8 -4"/>
+    <Direction color="255,255,255" name="160" orbit="[[2,-1,2],[0,0,1]]" prototype="-4 3 -33 21 -65 40"/>
+    <Direction color="255,255,255" name="163" orbit="[[33,-18,38],[15,-3,38]]" prototype="-13 8 5 -7/2 -17/2 6"/>
+    <Direction color="255,255,255" name="162" orbit="[[2,-1,2],[0,0,1]]" prototype="-4 3 33 -21 -65 40"/>
+    <Direction color="255,255,255" name="165" orbit="[[2,-1,2],[0,0,1]]" prototype="-78 48 0 0 60 -36"/>
+    <Direction color="255,255,255" name="164" orbit="[[38,-23,41],[-23,15,41]]" prototype="-28 17 9 -5 5 -4"/>
+    <Direction color="255,255,255" name="167" orbit="[[-6,5,19],[-1,4,19]]" prototype="2 -1 10 -7 5 -3"/>
+    <Direction color="255,255,255" name="166" orbit="[[-6,5,19],[-1,4,19]]" prototype="2 -1 -10 7 5 -3"/>
+    <Direction color="255,255,255" name="169" orbit="[[33,-18,38],[15,-3,38]]" prototype="4 -2 5 -7/2 -31/2 9"/>
+    <Direction color="255,255,255" name="168" orbit="[[2,-1,2],[0,0,1]]" prototype="-58 36 0 0 -44 28"/>
+    <Direction color="255,255,255" name="57" orbit="[[64,-39,79],[-39,25,79]]" prototype="8 -4 48 -30 12 -8"/>
+    <Direction color="255,255,255" name="56" orbit="[[2,-1,2],[0,0,1]]" prototype="-65 40 -4 3 -33 21"/>
+    <Direction color="255,255,255" name="59" orbit="[[33,-18,38],[15,-3,38]]" prototype="-17/2 6 -13 8 5 -7/2"/>
+    <Direction color="255,255,255" name="58" orbit="[[2,-1,2],[0,0,1]]" prototype="-65 40 -4 3 33 -21"/>
+    <Direction color="255,255,255" name="53" orbit="[[2,-1,2],[0,0,1]]" prototype="9 -6 54 -33 81 -51"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="255,255,255" name="52" orbit="[[-6,5,19],[-1,4,19]]" prototype="3/2 -3/2 21/2 -6 5 -7/2"/>
+    <Direction color="255,255,255" name="55" orbit="[[2,-1,2],[0,0,1]]" prototype="9 -6 54 -33 -81 51"/>
+    <Direction color="255,255,255" name="54" orbit="[[-6,5,19],[-1,4,19]]" prototype="3/2 -3/2 21/2 -6 -5 7/2"/>
+    <Direction color="255,255,255" name="51" orbit="[[38,-23,41],[-23,15,41]]" prototype="-12 8 18 -12 20 -12"/>
+    <Direction color="255,255,255" name="50" orbit="[[64,-39,79],[-39,25,79]]" prototype="26 -17 -1 1 -43 26"/>
+    <Direction color="255,255,255" name="150" orbit="[[-96,111,139],[71,-43,139]]" prototype="72 -44 0 0 112 -70"/>
+    <Direction color="255,255,255" name="152" orbit="[[38,-23,41],[-23,15,41]]" prototype="4 -3 -29 17 -7 4"/>
+    <Direction color="255,255,255" name="151" orbit="[[-100,91,121],[51,-21,121]]" prototype="80 -50 0 0 98 -60"/>
+    <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="154" orbit="[[64,-39,79],[-39,25,79]]" prototype="-1 1 -43 26 26 -17"/>
+    <Direction color="255,255,255" name="153" orbit="[[-6,5,19],[-1,4,19]]" prototype="-13/2 4 5 -7/2 17/2 -9/2"/>
+    <Direction color="255,255,255" name="156" orbit="[[-6,5,19],[-1,4,19]]" prototype="21/2 -6 5 -7/2 3/2 -3/2"/>
+    <Direction color="255,255,255" name="155" orbit="[[38,-23,41],[-23,15,41]]" prototype="18 -12 20 -12 -12 8"/>
+    <Direction color="255,255,255" name="158" orbit="[[-6,5,19],[-1,4,19]]" prototype="21/2 -6 -5 7/2 3/2 -3/2"/>
+    <Direction color="255,255,255" name="157" orbit="[[2,-1,2],[0,0,1]]" prototype="54 -33 81 -51 9 -6"/>
+    <Direction color="255,255,255" name="159" orbit="[[2,-1,2],[0,0,1]]" prototype="54 -33 -81 51 9 -6"/>
+    <Direction color="240,160,0" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,255,255" name="68" orbit="[[-6,5,19],[-1,4,19]]" prototype="17/2 -9/2 -13/2 4 -5 7/2"/>
+    <Direction color="255,255,255" name="67" orbit="[[33,-18,38],[15,-3,38]]" prototype="-12 15/2 -9/2 3 10 -7"/>
+    <Direction color="255,255,255" name="69" orbit="[[64,-39,79],[-39,25,79]]" prototype="34 -21 -21 13 31 -18"/>
+    <Direction color="255,255,255" name="64" orbit="[[2,-1,2],[0,0,1]]" prototype="-44 28 -58 36 0 0"/>
+    <Direction color="255,255,255" name="63" orbit="[[-6,5,19],[-1,4,19]]" prototype="5 -3 2 -1 10 -7"/>
+    <Direction color="255,255,255" name="66" orbit="[[33,-18,38],[15,-3,38]]" prototype="-12 15/2 -9/2 3 -10 7"/>
+    <Direction color="255,255,255" name="65" orbit="[[33,-18,38],[15,-3,38]]" prototype="-31/2 9 4 -2 5 -7/2"/>
+    <Direction color="255,255,255" name="60" orbit="[[38,-23,41],[-23,15,41]]" prototype="5 -4 -28 17 9 -5"/>
+    <Direction color="255,255,255" name="62" orbit="[[-6,5,19],[-1,4,19]]" prototype="5 -3 2 -1 -10 7"/>
+    <Direction color="255,255,255" name="61" orbit="[[2,-1,2],[0,0,1]]" prototype="60 -36 -78 48 0 0"/>
   </SymmetrySystem>
   <OtherSymmetries>
     <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
-      <Direction color="0,118,149" name="blue"/>
-      <Direction color="175,135,255" name="lavender"/>
-      <Direction color="18,205,148" name="turquoise"/>
-      <Direction color="30,30,30" name="black"/>
-      <Direction color="0,141,54" name="green"/>
-      <Direction color="100,113,0" name="olive"/>
-      <Direction color="117,0,50" name="maroon"/>
-      <Direction color="107,53,26" name="brown"/>
-      <Direction color="240,160,0" name="yellow"/>
-      <Direction color="175,0,0" name="red"/>
-      <Direction color="108,0,198" name="purple"/>
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
     </SymmetrySystem>
   </OtherSymmetries>
   <Tools>

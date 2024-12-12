@@ -1,5 +1,5 @@
 ---
-title: blue bobs sprued.vZome
+title: blue bobs sprued
 share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://vorth.github.io/vzome-sharing/2016/01/05/08-00-00-000Z-blue-bobs-sprued/blue-bobs-sprued.png
 layout: design

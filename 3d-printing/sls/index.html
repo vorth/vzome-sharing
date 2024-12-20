@@ -1,0 +1,108 @@
+
+<link rel="stylesheet" type="text/css" href="./style.css">
+
+<script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
+<script type="module" src="./main.js"></script>
+
+<h1>SLS-Printable Zometool Extensions</h1>
+
+<p>
+For all of the remarkable expressiveness of
+<a href="https://zometool.com">The Zometool</a>,
+there are many ways it can be extended.
+Over the years, I have used
+<a href="https://www.vzome.com">vZome</a>
+to design many such extensions.
+I'm offering all of those designs here, free for your use,
+to print yourself if you own a selective laser sintering (SLS) 3D printer,
+or to upload to any printing service like
+<a href="https://shapeways.com">Shapeways</a>.
+(The prior instantiation of Shapeways had a marketplace, and I used to make all of these models available for sale there, with no markup.)
+</p>  
+  
+<div id="design-browser">
+
+  <div id="thumbnails" class="safe-grid-item">
+    <div class="centered-scroller">
+      <div class="scroller-content">
+        <div id="models-grid">
+        </div>      
+      </div>
+    </div>
+  </div>
+
+  <div id="design-details" class="safe-grid-item">
+    <div id="title-and-button" class="safe-grid-item">
+      <div id="design-title"></div>
+      <button id="download-button">Download STL</button>
+    </div>
+    <div id="design-description" class="safe-grid-item"></div>
+
+    <div id="viewer-wrapper" class="safe-grid-item">
+      <vzome-viewer style="width: 100%; height: 100%" id="viewer"
+        src="https://raw.githubusercontent.com/vorth/vzome-sharing/main/2016/06/06/07-00-00-000Z-red-12-bobs-sprued/red-12-bobs-sprued.vZome" >
+      </vzome-viewer>
+    </div>
+  </div>
+
+
+</div>
+
+<h2>Uses</h2>
+
+<p>
+  The most common kind of extension here is custom struts.
+  Some of them are in the standard directions, but in custom lengths not offered by Zometool.
+  Others attach to the ball in one of the three standard holes,
+  but from there they "jog", taking a different direction relative to
+  the icosahedral symmetry of the Zome ball.
+</p>
+
+<p>
+  A second kind of extension here is ball replacements.
+  Often when building Zometool models of 4D polytope projections to 3D,
+  projected struts will intersect each other, and you really don't want to
+  use a Zome ball there, since it is not a vertex of the 4D polytope.
+  Due to a Zometool tradition, these ball replacements are called "bobs".
+</p>
+
+<p>
+  Finally, there are a handful of oddities for very specific situations,
+  for example modeling a shape that requires two green struts and a red strut
+  to all share the same hole in a Zome ball.
+</p>
+
+<p>
+  See the description of each design to learn the context where it is useful.
+</p>
+
+<h2>Caveats and Provisos</h2>
+
+<p>
+  STL is a fairly dumb format, and it cannot carry any color information.
+  The designs here are all shown in vZome-relevant colors, but do not expect your
+  printed parts to magically come out in those colors!  If you print in white nylon material,
+  you can generally use fabric dye (like Rit) to achieve the color you want.
+  Some 3D printing services also offer to dye your models in certain colors, but be careful --
+  all these designs will look alike as white nylon to the printing technicians,
+  so if you order multiple colored prints at the same time they will often get the colors wrong.
+</p>
+
+<p>
+  These designs were specifically designed to lower the cost of printing
+  with Shapeways, which is why the designs are generally grouped and joined together.
+  Other printing services may have different cost criteria.
+</p>
+
+<p>
+  None of these designs are really useful for printing on a typical home 3D printer
+  that uses fused deposition modeling (FDM).  I do have a few designs for that purpose,
+  and I'll try to get a page for those put up soon.
+</p>
+
+<p>
+  I'm happy to offer advice on printing, dyeing, or designing your own objects using vZome,
+  and I always like hearing from vZome users.
+  Find me as "Scott V" on the
+  <a href="https://discord.com/invite/vhyFsNAFPS">vZome Discord server.</a>
+</p>

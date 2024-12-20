@@ -1,0 +1,185 @@
+
+
+/* Basic reset */
+/* 1. Use a more-intuitive box-sizing model */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* 2. Remove default margin */
+* {
+  margin: 0;
+}
+
+body {
+  /* 3. Add accessible line-height */
+  line-height: 1.5;
+  /* 4. Improve text rendering */
+  -webkit-font-smoothing: antialiased;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 5. Improve media defaults */
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* 6. Inherit fonts for form controls */
+input, button, textarea, select {
+  font: inherit;
+}
+
+/* 7. Avoid text overflows */
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+/* 8. Improve line wrapping */
+p {
+  text-wrap: pretty;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
+}
+
+/*
+  9. Create a root stacking context
+*/
+#root, #__next {
+  isolation: isolate;
+}
+
+
+/* %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% site-specific styles %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% */
+
+body {
+  max-width: 800px;
+  margin: auto;
+}
+
+#design-browser {
+  background-color: #082b44;
+  color: rgb(255, 238, 223);
+  font-family: Arial, Helvetica, sans-serif;
+
+  user-select: none;
+  height: 50dvh;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-template-areas:
+    "thumbnails details"
+}
+
+#thumbnails {
+  grid-area: thumbnails;
+}
+
+#models-grid {
+  display: flow-root;
+}
+
+#design-details {
+  grid-area: details;
+  display: grid;
+  grid-template-rows: 1fr 3fr 20fr;
+  grid-template-areas: "title" "description" "viewer";
+}
+
+#title-and-button{
+  grid-area: title;
+}
+
+#design-description {
+  grid-area: description;
+}
+
+#viewer-wrapper {
+  grid-area: viewer;
+}
+
+.model {
+  min-height: 5rem;
+  display: grid;
+  grid-template-columns: 1fr 2.4fr;
+  grid-template-areas: "thumbnail title";
+  gap: 8px;
+  padding-inline: 12px;
+  border: 3px solid #13334b;
+  position: relative;
+}
+
+.viewable:hover {
+  border: 3px solid #b2cee3;
+}
+
+.model-title {
+  grid-area: "title";
+}
+
+.model-thumbnail {
+  grid-area: "thumbnail";
+}
+
+button {
+  border: 2px solid #2d5471;
+  border-radius: 4px;
+  color: rgb(255, 238, 223);
+  background-color: #082b44;
+}
+button:hover {
+  border: 2px solid #b2cee3;
+}
+
+.view-button {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+}
+.download-button {
+  position: absolute;
+  bottom: 10%;
+  right: 5%;
+}
+.safe-grid-item {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.centered-scroller {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  overflow: auto;
+}
+
+.scroller-content {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+}
+
+#viewer {
+  grid-area: canvas;
+  width: 100%;
+  height: 100%
+}
+
+.hidden {
+  display: none;
+}
+
+@media ( max-aspect-ratio: 1/1 ) {
+  #design-browser {
+    grid-template-columns: 1fr;
+    grid-template-rows: 5fr 3fr 10dvh;
+    grid-template-areas:
+      "details"
+      "thumbnails";
+  }
+  #instructions {
+    margin-block-start: 8px;
+  }
+}

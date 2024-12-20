@@ -1,0 +1,1394 @@
+{
+  "result": "success",
+  "modelId": "6873496",
+  "modelVersion": "0",
+  "title": "12 yellow cross-bobs, green plane",
+  "fileName": "yellow-X-bob-green-plane.StL",
+  "vZomeUrl": "https://raw.githubusercontent.com/vorth/vzome-sharing/main/2017/11/21/20-53-21-yellow-X-bob-green-plane/yellow-X-bob-green-plane.vZome",
+  "contentLength": 617770,
+  "fileMd5Checksum": "8350317415f5d1d05517a2c820477bc0",
+  "fileData": null,
+  "description": "This part replaces a Zome ball where you need to have two yellow lines intersecting, lying in the green plane. Its purpose is aesthetic, when you don&#039;t want to use a ball to make the junction. This might happen if you&#039;re trying to represent a mathematical object wherein balls should represent vertices, not false vertices arising from edge intersections.<br />\r\n<br />\r\nTwelve copies are modeled as a single print, with small sprues connecting the individual bobs. They can be twisted apart, then cleaned up with a sharp knife or nail clippers.",
+  "isPublic": true,
+  "isClaimable": false,
+  "isForSale": true,
+  "isDownloadable": true,
+  "materials": {
+    "6": {
+      "materialId": "6",
+      "markup": 0,
+      "isActive": true,
+      "price": 8.97,
+      "name": "White Natural Versatile Plastic",
+      "basePrice": "8.970000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "62": {
+      "materialId": "62",
+      "markup": 0,
+      "isActive": false,
+      "price": 11.35,
+      "name": "White Processed Versatile Plastic",
+      "basePrice": "11.350000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "94": {
+      "materialId": "94",
+      "markup": 0,
+      "isActive": false,
+      "price": 16.1,
+      "name": "Green Processed Versatile Plastic",
+      "basePrice": "16.100000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "95": {
+      "materialId": "95",
+      "markup": 0,
+      "isActive": true,
+      "price": 16.1,
+      "name": "Orange Processed Versatile Plastic",
+      "basePrice": "16.100000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "93": {
+      "materialId": "93",
+      "markup": 0,
+      "isActive": true,
+      "price": 16.1,
+      "name": "Yellow Processed Versatile Plastic",
+      "basePrice": "16.100000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "25": {
+      "materialId": "25",
+      "markup": 0,
+      "isActive": true,
+      "price": 13.73,
+      "name": "Black Natural Versatile Plastic",
+      "basePrice": "13.730000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "76": {
+      "materialId": "76",
+      "markup": 0,
+      "isActive": false,
+      "price": 16.1,
+      "name": "Red Processed Versatile Plastic",
+      "basePrice": "16.100000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "77": {
+      "materialId": "77",
+      "markup": 0,
+      "isActive": false,
+      "price": 16.1,
+      "name": "Pink Processed Versatile Plastic",
+      "basePrice": "16.100000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "78": {
+      "materialId": "78",
+      "markup": 0,
+      "isActive": false,
+      "price": 16.1,
+      "name": "Blue Processed Versatile Plastic",
+      "basePrice": "16.100000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "75": {
+      "materialId": "75",
+      "markup": 0,
+      "isActive": false,
+      "price": 16.1,
+      "name": "Purple Processed Versatile Plastic",
+      "basePrice": "16.100000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "27": {
+      "materialId": "27",
+      "markup": 0,
+      "isActive": false,
+      "price": 14.28,
+      "name": "Natural Sandstone",
+      "basePrice": "14.280000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "98": {
+      "materialId": "98",
+      "markup": 0,
+      "isActive": false,
+      "price": 5808.38,
+      "name": "18K Yellow Gold",
+      "basePrice": "5808.380000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "91": {
+      "materialId": "91",
+      "markup": 0,
+      "isActive": false,
+      "price": 3844.82,
+      "name": "14K Yellow Gold",
+      "basePrice": "3844.820000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "113": {
+      "materialId": "113",
+      "markup": 0,
+      "isActive": false,
+      "price": 197.91,
+      "name": "Rhodium Plated Brass",
+      "basePrice": "197.910000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "112": {
+      "materialId": "112",
+      "markup": 0,
+      "isActive": false,
+      "price": 155.8,
+      "name": "18k Gold Plated Brass",
+      "basePrice": "155.800000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "110": {
+      "materialId": "110",
+      "markup": 0,
+      "isActive": false,
+      "price": 155.8,
+      "name": "14k Gold Plated Brass",
+      "basePrice": "155.800000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "99": {
+      "materialId": "99",
+      "markup": 0,
+      "isActive": false,
+      "price": 6781.89,
+      "name": "Platinum",
+      "basePrice": "6781.890000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "96": {
+      "materialId": "96",
+      "markup": 0,
+      "isActive": false,
+      "price": 3844.82,
+      "name": "14k Rose Gold",
+      "basePrice": "3844.820000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "111": {
+      "materialId": "111",
+      "markup": 0,
+      "isActive": false,
+      "price": 155.8,
+      "name": "14k Rose Gold Plated Brass",
+      "basePrice": "155.800000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "97": {
+      "materialId": "97",
+      "markup": 0,
+      "isActive": false,
+      "price": 3844.82,
+      "name": "14k White Gold",
+      "basePrice": "3844.820000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "87": {
+      "materialId": "87",
+      "markup": 0,
+      "isActive": false,
+      "price": 147.38,
+      "name": "Polished Bronze",
+      "basePrice": "147.380000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "86": {
+      "materialId": "86",
+      "markup": 0,
+      "isActive": false,
+      "price": 105.27,
+      "name": "Natural Bronze",
+      "basePrice": "105.270000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "85": {
+      "materialId": "85",
+      "markup": 0,
+      "isActive": false,
+      "price": 147.38,
+      "name": "Polished Brass",
+      "basePrice": "147.380000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "90": {
+      "materialId": "90",
+      "markup": 0,
+      "isActive": false,
+      "price": 119.32,
+      "name": "Polished and Bronzed Black Steel",
+      "basePrice": "119.320000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "89": {
+      "materialId": "89",
+      "markup": 0,
+      "isActive": false,
+      "price": 101.23,
+      "name": "Matte Black Steel",
+      "basePrice": "101.230000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "84": {
+      "materialId": "84",
+      "markup": 0,
+      "isActive": false,
+      "price": 105.27,
+      "name": "Natural Brass",
+      "basePrice": "105.270000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "81": {
+      "materialId": "81",
+      "markup": 0,
+      "isActive": false,
+      "price": 404.24,
+      "name": "Fine Detail Polished Silver",
+      "basePrice": "404.240000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "54": {
+      "materialId": "54",
+      "markup": 0,
+      "isActive": false,
+      "price": 323.39,
+      "name": "Polished Silver",
+      "basePrice": "323.390000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "53": {
+      "materialId": "53",
+      "markup": 0,
+      "isActive": false,
+      "price": 269.49,
+      "name": "Natural Silver",
+      "basePrice": "269.490000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "23": {
+      "materialId": "23",
+      "markup": 0,
+      "isActive": false,
+      "price": 117.25,
+      "name": "Polished Bronzed-Silver Steel",
+      "basePrice": "117.250000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "38": {
+      "materialId": "38",
+      "markup": 0,
+      "isActive": false,
+      "price": 132.54,
+      "name": "Polished Bronze Steel",
+      "basePrice": "132.540000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "250": {
+      "materialId": "250",
+      "markup": 0,
+      "isActive": false,
+      "price": 41.22,
+      "name": "Tan Fine Detail Plastic",
+      "basePrice": "41.220000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "244": {
+      "materialId": "244",
+      "markup": 0,
+      "isActive": false,
+      "price": 11.56,
+      "name": "White Natural TPE (SLS)",
+      "basePrice": "11.560000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "248": {
+      "materialId": "248",
+      "markup": 0,
+      "isActive": false,
+      "price": 2481.79,
+      "name": "9K Rose Gold ",
+      "basePrice": "2481.790000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "247": {
+      "materialId": "247",
+      "markup": 0,
+      "isActive": false,
+      "price": 2481.79,
+      "name": "9K Yellow Gold ",
+      "basePrice": "2481.790000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "249": {
+      "materialId": "249",
+      "markup": 0,
+      "isActive": false,
+      "price": 508.07,
+      "name": "Vermeil",
+      "basePrice": "508.070000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "252": {
+      "materialId": "252",
+      "markup": 0,
+      "isActive": false,
+      "price": 68.31,
+      "name": "Clear Ultra Fine Detail Plastic",
+      "basePrice": "68.310000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "211": {
+      "materialId": "211",
+      "markup": 0,
+      "isActive": false,
+      "price": 78.43,
+      "name": "Processed Stainless Steel 17-4PH (BJT)",
+      "basePrice": "78.430000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "208": {
+      "materialId": "208",
+      "markup": 0,
+      "isActive": false,
+      "price": 30.33,
+      "name": "Black Smooth Versatile Plastic",
+      "basePrice": "30.330000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "238": {
+      "materialId": "238",
+      "markup": 0,
+      "isActive": false,
+      "price": 30.33,
+      "name": "Yellow Smooth Versatile Plastic",
+      "basePrice": "30.330000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "245": {
+      "materialId": "245",
+      "markup": 0,
+      "isActive": false,
+      "price": 15.88,
+      "name": "Black Natural TPE (SLS)",
+      "basePrice": "15.880000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "241": {
+      "materialId": "241",
+      "markup": 0,
+      "isActive": false,
+      "price": 30.33,
+      "name": "Purple Smooth Versatile Plastic",
+      "basePrice": "30.330000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "237": {
+      "materialId": "237",
+      "markup": 0,
+      "isActive": false,
+      "price": 30.33,
+      "name": "Red Smooth Versatile Plastic",
+      "basePrice": "30.330000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "207": {
+      "materialId": "207",
+      "markup": 0,
+      "isActive": false,
+      "price": 22.71,
+      "name": "White Smooth Versatile Plastic",
+      "basePrice": "22.710000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "242": {
+      "materialId": "242",
+      "markup": 0,
+      "isActive": false,
+      "price": 30.33,
+      "name": "Pink Smooth Versatile Plastic",
+      "basePrice": "30.330000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "221": {
+      "materialId": "221",
+      "markup": 0,
+      "isActive": false,
+      "price": 82.43,
+      "name": "Processed Stainless Steel 316L (BJT)",
+      "basePrice": "82.430000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "236": {
+      "materialId": "236",
+      "markup": 0,
+      "isActive": false,
+      "price": 30.33,
+      "name": "Blue Smooth Versatile Plastic",
+      "basePrice": "30.330000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "240": {
+      "materialId": "240",
+      "markup": 0,
+      "isActive": false,
+      "price": 30.33,
+      "name": "Green Smooth Versatile Plastic",
+      "basePrice": "30.330000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "239": {
+      "materialId": "239",
+      "markup": 0,
+      "isActive": false,
+      "price": 30.33,
+      "name": "Orange Smooth Versatile Plastic",
+      "basePrice": "30.330000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "145": {
+      "materialId": "145",
+      "markup": 0,
+      "isActive": false,
+      "price": 11,
+      "name": "Gray PA12 Glass Beads",
+      "basePrice": "11.000000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "143": {
+      "materialId": "143",
+      "markup": 0,
+      "isActive": false,
+      "price": 18.46,
+      "name": "PA11 (SLS)",
+      "basePrice": "18.460000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "147": {
+      "materialId": "147",
+      "markup": 0,
+      "isActive": false,
+      "price": 31.66,
+      "name": "Accura Xtreme",
+      "basePrice": "31.660000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "150": {
+      "materialId": "150",
+      "markup": 0,
+      "isActive": false,
+      "price": 27.44,
+      "name": "Black Smooth PA12",
+      "basePrice": "27.440000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "148": {
+      "materialId": "148",
+      "markup": 0,
+      "isActive": false,
+      "price": 31.66,
+      "name": "Accura 60",
+      "basePrice": "31.660000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "149": {
+      "materialId": "149",
+      "markup": 0,
+      "isActive": false,
+      "price": 31.66,
+      "name": "Accura Xtreme 200",
+      "basePrice": "31.660000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "156": {
+      "materialId": "156",
+      "markup": 0,
+      "isActive": false,
+      "price": 147.38,
+      "name": "Natural Copper",
+      "basePrice": "147.380000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "157": {
+      "materialId": "157",
+      "markup": 0,
+      "isActive": false,
+      "price": 189.49,
+      "name": "Polished Copper",
+      "basePrice": "189.490000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "137": {
+      "materialId": "137",
+      "markup": 0,
+      "isActive": false,
+      "price": 350.34,
+      "name": "Antique Silver",
+      "basePrice": "350.340000",
+      "isPrintable": true,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "122": {
+      "materialId": "122",
+      "markup": 0,
+      "isActive": false,
+      "price": 22.69,
+      "name": "Black Hi-Def Acrylate",
+      "basePrice": "22.690000",
+      "isPrintable": true,
+      "restrictions": {
+        "4": {
+          "restrictionId": "4",
+          "restrictionName": "Usergroup",
+          "restrictionEntityIds": [
+            "258"
+          ]
+        }
+      }
+    },
+    "136": {
+      "materialId": "136",
+      "markup": 0,
+      "isActive": false,
+      "price": 101.23,
+      "name": "Matte Bronzed-Silver Steel",
+      "basePrice": "101.230000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "130": {
+      "materialId": "130",
+      "markup": 0,
+      "isActive": false,
+      "price": 9.63,
+      "name": "Gray PA12",
+      "basePrice": "9.630000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "131": {
+      "materialId": "131",
+      "markup": 0,
+      "isActive": false,
+      "price": 12.34,
+      "name": "Black PA12",
+      "basePrice": "12.340000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "134": {
+      "materialId": "134",
+      "markup": 0,
+      "isActive": false,
+      "price": 26.24,
+      "name": "Black Premium Versatile Plastic",
+      "basePrice": "26.240000",
+      "isPrintable": true,
+      "restrictions": {
+        "4": {
+          "restrictionId": "4",
+          "restrictionName": "Usergroup",
+          "restrictionEntityIds": [
+            "271"
+          ]
+        }
+      }
+    },
+    "133": {
+      "materialId": "133",
+      "markup": 0,
+      "isActive": false,
+      "price": 21.48,
+      "name": "White Premium Versatile Plastic",
+      "basePrice": "21.480000",
+      "isPrintable": true,
+      "restrictions": {
+        "4": {
+          "restrictionId": "4",
+          "restrictionName": "Usergroup",
+          "restrictionEntityIds": [
+            "271"
+          ]
+        }
+      }
+    },
+    "120": {
+      "materialId": "120",
+      "markup": 0,
+      "isActive": false,
+      "price": 94.38,
+      "name": "Aluminum",
+      "basePrice": "94.380000",
+      "isPrintable": true,
+      "restrictions": null
+    },
+    "268": {
+      "materialId": "268",
+      "markup": 0,
+      "isActive": false,
+      "price": 2720.58,
+      "name": "10K Yellow Gold",
+      "basePrice": "2720.580000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "254": {
+      "materialId": "254",
+      "markup": 0,
+      "isActive": false,
+      "price": 321.39,
+      "name": "14K Yellow Gold plated Brass (3 μm)",
+      "basePrice": "321.390000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "255": {
+      "materialId": "255",
+      "markup": 0,
+      "isActive": false,
+      "price": 197.91,
+      "name": "Black Rhodium Plated Brass (0.5 μm) ",
+      "basePrice": "197.910000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "256": {
+      "materialId": "256",
+      "markup": 0,
+      "isActive": false,
+      "price": 404.24,
+      "name": "Satin Silver ",
+      "basePrice": "404.240000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "228": {
+      "materialId": "228",
+      "markup": 0,
+      "isActive": false,
+      "price": 17.5,
+      "name": "Smooth TPU (MJF)",
+      "basePrice": "17.500000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "212": {
+      "materialId": "212",
+      "markup": 0,
+      "isActive": false,
+      "price": 21.83,
+      "name": "Natural Nylon 6 Mineral Filled (SLS)",
+      "basePrice": "21.830000",
+      "isPrintable": true,
+      "restrictions": {
+        "4": {
+          "restrictionId": "4",
+          "restrictionName": "Usergroup",
+          "restrictionEntityIds": [
+            "343"
+          ]
+        },
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "227": {
+      "materialId": "227",
+      "markup": 0,
+      "isActive": false,
+      "price": 12.5,
+      "name": "Black TPU (MJF)",
+      "basePrice": "12.500000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "229": {
+      "materialId": "229",
+      "markup": 0,
+      "isActive": false,
+      "price": 54,
+      "name": "Natural Polypropylene (SLS)",
+      "basePrice": "54.000000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "226": {
+      "materialId": "226",
+      "markup": 0,
+      "isActive": false,
+      "price": 10,
+      "name": "Natural TPU (MJF)",
+      "basePrice": "10.000000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "213": {
+      "materialId": "213",
+      "markup": 0,
+      "isActive": false,
+      "price": 12.07,
+      "name": "Natural Polypropylene (MJF)",
+      "basePrice": "12.070000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "257": {
+      "materialId": "257",
+      "markup": 0,
+      "isActive": false,
+      "price": 404.24,
+      "name": "Sandblasted Silver ",
+      "basePrice": "404.240000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "146": {
+      "materialId": "146",
+      "markup": 0,
+      "isActive": false,
+      "price": 13.5,
+      "name": "Dark Gray PA12 Glass Beads",
+      "basePrice": "13.500000",
+      "isPrintable": true,
+      "restrictions": {
+        "4": {
+          "restrictionId": "4",
+          "restrictionName": "Usergroup",
+          "restrictionEntityIds": [
+            "355"
+          ]
+        },
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "144": {
+      "materialId": "144",
+      "markup": 0,
+      "isActive": false,
+      "price": 20.74,
+      "name": "TPU (SLS)",
+      "basePrice": "20.740000",
+      "isPrintable": true,
+      "restrictions": {
+        "2": {
+          "restrictionId": "2",
+          "restrictionName": "Owner",
+          "restrictionEntityIds": []
+        }
+      }
+    },
+    "26": {
+      "materialId": "26",
+      "markup": 0,
+      "isActive": false,
+      "price": 14.28,
+      "name": "Natural Full Color Sandstone",
+      "basePrice": "14.280000",
+      "isPrintable": false,
+      "restrictions": null
+    },
+    "180": {
+      "materialId": "180",
+      "markup": 0,
+      "isActive": false,
+      "price": 86.97,
+      "name": "Matte High Definition Full Color",
+      "basePrice": "86.970000",
+      "isPrintable": false,
+      "restrictions": null
+    },
+    "179": {
+      "materialId": "179",
+      "markup": 0,
+      "isActive": false,
+      "price": 83.41,
+      "name": "Standard High Definition Full Color",
+      "basePrice": "83.410000",
+      "isPrintable": false,
+      "restrictions": null
+    },
+    "232": {
+      "materialId": "232",
+      "markup": 0,
+      "isActive": false,
+      "price": 17.19,
+      "name": "Smooth Full Color Nylon 12 (MJF)",
+      "basePrice": "17.190000",
+      "isPrintable": false,
+      "restrictions": null
+    },
+    "231": {
+      "materialId": "231",
+      "markup": 0,
+      "isActive": false,
+      "price": 13.25,
+      "name": "Natural Full Color Nylon 12 (MJF)",
+      "basePrice": "13.250000",
+      "isPrintable": false,
+      "restrictions": null
+    },
+    "117": {
+      "materialId": "117",
+      "markup": 0,
+      "isActive": false,
+      "price": 269.49,
+      "name": "Natural Silver (Interlocking Parts)",
+      "basePrice": "269.490000",
+      "isPrintable": false,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "128": {
+      "materialId": "128",
+      "markup": 0,
+      "isActive": false,
+      "price": 147.38,
+      "name": "Polished Bronze (Interlocking Parts)",
+      "basePrice": "147.380000",
+      "isPrintable": false,
+      "restrictions": null
+    },
+    "121": {
+      "materialId": "121",
+      "markup": 0,
+      "isActive": false,
+      "price": 19.57,
+      "name": "Glossy Full Color Sandstone",
+      "basePrice": "19.570000",
+      "isPrintable": false,
+      "restrictions": null
+    },
+    "118": {
+      "materialId": "118",
+      "markup": 0,
+      "isActive": false,
+      "price": 323.39,
+      "name": "Polished Silver (Interlocking Parts)",
+      "basePrice": "323.390000",
+      "isPrintable": false,
+      "restrictions": {
+        "5": {
+          "restrictionId": "5",
+          "restrictionName": "Block Ship To Country",
+          "restrictionEntityIds": [
+            "204",
+            "243",
+            "221",
+            "215",
+            "154",
+            "127",
+            "98",
+            "15"
+          ]
+        }
+      }
+    },
+    "116": {
+      "materialId": "116",
+      "markup": 0,
+      "isActive": false,
+      "price": 147.38,
+      "name": "Polished Brass (Interlocking Parts)",
+      "basePrice": "147.380000",
+      "isPrintable": false,
+      "restrictions": null
+    },
+    "127": {
+      "materialId": "127",
+      "markup": 0,
+      "isActive": false,
+      "price": 105.27,
+      "name": "Natural Bronze (Interlocking Parts)",
+      "basePrice": "105.270000",
+      "isPrintable": false,
+      "restrictions": null
+    },
+    "115": {
+      "materialId": "115",
+      "markup": 0,
+      "isActive": false,
+      "price": 105.27,
+      "name": "Natural Brass (Interlocking Parts)",
+      "basePrice": "105.270000",
+      "isPrintable": false,
+      "restrictions": null
+    }
+  },
+  "secretKey": "58d2c0f88779d082e20a6569fd022769",
+  "claimKey": "",
+  "defaultMaterialId": "6",
+  "categories": {
+    "34": {
+      "categoryId": "34",
+      "title": "Mathematical Art",
+      "parentId": "16"
+    }
+  },
+  "tags": [
+    "geometry",
+    "mathematical",
+    "vzome",
+    "zome",
+    "zometool"
+  ],
+  "urls": {
+    "privateProductUrl": {
+      "address": "https://www.shapeways.com/product/HW2JEY56A/12-yellow-cross-bobs-green-plane?key=58d2c0f88779d082e20a6569fd022769"
+    },
+    "publicProductUrl": {
+      "address": "https://www.shapeways.com/product/HW2JEY56A/12-yellow-cross-bobs-green-plane"
+    },
+    "editModelUrl": {
+      "address": "https://www.shapeways.com/model/upload-and-buy/6873496"
+    },
+    "editProductDetailsUrl": {
+      "address": "https://www.shapeways.com/product/edit/HW2JEY56A"
+    }
+  },
+  "spin": "HW2JEY56A",
+  "defaultImage": "https://images1.sw-cdn.net/product/picture/710x528_21197468_12005212_1687482503_1_0.jpg",
+  "modelDimensions": {
+    "widthMm": "95.49",
+    "heightMm": "19.66",
+    "depthMm": "74.71",
+    "widthInch": "3.76",
+    "heightInch": "0.77",
+    "depthInch": "2.94"
+  },
+  "modelVolume": {
+    "unit": "cm3",
+    "value": "4.0882"
+  },
+  "printable": "yes",
+  "nextActionSuggestions": {
+    "addModelToShoppingCart": {
+      "method": "POST",
+      "restUrl": "https://api.shapeways.com/orders/cart/v1",
+      "link": "/orders/cart/v1",
+      "parameters": {
+        "modelId": "6873496",
+        "materialId": "int",
+        "count": "int"
+      }
+    },
+    "downloadModel": {
+      "method": "GET",
+      "restUrl": "https://api.shapeways.com/models/6873496/files/0/v1?file=1",
+      "link": "/models/6873496/files/0/v1?file=1"
+    },
+    "updateModelDetails": {
+      "method": "PUT",
+      "restUrl": "https://api.shapeways.com/models/6873496/info/v1",
+      "link": "/models/6873496/info/v1"
+    },
+    "updateModelFile": {
+      "method": "POST",
+      "restUrl": "https://api.shapeways.com/models/6873496/files/v1",
+      "link": "/models/6873496/files/v1"
+    },
+    "deleteModel": {
+      "method": "DELETE",
+      "restUrl": "https://api.shapeways.com/models/6873496/v1",
+      "link": "/models/6873496/v1"
+    },
+    "addModelPhoto": {
+      "method": "POST",
+      "restUrl": "https://api.shapeways.com/models/6873496/photos/v1",
+      "link": "/models/6873496/photos/v1"
+    }
+  }
+}

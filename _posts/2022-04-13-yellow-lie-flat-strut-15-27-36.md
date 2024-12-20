@@ -6,11 +6,8 @@ published: false
 ---
 
 {% comment %}
- - [***web page generated from this source***][post]
- - [data assets and more info][github]
-
-[post]: <https://vorth.github.io/vzome-sharing/2022/04/13/yellow-lie-flat-strut-15-27-36.html>
-[github]: <https://github.com/vorth/vzome-sharing/tree/main/2022/04/13/15-27-36-yellow-lie-flat-strut/>
+ - [***web page generated from this source***](https://vorth.github.io/vzome-sharing/2022/04/13/yellow-lie-flat-strut-15-27-36.html)
+ - [data assets and more info](https://github.com/vorth/vzome-sharing/tree/main/2022/04/13/15-27-36-yellow-lie-flat-strut/)
 {% endcomment %}
 
 <vzome-viewer style="width: 100%; height: 65vh;"

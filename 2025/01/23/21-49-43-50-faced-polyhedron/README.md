@@ -9,8 +9,8 @@
  ```html
 <figure style="width: 87%; margin: 5%">
   
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous load-camera='true' label='prev step'></vzome-viewer-previous><vzome-viewer-next load-camera='true' label='next step'></vzome-viewer-next></div></div>
-  <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
+  
+  <vzome-viewer style="width: 100%; height: 60dvh" 
         src="https://vorth.github.io/vzome-sharing/2025/01/23/21-49-43-50-faced-polyhedron/50-faced-polyhedron.vZome" >
     <img  style="width: 100%"
         src="https://vorth.github.io/vzome-sharing/2025/01/23/21-49-43-50-faced-polyhedron/50-faced-polyhedron.png" >

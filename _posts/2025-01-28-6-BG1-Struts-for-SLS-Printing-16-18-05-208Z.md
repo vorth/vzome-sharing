@@ -1,6 +1,6 @@
 ---
-title: 6 BG1 Struts for SLS Printing
-description: This approximates the original BG1 struts from Zometool, no longer available, necessary for building certain Archimedean solids exactly.
+title: 6 GB1 Struts for SLS Printing
+description: This approximates the original GB1 struts from Zometool, no longer available, necessary for building certain Archimedean solids exactly.
 image: https://vorth.github.io/vzome-sharing/2025/01/28/16-18-05-208Z-6-BG1-Struts-for-SLS-Printing/6-BG1-Struts-for-SLS-Printing.png
 published: true
 layout: vzome
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-[Zometool](https://zometool.com) originally produced these "BG1" struts, having the length of B1 struts but in the green direction,
+[Zometool](https://zometool.com) originally produced these "GB1" struts, having the length of B1 struts but in the green direction,
 for the purpose of building certain Archimedean solids exactly.
 A few years ago, I wrote [an essay about these struts](https://observablehq.com/@vorth/five-tetrahedra) that tells the whole story.
 In that essay, I offered to model these struts in case anyone wanted to 3D-print them,
@@ -28,7 +28,7 @@ as a vZome design and a [downloadable STL file](https://vorth.github.io/vzome-sh
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
-    6 BG1 Struts for SLS Printing
+    6 GB1 Struts for SLS Printing
   </figcaption>
 </figure>
 

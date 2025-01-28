@@ -2,7 +2,7 @@
 title: 6 BG1 Struts for SLS Printing
 description: This approximates the original BG1 struts from Zometool, no longer available, necessary for building certain Archimedean solids exactly.
 image: https://vorth.github.io/vzome-sharing/2025/01/28/16-18-05-208Z-6-BG1-Struts-for-SLS-Printing/6-BG1-Struts-for-SLS-Printing.png
-published: false
+published: true
 layout: vzome
 ---
 
@@ -12,10 +12,14 @@ layout: vzome
  
 {% endcomment %}
 
-This approximates the original BG1 struts from Zometool, no longer available, necessary for building certain Archimedean solids exactly.
+[Zometool](https://zometool.com) originally produced these "BG1" struts, having the length of B1 struts but in the green direction,
+for the purpose of building certain Archimedean solids exactly.
+A few years ago, I wrote [an essay about these struts](https://observablehq.com/@vorth/five-tetrahedra) that tells the whole story.
+In that essay, I offered to model these struts in case anyone wanted to 3D-print them,
+and now someone has accepted my offer... so here they are,
+as a vZome design and a [downloadable STL file](https://vorth.github.io/vzome-sharing/2025/01/28/16-09-15-947Z-6-BG1-Struts-for-SLS-Printing/bg1-for-sls-printing-6.stl).
 
 <figure style="width: 87%; margin: 5%">
-  
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
         src="https://vorth.github.io/vzome-sharing/2025/01/28/16-18-05-208Z-6-BG1-Struts-for-SLS-Printing/6-BG1-Struts-for-SLS-Printing.vZome" >
@@ -27,3 +31,16 @@ This approximates the original BG1 struts from Zometool, no longer available, ne
     6 BG1 Struts for SLS Printing
   </figcaption>
 </figure>
+
+This design does not exactly reproduce the green strut design from Zometool.
+In particular, these struts are slightly narrower in cross-section.
+Therefore, they probably do not reproduce the tight fit when constructing the compound of five tetrahedra,
+as mentioned in [my essay](https://observablehq.com/@vorth/five-tetrahedra).
+
+The struts are connected in a group of six due to the pricing model from the original
+[Shapeways](https://www.shapeways.com/), on the assumption that the revived Shapeways will use a similar model.
+You are, of course, free to use any SLS printing service you like; there are many options now.
+
+This design is *not* really designed for printing on a typical home FDM printer.
+If you are interested in a better design for that, contact me through the [vZome Discord server](https://discord.gg/vhyFsNAFPS).
+

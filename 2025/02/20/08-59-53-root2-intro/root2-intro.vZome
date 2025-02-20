@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="95" field="rootTwo" version="7.1">
+  <EditHistory editNumber="9" lastStickyEdit="7">
+    <Branch>
+      <StrutCreation anchor="0 0 0 0 0 0" index="5" len="0 4" symm="octahedral"/>
+      <StrutCreation anchor="0 0 0 4 0 0" dir="green" index="1" len="0 4" symm="octahedral"/>
+      <StrutCreation anchor="4 0 4 4 0 0" index="0" len="0 4" symm="octahedral"/>
+      <StrutCreation anchor="4 4 4 4 0 0" dir="green" index="3" len="0 4" symm="octahedral"/>
+      <StrutCreation anchor="8 4 0 4 0 0" index="7" len="0 4" symm="octahedral"/>
+      <StrutCreation anchor="8 4 0 0 0 0" dir="green" index="15" len="0 4" symm="octahedral"/>
+      <StrutCreation anchor="4 4 -4 0 0 0" index="12" len="0 4" symm="octahedral"/>
+      <StrutCreation anchor="4 0 -4 0 0 0" dir="green" index="13" len="0 4" symm="octahedral"/>
+      <BeginBlock/>
+      <SelectManifestation point="8 4 0 4 0 0"/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <NewCentroid/>
+      <SelectManifestation point="4 2 0 2 0 0"/>
+      <Delete/>
+      <Snapshot id="0"/>
+    </Branch>
+    <StrutCreation anchor="0 0 0 0 0 0" index="0" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="8 0 0 0 0 0" index="5" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="1" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="5" len="8 0" symm="octahedral"/>
+    <Snapshot id="1"/>
+    <Branch>
+      <SelectAll originLast="true"/>
+      <MapToColor colorMapper="SystemColorMap" symmetry="synestructics"/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="0 4 0 4 0 0" startSegment="0 0 0 0 0 0"/>
+      <SelectManifestation endSegment="0 4 0 4 0 0" startSegment="0 0 0 0 0 0"/>
+      <SelectManifestation endSegment="0 4 0 4 0 0" startSegment="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <setItemColor blue="153" green="0" red="153"/>
+      <Snapshot id="2"/>
+    </Branch>
+    <SelectManifestation point="0 0 8 0 0 0"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes>
+    <page snapshot="1" title="">
+      <ViewModel distance="80.55010986328125" far="161.1002197265625" near="0.2013753056526184" parallel="false" stereoAngle="0.0" width="36.24753952026367">
+        <LookAtPoint x="6.828427314758301" y="2.8284270763397217" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="0" title="">
+      <ViewModel distance="94.52642822265625" far="189.0528564453125" near="0.23631609976291656" parallel="false" stereoAngle="0.0" width="42.53689193725586">
+        <LookAtPoint x="6.828427314758301" y="2.8284270763397217" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="94.52642822265625" far="189.0528564453125" near="0.23631609976291656" parallel="false" stereoAngle="0.0" width="42.53689193725586">
+      <LookAtPoint x="6.828427314758301" y="2.8284270763397217" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="synestructics" renderingStyle="small octahedra">
+    <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="255,41,183" name="magenta" orbit="[[0,0,1],[-1,0,1]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="Tesseractix">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

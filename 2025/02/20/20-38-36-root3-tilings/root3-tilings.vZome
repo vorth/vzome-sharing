@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="95" field="rootThree" version="7.1">
+  <EditHistory editNumber="25" lastStickyEdit="25">
+    <Branch>
+      <StrutCreation anchor="0 0 0 0 0 0" index="10" len="0 9" symm="dodecagonal"/>
+      <StrutCreation anchor="0 9/2 -27/2 0 0 0" index="9" len="0 9" symm="dodecagonal"/>
+      <BeginBlock/>
+      <SelectAll originLast="true"/>
+      <DeselectAll/>
+      <EndBlock/>
+      <StrutCreation anchor="0 9/2 -27/2 0 0 0" index="11" len="0 9" symm="dodecagonal"/>
+      <StrutCreation anchor="27/2 9/2 -27/2 -9/2 0 0" index="9" len="0 9" symm="dodecagonal"/>
+      <StrutCreation anchor="0 9/2 -27/2 -9 0 0" index="11" len="0 9" symm="dodecagonal"/>
+      <SelectAll originLast="true"/>
+      <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+      <DeselectAll/>
+      <StrutCreation anchor="27/2 9/2 -27/2 -27/2 0 0" index="0" len="0 9" symm="dodecagonal"/>
+      <StrutCreation anchor="27/2 27/2 -27/2 -9/2 0 0" index="9" len="0 9" symm="dodecagonal"/>
+      <BeginBlock/>
+      <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+      <DeselectAll/>
+      <StrutCreation anchor="27 27/2 27/2 0 0 0" index="10" len="0 9" symm="dodecagonal"/>
+      <StrutCreation anchor="27 18 0 0 0 0" index="8" len="0 9" symm="dodecagonal"/>
+      <BeginBlock/>
+      <SelectManifestation point="27 18 0 0 0 0"/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+      <Branch>
+        <BeginBlock/>
+        <DeselectAll/>
+        <SelectManifestation point="27/2 9 0 -9/2 0 0"/>
+        <SelectManifestation point="27/2 9 0 9/2 0 0"/>
+        <EndBlock/>
+        <JoinPoints closedLoop="false"/>
+        <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+        <BeginBlock/>
+        <DeselectAll/>
+        <SelectManifestation point="27 27/2 27/2 9 0 0"/>
+        <SelectManifestation point="27/2 27/2 27/2 9/2 0 0"/>
+        <EndBlock/>
+        <JoinPoints closedLoop="false"/>
+        <ApplyTool copyColors="true" name="symmetry.builtin/dodecagonal antiprism around origin" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="0"/>
+      </Branch>
+      <DeselectAll/>
+      <Snapshot id="1"/>
+      <BeginBlock/>
+      <SelectManifestation point="27/2 9/2 27/2 9/2 0 0"/>
+      <SelectManifestation point="27/2 9 0 9/2 0 0"/>
+      <SelectManifestation point="27/2 0 0 9/2 0 0"/>
+      <EndBlock/>
+      <Branch>
+        <Polygon>
+          <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+        </Polygon>
+        <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+        <BeginBlock/>
+        <DeselectAll/>
+        <SelectManifestation point="27/2 27/2 27/2 27/2 0 0"/>
+        <SelectManifestation point="27/2 27/2 27/2 9/2 0 0"/>
+        <SelectManifestation point="27 27/2 27/2 9 0 0"/>
+        <EndBlock/>
+        <Polygon>
+          <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+        </Polygon>
+        <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+        <DeselectAll/>
+        <Snapshot id="2"/>
+      </Branch>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="27/2 27/2 27/2 9/2 0 0"/>
+      <SelectManifestation point="27/2 9 0 9/2 0 0"/>
+      <SelectManifestation point="27 9 0 0 0 0"/>
+      <SelectManifestation point="27 27/2 27/2 0 0 0"/>
+      <EndBlock/>
+      <Polygon>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Polygon>
+      <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="0 9/2 27/2 9 0 0"/>
+      <SelectManifestation point="0 0 0 9 0 0"/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <SelectManifestation point="0 9/2 27/2 0 0 0"/>
+      <EndBlock/>
+      <Polygon>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Polygon>
+      <ApplyTool copyColors="true" name="symmetry.builtin/dodecagonal antiprism around origin" selectInputs="true"/>
+      <DeselectAll/>
+      <Snapshot id="3"/>
+    </Branch>
+    <StrutCreation anchor="0 0 0 0 0 0" index="0" len="27 0" symm="dodecagonal"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="3" len="27 0" symm="dodecagonal"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="2" len="27 0" symm="dodecagonal"/>
+    <StrutCreation anchor="27/2 0 0 27/2 0 0" index="10" len="27 0" symm="dodecagonal"/>
+    <StrutCreation anchor="0 0 27 0 0 0" index="11" len="27 0" symm="dodecagonal"/>
+    <StrutCreation anchor="0 27/2 27/2 0 0 0" index="7" len="27 0" symm="dodecagonal"/>
+    <BeginBlock/>
+    <SelectManifestation point="27/2 0 0 27/2 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="27 0 0 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <SelectManifestation>
+      <polygonVertex at="27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="27 0 0 0 0 0"/>
+    <SelectManifestation point="0 27/2 27/2 0 0 0"/>
+    <SelectManifestation point="27/2 0 0 27/2 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <DeselectAll/>
+    <Snapshot id="4"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="4" title="">
+      <ViewModel distance="237.19424438476562" far="474.38848876953125" near="0.219624325633049" parallel="false" stereoAngle="0.0" width="106.73741149902344">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="3" title="">
+      <ViewModel distance="450.3836364746094" far="900.7672729492188" near="0.41702187061309814" parallel="false" stereoAngle="0.0" width="202.67263793945312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="2" title="">
+      <ViewModel distance="450.3836364746094" far="900.7672729492188" near="0.41702187061309814" parallel="false" stereoAngle="0.0" width="202.67263793945312">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="140,194,231">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="450.3836364746094" far="900.7672729492188" near="0.41702187061309814" parallel="false" stereoAngle="0.0" width="202.67263793945312">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="dodecagonal" renderingStyle="prisms">
+    <Direction color="217,18,24" name="red" orbit="red"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="small octahedra">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[2,-1,1],[0,0,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

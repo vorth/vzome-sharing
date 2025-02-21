@@ -109,7 +109,9 @@
     <SelectManifestation point="0 0 0 0 0 0"/>
     <SelectManifestation point="27 0 0 0 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectAll originLast="true"/>

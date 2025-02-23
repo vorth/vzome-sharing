@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="326" field="heptagon">
+  <EditHistory editNumber="82" lastStickyEdit="82">
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" symm="heptagonal antiprism corrected" index="0" len="1 3 3"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" symm="heptagonal antiprism corrected" index="1" len="2 1 3"/>
+    <StrutCreation anchor="1 3 3 0 0 0 0 0 0" symm="heptagonal antiprism corrected" index="6" outbound="false" len="2 1 3"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 0 0 0 0 0 0 0" endSegment="4 9 10 0 0 0 0 0 0"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0 0 0 0" endSegment="4 0 5 0 9 5 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ScalingTool symmetry="heptagonal antiprism corrected" name="tool-0"/>
+    <DeselectAll/>
+    <Branch>
+      <StrutCreation anchor="0 0 0 0 0 0 0 0 0" symm="heptagonal antiprism corrected" dir="red" index="0" len="0 2 1"/>
+      <BeginBlock/>
+      <SelectManifestation startSegment="0 0 0 0 0 0 0 0 0" endSegment="0 0 0 0 0 0 0 2 1"/>
+      <SelectManifestation point="4 0 5 0 9 5 0 0 0"/>
+      <EndBlock/>
+      <RotationTool corrected="true" symmetry="heptagonal antiprism corrected" name="tool-1"/>
+    </Branch>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <BookmarkTool name="tool-2"/>
+    <DeselectAll/>
+    <Branch>
+      <StrutCreation anchor="0 0 0 0 0 0 0 0 0" symm="heptagonal antiprism corrected" dir="red" index="0" len="0 2 1"/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+      <SelectManifestation startSegment="0 0 0 0 0 0 0 0 0" endSegment="0 0 0 0 0 0 0 2 1"/>
+      <EndBlock/>
+      <RotationTool corrected="true" symmetry="heptagonal antiprism corrected" name="tool-3"/>
+    </Branch>
+    <ApplyTool name="tool-2" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-0" copyColors="true"/>
+    <ApplyTool name="tool-3" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <Snapshot id="0"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="heptagonal antiprism corrected rotation.builtin/rotate around red through origin" deleteInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <Snapshot id="1"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="heptagonal antiprism corrected rotation.builtin/rotate around red through origin" deleteInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <Snapshot id="2"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="heptagonal antiprism corrected rotation.builtin/rotate around red through origin" deleteInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <Snapshot id="3"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="heptagonal antiprism corrected rotation.builtin/rotate around red through origin" deleteInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <Snapshot id="4"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="heptagonal antiprism corrected rotation.builtin/rotate around red through origin" deleteInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <Snapshot id="5"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="heptagonal antiprism corrected rotation.builtin/rotate around red through origin" deleteInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <Snapshot id="6"/>
+  </EditHistory>
+  <SymmetrySystem name="heptagonal antiprism corrected" renderingStyle="heptagonal antiprism">
+    <Direction name="red" orbit="red" color="217,18,24"/>
+    <Direction name="green" orbit="[[-2,0,1,1],[0,0,0,1]]" color="0,153,63"/>
+    <Direction name="blue" orbit="[[0,0,0,1],[0,0,0,1]]" color="0,142,194"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+      <Direction name="blue" orbit="[[0,0,0,1],[0,0,0,1]]" color="0,142,194"/>
+      <Direction name="green" orbit="[[0,0,0,1],[-1,0,0,1]]" color="0,153,63"/>
+      <Direction name="yellow" orbit="[[1,0,0,1],[-1,0,0,1]]" color="255,179,26"/>
+    </SymmetrySystem>
+    <SymmetrySystem name="heptagonal antiprism" renderingStyle="heptagonal antiprism">
+      <Direction name="green" orbit="[[-2,0,1,1],[0,0,0,1]]" color="0,153,63"/>
+      <Direction name="blue" orbit="[[0,0,0,1],[0,0,0,1]]" color="0,142,194"/>
+      <Direction name="red" orbit="red" color="217,18,24"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="scaling 0" selectInputs="false" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-1" label="rotation 1" hidden="true" selectInputs="false" deleteInputs="true" copyColors="true"/>
+    <Tool id="tool-2" label="bookmark 2" selectInputs="true" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-3" label="rotation 3" selectInputs="false" deleteInputs="true" copyColors="true"/>
+  </Tools>
+  <sceneModel ambientLight="51,51,51" background="175,200,220">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="262.14019775390625" far="524.2803955078125" near="0.242722405327691" parallel="false" stereoAngle="0.0" width="117.96308898925781">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="-0.22252093478534796" y="0.9749279119926018" z="0"/>
+      <LookDirection x="0" y="0" z="-0.9999999999999996"/>
+    </ViewModel>
+  </Viewing>
+  <notes>
+    <page title="" snapshot="0">
+      <ViewModel distance="262.14019775390625" far="524.2796020507812" near="0.6553500294685364" parallel="true" stereoAngle="0.0" width="117.96312713623047">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.22252093255519867" y="0.9749279022216797" z="0"/>
+        <LookDirection x="0" y="0" z="-1"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="1">
+      <ViewModel distance="262.14019775390625" far="524.2796020507812" near="0.6553500294685364" parallel="true" stereoAngle="0.0" width="117.96312713623047">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.22252093255519867" y="0.9749279022216797" z="0"/>
+        <LookDirection x="0" y="0" z="-1"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="2">
+      <ViewModel distance="262.14019775390625" far="524.2796020507812" near="0.6553500294685364" parallel="true" stereoAngle="0.0" width="117.96312713623047">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.22252093255519867" y="0.9749279022216797" z="0"/>
+        <LookDirection x="0" y="0" z="-1"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="3">
+      <ViewModel distance="262.14019775390625" far="524.2796020507812" near="0.6553500294685364" parallel="true" stereoAngle="0.0" width="117.96312713623047">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.22252093255519867" y="0.9749279022216797" z="0"/>
+        <LookDirection x="0" y="0" z="-1"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="4">
+      <ViewModel distance="262.14019775390625" far="524.2796020507812" near="0.6553500294685364" parallel="true" stereoAngle="0.0" width="117.96312713623047">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.22252093255519867" y="0.9749279022216797" z="0"/>
+        <LookDirection x="0" y="0" z="-1"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="5">
+      <ViewModel distance="262.14019775390625" far="524.2796020507812" near="0.6553500294685364" parallel="true" stereoAngle="0.0" width="117.96312713623047">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.22252093255519867" y="0.9749279022216797" z="0"/>
+        <LookDirection x="0" y="0" z="-1"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page title="" snapshot="6">
+      <ViewModel distance="262.14019775390625" far="524.2796020507812" near="0.6553500294685364" parallel="true" stereoAngle="0.0" width="117.96312713623047">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="-0.22252093255519867" y="0.9749279022216797" z="0"/>
+        <LookDirection x="0" y="0" z="-1"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+</vzome:vZome>

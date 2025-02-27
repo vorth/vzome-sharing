@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="327" field="rootTwo">
+  <EditHistory editNumber="7" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" symm="octahedral" dir="green" index="1" len="0 1"/>
+    <StrutCreation anchor="1 0 1 0 0 0" symm="octahedral" index="7" len="2 0"/>
+    <StrutCreation anchor="1 0 -1 0 0 0" symm="octahedral" dir="green" index="1" len="0 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" symm="octahedral" dir="green" index="0" len="0 1"/>
+    <StrutCreation anchor="1 0 0 0 1 0" symm="octahedral" dir="green" index="15" len="0 1"/>
+    <SelectManifestation point="3 0 1 0 0 0"/>
+    <DeselectAll/>
+  </EditHistory>
+  <SymmetrySystem name="octahedral" renderingStyle="Schoch lifelike">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+    <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+    <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="synestructics" renderingStyle="small octahedra">
+      <Direction name="orange" orbit="[[0,0,1],[0,0,1]]" color="235,82,0"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+      <Direction name="magenta" orbit="[[0,0,1],[-1,0,1]]" color="255,41,183"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+  <sceneModel ambientLight="51,51,51" background="140,194,231">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="16.828416123216027" far="33.65683224643205" near="0.015581866780755581" parallel="false" stereoAngle="0.0" width="7.572787255447212">
+      <LookAtPoint x="0.5347488762104086" y="0.3308123262051676" z="-0.10502816238452617"/>
+      <UpDirection x="0.6329012975894683" y="-0.5652742562303406" z="-0.5290566725340509"/>
+      <LookDirection x="0.5185196383203268" y="-0.19798074097669757" z="0.8318299170374166"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

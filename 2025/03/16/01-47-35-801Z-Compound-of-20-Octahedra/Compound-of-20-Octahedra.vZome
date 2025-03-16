@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="333" field="sqrtPhi">
+  <EditHistory editNumber="119" lastStickyEdit="71">
+    <ImportSimpleMeshJson scaleAndProject="true" scale="1 0 0 0" projection="Quaternion" quaternion="1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">
+      { 
+  "field":"sqrtPhi",
+  "vertices":[[[2,0,-2,0,1],[0,0,0,0,1],[0,-2,0,2,1]],[[-1,2,0,-1,1],[1,-1,-1,0,1],[2,1,-1,-1,1]],[[-1,-2,0,1,1],[1,1,-1,0,1],[-2,1,1,-1,1]],[[1,2,0,-1,1],[-1,-1,1,0,1],[2,-1,-1,1,1]],[[-2,0,2,0,1],[0,0,0,0,1],[0,2,0,-2,1]],[[1,-2,0,1,1],[-1,1,1,0,1],[-2,-1,1,1,1]],[[1,-2,0,1,1],[1,-1,-1,0,1],[2,1,-1,-1,1]],[[2,1,-1,-1,1],[-1,2,0,-1,1],[-1,1,1,0,1]],[[-1,1,1,0,1],[-2,-1,1,1,1],[1,-2,0,1,1]],[[1,-1,-1,0,1],[2,1,-1,-1,1],[-1,2,0,-1,1]],[[-1,2,0,-1,1],[-1,1,1,0,1],[-2,-1,1,1,1]],[[-2,-1,1,1,1],[1,-2,0,1,1],[1,-1,-1,0,1]],[[2,1,-1,-1,1],[1,-2,0,1,1],[-1,1,1,0,1]],[[-2,1,1,-1,1],[1,2,0,-1,1],[-1,-1,1,0,1]],[[0,-2,0,2,1],[-2,0,2,0,1],[0,0,0,0,1]],[[0,2,0,-2,1],[2,0,-2,0,1],[0,0,0,0,1]],[[-2,-1,1,1,1],[-1,2,0,-1,1],[1,-1,-1,0,1]],[[2,-1,-1,1,1],[-1,-2,0,1,1],[1,1,-1,0,1]],[[0,0,0,0,1],[0,2,0,-2,1],[2,0,-2,0,1]],[[-1,1,1,0,1],[-2,-1,1,1,1],[-1,2,0,-1,1]],[[-1,-1,1,0,1],[2,-1,-1,1,1],[-1,-2,0,1,1]],[[1,1,-1,0,1],[-2,1,1,-1,1],[1,2,0,-1,1]],[[0,0,0,0,1],[0,-2,0,2,1],[-2,0,2,0,1]],[[1,-1,-1,0,1],[2,1,-1,-1,1],[1,-2,0,1,1]],[[0,2,0,-2,1],[2,0,-2,0,1],[0,0,0,0,1]],[[-2,-1,1,1,1],[-1,2,0,-1,1],[-1,1,1,0,1]],[[2,-1,-1,1,1],[-1,-2,0,1,1],[-1,-1,1,0,1]],[[-2,1,1,-1,1],[1,2,0,-1,1],[1,1,-1,0,1]],[[0,-2,0,2,1],[-2,0,2,0,1],[0,0,0,0,1]],[[2,1,-1,-1,1],[1,-2,0,1,1],[1,-1,-1,0,1]],[[-2,-1,1,1,1],[1,-2,0,1,1],[-1,1,1,0,1]],[[1,-1,-1,0,1],[2,1,-1,-1,1],[1,-2,0,1,1]],[[-1,2,0,-1,1],[-1,1,1,0,1],[2,1,-1,-1,1]],[[1,-2,0,1,1],[1,-1,-1,0,1],[-2,-1,1,1,1]],[[2,1,-1,-1,1],[-1,2,0,-1,1],[1,-1,-1,0,1]],[[-1,1,1,0,1],[-2,-1,1,1,1],[-1,2,0,-1,1]],[[1,-1,-1,0,1],[2,1,-1,-1,1],[-1,2,0,-1,1]],[[1,1,-1,0,1],[-2,1,1,-1,1],[-1,-2,0,1,1]],[[0,0,0,0,1],[0,-2,0,2,1],[2,0,-2,0,1]],[[0,0,0,0,1],[0,2,0,-2,1],[-2,0,2,0,1]],[[-1,1,1,0,1],[-2,-1,1,1,1],[1,-2,0,1,1]],[[-1,-1,1,0,1],[2,-1,-1,1,1],[1,2,0,-1,1]],[[-2,0,2,0,1],[0,0,0,0,1],[0,-2,0,2,1]],[[1,-2,0,1,1],[-1,1,1,0,1],[2,1,-1,-1,1]],[[1,2,0,-1,1],[-1,-1,1,0,1],[-2,1,1,-1,1]],[[-1,-2,0,1,1],[1,1,-1,0,1],[2,-1,-1,1,1]],[[2,0,-2,0,1],[0,0,0,0,1],[0,2,0,-2,1]],[[-1,2,0,-1,1],[1,-1,-1,0,1],[-2,-1,1,1,1]],[[1,1,-1,0,1],[-2,1,1,-1,1],[1,2,0,-1,1]],[[-2,1,1,-1,1],[-1,-2,0,1,1],[-1,-1,1,0,1]],[[-1,-2,0,1,1],[1,1,-1,0,1],[2,-1,-1,1,1]],[[1,2,0,-1,1],[-1,-1,1,0,1],[-2,1,1,-1,1]],[[-1,-1,1,0,1],[2,-1,-1,1,1],[-1,-2,0,1,1]],[[2,-1,-1,1,1],[1,2,0,-1,1],[1,1,-1,0,1]],[[-1,-1,1,0,1],[-2,1,1,-1,1],[-1,-2,0,1,1]],[[2,-1,-1,1,1],[-1,-2,0,1,1],[1,1,-1,0,1]],[[1,2,0,-1,1],[1,1,-1,0,1],[-2,1,1,-1,1]],[[-1,-2,0,1,1],[-1,-1,1,0,1],[2,-1,-1,1,1]],[[1,1,-1,0,1],[2,-1,-1,1,1],[1,2,0,-1,1]],[[-2,1,1,-1,1],[1,2,0,-1,1],[-1,-1,1,0,1]],[[1,2,0,-1,1],[-1,-1,1,0,1],[2,-1,-1,1,1]],[[-1,-1,1,0,1],[2,-1,-1,1,1],[1,2,0,-1,1]],[[2,-1,-1,1,1],[1,2,0,-1,1],[-1,-1,1,0,1]],[[-2,1,1,-1,1],[-1,-2,0,1,1],[1,1,-1,0,1]],[[-1,-2,0,1,1],[1,1,-1,0,1],[-2,1,1,-1,1]],[[1,1,-1,0,1],[-2,1,1,-1,1],[-1,-2,0,1,1]],[[-1,-2,0,1,1],[-1,-1,1,0,1],[-2,1,1,-1,1]],[[1,1,-1,0,1],[2,-1,-1,1,1],[-1,-2,0,1,1]],[[-2,1,1,-1,1],[1,2,0,-1,1],[1,1,-1,0,1]],[[2,-1,-1,1,1],[-1,-2,0,1,1],[-1,-1,1,0,1]],[[1,2,0,-1,1],[1,1,-1,0,1],[2,-1,-1,1,1]],[[-1,-1,1,0,1],[-2,1,1,-1,1],[1,2,0,-1,1]],[[0,0,0,0,1],[0,2,0,-2,1],[-2,0,2,0,1]],[[1,-1,-1,0,1],[-2,-1,1,1,1],[1,-2,0,1,1]],[[1,1,-1,0,1],[2,-1,-1,1,1],[1,2,0,-1,1]],[[-1,-1,1,0,1],[-2,1,1,-1,1],[-1,-2,0,1,1]],[[0,0,0,0,1],[0,-2,0,2,1],[2,0,-2,0,1]],[[-1,1,1,0,1],[2,1,-1,-1,1],[-1,2,0,-1,1]],[[1,-1,-1,0,1],[-2,-1,1,1,1],[-1,2,0,-1,1]],[[-1,2,0,-1,1],[1,-1,-1,0,1],[-2,-1,1,1,1]],[[-2,-1,1,1,1],[-1,2,0,-1,1],[1,-1,-1,0,1]],[[2,1,-1,-1,1],[1,-2,0,1,1],[-1,1,1,0,1]],[[-1,1,1,0,1],[2,1,-1,-1,1],[1,-2,0,1,1]],[[1,-2,0,1,1],[-1,1,1,0,1],[2,1,-1,-1,1]],[[1,-2,0,1,1],[1,-1,-1,0,1],[-2,-1,1,1,1]],[[1,2,0,-1,1],[1,1,-1,0,1],[2,-1,-1,1,1]],[[-2,0,2,0,1],[0,0,0,0,1],[0,2,0,-2,1]],[[2,0,-2,0,1],[0,0,0,0,1],[0,-2,0,2,1]],[[-1,2,0,-1,1],[-1,1,1,0,1],[2,1,-1,-1,1]],[[-1,-2,0,1,1],[-1,-1,1,0,1],[-2,1,1,-1,1]],[[0,2,0,-2,1],[-2,0,2,0,1],[0,0,0,0,1]],[[-2,-1,1,1,1],[1,-2,0,1,1],[1,-1,-1,0,1]],[[2,-1,-1,1,1],[1,2,0,-1,1],[1,1,-1,0,1]],[[-2,1,1,-1,1],[-1,-2,0,1,1],[-1,-1,1,0,1]],[[0,-2,0,2,1],[2,0,-2,0,1],[0,0,0,0,1]],[[2,1,-1,-1,1],[-1,2,0,-1,1],[-1,1,1,0,1]],[[-2,1,1,-1,1],[-1,-2,0,1,1],[1,1,-1,0,1]],[[0,-2,0,2,1],[2,0,-2,0,1],[0,0,0,0,1]],[[2,1,-1,-1,1],[-1,2,0,-1,1],[1,-1,-1,0,1]],[[-2,-1,1,1,1],[1,-2,0,1,1],[-1,1,1,0,1]],[[2,-1,-1,1,1],[1,2,0,-1,1],[-1,-1,1,0,1]],[[0,2,0,-2,1],[-2,0,2,0,1],[0,0,0,0,1]],[[-1,1,1,0,1],[2,1,-1,-1,1],[1,-2,0,1,1]],[[-1,-1,1,0,1],[-2,1,1,-1,1],[1,2,0,-1,1]],[[0,0,0,0,1],[0,-2,0,2,1],[-2,0,2,0,1]],[[0,0,0,0,1],[0,2,0,-2,1],[2,0,-2,0,1]],[[1,-1,-1,0,1],[-2,-1,1,1,1],[-1,2,0,-1,1]],[[1,1,-1,0,1],[2,-1,-1,1,1],[-1,-2,0,1,1]],[[-1,-2,0,1,1],[-1,-1,1,0,1],[2,-1,-1,1,1]],[[2,0,-2,0,1],[0,0,0,0,1],[0,2,0,-2,1]],[[-1,2,0,-1,1],[-1,1,1,0,1],[-2,-1,1,1,1]],[[1,-2,0,1,1],[1,-1,-1,0,1],[2,1,-1,-1,1]],[[1,2,0,-1,1],[1,1,-1,0,1],[-2,1,1,-1,1]],[[-2,0,2,0,1],[0,0,0,0,1],[0,-2,0,2,1]],[[-1,1,1,0,1],[2,1,-1,-1,1],[-1,2,0,-1,1]],[[1,-2,0,1,1],[-1,1,1,0,1],[-2,-1,1,1,1]],[[2,1,-1,-1,1],[1,-2,0,1,1],[1,-1,-1,0,1]],[[-2,-1,1,1,1],[-1,2,0,-1,1],[-1,1,1,0,1]],[[1,-1,-1,0,1],[-2,-1,1,1,1],[1,-2,0,1,1]],[[-1,2,0,-1,1],[1,-1,-1,0,1],[2,1,-1,-1,1]]],
+  "edges":[[0,1],[0,2],[0,3],[0,5],[1,2],[1,3],[1,4],[2,4],[2,5],[3,4],[3,5],[4,5],[6,7],[6,8],[6,9],[6,11],[7,8],[7,9],[7,10],[8,10],[8,11],[9,10],[9,11],[10,11],[12,13],[12,14],[12,15],[12,17],[13,14],[13,15],[13,16],[14,16],[14,17],[15,16],[15,17],[16,17],[18,19],[18,20],[18,21],[18,23],[19,20],[19,21],[19,22],[20,22],[20,23],[21,22],[21,23],[22,23],[24,25],[24,26],[24,27],[24,29],[25,26],[25,27],[25,28],[26,28],[26,29],[27,28],[27,29],[28,29],[30,31],[30,32],[30,33],[30,35],[31,32],[31,33],[31,34],[32,34],[32,35],[33,34],[33,35],[34,35],[36,37],[36,38],[36,39],[36,41],[37,38],[37,39],[37,40],[38,40],[38,41],[39,40],[39,41],[40,41],[42,43],[42,44],[42,45],[42,47],[43,44],[43,45],[43,46],[44,46],[44,47],[45,46],[45,47],[46,47],[48,49],[48,50],[48,51],[48,53],[49,50],[49,51],[49,52],[50,52],[50,53],[51,52],[51,53],[52,53],[54,55],[54,56],[54,57],[54,59],[55,56],[55,57],[55,58],[56,58],[56,59],[57,58],[57,59],[58,59],[60,61],[60,62],[60,63],[60,65],[61,62],[61,63],[61,64],[62,64],[62,65],[63,64],[63,65],[64,65],[66,67],[66,68],[66,69],[66,71],[67,68],[67,69],[67,70],[68,70],[68,71],[69,70],[69,71],[70,71],[72,73],[72,74],[72,75],[72,77],[73,74],[73,75],[73,76],[74,76],[74,77],[75,76],[75,77],[76,77],[78,79],[78,80],[78,81],[78,83],[79,80],[79,81],[79,82],[80,82],[80,83],[81,82],[81,83],[82,83],[84,85],[84,86],[84,87],[84,89],[85,86],[85,87],[85,88],[86,88],[86,89],[87,88],[87,89],[88,89],[90,91],[90,92],[90,93],[90,95],[91,92],[91,93],[91,94],[92,94],[92,95],[93,94],[93,95],[94,95],[96,97],[96,98],[96,99],[96,101],[97,98],[97,99],[97,100],[98,100],[98,101],[99,100],[99,101],[100,101],[102,103],[102,104],[102,105],[102,107],[103,104],[103,105],[103,106],[104,106],[104,107],[105,106],[105,107],[106,107],[108,109],[108,110],[108,111],[108,113],[109,110],[109,111],[109,112],[110,112],[110,113],[111,112],[111,113],[112,113],[114,115],[114,116],[114,117],[114,119],[115,116],[115,117],[115,118],[116,118],[116,119],[117,118],[117,119],[118,119]],
+  "faces":[[2,1,0],[3,4,5],[0,1,3],[1,2,4],[2,0,5],[4,3,1],[5,4,2],[3,5,0],[8,7,6],[9,10,11],[6,7,9],[7,8,10],[8,6,11],[10,9,7],[11,10,8],[9,11,6],[14,13,12],[15,16,17],[12,13,15],[13,14,16],[14,12,17],[16,15,13],[17,16,14],[15,17,12],[20,19,18],[21,22,23],[18,19,21],[19,20,22],[20,18,23],[22,21,19],[23,22,20],[21,23,18],[26,25,24],[27,28,29],[24,25,27],[25,26,28],[26,24,29],[28,27,25],[29,28,26],[27,29,24],[32,31,30],[33,34,35],[30,31,33],[31,32,34],[32,30,35],[34,33,31],[35,34,32],[33,35,30],[38,37,36],[39,40,41],[36,37,39],[37,38,40],[38,36,41],[40,39,37],[41,40,38],[39,41,36],[44,43,42],[45,46,47],[42,43,45],[43,44,46],[44,42,47],[46,45,43],[47,46,44],[45,47,42],[50,49,48],[51,52,53],[48,49,51],[49,50,52],[50,48,53],[52,51,49],[53,52,50],[51,53,48],[56,55,54],[57,58,59],[54,55,57],[55,56,58],[56,54,59],[58,57,55],[59,58,56],[57,59,54],[62,61,60],[63,64,65],[60,61,63],[61,62,64],[62,60,65],[64,63,61],[65,64,62],[63,65,60],[68,67,66],[69,70,71],[66,67,69],[67,68,70],[68,66,71],[70,69,67],[71,70,68],[69,71,66],[74,73,72],[75,76,77],[72,73,75],[73,74,76],[74,72,77],[76,75,73],[77,76,74],[75,77,72],[80,79,78],[81,82,83],[78,79,81],[79,80,82],[80,78,83],[82,81,79],[83,82,80],[81,83,78],[86,85,84],[87,88,89],[84,85,87],[85,86,88],[86,84,89],[88,87,85],[89,88,86],[87,89,84],[92,91,90],[93,94,95],[90,91,93],[91,92,94],[92,90,95],[94,93,91],[95,94,92],[93,95,90],[98,97,96],[99,100,101],[96,97,99],[97,98,100],[98,96,101],[100,99,97],[101,100,98],[99,101,96],[104,103,102],[105,106,107],[102,103,105],[103,104,106],[104,102,107],[106,105,103],[107,106,104],[105,107,102],[110,109,108],[111,112,113],[108,109,111],[109,110,112],[110,108,113],[112,111,109],[113,112,110],[111,113,108],[116,115,114],[117,118,119],[114,115,117],[115,116,118],[116,114,119],[118,117,115],[119,118,116],[117,119,114]],
+  "cells":[]
+}
+
+    </ImportSimpleMeshJson>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="SELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="SELECT" panels="IGNORE" originLast="true"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-2 -1 -3 -1 -1 -2 -2 -3 3 -1 5 -2"/>
+      <polygonVertex at="4 0 6 0 0 -2 0 -4 0 0 0 0"/>
+      <polygonVertex at="2 -1 3 -1 -1 2 -2 3 3 1 5 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="4 0 6 0 0 2 0 4 0 0 0 0"/>
+      <polygonVertex at="-2 -1 -3 -1 1 2 2 3 3 -1 5 -2"/>
+      <polygonVertex at="2 -1 3 -1 1 -2 2 -3 3 1 5 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 -1 3 -1 -1 2 -2 3 3 1 5 2"/>
+      <polygonVertex at="-4 0 -6 0 0 2 0 4 0 0 0 0"/>
+      <polygonVertex at="-2 -1 -3 -1 -1 -2 -2 -3 3 -1 5 -2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-4 0 -6 0 0 -2 0 -4 0 0 0 0"/>
+      <polygonVertex at="2 -1 3 -1 1 -2 2 -3 3 1 5 2"/>
+      <polygonVertex at="-2 -1 -3 -1 1 2 2 3 3 -1 5 -2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 1 -3 1 1 -2 2 -3 3 1 5 2"/>
+      <polygonVertex at="4 0 6 0 0 -2 0 -4 0 0 0 0"/>
+      <polygonVertex at="2 1 3 1 1 2 2 3 3 -1 5 -2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="4 0 6 0 0 2 0 4 0 0 0 0"/>
+      <polygonVertex at="-2 1 -3 1 -1 2 -2 3 3 1 5 2"/>
+      <polygonVertex at="2 1 3 1 -1 -2 -2 -3 3 -1 5 -2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <AdjustSelectionByClass balls="IGNORE" struts="IGNORE" panels="SELECT" originLast="true"/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0" index="2" len="4 0 6 0"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 0 0 0 0 0 0 0 0 0 0" endSegment="0 0 0 0 0 0 0 0 4 0 6 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 4 0 6 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 4 0 6 0" index="2" len="4 0 6 0"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 0 0 0 0 0 0 4 0 6 0" endSegment="0 0 0 0 0 0 0 0 8 0 12 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 8 0 12 0"/>
+    <EndBlock/>
+    <ApplyTool name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="SELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="SELECT" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByOrbitLength symmetry="icosahedral" orbit="blue" length="4 0 6 0" struts="DESELECT" panels="IGNORE"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 4 0 6 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 8 0 12 0"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 4 0 6 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 8 0 12 0"/>
+    <EndBlock/>
+    <ApplyTool name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <ShowHidden/>
+    <AdjustSelectionByClass balls="DESELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="SELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <DeselectAll/>
+    <SelectManifestation point="3 -1 5 -2 2 1 3 1 -1 -2 -2 -3"/>
+    <DeselectAll/>
+    <SelectManifestation point="4 0 6 0 0 2 0 4 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-0"/>
+    <ApplyTool name="mirror.builtin/reflection through X=Y green plane" selectInputs="true" deselectOutputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <MapToColor colorMapper="SystemColorMap" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 -2 -3 -2 -1 -3 -1 3 -1 5 -2"/>
+      <polygonVertex at="1 -2 2 -3 -2 1 -3 1 -3 -1 -5 -2"/>
+      <polygonVertex at="0 -2 0 -4 4 0 6 0 0 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" struts="IGNORE" panels="SELECT" originLast="true"/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool name="scaling.builtin/scale down" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" struts="IGNORE" panels="SELECT" originLast="true"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <ApplyTool name="bookmark.builtin/ball at origin" selectInputs="true" copyColors="true"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0" dir="yellow" index="2" len="2 0 3 0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 0 0 0 0 0 0 0 0 0 0" endSegment="0 0 0 0 -2 0 -3 0 5 0 8 0"/>
+    <SelectManifestation point="0 0 0 0 -2 0 -3 0 5 0 8 0"/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0" dir="red" index="31" len="0 2 0 3"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0 0 0 0 0 0 0" endSegment="0 0 0 0 0 -3 0 -5 0 2 0 3"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 -3 0 -5 0 2 0 3"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 -2 0 -3 0 5 0 8 0"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0" index="40" len="0 4 0 6"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0 0 0 0 0 0 0" endSegment="0 -1 0 -2 0 -2 0 -3 0 3 0 5"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -1 0 -2 0 -2 0 -3 0 3 0 5"/>
+    <EndBlock/>
+    <Delete/>
+    <ShowHidden/>
+    <DeselectAll/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid Zome">
+    <Direction prototype="-2 0 2 0 4 0 -2 0 0 4 0 -2" name="5" orbit="[[8,22,-17,-4,19],[-7,14,3,-6,19]]" color="255,255,255"/>
+    <Direction name="green" orbit="[[2,0,-1,0,1],[5,0,-3,0,1]]" color="0,153,63"/>
+    <Direction prototype="-2 -5 1 3 3 -4 -2 3 5 1 -3 0" name="6" orbit="[[-26,-176,-73,184,551],[21,-536,-47,360,551]]" color="255,255,255"/>
+    <Direction prototype="3 3 -1 -2 2 -1 -1 1 3 -2 -2 1" name="3" orbit="[[58,-64,33,-12,59],[-19,-36,37,8,59]]" color="255,255,255"/>
+    <Direction name="sand" orbit="[[-8,0,5,0,1],[5,0,-3,0,1]]" color="154,117,74"/>
+    <Direction prototype="0 6 0 -4 0 -2 0 2 6 0 -4 0" name="4" orbit="[[-52,-20,31,22,131],[13,-126,25,60,131]]" color="255,255,255"/>
+    <Direction prototype="5 3 -3 -2 -2 -1 1 1 3 -6 -2 3" name="1" orbit="[[5,26,1,-18,29],[6,8,7,-10,29]]" color="255,255,255"/>
+    <Direction prototype="3 -3 -1 2 2 1 -1 -1 -3 -2 2 1" name="2" orbit="[[-3,-4,-1,6,11],[2,10,-3,-4,11]]" color="255,255,255"/>
+    <Direction prototype="5 -3 -3 2 -2 1 1 -1 -3 -6 2 3" name="0" orbit="[[46,-384,-25,268,341],[267,84,-197,-16,341]]" color="255,255,255"/>
+    <Direction name="black" orbit="[[-2,0,3,0,11],[-7,0,5,0,11]]" color="50,50,50"/>
+    <Direction name="rose" orbit="[[0,0,0,0,1],[-4,0,3,0,5]]" color="255,51,143"/>
+    <Direction name="turquoise" orbit="[[2,0,-1,0,2],[-3,0,2,0,2]]" color="0,179,161"/>
+    <Direction prototype="-32 12 20 -8 -20 -20 12 12 0 -32 0 20" name="13" orbit="[[15,9,-6,-8,11],[9,-21,-8,15,11]]" color="255,255,255"/>
+    <Direction prototype="-20 32 12 -20 0 -12 0 8 32 20 -20 -12" name="12" orbit="[[76,-62,-83,82,181],[-1,-204,13,118,181]]" color="255,255,255"/>
+    <Direction name="purple" orbit="[[2,0,-1,0,1],[0,0,0,0,1]]" color="125,54,211"/>
+    <Direction prototype="0 -32 0 20 32 12 -20 -8 20 -20 -12 12" name="14" orbit="[[6,-8,2,1,11],[3,7,1,-5,11]]" color="255,255,255"/>
+    <Direction name="orange" orbit="[[-4,0,3,0,5],[3,0,-1,0,5]]" color="235,82,0"/>
+    <Direction name="brown" orbit="[[2,0,-1,0,3],[5,0,-3,0,3]]" color="107,53,26"/>
+    <Direction prototype="32 0 -20 0 -20 0 12 0 0 -40 0 24" name="11" orbit="[[18,-160,57,56,211],[57,56,75,-104,211]]" color="255,255,255"/>
+    <Direction prototype="-20 -32 12 20 0 12 0 -8 -32 20 20 -12" name="10" orbit="[[48,-130,55,32,101],[3,-46,35,2,101]]" color="255,255,255"/>
+    <Direction prototype="1 -2 0 1 -1 3 1 -2 4 1 -3 -1" name="9" orbit="[[26,-100,-7,68,89],[5,104,-39,-28,89]]" color="255,255,255"/>
+    <Direction prototype="-1 -2 0 1 -1 -3 1 2 4 -1 -3 1" name="7" orbit="[[-10,124,1,-48,89],[-65,-84,51,44,89]]" color="255,255,255"/>
+    <Direction prototype="5 -1 -3 0 -2 5 1 -3 3 4 -2 -3" name="8" orbit="[[2,0,-1,0,1],[-31,-176,5,120,71]]" color="255,255,255"/>
+    <Direction name="blue" orbit="[[0,0,0,0,1],[0,0,0,0,1]]" color="0,142,194"/>
+    <Direction name="spruce" orbit="[[-5,0,4,0,11],[-5,0,4,0,11]]" color="18,73,48"/>
+    <Direction name="red" orbit="[[-1,0,1,0,1],[0,0,0,0,1]]" color="217,18,24"/>
+    <Direction name="coral" orbit="[[-3,0,2,0,2],[-1,0,1,0,2]]" color="255,126,106"/>
+    <Direction name="maroon" orbit="[[5,0,-3,0,1],[0,0,0,0,1]]" color="117,0,50"/>
+    <Direction name="sulfur" orbit="[[-1,0,1,0,3],[0,0,0,0,1]]" color="239,245,61"/>
+    <Direction name="yellow" orbit="[[0,0,0,0,1],[2,0,-1,0,1]]" color="255,179,26"/>
+    <Direction name="apple" orbit="[[2,0,-1,0,3],[-1,0,1,0,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,0,-3,0,2],[2,0,-1,0,2]]" color="136,37,0"/>
+    <Direction name="navy" orbit="[[-1,0,1,0,2],[2,0,-1,0,2]]" color="0,0,153"/>
+    <Direction name="lavender" orbit="[[-3,0,2,0,1],[-3,0,2,0,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,0,-1,0,5],[0,0,0,0,1]]" color="100,113,0"/>
+    <Direction prototype="0 12 0 -8 -20 -32 12 20 32 -20 -20 12" name="15" orbit="[[3,7,1,-5,11],[6,-8,2,1,11]]" color="255,255,255"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="pentagonal" renderingStyle="Kostick">
+      <Direction prototype="20 0 -12 0 0 -40 0 24 -32 0 20 0" name="48" orbit="[[-1402,826,1012,-682,911],[619,2098,-478,-1183,911]]" color="255,255,255"/>
+      <Direction prototype="-20 -20 12 12 0 -32 0 20 32 -12 -20 8" name="47" orbit="[[144,-19,45,-142,311],[-111,371,-93,-59,311]]" color="255,255,255"/>
+      <Direction prototype="0 -40 0 24 -32 0 20 0 20 0 -12 0" name="49" orbit="[[-2734,1538,1540,-1316,3659],[1132,4754,-469,-2726,3659]]" color="255,255,255"/>
+      <Direction prototype="0 12 0 -8 32 -20 -20 12 -20 -32 12 20" name="44" orbit="[[-1,-3,1,2,1],[2,-2,-1,1,1]]" color="255,255,255"/>
+      <Direction prototype="0 12 0 -8 -32 20 20 -12 -20 -32 12 20" name="9" orbit="[[0,1,0,-1,2],[0,2,0,-1,2]]" color="255,255,255"/>
+      <Direction prototype="32 12 -20 -8 -20 20 12 -12 0 32 0 -20" name="43" orbit="[[-819,679,375,-293,349],[456,1009,-297,-586,349]]" color="255,255,255"/>
+      <Direction prototype="32 20 -20 -12 20 -32 -12 20 0 -12 0 8" name="46" orbit="[[-3,-4,-1,6,11],[1,16,4,-13,22]]" color="255,255,255"/>
+      <Direction prototype="-32 20 20 -12 -20 -32 12 20 0 12 0 -8" name="45" orbit="[[-5,-9,-6,12,19],[5,9,6,-12,19]]" color="255,255,255"/>
+      <Direction prototype="32 0 -20 0 20 0 -12 0 0 40 0 -24" name="6" orbit="[[31,0,-19,0,11],[0,-38,0,24,11]]" color="255,255,255"/>
+      <Direction prototype="-32 -20 20 12 -20 32 12 -20 0 -12 0 8" name="40" orbit="[[-45,451,48,-192,271],[329,39,-98,-150,271]]" color="255,255,255"/>
+      <Direction prototype="-12 0 8 0 12 0 -8 0 12 0 -8 0" name="5" orbit="[[18,-5,21,-30,29],[25,-15,5,-3,29]]" color="255,255,255"/>
+      <Direction prototype="0 -32 0 20 32 -12 -20 8 20 20 -12 -12" name="8" orbit="[[3,7,1,-5,11],[-6,8,-2,-1,11]]" color="255,255,255"/>
+      <Direction prototype="32 0 -20 0 -20 0 12 0 0 -40 0 24" name="42" orbit="[[2,0,-1,0,1],[0,0,0,0,1]]" color="255,255,255"/>
+      <Direction prototype="-20 0 12 0 0 0 0 0 -8 0 4 0" name="7" orbit="[[39,-2,-14,9,38],[-13,-31,11,16,38]]" color="255,255,255"/>
+      <Direction prototype="0 0 0 0 0 0 0 0 2 0 0 0" name="41" orbit="[[2,0,-1,0,1],[0,-5,0,3,1]]" color="255,255,255"/>
+      <Direction prototype="-20 -32 12 20 0 12 0 -8 -32 20 20 -12" name="19" orbit="[[-198,25,84,120,431],[-95,480,-25,-282,431]]" color="255,255,255"/>
+      <Direction prototype="32 20 -20 -12 -20 32 12 -20 0 -12 0 8" name="18" orbit="[[-11,8,-17,14,1],[1,0,2,-2,1]]" color="255,255,255"/>
+      <Direction prototype="0 40 0 -24 -32 0 20 0 -20 0 12 0" name="15" orbit="[[-2734,-1538,1540,1316,3659],[-1132,4754,469,-2726,3659]]" color="255,255,255"/>
+      <Direction prototype="20 32 -12 -20 0 12 0 -8 -32 20 20 -12" name="14" orbit="[[-34,11,20,-2,19],[9,-56,7,24,19]]" color="255,255,255"/>
+      <Direction prototype="0 12 0 -8 -32 20 20 -12 20 32 -12 -20" name="17" orbit="[[-4,1,-1,1,4],[-1,6,-2,-1,4]]" color="255,255,255"/>
+      <Direction prototype="20 -32 -12 20 0 12 0 -8 32 20 -20 -12" name="16" orbit="[[-40,17,-32,31,29],[-44,68,-70,37,29]]" color="255,255,255"/>
+      <Direction name="red" orbit="[[-1,0,0,0,1],[0,2,0,-1,1]]" color="217,18,24"/>
+      <Direction prototype="20 0 -12 0 0 40 0 -24 32 0 -20 0" name="11" orbit="[[2,2,-1,-1,2],[1,-3,-1,2,2]]" color="255,255,255"/>
+      <Direction prototype="-20 20 12 -12 0 -32 0 20 -32 -12 20 8" name="55" orbit="[[161,220,-154,-10,461],[105,-538,100,234,461]]" color="255,255,255"/>
+      <Direction prototype="20 0 -12 0 0 0 0 0 -8 0 4 0" name="10" orbit="[[-22,13,23,-11,38],[11,3,-2,-4,19]]" color="255,255,255"/>
+      <Direction prototype="32 12 -20 -8 20 -20 -12 12 0 -32 0 20" name="54" orbit="[[72,106,594,-537,941],[104,885,-83,-462,941]]" color="255,255,255"/>
+      <Direction prototype="0 -12 0 8 -32 -20 20 12 -20 32 12 -20" name="13" orbit="[[6,3,-9,1,11],[-3,15,-1,-6,11]]" color="255,255,255"/>
+      <Direction prototype="20 20 -12 -12 0 32 0 -20 32 -12 -20 8" name="12" orbit="[[21,-44,40,-12,29],[19,-26,-8,14,29]]" color="255,255,255"/>
+      <Direction prototype="-20 20 12 -12 0 32 0 -20 -32 -12 20 8" name="51" orbit="[[-1,3,1,-1,3],[-3,-1,1,1,3]]" color="255,255,255"/>
+      <Direction prototype="20 -32 -12 20 0 12 0 -8 -32 -20 20 12" name="50" orbit="[[-198,-25,84,-120,431],[95,480,25,-282,431]]" color="255,255,255"/>
+      <Direction prototype="0 40 0 -24 -32 0 20 0 20 0 -12 0" name="53" orbit="[[-1,-3,1,2,2],[-2,2,1,-1,2]]" color="255,255,255"/>
+      <Direction prototype="0 -32 0 20 32 -12 -20 8 -20 -20 12 12" name="52" orbit="[[-1,2,2,-2,1],[3,1,1,-3,1]]" color="255,255,255"/>
+      <Direction name="green" orbit="green" color="0,153,63"/>
+      <Direction name="blue" orbit="[[0,0,0,0,1],[0,0,0,0,1]]" color="0,142,194"/>
+      <Direction prototype="32 -20 -20 12 -20 -32 12 20 0 -12 0 8" name="29" orbit="[[5,9,6,-12,19],[5,9,6,-12,19]]" color="255,255,255"/>
+      <Direction prototype="32 -12 -20 8 20 20 -12 -12 0 -32 0 20" name="26" orbit="[[6,8,2,-1,11],[-3,7,-1,-5,11]]" color="255,255,255"/>
+      <Direction prototype="0 -32 0 20 32 12 -20 -8 20 -20 -12 12" name="25" orbit="[[10,16,-4,-13,11],[1,-1,-1,1,1]]" color="255,255,255"/>
+      <Direction prototype="-8 0 4 0 20 0 -12 0 0 0 0 0" name="28" orbit="[[3,0,-2,0,1],[0,-3,0,2,1]]" color="255,255,255"/>
+      <Direction prototype="0 0 0 0 -8 0 4 0 -20 0 12 0" name="27" orbit="27" color="255,255,255"/>
+      <Direction prototype="-32 0 20 0 -20 0 12 0 0 40 0 -24" name="22" orbit="[[2,0,1,0,5],[0,4,0,-3,5]]" color="255,255,255"/>
+      <Direction prototype="32 -12 -20 8 -20 -20 12 12 0 32 0 -20" name="21" orbit="[[-2,2,-2,1,1],[0,-1,1,0,1]]" color="255,255,255"/>
+      <Direction prototype="0 32 0 -20 32 -12 -20 8 -20 -20 12 12" name="24" orbit="[[-69,62,54,6,209],[-1,21,-5,-9,19]]" color="255,255,255"/>
+      <Direction prototype="0 12 0 -8 32 20 -20 -12 -20 32 12 -20" name="23" orbit="[[-202,284,116,-8,979],[-69,950,-67,-468,979]]" color="255,255,255"/>
+      <Direction prototype="32 -20 -20 12 -20 -32 12 20 0 12 0 -8" name="20" orbit="[[-24,67,-63,31,38],[-27,35,-21,4,38]]" color="255,255,255"/>
+      <Direction prototype="-20 32 12 -20 0 12 0 -8 -32 -20 20 12" name="2" orbit="[[-1,1,-2,2,1],[1,-2,2,-1,1]]" color="255,255,255"/>
+      <Direction prototype="-32 12 20 -8 20 20 -12 -12 0 32 0 -20" name="1" orbit="[[-80,-62,-22,89,101],[-68,119,-49,10,101]]" color="255,255,255"/>
+      <Direction prototype="0 0 0 0 -8 0 4 0 20 0 -12 0" name="4" orbit="[[-124,29,80,-13,59],[26,189,-32,-101,59]]" color="255,255,255"/>
+      <Direction prototype="-12 0 8 0 -12 0 8 0 -12 0 8 0" name="3" orbit="[[-25,-43,47,31,89],[33,71,59,-105,89]]" color="255,255,255"/>
+      <Direction prototype="-32 20 20 -12 -20 -32 12 20 0 -12 0 8" name="0" orbit="[[64,-93,71,1,118],[-47,119,-101,26,118]]" color="255,255,255"/>
+      <Direction prototype="32 20 -20 -12 -20 32 12 -20 0 12 0 -8" name="37" orbit="[[-20,-23,19,7,22],[-1,3,1,-2,2]]" color="255,255,255"/>
+      <Direction prototype="-32 0 20 0 20 0 -12 0 0 -40 0 24" name="36" orbit="[[-1,0,1,0,1],[0,19,0,-12,11]]" color="255,255,255"/>
+      <Direction prototype="0 12 0 -8 -32 -20 20 12 -20 32 12 -20" name="39" orbit="[[20,232,8,-149,31],[178,-6,-121,10,31]]" color="255,255,255"/>
+      <Direction prototype="-20 -20 12 12 0 32 0 -20 32 -12 -20 8" name="38" orbit="[[-156,-325,515,110,2311],[-1065,2981,-1595,-49,2311]]" color="255,255,255"/>
+      <Direction prototype="0 40 0 -24 32 0 -20 0 20 0 -12 0" name="33" orbit="[[30,-105,-3,55,89],[-105,-33,55,30,178]]" color="255,255,255"/>
+      <Direction prototype="20 32 -12 -20 0 -12 0 8 -32 20 20 -12" name="32" orbit="[[1,2,-14,10,19],[-6,26,-11,-3,19]]" color="255,255,255"/>
+      <Direction prototype="20 32 -12 -20 0 12 0 -8 32 -20 -20 12" name="35" orbit="[[-1,-2,14,-10,19],[-6,26,-11,-3,19]]" color="255,255,255"/>
+      <Direction prototype="32 12 -20 -8 20 -20 -12 12 0 32 0 -20" name="34" orbit="[[3,7,1,-5,11],[6,-8,2,1,11]]" color="255,255,255"/>
+      <Direction prototype="12 0 -8 0 -12 0 8 0 12 0 -8 0" name="31" orbit="[[-12,5,-3,6,19],[-1,21,-5,-9,19]]" color="255,255,255"/>
+      <Direction prototype="20 -32 -12 20 0 -12 0 8 -32 -20 20 12" name="30" orbit="[[-190,218,-137,199,331],[37,299,11,-260,331]]" color="255,255,255"/>
+    </SymmetrySystem>
+    <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+      <Direction name="blue" orbit="[[0,0,0,0,1],[0,0,0,0,1]]" color="0,142,194"/>
+      <Direction name="slate" orbit="[[0,-1,0,1,1],[0,0,0,0,1]]" color="108,126,142"/>
+      <Direction prototype="-32 20 20 -12 -20 -32 12 20 0 -12 0 8" name="0" orbit="[[-2,2,1,-1,1],[-1,-3,1,2,1]]" color="255,255,255"/>
+      <Direction name="green" orbit="[[0,0,0,0,1],[-1,0,0,0,1]]" color="0,153,63"/>
+      <Direction prototype="0 -32 0 20 32 12 -20 -8 20 -20 -12 12" name="5" orbit="[[6,-8,2,1,11],[3,7,1,-5,11]]" color="255,255,255"/>
+      <Direction name="ivory" orbit="[[0,0,0,1,1],[0,1,0,0,1]]" color="228,225,199"/>
+      <Direction name="yellow" orbit="[[1,0,0,0,1],[-1,0,0,0,1]]" color="255,179,26"/>
+      <Direction prototype="-20 32 12 -20 0 12 0 -8 -32 -20 20 12" name="2" orbit="[[2,2,-1,-1,1],[-1,3,1,-2,1]]" color="255,255,255"/>
+      <Direction prototype="-32 12 20 -8 20 20 -12 -12 0 32 0 -20" name="1" orbit="[[0,-1,1,0,1],[2,-2,2,-1,1]]" color="255,255,255"/>
+      <Direction name="mauve" orbit="[[0,-1,0,0,1],[0,1,0,0,1]]" color="137,104,112"/>
+      <Direction prototype="32 0 -20 0 20 0 -12 0 0 40 0 -24" name="4" orbit="[[0,2,0,-1,2],[0,-1,0,1,2]]" color="255,255,255"/>
+      <Direction prototype="0 0 0 0 -8 0 4 0 20 0 -12 0" name="3" orbit="[[2,0,-1,0,1],[0,0,0,0,1]]" color="255,255,255"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="bookmark 0" selectInputs="true" deleteInputs="false" copyColors="true"/>
+  </Tools>
+  <sceneModel ambientLight="51,51,51" background="175,200,220">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="136.84952464974856" far="273.6990492994971" near="0.12671252282384127" parallel="false" stereoAngle="0.0" width="61.58228609238685">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="-0.3682532868169699" y="0.8308138356514668" z="-0.4172983192376866"/>
+      <LookDirection x="0.7691501211298424" y="0.02009092306832882" z="-0.6387522571202477"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

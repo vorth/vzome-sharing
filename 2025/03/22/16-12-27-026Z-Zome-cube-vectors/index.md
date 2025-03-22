@@ -7,7 +7,7 @@ layout: design
 
   
   
-  <vzome-viewer style="width: 100%; height: 60dvh" 
+  <vzome-viewer style="width: 100%; height: 60dvh" labels="true"
         src="https://vorth.github.io/vzome-sharing/2025/03/22/16-12-27-026Z-Zome-cube-vectors/Zome-cube-vectors.vZome" >
     <img  style="width: 100%"
         src="https://vorth.github.io/vzome-sharing/2025/03/22/16-12-27-026Z-Zome-cube-vectors/Zome-cube-vectors.png" >

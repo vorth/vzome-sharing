@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="snubCube" version="7.1">
+  <EditHistory editNumber="130" lastStickyEdit="95">
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" dir="snubVertex" index="15" len="1 1 1" sense="minus" symm="octahedral"/>
+    <SelectManifestation point="1 1 1 0 1 0 0 0 1"/>
+    <ApplyTool copyColors="true" name="octahedral.builtin/octahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="1 1 1 0 1 0 0 0 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ConvexHull3d mode=""/>
+    <DeselectAll/>
+    <Branch>
+      <StrutCreation anchor="1 1 1 0 0 1 0 -1 0" index="0" len="1 1 1" symm="octahedral"/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="2 2 2 0 0 1 0 -1 0" startSegment="1 1 1 0 0 1 0 -1 0"/>
+      <SelectManifestation point="1 1 1 0 0 1 0 -1 0"/>
+      <EndBlock/>
+      <MirrorTool name="tool-0"/>
+    </Branch>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="false" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 1 1 1 1 0 1 0"/>
+    <SelectManifestation point="2 2 1 1 1 1 0 1 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 2 1 1 1 1 0 1 0" startSegment="0 0 1 1 1 1 0 1 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 1 1 0 1 0 0 0 1" startSegment="0 0 1 1 1 1 0 1 0"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -1 1 1 1 0 -1 0"/>
+      <polygonVertex at="0 -1 0 1 1 1 0 0 1"/>
+      <polygonVertex at="0 0 1 1 1 1 0 1 0"/>
+      <polygonVertex at="0 1 0 1 1 1 0 0 -1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MirrorTool name="tool-1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 0 -1 0 1 1 1"/>
+      <polygonVertex at="0 1 0 0 0 1 1 1 1"/>
+      <polygonVertex at="0 0 -1 0 1 0 1 1 1"/>
+      <polygonVertex at="0 -1 0 0 0 -1 1 1 1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MirrorTool name="tool-2"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="false" name="tool-1" selectInputs="true"/>
+    <ApplyTool copyColors="false" name="tool-2" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 2 1 1 1 1 2 1 2" startSegment="0 0 1 1 1 1 2 1 2"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 1 0 2 2 1 1 1 1"/>
+    <SelectManifestation point="0 1 0 0 0 1 1 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 1 0 0 0 1 1 1 1" startSegment="0 1 0 2 2 1 1 1 1"/>
+    <EndBlock/>
+    <ApplyTool copyColors="false" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <Branch>
+      <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+      <StrutCreation anchor="0 0 0 0 0 0 0 0 0" dir="yellow" index="13" len="1 1 1" symm="octahedral"/>
+      <SelectManifestation endSegment="-1 -1 -1 1 1 1 1 1 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+      <RotationTool corrected="true" full="true" name="tool-3" symmetry="octahedral"/>
+    </Branch>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 1 1 1 1 0 1 0"/>
+    <SelectManifestation point="2 2 1 1 1 1 2 1 2"/>
+    <EndBlock/>
+    <Branch>
+      <NewCentroid/>
+      <SelectManifestation point="1 1 1 1 1 1 1 1 1"/>
+      <SymmetryTool name="tool-4" symmetry="octahedral"/>
+    </Branch>
+    <SelectToolParameters name="tool-4"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 1 1 1 1 1 1 1"/>
+    <EndBlock/>
+    <SymmetryTool name="tetrahedral.tool-5" symmetry="octahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 1 1 2 1 2 2 2 1" startSegment="2 1 2 2 2 1 1 1 1"/>
+    <SelectManifestation point="1 1 1 2 1 2 2 2 1"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-5" selectInputs="true"/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <AdjustSelectionByClass balls="DESELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
+    <BookmarkTool name="tool-6"/>
+    <setItemColor blue="255" green="102" red="51"/>
+    <SelectManifestation point="0 -1 0 0 0 1 -1 -1 -1"/>
+    <ApplyTool copyColors="true" name="octahedral.builtin/octahedral around origin" selectInputs="true"/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <AdjustSelectionByClass balls="DESELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
+    <setItemColor blue="146" green="220" red="127"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -1 1 1 1 0 -1 0"/>
+      <polygonVertex at="0 -1 0 0 0 1 -1 -1 -1"/>
+      <polygonVertex at="-1 -1 -1 0 1 0 0 0 -1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -1 0 0 0 1 -1 -1 -1"/>
+      <polygonVertex at="0 0 -1 0 -1 0 -1 -1 -1"/>
+      <polygonVertex at="-1 -1 -1 0 1 0 0 0 -1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 0 1 0 -1 -1 -1"/>
+      <polygonVertex at="0 1 0 0 0 -1 -1 -1 -1"/>
+      <polygonVertex at="0 0 -1 0 -1 0 -1 -1 -1"/>
+      <polygonVertex at="0 -1 0 0 0 1 -1 -1 -1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="octahedral.builtin/octahedral around origin" selectInputs="true"/>
+    <BookmarkTool name="tool-7"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 1 2 2 1 0 -1 0"/>
+    <SelectManifestation point="1 1 1 0 0 1 0 -1 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 2 1 1 1 1 0 1 0" startSegment="0 0 1 1 1 1 0 1 0"/>
+    <SelectManifestation endSegment="1 1 1 0 0 1 0 -1 0" startSegment="1 1 1 2 2 1 0 -1 0"/>
+    <EndBlock/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <AdjustSelectionByClass balls="DESELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
+    <setItemColor blue="203" green="150" red="243"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 1 0 0 0 1 1 1 1" startSegment="0 1 0 2 2 1 1 1 1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 1 1 1 1 2 1 2" startSegment="0 1 0 2 2 1 1 1 1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 1 0 0 0 1 1 1 1" startSegment="0 1 0 2 2 1 1 1 1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 1 1 1 1 0 1 0" startSegment="1 1 1 2 2 1 0 -1 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 1 1 0 0 1 0 -1 0" startSegment="1 1 1 2 2 1 0 -1 0"/>
+    <SelectManifestation endSegment="1 1 1 0 0 1 0 -1 0" startSegment="1 1 1 2 2 1 0 -1 0"/>
+    <SelectManifestation endSegment="0 1 0 1 1 1 0 0 -1" startSegment="1 1 1 2 2 1 0 -1 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 1 1 1 1 0 1 0" startSegment="1 1 1 2 2 1 0 -1 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 1 1 2 1 2 0 0 1" startSegment="1 1 1 2 2 1 0 -1 0"/>
+    <SelectManifestation endSegment="2 2 1 1 1 1 0 1 0" startSegment="0 0 1 1 1 1 0 1 0"/>
+    <EndBlock/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <AdjustSelectionByClass balls="DESELECT" originLast="true" panels="IGNORE" struts="IGNORE"/>
+    <setItemColor blue="125" green="164" red="244"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="158.99606323242188" far="317.9917297363281" near="0.39748987555503845" parallel="false" stereoAngle="0.0" width="71.54817199707031">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.06930620968341827" y="0.9975531697273254" z="-7.20759853720665E-4"/>
+      <LookDirection x="0.7109503746032715" y="0.049904268234968185" z="0.7014531493186951"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,0,1],[0,0,0,1]]"/>
+    <Direction color="57,122,31" name="snubTriangleMid" orbit="[[-1,1,0,1],[1,1,-1,1]]"/>
+    <Direction color="255,255,255" name="0" orbit="[[1,-2,1,2],[0,0,0,1]]" prototype="6 8 -6 0 -8 4 0 0 0"/>
+    <Direction color="87,188,48" name="snubTriangle" orbit="[[1,2,-1,2],[-1,2,-1,2]]"/>
+    <Direction color="33,99,166" name="snubSquareMid" orbit="[[-1,1,0,2],[1,3,-2,2]]"/>
+    <Direction color="51,153,255" name="snubSquare" orbit="[[0,2,-1,1],[0,0,0,1]]"/>
+    <Direction color="204,204,0" name="snubVertex" orbit="[[-1,-1,1,1],[0,-2,1,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[0,0,0,1],[-1,0,0,1]]"/>
+    <Direction color="178,178,127" name="snubDiagonal" orbit="[[0,-1,1,2],[0,1,-1,2]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[1,0,0,1],[-1,0,0,1]]"/>
+    <Direction color="255,255,255" name="1" orbit="[[0,0,0,1],[0,-1,1,2]]" prototype="0 0 0 4 12 -8 -6 0 2"/>
+    <Direction color="216,216,208" name="snubFaceNormal" orbit="[[-2,2,1,7],[1,6,-4,7]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries/>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="false" id="tetrahedral.tool-5" label="tetrahedral 5" selectInputs="true"/>
+    <Tool copyColors="false" deleteInputs="false" id="tool-0" label="mirror 0" selectInputs="true"/>
+    <Tool copyColors="false" deleteInputs="false" id="tool-1" label="mirror 1" selectInputs="true"/>
+    <Tool copyColors="false" deleteInputs="false" id="tool-2" label="mirror 2" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-3" label="axial symmetry 3" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-4" label="octahedral 4" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="bookmark 6" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-7" label="bookmark 7" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>

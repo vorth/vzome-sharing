@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
+  <EditHistory editNumber="273" lastStickyEdit="17">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="1 2"/>
+    <SelectManifestation point="1 2 0 0 2 3"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <ConvexHull3d mode="noPanels"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="-1 -2 0 0 2 3"/>
+    <SelectManifestation endSegment="0 0 -2 -3 1 2" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <setItemColor blue="5" green="21" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <RotationTool corrected="true" full="true" name="tool-0" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-2 -3 -1 -2 0 0"/>
+    <setItemColor blue="5" green="121" red="245"/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-1 -2 0 0 -2 -3"/>
+    <setItemColor blue="5" green="245" red="241"/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="SELECT"/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-1 -2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor colorMapper="SystemColorMap" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 0 0 2 3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="-1 -2 0 0 2 3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="0 0 -2 -3 1 2" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="0 0 -2 -3 1 2"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="2 3 1 2 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="2 3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="121" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 -2 -3 1 2" startSegment="0 0 -2 -3 -1 -2"/>
+    <SelectManifestation endSegment="0 0 2 3 1 2" startSegment="0 0 2 3 -1 -2"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="21" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 0 0 -2 -3" startSegment="-1 -2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="-1 -2 0 0 2 3"/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="245" red="241"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor colorMapper="SystemColorMap" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 -2 -3 -1 -2" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="0 0 -2 -3 -1 -2"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 2 3 1 2"/>
+    <SelectManifestation endSegment="0 0 2 3 1 2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="121" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="2 3 1 2 0 0"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="1 2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="-1 -2 0 0 2 3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="1 2 0 0 -2 -3" startSegment="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="245" red="241"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 0 0 -2 -3" startSegment="0 0 -2 -3 -1 -2"/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="1 2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="0 0 2 3 1 2" startSegment="-1 -2 0 0 2 3"/>
+    <SelectManifestation endSegment="-1 -2 0 0 2 3" startSegment="0 0 -2 -3 1 2"/>
+    <SelectManifestation endSegment="0 0 2 3 1 2" startSegment="0 0 2 3 -1 -2"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="21" red="245"/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="IGNORE" struts="SELECT"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="0 0 -2 -3 -1 -2" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="0 0 -2 -3 1 2" startSegment="0 0 -2 -3 -1 -2"/>
+    <EndBlock/>
+    <MapToColor colorMapper="SystemColorMap" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 -2 -3 1 2" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="245" red="241"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 0 0 -2 -3" startSegment="-1 -2 0 0 -2 -3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 -2 -3 -1 -2" startSegment="-1 -2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="0 0 -2 -3 1 2" startSegment="0 0 -2 -3 -1 -2"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="21" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="0 0 -2 -3 -1 -2" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="121" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="1 2 0 0 -2 -3" startSegment="-1 -2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="245" red="241"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-1 -2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="0 0 -2 -3 -1 -2" startSegment="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="21" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 0 0 -2 -3" startSegment="0 0 -2 -3 -1 -2"/>
+    <SelectManifestation endSegment="0 0 -2 -3 -1 -2" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="121" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="0 0 -2 -3 -1 -2"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="245" red="241"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 0 0 2 3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="0 0 -2 -3 -1 -2" startSegment="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="21" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="-1 -2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="121" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="1 2 0 0 -2 -3" startSegment="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="245" red="241"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="1 2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="-2 -3 1 2 0 0" startSegment="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="21" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="1 2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="0 0 -2 -3 -1 -2" startSegment="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="21" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="0 0 -2 -3 1 2"/>
+    <SelectManifestation endSegment="1 2 0 0 -2 -3" startSegment="0 0 -2 -3 -1 -2"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="121" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 0 0 2 3" startSegment="0 0 -2 -3 1 2"/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="0 0 -2 -3 1 2"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="121" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="1 2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="2 3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="-1 -2 0 0 2 3"/>
+    <SelectManifestation endSegment="-1 -2 0 0 2 3" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 2 3 1 2"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="245" red="241"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="0 0 -2 -3 1 2"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="2 3 1 2 0 0"/>
+    <SelectManifestation endSegment="0 0 2 3 1 2" startSegment="-1 -2 0 0 2 3"/>
+    <SelectManifestation endSegment="0 0 2 3 1 2" startSegment="0 0 2 3 -1 -2"/>
+    <SelectManifestation endSegment="0 0 -2 -3 1 2" startSegment="0 0 -2 -3 -1 -2"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="21" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="2 3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 2 3 -1 -2"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="0 0 2 3 1 2"/>
+    <SelectManifestation endSegment="0 0 2 3 1 2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="121" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 2 3 1 2"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="-1 -2 0 0 2 3"/>
+    <SelectManifestation endSegment="-1 -2 0 0 2 3" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="1 2 0 0 -2 -3" startSegment="-1 -2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="0 0 -2 -3 1 2" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="1 2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="2 3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="0 0 -2 -3 -1 -2"/>
+    <EndBlock/>
+    <setItemColor blue="10" green="10" red="10"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 3 1 2"/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <SelectManifestation point="1 2 0 0 -2 -3"/>
+    <SelectManifestation point="-1 -2 0 0 -2 -3"/>
+    <SelectManifestation point="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation point="0 0 -2 -3 1 2"/>
+    <EndBlock/>
+    <setItemColor blue="8" green="8" red="8"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <SelectManifestation point="1 2 0 0 2 3"/>
+    <SelectManifestation point="-1 -2 0 0 2 3"/>
+    <SelectManifestation point="-2 -3 1 2 0 0"/>
+    <SelectManifestation point="2 3 -1 -2 0 0"/>
+    <SelectManifestation point="0 0 -2 -3 -1 -2"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="-1 -2 0 0 2 3" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="-1 -2 0 0 2 3"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="2 3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="0 0 -2 -3 -1 -2"/>
+    <EndBlock/>
+    <setItemColor blue="250" green="250" red="250"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 0 0 2 3"/>
+    <SelectManifestation point="-1 -2 0 0 -2 -3"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -2 -3 -1 -2"/>
+    <SelectManifestation point="-2 -3 1 2 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -2 -3 -1 -2"/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <SelectManifestation point="0 0 2 3 1 2"/>
+    <SelectManifestation point="0 0 -2 -3 1 2"/>
+    <EndBlock/>
+    <setItemColor blue="1" green="233" red="254"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 0 0 -2 -3"/>
+    <SelectManifestation point="1 2 0 0 -2 -3"/>
+    <SelectManifestation point="1 2 0 0 2 3"/>
+    <SelectManifestation point="-1 -2 0 0 2 3"/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="121" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation point="-2 -3 1 2 0 0"/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <SelectManifestation point="2 3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="1 2 0 0 -2 -3"/>
+    <EndBlock/>
+    <MapToColor blue="5" colorMapper="CopyLastSelectedColor" green="21" red="245"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 -2 -3 1 2" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="-2 -3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="1 2 0 0 -2 -3"/>
+    <SelectManifestation endSegment="2 3 1 2 0 0" startSegment="0 0 2 3 1 2"/>
+    <SelectManifestation endSegment="0 0 2 3 -1 -2" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="-1 -2 0 0 2 3" startSegment="-2 -3 1 2 0 0"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="2 3 -1 -2 0 0"/>
+    <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="0 0 -2 -3 -1 -2"/>
+    <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="-1 -2 0 0 2 3"/>
+    <SelectManifestation endSegment="1 2 0 0 -2 -3" startSegment="-1 -2 0 0 -2 -3"/>
+    <SelectManifestation point="0 0 2 3 -1 -2"/>
+    <EndBlock/>
+    <MapToColor blue="1" colorMapper="CopyLastSelectedColor" green="233" red="254"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="140,194,231">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="118.38725280761719" far="236.77450561523438" near="0.10961782932281494" parallel="false" stereoAngle="0.0" width="53.27426528930664">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.3605707883834839" y="0.0764080286026001" z="-0.9295969605445862"/>
+      <LookDirection x="-0.9323620796203613" y="0.05758550390601158" z="-0.3569100797176361"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="false" id="tool-0" label="axial symmetry 0" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>

@@ -12,11 +12,13 @@ layout: zometool
  
 {% endcomment %}
 
+<script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"/>
+
 Today, we will build a large, two layer Zometool model.  The model will have a diameter of over two meters.
 
-<figure style="width: 87%; margin: 5%">
+<figure style="width: 93%; margin: 2%">
   
-  <vzome-viewer style="width: 100%; height: 80dvh"
+  <vzome-viewer style="width: 100%; height: 80dvh" scene="complete end"
         src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.vZome" >
     <img  style="width: 100%"
         src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.png" >
@@ -27,8 +29,6 @@ Today, we will build a large, two layer Zometool model.  The model will have a d
   </figcaption>
 </figure>
 
-After we have completed the model and taken photos, I will update this page with the result, so hang on to this URL so you can show your friends and relatives.
-
 To build the model, we will split into seven teams:
  * one team for the support structures
  * two teams for pentagon modules
@@ -36,11 +36,11 @@ To build the model, we will split into seven teams:
 
 Once we have all the modules ready, we'll build the final model in two halves, then join the halves together.
 
-### Support structure
+## Support structure
 
 We need ***six*** copies of this structure:
 
-<figure style="width: 87%; margin: 5%">
+<figure style="width: 93%; margin: 2%">
   
   <zometool-instructions style="width: 100%; height: 80dvh" module="support"
         src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.vZome" >
@@ -53,11 +53,11 @@ We need ***six*** copies of this structure:
   </figcaption>
 </figure>
 
-### Pentagon module
+## Pentagon module
 
 We need ***six*** copies of this structure from each Pentagon team, for a total of twelve:
 
-<figure style="width: 87%; margin: 5%">
+<figure style="width: 93%; margin: 2%">
   
   <zometool-instructions style="width: 100%; height: 80dvh" module="pentagon"
         src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.vZome" >
@@ -70,11 +70,11 @@ We need ***six*** copies of this structure from each Pentagon team, for a total 
   </figcaption>
 </figure>
 
-### Triangle module
+## Triangle module
 
 We need ***five*** copies of this structure from each Pentagon team, for a total of twenty:
 
-<figure style="width: 87%; margin: 5%">
+<figure style="width: 93%; margin: 2%">
   
   <zometool-instructions style="width: 100%; height: 80dvh" module="triangle"
         src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.vZome" >
@@ -87,12 +87,14 @@ We need ***five*** copies of this structure from each Pentagon team, for a total
   </figcaption>
 </figure>
 
+## Final Assembly
+
 For the final assembly, we will join into two larger teams, each building half of the structure.
 Both halves will be assembled the same way, then we'll flip one half over to make the top half.
 
 One of the teams will add the supports to the bottom half.
 
-<figure style="width: 87%; margin: 5%">
+<figure style="width: 93%; margin: 2%">
   
   <zometool-instructions style="width: 100%; height: 80dvh" module="complete"
         src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.vZome" >
@@ -101,6 +103,11 @@ One of the teams will add the supports to the bottom half.
   </zometool-instructions>
 
   <figcaption style="text-align: center; font-style: italic;">
-    Each half, and final assembly
+    Completed model
   </figcaption>
 </figure>
+
+## Photos
+
+After we have completed the model and taken photos, I will update this page, so hang on to this URL so you can show your friends and relatives.
+

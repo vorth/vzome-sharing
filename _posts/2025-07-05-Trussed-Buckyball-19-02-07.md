@@ -113,6 +113,8 @@ After we have completed the model and taken photos, I will update this page, so 
 
 ## Resources
 
+ * [Zometool Introduction](https://www.vzome.com/docs/zometool-intro.html)
+ 
  * [***Zometool in China***](https://www.zometool.com.cn)
 
  * [***Zometool in USA***](https://www.zometool.com), Europe, Japan, and Korea

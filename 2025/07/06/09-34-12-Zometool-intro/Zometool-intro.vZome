@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
+  <EditHistory editNumber="0" lastStickyEdit="24">
+    <Branch>
+      <Branch>
+        <Branch>
+          <Branch>
+            <Branch>
+              <ReplaceWithShape point="0 0 0 0 0 0" shapes="icosahedral:lifelike"/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+              <DeselectAll/>
+              <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="0 0 0 0 0 0"/>
+              <EndBlock/>
+              <Delete/>
+              <SelectAll originLast="true"/>
+              <setItemColor blue="255" green="255" red="255"/>
+              <Snapshot id="0"/>
+              <Snapshot id="1"/>
+              <BeginBlock/>
+              <SelectManifestation>
+                <polygonVertex at="-1 -3/2 -1/2 -1 3 5"/>
+                <polygonVertex at="0 -3/2 -3/2 0 3 5"/>
+                <polygonVertex at="0 -3/2 3/2 0 3 5"/>
+                <polygonVertex at="-1 -3/2 1/2 1 3 5"/>
+              </SelectManifestation>
+              <SelectManifestation>
+                <polygonVertex at="0 3/2 3/2 0 3 5"/>
+                <polygonVertex at="0 3/2 -3/2 0 3 5"/>
+                <polygonVertex at="1 3/2 -1/2 -1 3 5"/>
+                <polygonVertex at="1 3/2 1/2 1 3 5"/>
+              </SelectManifestation>
+              <SelectManifestation>
+                <polygonVertex at="-1 -3/2 -1/2 -1 3 5"/>
+                <polygonVertex at="0 -3/2 -3/2 0 3 5"/>
+                <polygonVertex at="0 -3/2 3/2 0 3 5"/>
+                <polygonVertex at="-1 -3/2 1/2 1 3 5"/>
+              </SelectManifestation>
+              <EndBlock/>
+              <ShowVertices/>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="1 3/2 1/2 1 3 5"/>
+              <EndBlock/>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="0 3/2 3/2 0 3 5"/>
+              <SelectManifestation point="0 -3/2 3/2 0 3 5"/>
+              <SelectManifestation point="0 -3/2 -3/2 0 3 5"/>
+              <SelectManifestation point="0 3/2 -3/2 0 3 5"/>
+              <EndBlock/>
+              <Polygon>
+                <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+              </Polygon>
+              <StrutCreation anchor="0 -3/2 3/2 0 3 5" index="40" len="2 4"/>
+              <SelectManifestation endSegment="-1 -5/2 1/2 -2 5 8" startSegment="0 -3/2 3/2 0 3 5"/>
+              <MapToColor blue="194" colorMapper="CopyLastSelectedColor" green="142" red="0"/>
+              <BeginBlock/>
+              <SelectManifestation endSegment="-1 -5/2 1/2 -2 5 8" startSegment="0 -3/2 3/2 0 3 5"/>
+              <SelectManifestation point="-1 -5/2 1/2 -2 5 8"/>
+              <EndBlock/>
+              <Delete/>
+              <SelectManifestation>
+                <polygonVertex at="0 3/2 3/2 0 3 5"/>
+                <polygonVertex at="0 -3/2 3/2 0 3 5"/>
+                <polygonVertex at="0 -3/2 -3/2 0 3 5"/>
+                <polygonVertex at="0 3/2 -3/2 0 3 5"/>
+              </SelectManifestation>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="-1 -3/2 1/2 1 3 5"/>
+              <SelectManifestation point="0 -3/2 3/2 0 3 5"/>
+              <EndBlock/>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <Delete/>
+              <SelectManifestation point="-1 -3/2 3/2 1 4 4"/>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <Delete/>
+              <Snapshot id="2"/>
+              <SelectManifestation>
+                <polygonVertex at="1 3/2 1/2 1 3 5"/>
+                <polygonVertex at="3/2 3/2 5/2 -1/2 7/2 9/2"/>
+                <polygonVertex at="1 7/2 -1/2 2 1 5"/>
+                <polygonVertex at="2 3 1 3/2 5/2 4"/>
+              </SelectManifestation>
+              <ShowVertices/>
+              <SelectManifestation point="1 7/2 -1/2 2 1 5"/>
+              <Delete/>
+              <SelectManifestation point="1 7/2 -1/2 2 1 5"/>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="7/2 3 0 0 4 5/2"/>
+              <SelectManifestation point="1 7/2 -1/2 2 1 5"/>
+              <SelectManifestation point="3/2 3/2 5/2 -1/2 7/2 9/2"/>
+              <SelectManifestation point="3/2 3/2 -5/2 1/2 7/2 9/2"/>
+              <SelectManifestation point="1 7/2 1/2 -2 1 5"/>
+              <EndBlock/>
+              <Polygon>
+                <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+              </Polygon>
+              <StrutCreation anchor="7/2 3 0 0 4 5/2" dir="red" index="2" len="1 2"/>
+              <SelectManifestation endSegment="9/2 5 0 0 6 11/2" startSegment="7/2 3 0 0 4 5/2"/>
+              <MapToColor blue="24" colorMapper="CopyLastSelectedColor" green="18" red="217"/>
+              <BeginBlock/>
+              <SelectManifestation point="9/2 5 0 0 6 11/2"/>
+              <SelectManifestation endSegment="9/2 5 0 0 6 11/2" startSegment="7/2 3 0 0 4 5/2"/>
+              <EndBlock/>
+              <Delete/>
+              <SelectManifestation point="7/2 3 0 0 4 5/2"/>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <Delete/>
+              <SelectManifestation>
+                <polygonVertex at="7/2 3 0 0 4 5/2"/>
+                <polygonVertex at="1 7/2 -1/2 2 1 5"/>
+                <polygonVertex at="3/2 3/2 5/2 -1/2 7/2 9/2"/>
+                <polygonVertex at="3/2 3/2 -5/2 1/2 7/2 9/2"/>
+                <polygonVertex at="1 7/2 1/2 -2 1 5"/>
+              </SelectManifestation>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <DeselectAll/>
+              <Snapshot id="3"/>
+              <SelectManifestation>
+                <polygonVertex at="1 3/2 1/2 1 3 5"/>
+                <polygonVertex at="0 0 2 7/2 5/2 4"/>
+                <polygonVertex at="0 0 2 3 2 9/2"/>
+                <polygonVertex at="1/4 3/2 1/2 5/4 13/4 19/4"/>
+              </SelectManifestation>
+              <ShowVertices/>
+              <BeginBlock/>
+              <SelectManifestation point="0 0 2 3 2 9/2"/>
+              <SelectManifestation point="1/4 3/2 1/2 5/4 13/4 19/4"/>
+              <EndBlock/>
+              <Delete/>
+              <SelectManifestation point="1/4 3/2 1/2 5/4 13/4 19/4"/>
+              <Delete/>
+              <SelectManifestation point="0 0 2 3 2 9/2"/>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <BeginBlock/>
+              <SelectManifestation point="0 0 2 3 2 9/2"/>
+              <SelectManifestation point="-1/4 -3/2 1/2 5/4 13/4 19/4"/>
+              <SelectManifestation point="1/4 3/2 1/2 5/4 13/4 19/4"/>
+              <EndBlock/>
+              <Delete/>
+              <BeginBlock/>
+              <SelectManifestation point="1/4 3/2 1/2 5/4 13/4 19/4"/>
+              <SelectManifestation point="0 0 2 3 2 9/2"/>
+              <SelectManifestation point="-1/4 -3/2 1/2 5/4 13/4 19/4"/>
+              <EndBlock/>
+              <Polygon>
+                <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+              </Polygon>
+              <StrutCreation anchor="1/4 3/2 1/2 5/4 13/4 19/4" dir="yellow" index="2" len="1 1"/>
+              <SelectManifestation endSegment="1/4 3/2 -1/2 1/4 21/4 31/4" startSegment="1/4 3/2 1/2 5/4 13/4 19/4"/>
+              <MapToColor blue="26" colorMapper="CopyLastSelectedColor" green="179" red="255"/>
+              <BeginBlock/>
+              <SelectManifestation point="1/4 3/2 -1/2 1/4 21/4 31/4"/>
+              <SelectManifestation endSegment="1/4 3/2 -1/2 1/4 21/4 31/4" startSegment="1/4 3/2 1/2 5/4 13/4 19/4"/>
+              <EndBlock/>
+              <Delete/>
+              <BeginBlock/>
+              <SelectManifestation point="1/4 3/2 1/2 5/4 13/4 19/4"/>
+              <SelectManifestation point="0 0 2 3 2 9/2"/>
+              <SelectManifestation point="-1/4 -3/2 1/2 5/4 13/4 19/4"/>
+              <EndBlock/>
+              <Delete/>
+              <SelectManifestation>
+                <polygonVertex at="1/4 3/2 1/2 5/4 13/4 19/4"/>
+                <polygonVertex at="0 0 2 3 2 9/2"/>
+                <polygonVertex at="-1/4 -3/2 1/2 5/4 13/4 19/4"/>
+              </SelectManifestation>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <DeselectAll/>
+              <Snapshot id="4"/>
+            </Branch>
+            <Branch>
+              <StrutCreation anchor="0 0 0 0 0 0" index="0" len="2 4"/>
+              <BeginBlock/>
+              <SelectManifestation endSegment="2 4 0 0 0 0" startSegment="0 0 0 0 0 0"/>
+              <SelectManifestation point="2 4 0 0 0 0"/>
+              <EndBlock/>
+              <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+              <DeselectAll/>
+              <Snapshot id="5"/>
+            </Branch>
+            <Branch>
+              <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 2"/>
+              <SelectManifestation point="2 3 2 3 2 3"/>
+              <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+              <ConvexHull3d mode="noPanels"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation endSegment="2 3 2 3 2 3" startSegment="0 0 0 0 0 0"/>
+              <SelectManifestation point="0 0 0 0 0 0"/>
+              <DeselectAll/>
+              <EndBlock/>
+              <Snapshot id="6"/>
+            </Branch>
+          </Branch>
+          <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="6" len="1 2"/>
+          <SelectManifestation point="1 2 3 5 0 0"/>
+          <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="1 2 3 5 0 0"/>
+          <SelectManifestation point="-1 -2 3 5 0 0"/>
+          <EndBlock/>
+          <JoinPoints/>
+          <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+          <DeselectAll/>
+          <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="2 3"/>
+          <SelectManifestation endSegment="0 0 3 5 2 3" startSegment="0 0 0 0 0 0"/>
+          <Delete/>
+          <SelectManifestation point="0 0 3 5 2 3"/>
+          <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+          <BeginBlock/>
+          <SelectManifestation point="0 0 3 5 2 3"/>
+          <SelectManifestation point="0 0 3 5 -2 -3"/>
+          <EndBlock/>
+          <Delete/>
+          <BeginBlock/>
+          <SelectManifestation endSegment="1 2 3 5 0 0" startSegment="0 0 0 0 0 0"/>
+          <SelectManifestation point="0 0 0 0 0 0"/>
+          <EndBlock/>
+          <Delete/>
+          <BeginBlock/>
+          <SelectManifestation point="0 0 3 5 -2 -3"/>
+          <SelectManifestation point="0 0 3 5 2 3"/>
+          <EndBlock/>
+          <JoinPoints/>
+          <Snapshot id="7"/>
+          <SelectManifestation point="0 0 3 5 -2 -3"/>
+          <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+          <Snapshot id="8"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="2 3 2 3 -2 -3"/>
+          <SelectManifestation endSegment="2 3 2 3 -2 -3" startSegment="1 2 3 5 0 0"/>
+          <EndBlock/>
+          <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+          <Delete/>
+          <Snapshot id="9"/>
+          <StrutCreation anchor="3 5 2 3 0 0" dir="red" index="30" len="2 3"/>
+          <Snapshot id="10"/>
+        </Branch>
+        <StrutCreation anchor="0 0 0 0 0 0" index="1" len="2 4"/>
+        <StrutCreation anchor="0 0 0 0 0 0" index="0" len="2 2"/>
+        <StrutCreation anchor="0 0 0 0 0 0" index="16" len="2 2"/>
+        <StrutCreation anchor="2 2 0 0 0 0" index="16" len="2 2"/>
+        <BeginBlock/>
+        <SelectManifestation point="2 2 0 0 0 0"/>
+        <SelectNeighbors/>
+        <EndBlock/>
+        <Delete/>
+        <StrutCreation anchor="2 2 -2 -2 0 0" index="1" len="4 6"/>
+        <Snapshot id="11"/>
+        <StrutCreation anchor="2 2 2 4 0 0" index="0" len="2 2"/>
+        <StrutCreation anchor="4 4 2 4 0 0" index="16" len="6 10"/>
+        <SelectManifestation endSegment="4 4 2 4 0 0" startSegment="2 2 2 4 0 0"/>
+        <Delete/>
+        <StrutCreation anchor="2 2 -2 -2 0 0" index="16" len="2 4"/>
+        <Snapshot id="12"/>
+      </Branch>
+      <StrutCreation anchor="0 0 0 0 0 0" index="1" len="2 2"/>
+      <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="1 2"/>
+      <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="47" len="1 1"/>
+      <StrutCreation anchor="-1 -1 0 0 -1 -2" index="1" len="2 2"/>
+      <StrutCreation anchor="-1 -1 2 2 -1 -2" dir="red" index="2" len="2 3"/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 2 2 0 0"/>
+      <SelectManifestation endSegment="0 0 2 2 0 0" startSegment="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <Delete/>
+      <SelectManifestation endSegment="-1 -1 2 2 -1 -2" startSegment="-1 -1 0 0 -1 -2"/>
+      <Delete/>
+      <Snapshot id="13"/>
+      <StrutCreation anchor="-1 -1 2 2 -1 -2" index="1" len="2 2"/>
+      <StrutCreation anchor="-1 -1 4 4 -1 -2" dir="red" index="2" len="3 5"/>
+      <StrutCreation anchor="1 2 2 2 2 3" dir="red" index="2" len="1 2"/>
+      <SelectManifestation endSegment="-1 -1 4 4 -1 -2" startSegment="-1 -1 2 2 -1 -2"/>
+      <Delete/>
+      <Snapshot id="14"/>
+    </Branch>
+    <StrutCreation anchor="0 0 0 0 0 0" index="1" len="2 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="38" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="0" len="0 1"/>
+    <StrutCreation anchor="0 0 2 2 0 0" dir="yellow" index="0" len="0 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 2 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="1 2 2 2 0 -1" index="1" len="2 2"/>
+    <StrutCreation anchor="1 2 2 2 0 -1" dir="yellow" index="38" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 4 4 0 -1"/>
+    <SelectManifestation endSegment="1 2 4 4 0 -1" startSegment="1 2 2 2 0 -1"/>
+    <EndBlock/>
+    <Delete/>
+    <Snapshot id="15"/>
+    <StrutCreation anchor="-2 -3 2 2 1 1" dir="yellow" index="38" len="1 1"/>
+    <StrutCreation anchor="1 2 2 2 0 -1" index="1" len="2 2"/>
+    <StrutCreation anchor="1 2 4 4 0 -1" dir="yellow" index="38" len="2 3"/>
+    <SelectManifestation endSegment="1 2 4 4 0 -1" startSegment="1 2 2 2 0 -1"/>
+    <Delete/>
+    <Snapshot id="16"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="1" title="ball">
+      <ViewModel distance="96.43598937988281" far="192.87200927734375" near="0.2410900890827179" parallel="false" stereoAngle="0.0" width="43.39621353149414">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve">
+The Zome ball has 62 holes in icosahedral symmetry.  Thirty rectangles are for blue struts, twenty triangles are for yellow struts, and twelve pentagons are for red struts.      </content>
+    </page>
+    <page snapshot="2" title="blue">
+      <ViewModel distance="96.43598937988281" far="192.87200927734375" near="0.2410900890827179" parallel="false" stereoAngle="0.0" width="43.39621353149414">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve">
+The blue lines define fifteen mirrors, which form a spherical kaleidoscope that gives us the icosahedral reflection group.  Each mirror is orthogonal to a single blue line, and corresponds to two opposite rectangles on the face of the ball.      </content>
+    </page>
+    <page snapshot="3" title="red">
+      <ViewModel distance="96.43598937988281" far="192.87200927734375" near="0.2410900890827179" parallel="false" stereoAngle="0.0" width="43.39621353149414">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="0.525731086730957" z="-0.8506507873535156"/>
+        <LookDirection x="0.0" y="-0.8506507873535156" z="-0.525731086730957"/>
+      </ViewModel>
+      <content xml:space="preserve">
+The red lines form at the intersection of five mirror planes, and therefore give us fivefold rotational symmetry.  This is why red struts have a pentagonal cross-section.      </content>
+    </page>
+    <page snapshot="4" title="yellow">
+      <ViewModel distance="96.43598937988281" far="192.87200927734375" near="0.2410900890827179" parallel="false" stereoAngle="0.0" width="43.39621353149414">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="0.9341723918914795" z="-0.35682210326194763"/>
+        <LookDirection x="0.0" y="-0.35682210326194763" z="-0.9341723322868347"/>
+      </ViewModel>
+      <content xml:space="preserve">
+The yellow lines form at the intersection of three mirror planes, and therefore give us threefold rotational symmetry.  This is why yellow struts have a triangular cross-section.      </content>
+    </page>
+    <page snapshot="5" title="frame">
+      <ViewModel distance="74.35712432861328" far="148.71424865722656" near="0.06884919106960297" parallel="false" stereoAngle="0.0" width="33.4607048034668">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.22754228115081787" y="0.9730805158615112" z="0.036589786410331726"/>
+        <LookDirection x="-0.9450837969779968" y="-0.2297365814447403" z="0.2324601411819458"/>
+      </ViewModel>
+      <content xml:space="preserve">
+Every blue line forms an orthogonal frame with two other blue lines.  There are five frames in total.  This means you can build a compound of five cubes, even though there is no true cubic symmetry in the system.       </content>
+    </page>
+    <page snapshot="6" title="dodecahedron">
+      <ViewModel distance="110.92778778076172" far="221.85560607910156" near="0.2773195505142212" parallel="false" stereoAngle="0.0" width="49.91750717163086">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.003705899929627776" y="0.9953262805938721" z="-0.09648610651493073"/>
+        <LookDirection x="-0.26995253562927246" y="-0.09389983862638474" z="-0.9582847356796265"/>
+      </ViewModel>
+      <content xml:space="preserve">
+Zome inherently supports building a pentagon, and a dodecahedron, using blue lines.
+
+The center of a dodecahedron is what defines the length of yellow struts relative to blue struts.
+
+Every ball in a connected Zome structure has the same orientation.  Valid structures do not require any bending or twisting.      </content>
+    </page>
+    <page snapshot="7" title="dualize">
+      <ViewModel distance="110.92778778076172" far="221.85560607910156" near="0.2773195505142212" parallel="false" stereoAngle="0.0" width="49.91750717163086">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.33538469672203064" y="0.12245435267686844" z="-0.9340875148773193"/>
+        <LookDirection x="0.031356390565633774" y="-0.9924182891845703" z="-0.1188424602150917"/>
+      </ViewModel>
+      <content xml:space="preserve">
+We can replace every dodecahedron edge with an orthogonal blue strut at one scale larger.      </content>
+    </page>
+    <page snapshot="8" title="duals">
+      <ViewModel distance="110.92778778076172" far="221.85560607910156" near="0.2773195505142212" parallel="false" stereoAngle="0.0" width="49.91750717163086">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.33538469672203064" y="0.12245435267686844" z="-0.9340875148773193"/>
+        <LookDirection x="0.031356390565633774" y="-0.9924182891845703" z="-0.1188424602150917"/>
+      </ViewModel>
+      <content xml:space="preserve">
+Doing this everywhere gives us an icosahedron, the dual of the dodecahedron.      </content>
+    </page>
+    <page snapshot="10" title="icosahedron">
+      <ViewModel distance="108.73126983642578" far="217.4625701904297" near="0.2718282639980316" parallel="false" stereoAngle="0.0" width="48.929073333740234">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.325926274061203" y="-0.08349509537220001" z="-0.9416991472244263"/>
+        <LookDirection x="-0.2653314173221588" y="-0.9641364812850952" z="-0.0063475980423390865"/>
+      </ViewModel>
+      <content xml:space="preserve">
+The center of an icosahedron is what defines the length of red struts relative to blue struts.      </content>
+    </page>
+    <page snapshot="11" title="blue lengths">
+      <ViewModel distance="59.24967575073242" far="118.49935150146484" near="0.054860811680555344" parallel="false" stereoAngle="0.0" width="26.662353515625">
+        <LookAtPoint x="3.0907528400421143" y="1.6881613731384277" z="-0.060083016753196716"/>
+        <UpDirection x="-0.9995846748352051" y="-7.420123438350856E-4" z="0.028808359056711197"/>
+        <LookDirection x="0.028809277340769768" y="-0.05020040646195412" z="0.9983235597610474"/>
+      </ViewModel>
+      <content xml:space="preserve">
+Zometool struts come in three sizes, with scaling between them by the golden ratio.      </content>
+    </page>
+    <page snapshot="12" title="long blues">
+      <ViewModel distance="71.08212280273438" far="142.16424560546875" near="0.06581678241491318" parallel="false" stereoAngle="0.0" width="31.986957550048828">
+        <LookAtPoint x="5.619303226470947" y="-2.412980556488037" z="0.0"/>
+        <UpDirection x="-1.0" y="2.220446049250313E-16" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="1.0"/>
+      </ViewModel>
+      <content xml:space="preserve">
+Older Zometool sets were one scale larger overall, including B3 struts but no B0 struts.      </content>
+    </page>
+    <page snapshot="13" title="red lengths">
+      <ViewModel distance="56.01185989379883" far="112.02371978759766" near="0.05186283215880394" parallel="false" stereoAngle="0.0" width="25.205337524414062">
+        <LookAtPoint x="0.9067218899726868" y="2.529252290725708" z="1.467106819152832"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="0.0" z="-0.525731086730957"/>
+      </ViewModel>
+      <content xml:space="preserve">
+Red struts also come in three sizes, with golden ratio scaling.      </content>
+    </page>
+    <page snapshot="14" title="long reds">
+      <ViewModel distance="73.2242431640625" far="146.448486328125" near="0.06780022382736206" parallel="false" stereoAngle="0.0" width="32.95090866088867">
+        <LookAtPoint x="2.8794875144958496" y="4.69978666305542" z="4.659108638763428"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="0.0" z="-0.525731086730957"/>
+      </ViewModel>
+      <content xml:space="preserve">
+ Older Zometool sets included R3 struts but no R0 struts.      </content>
+    </page>
+    <page snapshot="15" title="yellow lengths">
+      <ViewModel distance="50.12782669067383" far="100.25565338134766" near="0.046414654701948166" parallel="false" stereoAngle="0.0" width="22.55752182006836">
+        <LookAtPoint x="-1.3747013807296753" y="2.4445745944976807" z="0.5250892639160156"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.35682210326194763" y="0.0" z="0.9341723322868347"/>
+      </ViewModel>
+      <content xml:space="preserve">
+ Yellow struts also come in three sizes, with golden ratio scaling.      </content>
+    </page>
+    <page snapshot="16" title="long yellows">
+      <ViewModel distance="69.69206237792969" far="139.38412475585938" near="0.06452968716621399" parallel="false" stereoAngle="0.0" width="31.361427307128906">
+        <LookAtPoint x="-4.507333755493164" y="5.06263542175293" z="1.7216484546661377"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.35682210326194763" y="0.0" z="0.9341723322868347"/>
+      </ViewModel>
+      <content xml:space="preserve">
+  Older Zometool sets included Y3 struts but no Y0 struts.      </content>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="15.237788200378418" far="30.475576400756836" near="0.01410906296223402" parallel="false" stereoAngle="0.0" width="6.857004642486572">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="184,134,11" name="1" orbit="[[1,0,2],[0,0,1]]" prototype="3/4 0 6 -15/4 -9/4 3/4"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="255,255,255" name="0" orbit="[[-4,3,3],[-1,1,3]]" prototype="-3/4 1/4 1/4 0 0 -3/4"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="239,245,61" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

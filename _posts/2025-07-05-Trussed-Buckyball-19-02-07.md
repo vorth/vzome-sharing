@@ -12,7 +12,7 @@ layout: zometool
  
 {% endcomment %}
 
-<script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"/>
+<script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
 
 Today, we will build a large, two layer Zometool model.  The model will have a diameter of over two meters.
 
@@ -110,4 +110,14 @@ One of the teams will add the supports to the bottom half.
 ## Photos
 
 After we have completed the model and taken photos, I will update this page, so hang on to this URL so you can show your friends and relatives.
+
+## Resources
+
+ * [***Zometool in China***](https://www.zometool.com.cn)
+
+ * [***Zometool in USA***](https://www.zometool.com), Europe, Japan, and Korea
+
+ * [***vZome software (free)***](https://www.vzome.com/app) used to create this page
+
+
 

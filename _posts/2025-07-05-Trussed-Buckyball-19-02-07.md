@@ -1,7 +1,7 @@
 ---
 title: SUMaC 2025 Zome Build
 description: Building a large, two layer fullerene shape in Zometool, with a group of Stanford University Math Camp students
-image: https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.png
+image: https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.png
 published: true
 layout: zometool
 ---
@@ -19,9 +19,9 @@ Today, we will build a large, two layer Zometool model.  The model will have a d
 <figure style="width: 93%; margin: 2%">
   
   <vzome-viewer style="width: 100%; height: 80dvh" scene="complete end"
-        src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.vZome" >
+        src="https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.vZome" >
     <img  style="width: 100%"
-        src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.png" >
+        src="https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.png" >
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
@@ -43,9 +43,9 @@ We need ***six*** copies of this structure:
 <figure style="width: 93%; margin: 2%">
   
   <zometool-instructions style="width: 100%; height: 80dvh" module="support"
-        src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.vZome" >
+        src="https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.vZome" >
     <img  style="width: 100%"
-        src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.png" >
+        src="https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.png" >
   </zometool-instructions>
 
   <figcaption style="text-align: center; font-style: italic;">
@@ -60,9 +60,9 @@ We need ***six*** copies of this structure from each Pentagon team, for a total 
 <figure style="width: 93%; margin: 2%">
   
   <zometool-instructions style="width: 100%; height: 80dvh" module="pentagon"
-        src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.vZome" >
+        src="https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.vZome" >
     <img  style="width: 100%"
-        src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.png" >
+        src="https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.png" >
   </zometool-instructions>
 
   <figcaption style="text-align: center; font-style: italic;">
@@ -77,9 +77,9 @@ We need ***five*** copies of this structure from each Pentagon team, for a total
 <figure style="width: 93%; margin: 2%">
   
   <zometool-instructions style="width: 100%; height: 80dvh" module="triangle"
-        src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.vZome" >
+        src="https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.vZome" >
     <img  style="width: 100%"
-        src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.png" >
+        src="https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.png" >
   </zometool-instructions>
 
   <figcaption style="text-align: center; font-style: italic;">
@@ -97,9 +97,9 @@ One of the teams will add the supports to the bottom half.
 <figure style="width: 93%; margin: 2%">
   
   <zometool-instructions style="width: 100%; height: 80dvh" module="complete"
-        src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.vZome" >
+        src="https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.vZome" >
     <img  style="width: 100%"
-        src="https://vorth.github.io/vzome-sharing/2025/07/05/19-02-07-Trussed-Buckyball/Trussed-Buckyball.png" >
+        src="https://vorth.github.io/vzome-sharing/2025/07/06/11-17-36-Trussed-Buckyball/Trussed-Buckyball.png" >
   </zometool-instructions>
 
   <figcaption style="text-align: center; font-style: italic;">

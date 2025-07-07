@@ -107,9 +107,22 @@ One of the teams will add the supports to the bottom half.
   </figcaption>
 </figure>
 
-## Photos
+## The Build
 
-After we have completed the model and taken photos, I will update this page, so hang on to this URL so you can show your friends and relatives.
+As it turned out, my design was a bit ambitious, and "under-engineered"; the model never fully stood on its own.
+Nonetheless, the students did a remarkable job, and seemed to enjoy handling the crises.
+The top half assembly really needed its own temporary supports, so we had to have people supporting it as we built it.
+The most tense moment was flipping the top half over and moving it above the bottom half, but they did it with
+masterful cooperation and coordination.
+
+At the end, we removed the top 1/3 first, then disassembled the rest top-down; the process took only a couple of minutes.
+
+These photos are from my camera.  I'll add a better group photo when I have it.
+
+<img width="750" alt="SUMaC-2025-result" src="https://github.com/user-attachments/assets/0cf306d1-6ad4-412b-8abc-6082480d8a8f" />
+
+<img width="597" alt="SUMaC-2025-top" src="https://github.com/user-attachments/assets/7c5f635d-5f19-4376-abea-543b0c10f18b" />
+
 
 ## Resources
 

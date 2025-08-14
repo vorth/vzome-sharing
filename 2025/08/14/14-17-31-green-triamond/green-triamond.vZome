@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
+  <EditHistory editNumber="44" lastStickyEdit="44">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="14" len="1 1" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 -2 -4" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 -2 -4" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <SymmetryAxisChange end="-1 -2 1 2 -1 -2" start="0 0 0 0 0 0"/>
+    <BeginBlock/>
+    <SelectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -2 1 2 -1 -2"/>
+    <SelectManifestation endSegment="-1 -2 1 2 -1 -2" grouping="2.1.1" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <AxialSymmetry grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      <Symmetry attrName="symmetry.group" name="octahedral"/>
+    </AxialSymmetry>
+    <BeginBlock/>
+    <DeselectAll grouping="2.1.1"/>
+    <SelectManifestation grouping="2.1.1" point="-1 -2 1 2 -1 -2"/>
+    <SelectManifestation endSegment="-1 -2 1 2 -1 -2" grouping="2.1.1" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <StrutCreation anchor="0 0 2 4 2 4" dir="yellow" index="1" len="1 1" symm="octahedral"/>
+    <SymmetryAxisChange end="1 2 3 6 1 2" start="0 0 2 4 2 4"/>
+    <SymmetryCenterChange new="0 0 2 4 2 4"/>
+    <BeginBlock/>
+    <SelectManifestation grouping="2.1.1" point="1 2 3 6 1 2"/>
+    <SelectManifestation endSegment="1 2 3 6 1 2" grouping="2.1.1" startSegment="0 0 2 4 2 4"/>
+    <EndBlock/>
+    <Hide grouping="2.1.1">
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <Snapshot id="3"/>
+    <Branch>
+      <SelectAll grouping="2.1.1"/>
+      <AxialSymmetry grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+        <Symmetry attrName="symmetry.group" name="octahedral"/>
+      </AxialSymmetry>
+      <DeselectAll grouping="2.1.1"/>
+      <Snapshot id="2"/>
+      <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="14" len="1 1" symm="octahedral"/>
+      <SymmetryCenterChange new="0 0 0 0 0 0"/>
+      <SymmetryAxisChange end="-1 -2 1 2 -1 -2" start="0 0 0 0 0 0"/>
+      <BeginBlock/>
+      <SelectAll grouping="2.1.1"/>
+      <SelectManifestation grouping="2.1.1" point="-1 -2 1 2 -1 -2"/>
+      <SelectManifestation endSegment="-1 -2 1 2 -1 -2" grouping="2.1.1" startSegment="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <AxialSymmetry grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+        <Symmetry attrName="symmetry.group" name="octahedral"/>
+      </AxialSymmetry>
+      <BeginBlock/>
+      <DeselectAll grouping="2.1.1"/>
+      <SelectManifestation grouping="2.1.1" point="-1 -2 1 2 -1 -2"/>
+      <SelectManifestation endSegment="-1 -2 1 2 -1 -2" grouping="2.1.1" startSegment="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <Hide grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <StrutCreation anchor="4 8 4 8 -4 -8" dir="yellow" index="14" len="1 1" symm="octahedral"/>
+      <SymmetryCenterChange new="4 8 4 8 -4 -8"/>
+      <SymmetryAxisChange end="3 6 5 10 -5 -10" start="4 8 4 8 -4 -8"/>
+      <BeginBlock/>
+      <SelectManifestation grouping="2.1.1" point="3 6 5 10 -5 -10"/>
+      <SelectManifestation endSegment="3 6 5 10 -5 -10" grouping="2.1.1" startSegment="4 8 4 8 -4 -8"/>
+      <EndBlock/>
+      <Hide grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <Snapshot id="1"/>
+      <SelectAll grouping="2.1.1"/>
+      <AxialSymmetry grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+        <Symmetry attrName="symmetry.group" name="octahedral"/>
+      </AxialSymmetry>
+      <DeselectAll grouping="2.1.1"/>
+      <SymmetryCenterChange new="0 0 0 0 0 0"/>
+      <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="14" len="1 1" symm="octahedral"/>
+      <SymmetryAxisChange end="-1 -2 1 2 -1 -2" start="0 0 0 0 0 0"/>
+      <BeginBlock/>
+      <SelectManifestation grouping="2.1.1" point="-1 -2 1 2 -1 -2"/>
+      <SelectManifestation endSegment="-1 -2 1 2 -1 -2" grouping="2.1.1" startSegment="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <Hide grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <SelectAll grouping="2.1.1"/>
+      <AxialSymmetry grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+        <Symmetry attrName="symmetry.group" name="octahedral"/>
+      </AxialSymmetry>
+      <DeselectAll grouping="2.1.1"/>
+      <StrutCreation anchor="0 0 2 4 -6 -12" dir="yellow" index="12" len="1 1" symm="octahedral"/>
+      <SymmetryAxisChange end="-1 -2 1 2 -5 -10" start="0 0 2 4 -6 -12"/>
+      <SymmetryCenterChange new="0 0 2 4 -6 -12"/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="4 8 4 8 -4 -8" grouping="2.1.1" startSegment="2 4 2 4 -4 -8"/>
+      <SelectManifestation grouping="2.1.1" point="4 8 4 8 -4 -8"/>
+      <SelectManifestation endSegment="2 4 2 4 -4 -8" grouping="2.1.1" startSegment="2 4 0 0 -2 -4"/>
+      <SelectManifestation grouping="2.1.1" point="2 4 0 0 -2 -4"/>
+      <EndBlock/>
+      <AxialSymmetry grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+        <Symmetry attrName="symmetry.group" name="octahedral"/>
+      </AxialSymmetry>
+      <BeginBlock/>
+      <DeselectAll grouping="2.1.1"/>
+      <SelectManifestation grouping="2.1.1" point="-1 -2 1 2 -5 -10"/>
+      <SelectManifestation endSegment="-1 -2 1 2 -5 -10" grouping="2.1.1" startSegment="0 0 2 4 -6 -12"/>
+      <EndBlock/>
+      <Hide grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <StrutCreation anchor="-8 -16 -6 -12 10 20" dir="yellow" index="12" len="1 1" symm="octahedral"/>
+      <SymmetryAxisChange end="-9 -18 -7 -14 11 22" start="-8 -16 -6 -12 10 20"/>
+      <SymmetryCenterChange new="-8 -16 -6 -12 10 20"/>
+      <BeginBlock/>
+      <SelectManifestation grouping="2.1.1" point="-9 -18 -7 -14 11 22"/>
+      <SelectManifestation endSegment="-9 -18 -7 -14 11 22" grouping="2.1.1" startSegment="-8 -16 -6 -12 10 20"/>
+      <EndBlock/>
+      <Hide grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <SelectAll grouping="2.1.1"/>
+      <AxialSymmetry grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+        <Symmetry attrName="symmetry.group" name="octahedral"/>
+      </AxialSymmetry>
+      <DeselectAll grouping="2.1.1"/>
+      <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="3" len="1 1" symm="octahedral"/>
+      <SymmetryCenterChange new="0 0 0 0 0 0"/>
+      <SymmetryAxisChange end="1 2 -1 -2 1 2" start="0 0 0 0 0 0"/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="1 2 -1 -2 1 2" grouping="2.1.1" startSegment="0 0 0 0 0 0"/>
+      <SelectManifestation grouping="2.1.1" point="1 2 -1 -2 1 2"/>
+      <EndBlock/>
+      <Hide grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <SelectAll grouping="2.1.1"/>
+      <AxialSymmetry grouping="2.1.1">
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+        <Symmetry attrName="symmetry.group" name="octahedral"/>
+      </AxialSymmetry>
+      <DeselectAll grouping="2.1.1"/>
+      <Snapshot id="0"/>
+    </Branch>
+    <StrutCreation anchor="0 0 2 4 2 4" index="47" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="1" len="2 4"/>
+    <StrutCreation anchor="-2 -4 -2 -4 0 0" index="1" len="2 4"/>
+    <StrutCreation anchor="-2 -4 0 0 0 0" index="0" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="47" len="2 4"/>
+    <StrutCreation anchor="2 4 0 0 -2 -4" index="45" len="2 4"/>
+    <StrutCreation anchor="-2 -4 4 8 2 4" index="16" len="2 4"/>
+    <StrutCreation anchor="-2 -4 2 4 2 4" index="0" len="2 4"/>
+    <StrutCreation anchor="0 0 2 4 2 4" index="2" len="2 4"/>
+    <StrutCreation anchor="0 0 2 4 4 8" index="0" len="2 4"/>
+    <Branch>
+      <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="5" len="1 1"/>
+      <SelectManifestation endSegment="1 2 -1 -2 1 2" startSegment="0 0 0 0 0 0"/>
+      <RotationTool corrected="true" full="true" name="tool-0" symmetry="icosahedral"/>
+    </Branch>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <Snapshot id="4"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="4" title="">
+      <ViewModel distance="50.9684944152832" far="101.9369888305664" near="0.047193050384521484" parallel="false" stereoAngle="0.0" width="22.935821533203125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.39144644141197205" y="-0.8659663796424866" z="-0.31124258041381836"/>
+        <LookDirection x="-0.6541451811790466" y="0.49975451827049255" z="-0.5677495002746582"/>
+      </ViewModel>
+      <content xml:space="preserve">
+       </content>
+    </page>
+    <page snapshot="4" title="">
+      <ViewModel distance="60.01572036743164" far="120.03144073486328" near="0.05557011440396309" parallel="false" stereoAngle="0.0" width="27.0070743560791">
+        <LookAtPoint x="7.595797538757324" y="-0.07028906792402267" z="-8.115221977233887"/>
+        <UpDirection x="-0.335173636674881" y="-0.8995737433433533" z="-0.28004592657089233"/>
+        <LookDirection x="-0.6550988554954529" y="0.4361456036567688" z="-0.6169461011886597"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="4" title="">
+      <ViewModel distance="140.90196228027344" far="281.8039245605469" near="0.13046477735042572" parallel="false" stereoAngle="0.0" width="63.4058837890625">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.39144644141197205" y="-0.8659663796424866" z="-0.31124258041381836"/>
+        <LookDirection x="-0.6541451811790466" y="0.49975451827049255" z="-0.5677495002746582"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="3" title="">
+      <ViewModel distance="140.90196228027344" far="281.8039245605469" near="0.13046477735042572" parallel="false" stereoAngle="0.0" width="63.4058837890625">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.39144644141197205" y="-0.8659663796424866" z="-0.31124258041381836"/>
+        <LookDirection x="-0.6541451811790466" y="0.49975451827049255" z="-0.5677495002746582"/>
+      </ViewModel>
+      <content xml:space="preserve">
+       </content>
+    </page>
+    <page snapshot="2" title="">
+      <ViewModel distance="145.5161590576172" far="291.0323181152344" near="0.13473717868328094" parallel="false" stereoAngle="0.0" width="65.48226928710938">
+        <LookAtPoint x="-0.8147623538970947" y="10.54134464263916" z="8.246783256530762"/>
+        <UpDirection x="-0.3847927451133728" y="-0.48351770639419556" z="-0.7862221002578735"/>
+        <LookDirection x="0.551056444644928" y="0.562994658946991" z="-0.6159332990646362"/>
+      </ViewModel>
+      <content xml:space="preserve">
+       </content>
+    </page>
+    <page snapshot="1" title="">
+      <ViewModel distance="185.86944580078125" far="371.7388916015625" near="0.17210133373737335" parallel="false" stereoAngle="0.0" width="83.64125061035156">
+        <LookAtPoint x="-1.9723179340362549" y="1.9812811613082886" z="-2.891428232192993"/>
+        <UpDirection x="-0.38192716240882874" y="-0.822938859462738" z="-0.4205987751483917"/>
+        <LookDirection x="-0.5464107394218445" y="0.5681061148643494" z="-0.6153785586357117"/>
+      </ViewModel>
+      <content xml:space="preserve">
+       </content>
+    </page>
+    <page snapshot="0" title="">
+      <ViewModel distance="504.27294921875" far="1008.5458984375" near="0.4669193923473358" parallel="false" stereoAngle="0.0" width="226.92282104492188">
+        <LookAtPoint x="-1.9723179340362549" y="1.9812811613082886" z="-2.891428232192993"/>
+        <UpDirection x="-0.39971134066581726" y="-0.8051536679267883" z="-0.43813055753707886"/>
+        <LookDirection x="-0.5868020057678223" y="0.5919568538665771" z="-0.5524947643280029"/>
+      </ViewModel>
+      <content xml:space="preserve">
+       </content>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="267.4357604980469" far="534.8715209960938" near="0.2476257085800171" parallel="false" stereoAngle="0.0" width="120.3460922241211">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.14198483526706696" y="-0.15495353937149048" z="0.9776654243469238"/>
+      <LookDirection x="-0.7204304933547974" y="0.6611542701721191" z="0.20941559970378876"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="0,118,149" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,141,54" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="175,0,0" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="30,30,30" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="240,160,0" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="18,205,148" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="255,255,255" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="255,255,255" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="108,0,198" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="220,76,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="255,255,255" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="false" id="tool-0" label="axial symmetry 0" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>

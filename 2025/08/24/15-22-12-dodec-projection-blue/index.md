@@ -7,7 +7,7 @@ layout: design
 
   
   
-  <vzome-viewer style="width: 100%; height: 60dvh" 
+  <vzome-viewer style="width: 100%; height: 60dvh" labels="true"
         src="https://vorth.github.io/vzome-sharing/2025/08/24/15-22-12-dodec-projection-blue/dodec-projection-blue.vZome" >
     <img  style="width: 100%"
         src="https://vorth.github.io/vzome-sharing/2025/08/24/15-22-12-dodec-projection-blue/dodec-projection-blue.png" >

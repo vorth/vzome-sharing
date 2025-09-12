@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="golden" version="7.1">
+  <EditHistory editNumber="394" lastStickyEdit="2">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <Branch>
+      <StrutCreation anchor="0 0 0 0 0 0" index="4" len="1 2" symm="octahedral"/>
+      <SelectManifestation endSegment="0 0 0 0 1 2" startSegment="0 0 0 0 0 0"/>
+      <RotationTool corrected="true" full="true" name="tool-0" symmetry="octahedral"/>
+    </Branch>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 4 2 4"/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 2 4 2 4" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 2 4 2 4" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 4 8 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 2 4 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 2 4" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 2 4 2 4" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 2 4" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 2 4 4 8" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 4 8" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 8 2 4 6 12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation endSegment="0 0 4 8 4 8" startSegment="0 0 2 4 2 4"/>
+    <SelectManifestation endSegment="2 4 0 0 2 4" startSegment="0 0 2 4 2 4"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 4 -2 -4 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 -4 -8 4 8" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 2 4 6 12" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 0 0 6 12" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -2 -4 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="8 16 -4 -8 4 8" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -2 -4 4 8" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 0 0 4 8" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="6 12 -2 -4 4 8" dir="green" index="0" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="8 16 -2 -4 6 12" startSegment="8 16 -4 -8 4 8"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="4 8 4 8 4 8" dir="green" index="16" len="2 4" symm="octahedral"/>
+    <SelectManifestation endSegment="4 8 2 4 6 12" startSegment="4 8 4 8 4 8"/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="4 8 8 16 4 8" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 6 12 4 8" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 6 12 4 8" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 4 8 2 4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 2 4 0 0" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 -2 -4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 -2 -4 -4 -8"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="4 8 6 12 2 4"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 4 4 8 2 4" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 2 4 0 0" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 0 0 -2 -4" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 6 12 2 4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 4 8 0 0" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 2 4 0 0" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 4 8 2 4" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="4 8 2 4 -2 -4" startSegment="4 8 4 8 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -4 4 8 6 12"/>
+    <SelectManifestation point="-2 -4 0 0 2 4"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 6 12 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 4 8 4 8"/>
+    <SelectManifestation point="0 0 2 4 2 4"/>
+    <SelectManifestation point="2 4 2 4 4 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 4 8 4 8"/>
+    <SelectManifestation point="2 4 2 4 4 8"/>
+    <SelectManifestation point="4 8 4 8 4 8"/>
+    <SelectManifestation point="2 4 6 12 4 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 4 8 4 8"/>
+    <SelectManifestation point="4 8 8 16 4 8"/>
+    <SelectManifestation point="2 4 8 16 6 12"/>
+    <SelectManifestation point="0 0 6 12 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 6 12 4 8"/>
+    <SelectManifestation point="2 4 0 0 -2 -4"/>
+    <SelectManifestation point="4 8 2 4 -2 -4"/>
+    <SelectManifestation point="4 8 8 16 4 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 2 4 4 8"/>
+    <SelectManifestation point="4 8 2 4 6 12"/>
+    <SelectManifestation point="4 8 4 8 4 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-2 -4 4 8 6 12" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 6 12 6 12" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 8 16 6 12" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 6 12 6 12" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 8 16 6 12" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -8 6 12 6 12"/>
+    <SelectManifestation point="-2 -4 4 8 6 12"/>
+    <SelectManifestation point="2 4 8 16 6 12"/>
+    <SelectManifestation point="0 0 10 20 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 10 20 6 12" startSegment="-2 -4 8 16 6 12"/>
+    <SelectManifestation endSegment="-2 -4 8 16 6 12" startSegment="-4 -8 6 12 6 12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -8 4 8 4 8"/>
+    <SelectManifestation point="-2 -4 4 8 6 12"/>
+    <SelectManifestation point="-4 -8 6 12 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-4 -8 4 8 4 8" dir="green" index="17" len="2 4" symm="octahedral"/>
+    <SelectManifestation endSegment="-4 -8 6 12 6 12" startSegment="-4 -8 4 8 4 8"/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-4 -8 4 8 4 8" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 6 12 4 8" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 8 16 4 8" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 10 20 4 8" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 8 16 4 8" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 6 12 4 8" dir="green" index="12" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 10 20 6 12" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 8 16 6 12" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -8 4 8 4 8"/>
+    <SelectManifestation point="-4 -8 6 12 6 12"/>
+    <SelectManifestation point="0 0 10 20 6 12"/>
+    <SelectManifestation point="2 4 10 20 4 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 4 10 20 4 8" startSegment="0 0 8 16 4 8"/>
+    <SelectManifestation point="0 0 8 16 4 8"/>
+    <SelectManifestation point="2 4 10 20 4 8"/>
+    <SelectManifestation point="-2 -4 6 12 4 8"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-4 -8 4 8 4 8" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 4 8 4 8" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 6 12 4 8" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 2 4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 2 4 2 4" dir="green" index="1" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="-6 -12 2 4 4 8"/>
+    <SelectManifestation point="-2 -4 6 12 4 8"/>
+    <SelectManifestation point="-2 -4 2 4 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -4 4 8 2 4"/>
+    <SelectNeighbors/>
+    <SelectManifestation endSegment="-4 -8 2 4 2 4" startSegment="-4 -8 4 8 4 8"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 4 8 16 6 12" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="4 8 8 16 4 8" dir="green" index="13" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 8 8 16 4 8"/>
+    <SelectManifestation point="2 4 10 20 4 8"/>
+    <SelectManifestation point="0 0 10 20 6 12"/>
+    <SelectManifestation point="2 4 8 16 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 10 20 4 8"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 4 10 20 4 8" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 8 16 2 4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 6 12 0 0" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 4 8 -2 -4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 8 16 4 8" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 6 12 2 4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 4 8 0 0" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 6 12 2 4" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 4 8 0 0" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 8 16 4 8" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 8 16 2 4" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 6 12 0 0" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 4 8 -2 -4" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 2 4 -4 -8"/>
+    <SelectManifestation point="0 0 2 4 -2 -4"/>
+    <SelectManifestation point="0 0 8 16 4 8"/>
+    <SelectManifestation point="2 4 10 20 4 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 4 8 -2 -4"/>
+    <SelectManifestation point="2 4 6 12 0 0"/>
+    <SelectManifestation point="2 4 8 16 2 4"/>
+    <SelectManifestation point="0 0 6 12 2 4"/>
+    <SelectManifestation point="0 0 4 8 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 2 4 -2 -4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="2 4 2 4 -4 -8" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 -4 -8"/>
+    <SelectManifestation point="0 0 2 4 -2 -4"/>
+    <SelectManifestation point="2 4 2 4 -4 -8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 -4 -8"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="-8 -16 4 8 4 8" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 4 8 2 4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 4 8 0 0" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 -2 -4" dir="green" index="19" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-6 -12 4 8 2 4" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-4 -8 4 8 0 0" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 4 8 -2 -4" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-8 -16 2 4 2 4" startSegment="-6 -12 4 8 2 4"/>
+    <SelectManifestation endSegment="-6 -12 2 4 0 0" startSegment="-4 -8 4 8 0 0"/>
+    <SelectManifestation endSegment="-4 -8 2 4 -2 -4" startSegment="-2 -4 4 8 -2 -4"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-10 -20 2 4 4 8" startSegment="-8 -16 2 4 6 12"/>
+    <DeselectAll/>
+    <SelectManifestation point="-10 -20 2 4 4 8"/>
+    <SelectManifestation point="-8 -16 4 8 4 8"/>
+    <SelectManifestation point="-2 -4 4 8 -2 -4"/>
+    <SelectManifestation point="-2 -4 2 4 -4 -8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 4 0 0 -2 -4" dir="green" index="18" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 2 4 -4 -8"/>
+    <SelectManifestation point="4 8 2 4 -2 -4"/>
+    <SelectManifestation point="2 4 0 0 -2 -4"/>
+    <SelectManifestation point="0 0 0 0 -4 -8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <SelectManifestation endSegment="2 4 2 4 -4 -8" startSegment="2 4 0 0 -2 -4"/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 4 2 4 0 0" dir="green" index="15" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 2 4 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="2 4 0 0 -2 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 -4 -8 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -2 -4 2 4" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -4 -8 4 8" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="0 0 -2 -4 2 4" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 -6 -12 4 8"/>
+    <SelectManifestation point="0 0 -4 -8 4 8"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="2 4 -2 -4 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 4 -4 -8 2 4" startSegment="0 0 -4 -8 4 8"/>
+    <SelectManifestation endSegment="2 4 -4 -8 2 4" startSegment="0 0 -2 -4 2 4"/>
+    <SelectManifestation endSegment="2 4 -2 -4 0 0" startSegment="0 0 -2 -4 2 4"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-2 -4 -2 -4 0 0" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -2 -4 0 0" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 2 4" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -4 -8 2 4" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -6 -12 4 8" dir="green" index="2" len="2 4" symm="octahedral"/>
+    <StrutCreation anchor="-2 -4 -6 -12 4 8" dir="green" index="3" len="2 4" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 -6 -12 2 4" startSegment="-2 -4 -6 -12 4 8"/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -4 -6 -12 4 8"/>
+    <SelectManifestation point="0 0 -8 -16 4 8"/>
+    <SelectManifestation point="0 0 -2 -4 -2 -4"/>
+    <SelectManifestation point="-2 -4 -2 -4 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 -8 -16 4 8" startSegment="-2 -4 -6 -12 4 8"/>
+    <SelectManifestation endSegment="0 0 -6 -12 2 4" startSegment="-2 -4 -6 -12 4 8"/>
+    <SelectManifestation endSegment="0 0 -6 -12 2 4" startSegment="-2 -4 -4 -8 2 4"/>
+    <SelectManifestation endSegment="0 0 -4 -8 0 0" startSegment="-2 -4 -4 -8 2 4"/>
+    <SelectManifestation endSegment="0 0 -4 -8 0 0" startSegment="-2 -4 -2 -4 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="2 4 2 4 0 0" dir="green" index="14" len="2 4" symm="octahedral"/>
+    <SelectManifestation endSegment="0 0 2 4 -2 -4" startSegment="2 4 2 4 0 0"/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="2 4 2 4 0 0"/>
+    <SelectManifestation point="0 0 2 4 -2 -4"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="2 4 2 4 0 0"/>
+    <SelectManifestation point="0 0 2 4 -2 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="140,194,231">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="231.5793914794922" far="463.1587829589844" near="0.21442535519599915" parallel="false" stereoAngle="0.0" width="104.21072387695312">
+      <LookAtPoint x="1.6040422916412354" y="-8.380145072937012" z="6.737851142883301"/>
+      <UpDirection x="0.028791993856430054" y="-0.3869881331920624" z="0.921635091304779"/>
+      <LookDirection x="0.14151239395141602" y="-0.9111527800559998" z="-0.38700756430625916"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+    <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="icosahedral" renderingStyle="printable">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+      <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+      <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+      <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+      <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+      <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+      <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+      <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+      <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="false" id="tool-0" label="axial symmetry 0" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>

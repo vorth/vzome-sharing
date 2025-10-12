@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="112" field="golden" version="7.1">
+  <EditHistory editNumber="120" lastStickyEdit="106">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 2"/>
+    <SelectManifestation point="2 3 2 3 2 3"/>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 3 5 0 0"/>
+    <SelectManifestation point="0 0 1 2 3 5"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 2 3 2 3"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 3 2 3 2 3" startSegment="0 0 0 0 0 0"/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ConvexHull3d mode="noPanels"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 -1 -2 3 5" dir="red" index="17" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 -1 -2 1 2"/>
+    <SelectManifestation endSegment="1 2 -1 -2 1 2" startSegment="0 0 -1 -2 3 5"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 -2 -3 2 3"/>
+    <SelectManifestation endSegment="0 0 -1 -2 3 5" startSegment="2 3 -2 -3 2 3"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <Delete/>
+    <StrutCreation anchor="3 5 0 0 1 2" dir="yellow" index="9" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="5 8 2 3 3 5"/>
+    <SelectManifestation endSegment="5 8 2 3 3 5" startSegment="3 5 0 0 1 2"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 1 2 -1 -2"/>
+    <SelectManifestation endSegment="1 2 1 2 -1 -2" startSegment="3 5 0 0 -1 -2"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="2" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -1 -2 3 5"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 -3 -5 0 0"/>
+    <SelectManifestation endSegment="0 0 -1 -2 3 5" startSegment="-1 -2 -3 -5 0 0"/>
+    <SelectManifestation endSegment="0 0 -1 -2 3 5" startSegment="-1 -2 -3 -5 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="1 2 -3 -5 0 0" index="7" len="4 6"/>
+    <SelectManifestation endSegment="0 0 -1 -2 3 5" startSegment="1 2 -3 -5 0 0"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 -1 -2 3 5" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-5 -8 2 3 -3 -5" dir="red" index="1" len="1 2"/>
+    <StrutCreation anchor="-5 -8 4 6 -2 -3" dir="red" index="0" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -8 2 3 -3 -5"/>
+    <SelectManifestation point="-5 -8 4 6 -2 -3"/>
+    <SelectManifestation endSegment="-3 -5 5 8 -2 -3" startSegment="-5 -8 4 6 -2 -3"/>
+    <SelectManifestation endSegment="-5 -8 4 6 -2 -3" startSegment="-5 -8 2 3 -3 -5"/>
+    <SelectManifestation point="-5 -8 2 3 -3 -5"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-5 -8 4 6 -2 -3" dir="yellow" index="54" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-7 -11 6 9 -4 -6" startSegment="-5 -8 4 6 -2 -3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-7 -11 6 9 -4 -6" startSegment="-5 -8 4 6 -2 -3"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -1 -2 3 5"/>
+    <SelectManifestation point="-7 -11 6 9 -4 -6"/>
+    <EndBlock/>
+    <TranslationTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -5 0 0 1 2"/>
+    <SelectManifestation endSegment="-3 -5 0 0 1 2" startSegment="0 0 1 2 3 5"/>
+    <SelectManifestation endSegment="0 0 1 2 3 5" startSegment="0 0 -1 -2 3 5"/>
+    <SelectManifestation endSegment="-3 -5 0 0 1 2" startSegment="0 0 -1 -2 3 5"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" deselectOutputs="true" name="tool-0"/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ApplyTool copyColors="true" deselectOutputs="true" name="tool-0"/>
+    <SelectManifestation point="-7 -11 7 11 -7 -11"/>
+    <SymmetryTool name="tetrahedral.tool-1" symmetry="octahedral"/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-1" selectInputs="true"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" name="tetrahedral.tool-1" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByOrbitLength length="4 6" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <AdjustSelectionByOrbitLength length="2 4" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <AdjustSelectionByOrbitLength length="1 2" orbit="yellow" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <AdjustSelectionByOrbitLength length="1 2" orbit="red" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <SelectNeighbors/>
+    <InvertSelection/>
+    <EndBlock/>
+    <Delete/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="140,194,231">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="524.3900146484375" far="1048.780029296875" near="0.4855462908744812" parallel="false" stereoAngle="0.0" width="235.9755096435547">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.9991723299026489" y="0.029318775981664658" z="-0.02819766290485859"/>
+      <LookDirection x="-8.06989090051502E-4" y="-0.7073425650596619" z="-0.7068704962730408"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="230,245,62" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="false" id="tetrahedral.tool-1" label="tetrahedral 1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-0" label="translation 0" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>

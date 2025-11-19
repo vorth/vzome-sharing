@@ -8,7 +8,7 @@ export default {
       // console.dir( { layout, tags, title, page: { inputPath, fileSlug, date, filePathStem, outputFileExtension } } );
       result = result .replace( '_posts', page.date .toISOString() .slice( 0, 10 ) .replace( /-/g, '/' ) );
     }
-    console.log( result );
+    // console.log( result );
     return result;
 	},
 };
@@ -26,5 +26,5 @@ export default {
     outputFileExtension: 'html'
   }
 }
-/geometry/snub-dodec-zome-system-21-44-04.html
+/geometry/2021/12/05/snub-dodec-zome-system-21-44-04.html
 */

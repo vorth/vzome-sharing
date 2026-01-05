@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="370" field="golden">
+  <EditHistory editNumber="424" lastStickyEdit="396">
+    <StrutCreation anchor="0 0 0 0 0 0" symm="octahedral" index="4" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 2 4" symm="octahedral" index="4" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 4 8" symm="octahedral" index="4" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" symm="octahedral" index="0" len="2 4"/>
+    <StrutCreation anchor="2 4 0 0 0 0" symm="octahedral" index="0" len="2 4"/>
+    <StrutCreation anchor="4 8 0 0 0 0" symm="octahedral" index="0" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="0 0 -2 -4 0 0" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="0 0 -4 -8 0 0" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="6 12 0 0 0 0" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="6 12 -2 -4 0 0" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="6 12 -4 -8 0 0" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="6 12 0 0 0 0" symm="octahedral" index="4" len="2 4"/>
+    <StrutCreation anchor="6 12 0 0 2 4" symm="octahedral" index="4" len="2 4"/>
+    <StrutCreation anchor="6 12 0 0 4 8" symm="octahedral" index="4" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 6 12" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="0 0 -2 -4 6 12" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="0 0 -4 -8 6 12" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="6 12 0 0 6 12" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="6 12 -2 -4 6 12" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="6 12 -4 -8 6 12" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="6 12 0 0 2 4" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="6 12 -2 -4 2 4" symm="octahedral" index="7" len="2 4"/>
+    <StrutCreation anchor="6 12 -4 -8 2 4" symm="octahedral" index="7" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="6 12 -6 -12 6 12"/>
+    <SelectManifestation point="6 12 -6 -12 2 4"/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <SelectManifestation point="6 12 -4 -8 0 0"/>
+    <SelectManifestation point="6 12 0 0 0 0"/>
+    <SelectManifestation point="6 12 0 0 6 12"/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 -6 -12 2 4"/>
+    <SelectManifestation point="6 12 -6 -12 6 12"/>
+    <SelectManifestation point="6 12 0 0 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 0 0 6 12"/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <SelectManifestation point="6 12 -6 -12 2 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation startSegment="6 12 -4 -8 0 0" endSegment="6 12 -6 -12 0 0"/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 -4 -8 0 0"/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <SelectManifestation point="6 12 0 0 6 12"/>
+    <SelectManifestation point="6 12 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 -4 -8 0 0"/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <SelectManifestation point="6 12 0 0 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 0 0 6 12"/>
+    <SelectManifestation point="6 12 0 0 0 0"/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <SelectManifestation point="6 12 -4 -8 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 -6 -12 2 4"/>
+    <SelectManifestation point="6 12 -6 -12 6 12"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <DeselectAll/>
+    <StrutCreation anchor="6 12 -4 -8 0 0" symm="octahedral" index="12" len="2 4"/>
+    <StrutCreation anchor="4 8 -4 -8 0 0" symm="octahedral" index="12" len="2 4"/>
+    <StrutCreation anchor="6 12 -6 -12 0 0" symm="octahedral" index="12" len="2 4"/>
+    <StrutCreation anchor="4 8 -6 -12 0 0" symm="octahedral" index="12" len="2 4"/>
+    <StrutCreation anchor="2 4 -6 -12 0 0" symm="octahedral" index="12" len="2 4"/>
+    <StrutCreation anchor="6 12 0 0 4 8" symm="octahedral" index="12" len="2 4"/>
+    <StrutCreation anchor="4 8 0 0 4 8" symm="octahedral" index="12" len="2 4"/>
+    <StrutCreation anchor="6 12 0 0 2 4" symm="octahedral" index="12" len="2 4"/>
+    <StrutCreation anchor="4 8 0 0 2 4" symm="octahedral" index="12" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 2 4" symm="octahedral" index="7" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 -4 -8 0 0"/>
+    <SelectManifestation point="6 12 -4 -8 0 0"/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <SelectManifestation point="2 4 0 0 2 4"/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 -4 -8 0 0"/>
+    <SelectManifestation point="6 12 -4 -8 0 0"/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <SelectManifestation point="0 0 0 0 4 8"/>
+    <SelectManifestation point="0 0 -2 -4 2 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="6 12 0 0 2 4" endSegment="6 12 -2 -4 2 4"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="4 8 -6 -12 0 0" symm="octahedral" index="4" len="2 4"/>
+    <StrutCreation anchor="4 8 -6 -12 2 4" symm="octahedral" index="4" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <SelectManifestation point="6 12 -2 -4 2 4"/>
+    <SelectManifestation point="6 12 -6 -12 2 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="6 12 -6 -12 0 0" endSegment="4 8 -6 -12 0 0"/>
+    <SelectManifestation point="6 12 -6 -12 0 0"/>
+    <SelectManifestation startSegment="6 12 -4 -8 0 0" endSegment="6 12 -6 -12 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="2 4 -4 -8 0 0"/>
+      <polygonVertex at="6 12 -4 -8 0 0"/>
+      <polygonVertex at="6 12 -2 -4 2 4"/>
+      <polygonVertex at="4 8 0 0 4 8"/>
+      <polygonVertex at="0 0 0 0 4 8"/>
+      <polygonVertex at="0 0 -2 -4 2 4"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 -4 -8 0 0"/>
+    <SelectManifestation point="0 0 -2 -4 2 4"/>
+    <SelectManifestation point="0 0 -2 -4 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 -6 -12 2 4"/>
+    <SelectManifestation point="4 8 -6 -12 4 8"/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 8 -6 -12 4 8"/>
+    <SelectManifestation point="0 0 -2 -4 6 12"/>
+    <SelectManifestation point="4 8 -6 -12 0 0"/>
+    <SelectManifestation point="2 4 -4 -8 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 -4 -8 0 0"/>
+    <SelectManifestation point="4 8 -6 -12 0 0"/>
+    <SelectManifestation point="4 8 -6 -12 4 8"/>
+    <SelectManifestation point="0 0 -2 -4 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 -4 -8 6 12" symm="octahedral" index="0" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 8 -6 -12 4 8"/>
+    <SelectManifestation point="2 4 -4 -8 6 12"/>
+    <SelectManifestation point="0 0 -2 -4 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 6 12" symm="octahedral" index="0" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <SelectManifestation point="4 8 -6 -12 4 8"/>
+    <SelectManifestation point="2 4 -4 -8 6 12"/>
+    <SelectManifestation point="2 4 0 0 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 -4 -8 0 0"/>
+    <SelectManifestation point="4 8 -6 -12 0 0"/>
+    <SelectManifestation point="0 0 -6 -12 0 0"/>
+    <SelectManifestation point="0 0 -4 -8 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -4 -8 0 0"/>
+    <SelectManifestation point="6 12 -4 -8 0 0"/>
+    <SelectManifestation point="6 12 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 8 -6 -12 4 8"/>
+    <SelectManifestation point="6 12 -6 -12 6 12"/>
+    <SelectManifestation point="0 0 -6 -12 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 8 -6 -12 4 8"/>
+    <SelectManifestation point="6 12 -6 -12 2 4"/>
+    <SelectManifestation point="6 12 -6 -12 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 8 -6 -12 0 0"/>
+    <SelectManifestation point="2 4 -6 -12 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="4 8 -6 -12 0 0"/>
+    <SelectManifestation point="0 0 -6 -12 0 0"/>
+    <SelectManifestation point="0 0 -6 -12 6 12"/>
+    <SelectManifestation point="4 8 -6 -12 4 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 -4 -8 6 12"/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 -4 -8 6 12"/>
+    <SelectManifestation point="0 0 -6 -12 6 12"/>
+    <SelectManifestation point="0 0 -2 -4 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -6 -12 6 12"/>
+    <SelectManifestation point="6 12 -6 -12 6 12"/>
+    <SelectManifestation point="6 12 0 0 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 -4 -8 6 12"/>
+    <SelectManifestation point="2 4 0 0 6 12"/>
+    <SelectManifestation point="6 12 0 0 6 12"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -2 -4 2 4"/>
+    <SelectManifestation point="0 0 -2 -4 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 4 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -2 -4 6 12"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -2 -4 6 12"/>
+    <SelectManifestation point="0 0 -6 -12 6 12"/>
+    <SelectManifestation point="0 0 -6 -12 0 0"/>
+    <SelectManifestation point="0 0 -2 -4 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 0 0 6 12"/>
+    <SelectManifestation point="6 12 0 0 6 12"/>
+    <SelectManifestation point="6 12 0 0 4 8"/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 0 0 4 8"/>
+    <SelectManifestation point="4 8 0 0 4 8"/>
+    <DeselectAll/>
+    <SelectManifestation point="6 12 0 0 4 8"/>
+    <SelectManifestation point="0 0 0 0 4 8"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="6 12 0 0 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 6 12"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 6 12"/>
+    <SelectManifestation startSegment="0 0 0 0 6 12" endSegment="0 0 -2 -4 6 12"/>
+    <SelectManifestation startSegment="0 0 0 0 6 12" endSegment="2 4 0 0 6 12"/>
+    <SelectManifestation>
+      <polygonVertex at="2 4 -4 -8 0 0"/>
+      <polygonVertex at="6 12 -4 -8 0 0"/>
+      <polygonVertex at="6 12 -2 -4 2 4"/>
+      <polygonVertex at="4 8 0 0 4 8"/>
+      <polygonVertex at="0 0 0 0 4 8"/>
+      <polygonVertex at="0 0 -2 -4 2 4"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 6 12"/>
+    <SelectManifestation startSegment="0 0 0 0 6 12" endSegment="0 0 -2 -4 6 12"/>
+    <SelectManifestation startSegment="0 0 0 0 6 12" endSegment="2 4 0 0 6 12"/>
+    <SelectManifestation startSegment="0 0 0 0 4 8" endSegment="0 0 0 0 6 12"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -4 -8 6 12"/>
+    <SelectManifestation startSegment="0 0 -4 -8 6 12" endSegment="2 4 -4 -8 6 12"/>
+    <SelectManifestation startSegment="0 0 -2 -4 6 12" endSegment="0 0 -4 -8 6 12"/>
+    <SelectManifestation startSegment="0 0 -4 -8 6 12" endSegment="0 0 -6 -12 6 12"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="4 8 0 0 4 8" endSegment="2 4 0 0 4 8"/>
+    <SelectManifestation point="2 4 0 0 4 8"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="4 8 0 0 2 4" endSegment="2 4 0 0 2 4"/>
+    <SelectManifestation point="4 8 0 0 2 4"/>
+    <SelectManifestation startSegment="6 12 0 0 2 4" endSegment="4 8 0 0 2 4"/>
+    <SelectManifestation point="2 4 0 0 2 4"/>
+    <SelectManifestation startSegment="6 12 0 0 4 8" endSegment="4 8 0 0 4 8"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation startSegment="0 0 0 0 2 4" endSegment="0 0 -2 -4 2 4"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="4 8 -6 -12 0 0"/>
+    <SelectManifestation point="2 4 -4 -8 0 0"/>
+    <SelectManifestation point="0 0 -2 -4 2 4"/>
+    <SelectManifestation point="0 0 -2 -4 6 12"/>
+    <SelectManifestation point="2 4 -4 -8 6 12"/>
+    <SelectManifestation point="4 8 -6 -12 4 8"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 -6 -12 0 0" symm="octahedral" index="4" len="2 4"/>
+    <StrutCreation anchor="0 0 -6 -12 2 4" symm="octahedral" index="4" len="2 4"/>
+    <StrutCreation anchor="0 0 -6 -12 4 8" symm="octahedral" index="4" len="2 4"/>
+    <StrutCreation anchor="0 0 -6 -12 6 12" symm="octahedral" index="0" len="2 4"/>
+    <StrutCreation anchor="2 4 -6 -12 6 12" symm="octahedral" index="0" len="2 4"/>
+    <StrutCreation anchor="4 8 -6 -12 6 12" symm="octahedral" index="0" len="2 4"/>
+    <StrutCreation anchor="6 12 -6 -12 2 4" symm="octahedral" dir="green" index="12" len="2 4"/>
+    <StrutCreation anchor="0 0 -2 -4 2 4" symm="octahedral" dir="green" index="17" len="2 4"/>
+    <StrutCreation anchor="0 0 -6 -12 6 12" symm="octahedral" index="5" len="2 4"/>
+    <StrutCreation anchor="0 0 -4 -8 6 12" symm="octahedral" index="5" len="2 4"/>
+    <StrutCreation anchor="2 4 -4 -8 6 12" symm="octahedral" index="5" len="2 4"/>
+    <StrutCreation anchor="2 4 -2 -4 6 12" symm="octahedral" index="5" len="2 4"/>
+    <StrutCreation anchor="4 8 0 0 4 8" symm="octahedral" dir="green" index="12" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 4 8" symm="octahedral" index="0" len="2 4"/>
+    <StrutCreation anchor="4 8 0 0 4 8" symm="octahedral" index="12" len="2 4"/>
+    <StrutCreation anchor="6 12 0 0 6 12" symm="octahedral" index="12" len="2 4"/>
+    <StrutCreation anchor="4 8 0 0 6 12" symm="octahedral" index="12" len="2 4"/>
+    <AdjustSelectionByOrbitLength symmetry="octahedral" orbit="blue" struts="IGNORE" panels="SELECT"/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <StrutCreation anchor="2 4 -4 -8 6 12" symm="octahedral" dir="yellow" index="2" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="2 4 -4 -8 6 12" endSegment="4 8 -6 -12 4 8"/>
+    <SelectManifestation startSegment="2 4 -4 -8 0 0" endSegment="0 0 -2 -4 2 4"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="6 12 -2 -4 2 4" endSegment="4 8 0 0 4 8"/>
+    <SelectManifestation startSegment="2 4 -4 -8 6 12" endSegment="4 8 -6 -12 4 8"/>
+    <SelectManifestation>
+      <polygonVertex at="2 4 -4 -8 0 0"/>
+      <polygonVertex at="0 0 -2 -4 2 4"/>
+      <polygonVertex at="0 0 -2 -4 6 12"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 4 -4 -8 0 0"/>
+      <polygonVertex at="0 0 -2 -4 2 4"/>
+      <polygonVertex at="0 0 -2 -4 6 12"/>
+    </SelectManifestation>
+    <SelectManifestation startSegment="2 4 -4 -8 0 0" endSegment="0 0 -2 -4 2 4"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 -2 -4 2 4" symm="octahedral" dir="yellow" index="2" len="1 1"/>
+    <StrutCreation anchor="1 2 -3 -6 1 2" symm="octahedral" dir="yellow" index="2" len="1 1"/>
+    <StrutCreation anchor="3 6 -5 -10 5 10" symm="octahedral" dir="yellow" index="2" len="1 1"/>
+    <StrutCreation anchor="4 8 0 0 4 8" symm="octahedral" dir="yellow" index="2" len="1 1"/>
+    <StrutCreation anchor="5 10 -1 -2 3 6" symm="octahedral" dir="yellow" index="2" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="6 12 -6 -12 6 12"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <SelectManifestation point="3 6 -3 -6 3 6"/>
+    <SelectManifestation point="3 6 -3 -6 3 6"/>
+    <SelectManifestation point="3 6 -3 -6 3 6"/>
+    <SelectManifestation point="3 6 -3 -6 3 6"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool name="bookmark.builtin/ball at origin" selectInputs="true" copyColors="true"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-6", "1" ], [ "-3", "-6", "1" ], [ "-3", "-6", "1" ] ], [ [ "-3", "-6", "1" ], [ "-3", "-6", "1" ], [ "-1", "-2", "1" ] ], [ [ "-3", "-6", "1" ], [ "-3", "-6", "1" ], [ "1", "2", "1" ] ], [ [ "-3", "-6", "1" ], [ "-3", "-6", "1" ], [ "3", "6", "1" ] ], [ [ "-3", "-6", "1" ], [ "-1", "-2", "1" ], [ "-3", "-6", "1" ] ], [ [ "-3", "-6", "1" ], [ "-1", "-2", "1" ], [ "3", "6", "1" ] ], [ [ "-3", "-6", "1" ], [ "1", "2", "1" ], [ "-3", "-6", "1" ] ], [ [ "-3", "-6", "1" ], [ "1", "2", "1" ], [ "-1", "-2", "1" ] ], [ [ "-3", "-6", "1" ], [ "1", "2", "1" ], [ "3", "6", "1" ] ], [ [ "-3", "-6", "1" ], [ "3", "6", "1" ], [ "-3", "-6", "1" ] ], [ [ "-3", "-6", "1" ], [ "3", "6", "1" ], [ "-1", "-2", "1" ] ], [ [ "-3", "-6", "1" ], [ "3", "6", "1" ], [ "1", "2", "1" ] ], [ [ "-2", "-4", "1" ], [ "0", "0", "1" ], [ "-2", "-4", "1" ] ], [ [ "-1", "-2", "1" ], [ "-3", "-6", "1" ], [ "-3", "-6", "1" ] ], [ [ "-1", "-2", "1" ], [ "-3", "-6", "1" ], [ "3", "6", "1" ] ], [ [ "-1", "-2", "1" ], [ "-1", "-2", "1" ], [ "-3", "-6", "1" ] ], [ [ "-1", "-2", "1" ], [ "-1", "-2", "1" ], [ "3", "6", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "3", "6", "1" ] ], [ [ "-1", "-2", "1" ], [ "3", "6", "1" ], [ "-3", "-6", "1" ] ], [ [ "-1", "-2", "1" ], [ "3", "6", "1" ], [ "1", "2", "1" ] ], [ [ "-1", "-2", "1" ], [ "3", "6", "1" ], [ "3", "6", "1" ] ], [ [ "0", "0", "1" ], [ "-2", "-4", "1" ], [ "2", "4", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "2", "1" ], [ "-3", "-6", "1" ], [ "-3", "-6", "1" ] ], [ [ "1", "2", "1" ], [ "-3", "-6", "1" ], [ "-1", "-2", "1" ] ], [ [ "1", "2", "1" ], [ "-3", "-6", "1" ], [ "1", "2", "1" ] ], [ [ "1", "2", "1" ], [ "-3", "-6", "1" ], [ "3", "6", "1" ] ], [ [ "1", "2", "1" ], [ "-1", "-2", "1" ], [ "-3", "-6", "1" ] ], [ [ "1", "2", "1" ], [ "3", "6", "1" ], [ "-3", "-6", "1" ] ], [ [ "1", "2", "1" ], [ "3", "6", "1" ], [ "1", "2", "1" ] ], [ [ "1", "2", "1" ], [ "3", "6", "1" ], [ "3", "6", "1" ] ], [ [ "2", "4", "1" ], [ "2", "4", "1" ], [ "0", "0", "1" ] ], [ [ "3", "6", "1" ], [ "-3", "-6", "1" ], [ "-1", "-2", "1" ] ], [ [ "3", "6", "1" ], [ "-3", "-6", "1" ], [ "3", "6", "1" ] ], [ [ "3", "6", "1" ], [ "-1", "-2", "1" ], [ "-3", "-6", "1" ] ], [ [ "3", "6", "1" ], [ "-1", "-2", "1" ], [ "-1", "-2", "1" ] ], [ [ "3", "6", "1" ], [ "-1", "-2", "1" ], [ "3", "6", "1" ] ], [ [ "3", "6", "1" ], [ "1", "2", "1" ], [ "-3", "-6", "1" ] ], [ [ "3", "6", "1" ], [ "1", "2", "1" ], [ "-1", "-2", "1" ] ], [ [ "3", "6", "1" ], [ "1", "2", "1" ], [ "3", "6", "1" ] ], [ [ "3", "6", "1" ], [ "3", "6", "1" ], [ "-3", "-6", "1" ] ], [ [ "3", "6", "1" ], [ "3", "6", "1" ], [ "-1", "-2", "1" ] ], [ [ "3", "6", "1" ], [ "3", "6", "1" ], [ "1", "2", "1" ] ], [ [ "3", "6", "1" ], [ "3", "6", "1" ], [ "3", "6", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 28,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 40,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 37,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 34,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 41,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 42,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 43,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 39,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 36,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 33,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 38,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 35,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 32,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 27,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 23,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 29,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 24,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 25,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 26,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 30,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 31,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 22,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 9, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 28 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 28, 40 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 40, 37 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 37, 34 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 40, 41 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 41, 42 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 43 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 39 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 39, 36 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 36, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 32 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 34 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 32, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 34, 27 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 27, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 23, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 23, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 24, 25 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 23, 15 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 16 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 26 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 26, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 25 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 11 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 29, 20 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 11, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 29, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 30 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 21 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 7, 12 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 12, 15 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 21, 25 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 29, 31 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 31, 38 ],
+    "color" : "#FFB31A"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 15, 34, 38, 29, 11, 7 ],
+    "color" : "#7FCC9F"
+  }, {
+    "vertices" : [ 29, 38, 32 ],
+    "color" : "#7FCC9F"
+  }, {
+    "vertices" : [ 15, 7, 8 ],
+    "color" : "#7FCC9F"
+  }, {
+    "vertices" : [ 32, 25, 29 ],
+    "color" : "#7FCC9F"
+  }, {
+    "vertices" : [ 15, 23, 25, 8 ],
+    "color" : "#7FCC9F"
+  }, {
+    "vertices" : [ 25, 16, 8 ],
+    "color" : "#7FCC9F"
+  }, {
+    "vertices" : [ 29, 25, 16, 20 ],
+    "color" : "#7FCC9F"
+  } ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <ShowHidden/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -6 1 2 3 6"/>
+    <SelectManifestation point="-3 -6 -3 -6 3 6"/>
+    <SelectManifestation point="1 2 -3 -6 3 6"/>
+    <SelectManifestation point="-1 -2 -1 -2 3 6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 -1 -2 3 6"/>
+    <SelectManifestation point="1 2 -3 -6 3 6"/>
+    <SelectManifestation point="3 6 -3 -6 3 6"/>
+    <SelectManifestation point="3 6 3 6 3 6"/>
+    <SelectManifestation point="-1 -2 3 6 3 6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="-2 -4 0 0 -2 -4" endSegment="-1 -2 -1 -2 -3 -6"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <RotationTool full="true" corrected="true" symmetry="octahedral" name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-3 -6 1 2 3 6"/>
+      <polygonVertex at="-3 -6 -3 -6 3 6"/>
+      <polygonVertex at="1 2 -3 -6 3 6"/>
+      <polygonVertex at="-1 -2 -1 -2 3 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 -1 -2 3 6"/>
+      <polygonVertex at="1 2 -3 -6 3 6"/>
+      <polygonVertex at="3 6 -3 -6 3 6"/>
+      <polygonVertex at="3 6 3 6 3 6"/>
+      <polygonVertex at="-1 -2 3 6 3 6"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 6 3 6 1 2"/>
+    <SelectManifestation point="3 6 -1 -2 -3 -6"/>
+    <SelectManifestation point="3 6 3 6 -3 -6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="3 6 3 6 1 2"/>
+    <SelectManifestation point="3 6 3 6 3 6"/>
+    <SelectManifestation point="3 6 -3 -6 3 6"/>
+    <SelectManifestation point="3 6 -3 -6 -1 -2"/>
+    <SelectManifestation point="3 6 1 2 -1 -2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <SelectManifestation>
+      <polygonVertex at="3 6 3 6 1 2"/>
+      <polygonVertex at="3 6 -1 -2 -3 -6"/>
+      <polygonVertex at="3 6 3 6 -3 -6"/>
+    </SelectManifestation>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+  </EditHistory>
+  <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+    <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="0,179,161"/>
+    <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="50,50,50"/>
+    <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+    <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+    <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+    <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+    <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+    <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="125,54,211"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="icosahedral" renderingStyle="printable">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+      <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,153,63"/>
+      <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+      <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+      <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+      <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="50,50,50"/>
+      <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+      <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="239,245,61"/>
+      <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="255,179,26"/>
+      <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+      <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="0,179,161"/>
+      <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+      <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+      <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="125,54,211"/>
+      <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="235,82,0"/>
+      <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+      <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+      <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+      <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="axial symmetry 0" selectInputs="true" deleteInputs="false" copyColors="true"/>
+  </Tools>
+  <sceneModel ambientLight="51,51,51" background="175,200,220">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="202.1236114501953" far="404.2472229003906" near="0.1871514920835142" parallel="false" stereoAngle="0.0" width="90.9556251525879">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="0.7071067811865476" y="0.7071067811865477" z="5.551115123125783e-17"/>
+      <LookDirection x="-0.5773502691896258" y="0.5773502691896257" z="0.5773502691896257"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

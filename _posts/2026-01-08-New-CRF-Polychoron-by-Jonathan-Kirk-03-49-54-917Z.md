@@ -178,7 +178,7 @@ to improve.  For now, you can play with the exploding cells, though the interfac
 is a bit clunky.  Again, stay tuned.
 
 If you know how to import vZome's Simple Mesh JSON format, you can try your
-hand at different projections in vZome.  You can download the [JSON file here](https://raw.githubusercontent.com/vorth/vzome/refs/heads/4off-export/online/serve/app/test/cases/crf-polytope/output/lifted-4d.mesh.json).
-If you own Stella4D, you might also try the [4D OFF file](https://raw.githubusercontent.com/vorth/vzome/refs/heads/4off-export/online/serve/app/test/cases/crf-polytope/output/JK-CRF-4d.off) I have
+hand at different projections in vZome.  You can download the [JSON file here](https://raw.githubusercontent.com/vorth/vzome/refs/heads/main/online/serve/app/test/cases/crf-polytope/output/lifted-4d.mesh.json).
+If you own Stella4D, you might also try the [4D OFF file](https://raw.githubusercontent.com/vorth/vzome/refs/heads/main/online/serve/app/test/cases/crf-polytope/output/JK-CRF-4d.off) I have
 exported, but bear in mind that I have not tried this file, and it is missing a number of cells,
 so convexity tests will fail.

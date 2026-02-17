@@ -84,9 +84,40 @@ cell at the center, though I only really completed one of them, seen here in Fig
   </figcaption>
 </figure>
 
+Figures 3 and 4 show two more hand-built partial projections, illustrating some
+additional centers of tetrahedral projection.  These use the same strut colors as Jonathan's original,
+necessarily.
+
+<figure style="width: 87%; margin: 5%">
+
+<vzome-viewer style="width: 100%; height: 60vh"
+    src="https://vorth.github.io/vzome-sharing/2026/01/20/04-33-49-276Z-JK-CRF-oct-first/JK-CRF-oct-first.vZome" >
+  <img style="width: 100%"
+    src="https://vorth.github.io/vzome-sharing/2026/01/20/04-33-49-276Z-JK-CRF-oct-first/JK-CRF-oct-first.png" >
+</vzome-viewer>
+
+  <figcaption style="text-align: center; font-style: italic;">
+    <b>Figure 3:</b> Octahedron-first neighborhood of the CRF polytope, hand built
+  </figcaption>
+</figure>
+
+<figure style="width: 87%; margin: 5%">
+
+<vzome-viewer style="width: 100%; height: 60vh"
+    src="https://vorth.github.io/vzome-sharing/2026/01/20/04-44-10-077Z-JK-CRF-tet-first/JK-CRF-tet-first.vZome" >
+  <img style="width: 100%"
+    src="https://vorth.github.io/vzome-sharing/2026/01/20/04-44-10-077Z-JK-CRF-tet-first/JK-CRF-tet-first.png" >
+</vzome-viewer>
+
+  <figcaption style="text-align: center; font-style: italic;">
+    <b>Figure 4:</b> Tetrahedron-first neighborhood of the CRF polytope, hand built
+  </figcaption>
+</figure>
+
+
 Our ability to create several partial projections, using strut color combinations
 familiar from projecting other 4D polytopes like the 120-cell and 600-cell,
-served as very compelling yet still circumstantial evidence that the projections
+served as very compelling, yet still circumstantial, evidence that the projections
 represented a legitimate CRF polytope.
 
 Nonetheless, I promised Jonathan that I would try to reconstruct the full
@@ -97,21 +128,67 @@ would allow it.  The convexity of the polytope and its 3D cells and 2D faces
 is one such attribute.  Another is the planarity of faces, and finally,
 the uniformity of edge lengths is central.
 
-## Results
-
-I have *mostly* succeeded in this effort, recreating 4D vertex coordinates for all
-of the non-flat cell projections.  I started from my most complete and most
+I have succeeded in this effort, recreating 4D coordinates for all
+of the vertices.  I started from my most complete and most
 symmetric red-yellow-blue projection, with a J91 (bilunabirotunda) at the center.
-(See Figure 3 below.)
+(See Figure 6 below.)
 
-I'll write more here about the algorithm later.
+The algorithm is fairly simple, but hard to visualize, so I've illustrated it in
+Figure 5 using a 2D projection of a 3D polyhedron.  The principles are all the same.
+The algorithm starts by identifying some parts of the projection that are already in the Z=0 plane.
+Adjacent to those, we can use the Pythagorean theorem to derive the Z coordinate for the next few vertices.
+We do have to make a choice, here, for which Z value to use, positive or negative, so we choose positive
+values consistently.
 
-After recovering 4D data for the projection, I was able to reflect that data
+Finally, we enter the main iteration of the algorithm.  In this phase, we schedule faces
+for which we already have two edges resolved to 3D.
+For each such face, we find three vectors to vertices in the projection, and three
+more to the corresponding 3D vertices.  These six linearly independent vectors uniquely define
+a linear mapping that "unprojects" the face to 3D, simply by mapping one 2D plane to another.
+Note that this mapping is *only* valid for that particular face; for each face we must fine
+the specific mapping, and recover the Z values for all the vertices of the face.
+
+There is one trick here that I learned from David Richter: assign the projection a Z value
+of one, or really any non-zero number, to be certain that our three vectors will not be coplanar.
+
+<figure style="width: 87%; margin: 5%">
+
+  <div style='display:flex;'>
+    <div style='margin: auto;'>
+      <vzome-viewer-previous viewer="algorithm"load-camera='true' label='prev step'></vzome-viewer-previous>
+      <vzome-viewer-next     viewer="algorithm" load-camera='true' label='next step'></vzome-viewer-next>
+    </div>
+  </div>
+   <vzome-viewer style="width: 100%; height: 60vh" indexed='true' id="algorithm"
+        src="https://vorth.github.io/vzome-sharing/2026/02/15/04-45-59-114Z-dodec-unproject-map/dodec-unproject-map.vZome" >
+      <img style="width: 100%"
+        src="https://vorth.github.io/vzome-sharing/2026/02/15/04-45-59-114Z-dodec-unproject-map/dodec-unproject-map.png" >
+    </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    <b>Figure 5:</b> Illustrating the algorithm for 2D to 3D
+ </figcaption>
+</figure>
+
+The algorithm recovers the higher-dimensional data for just one half of the entire
+polytope, since we used only positive Z values.  The final steps require a reflection in the Z=0 plane,
+then computing the convex hull from the full set of vertices.
+
+The algorithm for 3D to 4D is essentially identical.  I was able to reflect the half-polytope data
 in the projection hyperplane, topology and all, to nearly complete the 4D polytope.
-It is still missing the cells that were flattened in the starting projection,
-since they require special treatment in the algorithm,
-as well as a handful of tetrahedral cells that I simply overlooked in
-my manual cell-labeling procedure.
+From that data, I generated this [4D OFF file](https://raw.githubusercontent.com/vorth/vzome/refs/heads/main/online/serve/app/test/cases/crf-polytope/output/JK-CRF-4d.off) file, and shared it on the Polytope Discord server.
+One user ran it through Stella4D, and produced a table of cell neighborhood types, and confirmation that
+the polytope is convex.
+I then ran the vertex data through the [free `qhull` command-line tool](http://www.qhull.org);
+that tool has various output formats that let me regenerate the full topology of edges, faces, and cells,
+now including all of the cells that had been flattened in the original projection, and thus missing from my initial topology.
+
+Another user on the same Discord server started from Jonathan's original projection *3D* data, and
+performed some computation analogous to mine.  They generated a second 4D data set, though starting
+from a different set of 4D basis vectors.
+
+## More Visualizations
+
+With the 4D data in hand, we can create a variety of projections.
 
 <figure style="width: 87%; margin: 5%">
  
@@ -122,63 +199,49 @@ my manual cell-labeling procedure.
  </vzome-viewer>
 
  <figcaption style="text-align: center; font-style: italic;">
-    <b>Figure 3:</b> J91-first projection of most cells of the CRF polytope
+    <b>Figure 6:</b> J91-first projection of most cells of the CRF polytope
  </figcaption>
 </figure>
 
-
-Figures 4 and 5 show two different ["green quaternion"](https://archive.bridgesmathart.org/2006/bridges2006-429.html#gsc.tab=0) projections
-of the 4D polytope data.
-These are similar to Jonathan's original projection, but still not exactly the same.
-They were created before I completed the main
-reflection, so approximately half of the polytope is missing.
 
 <figure style="width: 87%; margin: 5%">
  
- <vzome-viewer style="width: 100%; height: 60dvh" 
-       src="https://vorth.github.io/vzome-sharing/2026/01/08/03-54-57-413Z-JK-CRF-4d-tetra-centric/JK-CRF-4d-tetra-centric.vZome" >
-   <img  style="width: 100%"
-       src="https://vorth.github.io/vzome-sharing/2026/01/08/03-54-57-413Z-JK-CRF-4d-tetra-centric/JK-CRF-4d-tetra-centric.png" >
- </vzome-viewer>
+<vzome-viewer style="width: 100%; height: 60vh"
+    src="https://vorth.github.io/vzome-sharing/2026/01/27/05-17-29-916Z-CRF-centered-on-J91/CRF-centered-on-J91.vZome" >
+  <img style="width: 100%"
+    src="https://vorth.github.io/vzome-sharing/2026/01/27/05-17-29-916Z-CRF-centered-on-J91/CRF-centered-on-J91.png" >
+</vzome-viewer>
 
  <figcaption style="text-align: center; font-style: italic;">
-    <b>Figure 4:</b> Tetrahedron-first partial projection of the CRF polytope
+    <b>Figure 7:</b> Color coded projection, centered on J91
  </figcaption>
 </figure>
-
-In Figure 4, you can see part of a green-bordered regular tetrahedron,
-and in Figure 5 you can see a green-bordered regular octahedron.
-Both are near, but not at, the center of the projection; this is unusual,
-but is consistent with the odd shape of the polytope, which has much less
-symmetry than more well-known 4D polytopes like the 120-cell.
 
 <figure style="width: 87%; margin: 5%">
  
- <vzome-viewer style="width: 100%; height: 60dvh" 
-       src="https://vorth.github.io/vzome-sharing/2026/01/08/03-57-33-152Z-JK-CRF-4d-octa-centric/JK-CRF-4d-octa-centric.vZome" >
-   <img  style="width: 100%"
-       src="https://vorth.github.io/vzome-sharing/2026/01/08/03-57-33-152Z-JK-CRF-4d-octa-centric/JK-CRF-4d-octa-centric.png" >
- </vzome-viewer>
+<vzome-viewer style="width: 100%; height: 60vh"
+    src="https://vorth.github.io/vzome-sharing/2026/01/27/04-42-35-125Z-CRF-centered-on-truncated-tetrahedron/CRF-centered-on-truncated-tetrahedron.vZome" >
+  <img style="width: 100%"
+    src="https://vorth.github.io/vzome-sharing/2026/01/27/04-42-35-125Z-CRF-centered-on-truncated-tetrahedron/CRF-centered-on-truncated-tetrahedron.png" >
+</vzome-viewer>
 
  <figcaption style="text-align: center; font-style: italic;">
-    <b>Figure 5:</b> Octahedron-first partial projection of the CRF polytope
+    <b>Figure 8:</b> Color coded projection, centered on truncated tetrahedron
  </figcaption>
 </figure>
 
-I am still trying to reproduce the exact projection that Jonathan discovered
-initially, centered on one of the eight truncated tetrahedral cells,
-but that involves more clever Linear Algebra.  Stay tuned for those results.
 
-I am also trying to produce some better views of Jonathan's polytope,
+
+I am trying to produce some better views of Jonathan's polytope,
 including the ability to dynamically change the projection and to "explode"
 the projected cells to make the structure easier to see.
 I have some initial results in an [Observable notebook](https://observablehq.com/d/652f0ad708effeee)
 that I will continue
 to improve.  For now, you can play with the exploding cells, though the interface
-is a bit clunky.  Again, stay tuned.
+is a bit clunky.
+
+I am also working on another Observable notebook derived from [this one](https://observablehq.com/@vorth/clif4d-a-track-torus).
+It will use a stereographic projection and the color coding seen in figures 7 and 8, and allow arbitrary 4D rotations to explore the polytope.  Again, stay tuned.
 
 If you know how to import vZome's Simple Mesh JSON format, you can try your
 hand at different projections in vZome.  You can download the [JSON file here](https://raw.githubusercontent.com/vorth/vzome/refs/heads/main/online/serve/app/test/cases/crf-polytope/output/lifted-4d.mesh.json).
-If you own Stella4D, you might also try the [4D OFF file](https://raw.githubusercontent.com/vorth/vzome/refs/heads/main/online/serve/app/test/cases/crf-polytope/output/JK-CRF-4d.off) I have
-exported, but bear in mind that I have not tried this file, and it is missing a number of cells,
-so convexity tests will fail.

@@ -66,8 +66,8 @@ and constitute a mix of Platonic, Archimedean, and Johnson polyhedra.
 Now, just because he was able to create this 3D design, which follows all the usual
 patterns for a 4D polytope projected to 3D, there is no guarantee that the 4D polytope
 actually works.  His first idea for verifying the polytope was to find another
-projection to 3D.  He attempted this, but got stalled and reached out to me for help.
-I was able to reproduce the adjacency defined in his projection, but in the standard
+projection to 3D.  Between us, we were
+ able to reproduce the adjacency defined in his projection, but in the standard
 Zometool red-yellow-blue struts, in three different projections, each with a different
 cell at the center, though I only really completed one of them, seen here in Figure 2.
 
@@ -140,6 +140,24 @@ Adjacent to those, we can use the Pythagorean theorem to derive the Z coordinate
 We do have to make a choice, here, for which Z value to use, positive or negative, so we choose positive
 values consistently.
 
+  <div style='display:flex;'>
+    <div style='margin: auto;'>
+      <vzome-viewer-previous viewer="algorithm"load-camera='true' label='prev step'></vzome-viewer-previous>
+      <vzome-viewer-next     viewer="algorithm" load-camera='true' label='next step'></vzome-viewer-next>
+    </div>
+  </div>
+<figure style="width: 87%; margin: 5%">
+
+   <vzome-viewer style="width: 100%; height: 60vh" indexed='true' id="algorithm"
+        src="https://vorth.github.io/vzome-sharing/2026/02/15/04-45-59-114Z-dodec-unproject-map/dodec-unproject-map.vZome" >
+      <img style="width: 100%"
+        src="https://vorth.github.io/vzome-sharing/2026/02/15/04-45-59-114Z-dodec-unproject-map/dodec-unproject-map.png" >
+    </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    <b>Figure 5:</b> Illustrating the algorithm for 2D to 3D
+ </figcaption>
+</figure>
+
 Finally, we enter the main iteration of the algorithm.  In this phase, we schedule faces
 for which we already have two edges resolved to 3D.
 For each such face, we find three vectors to vertices in the projection, and three
@@ -150,24 +168,6 @@ the specific mapping, and recover the Z values for all the vertices of the face.
 
 There is one trick here that I learned from David Richter: assign the projection a Z value
 of one, or really any non-zero number, to be certain that our three vectors will not be coplanar.
-
-<figure style="width: 87%; margin: 5%">
-
-  <div style='display:flex;'>
-    <div style='margin: auto;'>
-      <vzome-viewer-previous viewer="algorithm"load-camera='true' label='prev step'></vzome-viewer-previous>
-      <vzome-viewer-next     viewer="algorithm" load-camera='true' label='next step'></vzome-viewer-next>
-    </div>
-  </div>
-   <vzome-viewer style="width: 100%; height: 60vh" indexed='true' id="algorithm"
-        src="https://vorth.github.io/vzome-sharing/2026/02/15/04-45-59-114Z-dodec-unproject-map/dodec-unproject-map.vZome" >
-      <img style="width: 100%"
-        src="https://vorth.github.io/vzome-sharing/2026/02/15/04-45-59-114Z-dodec-unproject-map/dodec-unproject-map.png" >
-    </vzome-viewer>
- <figcaption style="text-align: center; font-style: italic;">
-    <b>Figure 5:</b> Illustrating the algorithm for 2D to 3D
- </figcaption>
-</figure>
 
 The algorithm recovers the higher-dimensional data for just one half of the entire
 polytope, since we used only positive Z values.  The final steps require a reflection in the Z=0 plane,

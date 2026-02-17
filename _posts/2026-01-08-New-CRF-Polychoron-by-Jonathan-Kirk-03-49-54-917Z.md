@@ -142,7 +142,7 @@ values consistently.
 
 <figure style="width: 87%; margin: 5%">
   <div style='display:flex;'>
-    <div style='margin:auto;'><vzome-viewer-previous viewer="algorithm"load-camera='true' label='prev step'></vzome-viewer-previous><vzome-viewer-next     viewer="algorithm" load-camera='true' label='next step'></vzome-viewer-next>
+    <div style='margin:auto;'><vzome-viewer-previous viewer="algorithm" load-camera='true' label='prev step'></vzome-viewer-previous><vzome-viewer-next     viewer="algorithm" load-camera='true' label='next step'></vzome-viewer-next>
     </div>
   </div>
    <vzome-viewer style="width: 100%; height: 60vh" indexed='true' id="algorithm"

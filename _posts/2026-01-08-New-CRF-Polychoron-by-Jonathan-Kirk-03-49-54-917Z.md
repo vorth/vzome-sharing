@@ -140,14 +140,11 @@ Adjacent to those, we can use the Pythagorean theorem to derive the Z coordinate
 We do have to make a choice, here, for which Z value to use, positive or negative, so we choose positive
 values consistently.
 
+<figure style="width: 87%; margin: 5%">
   <div style='display:flex;'>
-    <div style='margin: auto;'>
-      <vzome-viewer-previous viewer="algorithm"load-camera='true' label='prev step'></vzome-viewer-previous>
-      <vzome-viewer-next     viewer="algorithm" load-camera='true' label='next step'></vzome-viewer-next>
+    <div style='margin:auto;'><vzome-viewer-previous viewer="algorithm"load-camera='true' label='prev step'></vzome-viewer-previous><vzome-viewer-next     viewer="algorithm" load-camera='true' label='next step'></vzome-viewer-next>
     </div>
   </div>
-<figure style="width: 87%; margin: 5%">
-
    <vzome-viewer style="width: 100%; height: 60vh" indexed='true' id="algorithm"
         src="https://vorth.github.io/vzome-sharing/2026/02/15/04-45-59-114Z-dodec-unproject-map/dodec-unproject-map.vZome" >
       <img style="width: 100%"

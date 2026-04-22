@@ -13,10 +13,24 @@ image: https://vorth.github.io/vzome-sharing/experiment/gltf/5BrunnVenn.png
   
     <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.3.0/model-viewer.min.js"></script>
     <script type="module" src="https://www.vzome.com/modules/gltf-viewer.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/x_ite@14.1.5/dist/x_ite.min.js"></script>
+
+    <style>
+x3d-canvas {
+  width: 768px;
+  height: 432px;
+}
+    </style>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
 
+    <figure style="width: 87%; margin: 5%">
+          <x3d-canvas
+        contentScale="auto"
+        update="auto"
+        src="./dodec-rotations.gltf"></x3d-canvas>
+    </figure>
 
     <figure style="width: 87%; margin: 5%">
       <model-viewer alt="Sample glTF file" src="./pink-hyperdo.gltf" scale="0.001 0.001 0.001"

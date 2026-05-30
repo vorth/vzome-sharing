@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="386" field="golden">
+  <EditHistory editNumber="342" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="3 5"/>
+    <SelectManifestation point="0 0 5 8 3 5"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 3 5 0 0"/>
+    <SelectManifestation point="0 0 5 8 -3 -5"/>
+    <SelectManifestation point="-5 -8 3 5 0 0"/>
+    <SelectManifestation point="-3 -5 0 0 5 8"/>
+    <SelectManifestation point="3 5 0 0 5 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor red="86" green="182" blue="230"/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <setItemColor red="1" green="183" blue="180"/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <setItemColor red="1" green="171" blue="183"/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+    </SelectManifestation>
+    <setItemColor red="67" green="161" blue="208"/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+    </SelectManifestation>
+    <setItemColor red="133" green="214" blue="164"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <setItemColor red="224" green="0" blue="67"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <setItemColor red="224" green="0" blue="97"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor red="227" green="81" blue="2"/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+    </SelectManifestation>
+    <setItemColor red="232" green="107" blue="23"/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="3 5 0 0 5 8"/>
+    </SelectManifestation>
+    <setItemColor red="178" green="76" blue="21"/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="3 5 0 0 5 8"/>
+    </SelectManifestation>
+    <setItemColor red="155" green="63" blue="13"/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+    </SelectManifestation>
+    <setItemColor red="255" green="154" blue="143"/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <setItemColor red="150" green="143" blue="255"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor red="25" green="15" blue="163"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <setItemColor red="0" green="117" blue="2"/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+    </SelectManifestation>
+    <setItemColor red="255" green="234" blue="0"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+    </SelectManifestation>
+    <setItemColor red="209" green="0" blue="0"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="5 8 3 5 0 0"/>
+    </SelectManifestation>
+    <setItemColor red="138" green="0" blue="133"/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+    </SelectManifestation>
+    <MapToColor colorMapper="SystemColorMap" symmetry="icosahedral"/>
+    <StrutCreation anchor="-5 -8 -3 -5 0 0" index="52" len="2 2"/>
+    <StrutCreation anchor="-5 -8 -3 -5 0 0" index="6" len="2 4"/>
+    <StrutCreation anchor="-3 -5 0 0 -5 -8" index="40" len="2 2"/>
+    <StrutCreation anchor="-5 -8 -3 -5 0 0" index="9" len="4 6"/>
+    <SelectManifestation point="-3 -5 0 0 1 2"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -5 0 0 1 2"/>
+    <SelectManifestation point="-3 -5 0 0 -1 -2"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation point="-3 -5 0 0 0 0"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -7 -2 -4 -1 -2"/>
+    <SelectManifestation point="-3 -6 -1 -1 -4 -6"/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -7 -2 -4 -1 -2"/>
+    <SelectManifestation point="-3 -5 0 0 -1 -2"/>
+    <SelectManifestation point="-5/2 -4 1 3/2 -3/2 -5/2"/>
+    <SelectManifestation point="-3 -6 -1 -1 -4 -6"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -5 0 0 -1 -2"/>
+    <SelectManifestation point="-3 -5 0 0 1 2"/>
+    <SelectManifestation point="-2 -3 2 3 2 3"/>
+    <SelectManifestation point="-1 -2 3 5 0 0"/>
+    <SelectManifestation point="-2 -3 2 3 -2 -3"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -7 -2 -4 -1 -2"/>
+    <SelectManifestation point="-3 -5 0 0 -1 -2"/>
+    <SelectManifestation point="-5/2 -4 1 3/2 -3/2 -5/2"/>
+    <SelectManifestation point="-3 -6 -1 -1 -4 -6"/>
+    <EndBlock/>
+    <Polygon/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-5 -7 -2 -4 -1 -2"/>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-5/2 -4 1 3/2 -3/2 -5/2"/>
+      <polygonVertex at="-3 -6 -1 -1 -4 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-3 -6 -1 -1 4 6"/>
+      <polygonVertex at="-3 -5 0 0 1 2"/>
+      <polygonVertex at="-3 -5 0 0 0 0"/>
+      <polygonVertex at="-5 -7 -2 -4 1 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -1 4 6 3 6"/>
+      <polygonVertex at="-2 -3 2 3 2 3"/>
+      <polygonVertex at="-5/2 -4 1 3/2 3/2 5/2"/>
+      <polygonVertex at="-2 -4 1 2 5 7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 -1 -3"/>
+      <polygonVertex at="-1 -2 3 5 0 0"/>
+      <polygonVertex at="-3/2 -5/2 5/2 4 1 3/2"/>
+      <polygonVertex at="0 0 5 8 1 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="224" green="0" blue="97"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-2 -4 1 2 -5 -7"/>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+      <polygonVertex at="-3/2 -5/2 5/2 4 -1 -3/2"/>
+      <polygonVertex at="-1 -1 4 6 -3 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-5 -7 -2 -4 -1 -2"/>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-5/2 -4 1 3/2 -3/2 -5/2"/>
+      <polygonVertex at="-3 -6 -1 -1 -4 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-5 -7 -2 -4 -1 -2"/>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-5/2 -4 1 3/2 -3/2 -5/2"/>
+      <polygonVertex at="-3 -6 -1 -1 -4 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-3 -5 0 0 1 2"/>
+      <polygonVertex at="-2 -3 2 3 2 3"/>
+      <polygonVertex at="-1 -2 3 5 0 0"/>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-2 -4 1 2 -5 -7"/>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+      <polygonVertex at="-3/2 -5/2 5/2 4 -1 -3/2"/>
+      <polygonVertex at="-1 -1 4 6 -3 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-3 -5 0 0 1 2"/>
+      <polygonVertex at="-2 -3 2 3 2 3"/>
+      <polygonVertex at="-1 -2 3 5 0 0"/>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-5 -7 -2 -4 -1 -2"/>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-5/2 -4 1 3/2 -3/2 -5/2"/>
+      <polygonVertex at="-3 -6 -1 -1 -4 -6"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="224" green="0" blue="97"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-1 -1 -4 -6 3 6"/>
+      <polygonVertex at="0 0 -1 -2 3 5"/>
+      <polygonVertex at="0 0 0 0 3 5"/>
+      <polygonVertex at="-2 -4 -1 -2 5 7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="4 6 -3 -6 1 1"/>
+      <polygonVertex at="2 3 -2 -3 2 3"/>
+      <polygonVertex at="1 3/2 -3/2 -5/2 5/2 4"/>
+      <polygonVertex at="1 2 -5 -7 2 4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="5 8 1 3 0 0"/>
+      <polygonVertex at="3 5 0 0 1 2"/>
+      <polygonVertex at="5/2 4 -1 -3/2 3/2 5/2"/>
+      <polygonVertex at="5 8 -1 -3 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="5 8 3 5 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="138" green="0" blue="133"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="5 8 3 5 0 0"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="1 2 5 7 2 4"/>
+      <polygonVertex at="2 3 2 3 2 3"/>
+      <polygonVertex at="5/2 4 1 3/2 3/2 5/2"/>
+      <polygonVertex at="4 6 3 6 1 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 -4 1 2 5 7"/>
+      <polygonVertex at="0 0 1 2 3 5"/>
+      <polygonVertex at="1 3/2 3/2 5/2 5/2 4"/>
+      <polygonVertex at="-1 -1 4 6 3 6"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 2 3 5"/>
+      <polygonVertex at="0 0 -1 -2 3 5"/>
+      <polygonVertex at="2 3 -2 -3 2 3"/>
+      <polygonVertex at="3 5 0 0 1 2"/>
+      <polygonVertex at="2 3 2 3 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 5 7 2 4"/>
+      <polygonVertex at="2 3 2 3 2 3"/>
+      <polygonVertex at="5/2 4 1 3/2 3/2 5/2"/>
+      <polygonVertex at="4 6 3 6 1 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 -4 1 2 5 7"/>
+      <polygonVertex at="0 0 1 2 3 5"/>
+      <polygonVertex at="1 3/2 3/2 5/2 5/2 4"/>
+      <polygonVertex at="-1 -1 4 6 3 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -1 -4 -6 3 6"/>
+      <polygonVertex at="0 0 -1 -2 3 5"/>
+      <polygonVertex at="0 0 0 0 3 5"/>
+      <polygonVertex at="-2 -4 -1 -2 5 7"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="138" green="0" blue="133"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="5 7 2 4 -1 -2"/>
+      <polygonVertex at="3 5 0 0 -1 -2"/>
+      <polygonVertex at="5/2 4 -1 -3/2 -3/2 -5/2"/>
+      <polygonVertex at="3 6 1 1 -4 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 4 -1 -2 -5 -7"/>
+      <polygonVertex at="2 3 -2 -3 -2 -3"/>
+      <polygonVertex at="3/2 5/2 -5/2 -4 -1 -3/2"/>
+      <polygonVertex at="1 1 -4 -6 -3 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -5 -8 -1 -3"/>
+      <polygonVertex at="1 2 -3 -5 0 0"/>
+      <polygonVertex at="3/2 5/2 -5/2 -4 1 3/2"/>
+      <polygonVertex at="0 0 -5 -8 1 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 1 -4 -6 3 6"/>
+      <polygonVertex at="2 3 -2 -3 2 3"/>
+      <polygonVertex at="5/2 4 -1 -3/2 3/2 5/2"/>
+      <polygonVertex at="2 4 -1 -2 5 7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 6 1 1 4 6"/>
+      <polygonVertex at="3 5 0 0 1 2"/>
+      <polygonVertex at="3 5 0 0 0 0"/>
+      <polygonVertex at="5 7 2 4 1 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 -3 -5 0 0"/>
+      <polygonVertex at="2 3 -2 -3 -2 -3"/>
+      <polygonVertex at="3 5 0 0 -1 -2"/>
+      <polygonVertex at="3 5 0 0 1 2"/>
+      <polygonVertex at="2 3 -2 -3 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="25" green="15" blue="163"/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-3 -6 -1 -1 -4 -6"/>
+      <polygonVertex at="-2 -3 -2 -3 -2 -3"/>
+      <polygonVertex at="-3/2 -5/2 -5/2 -4 -1 -3/2"/>
+      <polygonVertex at="-5 -7 -2 -4 -1 -2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-4 -6 -3 -6 1 1"/>
+      <polygonVertex at="-1 -2 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -3 -5 0 0"/>
+      <polygonVertex at="-1 -2 -5 -7 2 4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 -5 -7 2 4"/>
+      <polygonVertex at="1 2 -3 -5 0 0"/>
+      <polygonVertex at="3/2 5/2 -5/2 -4 -1 -3/2"/>
+      <polygonVertex at="4 6 -3 -6 1 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="1" green="171" blue="183"/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="1 3 0 0 -5 -8"/>
+      <polygonVertex at="0 0 -1 -2 -3 -5"/>
+      <polygonVertex at="-1 -3/2 -3/2 -5/2 -5/2 -4"/>
+      <polygonVertex at="-1 -3 0 0 -5 -8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 -3 -5 0 0"/>
+      <polygonVertex at="-2 -3 -2 -3 -2 -3"/>
+      <polygonVertex at="0 0 -1 -2 -3 -5"/>
+      <polygonVertex at="2 3 -2 -3 -2 -3"/>
+      <polygonVertex at="1 2 -3 -5 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="5 7 -2 -4 -1 -2"/>
+      <polygonVertex at="2 3 -2 -3 -2 -3"/>
+      <polygonVertex at="1 3/2 -3/2 -5/2 -5/2 -4"/>
+      <polygonVertex at="3 6 -1 -1 -4 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-3 -6 -1 -1 -4 -6"/>
+      <polygonVertex at="-2 -3 -2 -3 -2 -3"/>
+      <polygonVertex at="-3/2 -5/2 -5/2 -4 -1 -3/2"/>
+      <polygonVertex at="-5 -7 -2 -4 -1 -2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="1" green="171" blue="183"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-1 -1 4 6 -3 -6"/>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="0 0 0 0 -3 -5"/>
+      <polygonVertex at="-2 -4 1 2 -5 -7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="4 6 3 6 -1 -1"/>
+      <polygonVertex at="2 3 2 3 -2 -3"/>
+      <polygonVertex at="1 3/2 3/2 5/2 -5/2 -4"/>
+      <polygonVertex at="1 2 5 7 -2 -4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="255" green="234" blue="0"/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 -1 -3 0 0"/>
+      <polygonVertex at="3 5 0 0 -1 -2"/>
+      <polygonVertex at="5/2 4 1 3/2 -3/2 -5/2"/>
+      <polygonVertex at="5 8 1 3 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -1 -2 -3 -5"/>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="2 3 2 3 -2 -3"/>
+      <polygonVertex at="3 5 0 0 -1 -2"/>
+      <polygonVertex at="2 3 -2 -3 -2 -3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 -5 -7 -2 -4"/>
+      <polygonVertex at="2 3 -2 -3 -2 -3"/>
+      <polygonVertex at="5/2 4 -1 -3/2 -3/2 -5/2"/>
+      <polygonVertex at="4 6 -3 -6 -1 -1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 -4 -1 -2 -5 -7"/>
+      <polygonVertex at="0 0 -1 -2 -3 -5"/>
+      <polygonVertex at="1 3/2 -3/2 -5/2 -5/2 -4"/>
+      <polygonVertex at="-1 -1 -4 -6 -3 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -1 4 6 -3 -6"/>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="0 0 0 0 -3 -5"/>
+      <polygonVertex at="-2 -4 1 2 -5 -7"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="255" green="234" blue="0"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="5 7 -2 -4 1 2"/>
+      <polygonVertex at="3 5 0 0 1 2"/>
+      <polygonVertex at="5/2 4 1 3/2 3/2 5/2"/>
+      <polygonVertex at="3 6 -1 -1 4 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 6 -1 -1 -4 -6"/>
+      <polygonVertex at="3 5 0 0 -1 -2"/>
+      <polygonVertex at="3 5 0 0 0 0"/>
+      <polygonVertex at="5 7 -2 -4 -1 -2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 1 4 6 -3 -6"/>
+      <polygonVertex at="2 3 2 3 -2 -3"/>
+      <polygonVertex at="5/2 4 1 3/2 -3/2 -5/2"/>
+      <polygonVertex at="2 4 1 2 -5 -7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="67" green="161" blue="208"/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="1 2 3 5 0 0"/>
+      <polygonVertex at="2 3 2 3 2 3"/>
+      <polygonVertex at="3 5 0 0 1 2"/>
+      <polygonVertex at="3 5 0 0 -1 -2"/>
+      <polygonVertex at="2 3 2 3 -2 -3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 4 1 2 5 7"/>
+      <polygonVertex at="2 3 2 3 2 3"/>
+      <polygonVertex at="3/2 5/2 5/2 4 1 3/2"/>
+      <polygonVertex at="1 1 4 6 3 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 1 3"/>
+      <polygonVertex at="1 2 3 5 0 0"/>
+      <polygonVertex at="3/2 5/2 5/2 4 -1 -3/2"/>
+      <polygonVertex at="0 0 5 8 -1 -3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 1 4 6 -3 -6"/>
+      <polygonVertex at="2 3 2 3 -2 -3"/>
+      <polygonVertex at="5/2 4 1 3/2 -3/2 -5/2"/>
+      <polygonVertex at="2 4 1 2 -5 -7"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="67" green="161" blue="208"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="1 2 5 7 -2 -4"/>
+      <polygonVertex at="1 2 3 5 0 0"/>
+      <polygonVertex at="3/2 5/2 5/2 4 1 3/2"/>
+      <polygonVertex at="4 6 3 6 -1 -1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="3 5 0 0 5 8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="155" green="63" blue="13"/>
+    <SelectManifestation>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="3 5 0 0 5 8"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="5 7 2 4 1 2"/>
+      <polygonVertex at="2 3 2 3 2 3"/>
+      <polygonVertex at="1 3/2 3/2 5/2 5/2 4"/>
+      <polygonVertex at="3 6 1 1 4 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 3 0 0 5 8"/>
+      <polygonVertex at="0 0 1 2 3 5"/>
+      <polygonVertex at="-1 -3/2 3/2 5/2 5/2 4"/>
+      <polygonVertex at="-1 -3 0 0 5 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-3 -6 1 1 4 6"/>
+      <polygonVertex at="-2 -3 2 3 2 3"/>
+      <polygonVertex at="-3/2 -5/2 5/2 4 1 3/2"/>
+      <polygonVertex at="-5 -7 2 4 1 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-4 -6 3 6 -1 -1"/>
+      <polygonVertex at="-1 -2 3 5 0 0"/>
+      <polygonVertex at="0 0 3 5 0 0"/>
+      <polygonVertex at="-1 -2 5 7 -2 -4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 3 5 0 0"/>
+      <polygonVertex at="-2 -3 2 3 2 3"/>
+      <polygonVertex at="0 0 1 2 3 5"/>
+      <polygonVertex at="2 3 2 3 2 3"/>
+      <polygonVertex at="1 2 3 5 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 5 7 -2 -4"/>
+      <polygonVertex at="1 2 3 5 0 0"/>
+      <polygonVertex at="3/2 5/2 5/2 4 1 3/2"/>
+      <polygonVertex at="4 6 3 6 -1 -1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="155" green="63" blue="13"/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 -5 -7 -2 -4"/>
+      <polygonVertex at="-1 -2 -3 -5 0 0"/>
+      <polygonVertex at="-3/2 -5/2 -5/2 -4 1 3/2"/>
+      <polygonVertex at="-4 -6 -3 -6 -1 -1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="4 6 -3 -6 -1 -1"/>
+      <polygonVertex at="1 2 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -3 -5 0 0"/>
+      <polygonVertex at="1 2 -5 -7 -2 -4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 6 -1 -1 4 6"/>
+      <polygonVertex at="2 3 -2 -3 2 3"/>
+      <polygonVertex at="3/2 5/2 -5/2 -4 1 3/2"/>
+      <polygonVertex at="5 7 -2 -4 1 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -3 0 0 5 8"/>
+      <polygonVertex at="0 0 -1 -2 3 5"/>
+      <polygonVertex at="1 3/2 -3/2 -5/2 5/2 4"/>
+      <polygonVertex at="1 3 0 0 5 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="232" green="107" blue="23"/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="5 8 -3 -5 0 0"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-5 -7 -2 -4 1 2"/>
+      <polygonVertex at="-2 -3 -2 -3 2 3"/>
+      <polygonVertex at="-1 -3/2 -3/2 -5/2 5/2 4"/>
+      <polygonVertex at="-3 -6 -1 -1 4 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 -3 -5 0 0"/>
+      <polygonVertex at="1 2 -3 -5 0 0"/>
+      <polygonVertex at="2 3 -2 -3 2 3"/>
+      <polygonVertex at="0 0 -1 -2 3 5"/>
+      <polygonVertex at="-2 -3 -2 -3 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -3 0 0 5 8"/>
+      <polygonVertex at="0 0 -1 -2 3 5"/>
+      <polygonVertex at="1 3/2 -3/2 -5/2 5/2 4"/>
+      <polygonVertex at="1 3 0 0 5 8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="232" green="107" blue="23"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-5 -7 2 4 1 2"/>
+      <polygonVertex at="-3 -5 0 0 1 2"/>
+      <polygonVertex at="-5/2 -4 -1 -3/2 3/2 5/2"/>
+      <polygonVertex at="-3 -6 1 1 4 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-3 -6 1 1 -4 -6"/>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-3 -5 0 0 0 0"/>
+      <polygonVertex at="-5 -7 2 4 -1 -2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -1 -4 -6 -3 -6"/>
+      <polygonVertex at="-2 -3 -2 -3 -2 -3"/>
+      <polygonVertex at="-5/2 -4 -1 -3/2 -3/2 -5/2"/>
+      <polygonVertex at="-2 -4 -1 -2 -5 -7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -5 -8 1 3"/>
+      <polygonVertex at="-1 -2 -3 -5 0 0"/>
+      <polygonVertex at="-3/2 -5/2 -5/2 -4 -1 -3/2"/>
+      <polygonVertex at="0 0 -5 -8 -1 -3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="0" green="117" blue="2"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+      <polygonVertex at="-3 -5 0 0 5 8"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-2 -4 -1 -2 5 7"/>
+      <polygonVertex at="-2 -3 -2 -3 2 3"/>
+      <polygonVertex at="-3/2 -5/2 -5/2 -4 1 3/2"/>
+      <polygonVertex at="-1 -1 -4 -6 3 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-2 -3 -2 -3 -2 -3"/>
+      <polygonVertex at="-1 -2 -3 -5 0 0"/>
+      <polygonVertex at="-2 -3 -2 -3 2 3"/>
+      <polygonVertex at="-3 -5 0 0 1 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -5 -8 1 3"/>
+      <polygonVertex at="-1 -2 -3 -5 0 0"/>
+      <polygonVertex at="-3/2 -5/2 -5/2 -4 -1 -3/2"/>
+      <polygonVertex at="0 0 -5 -8 -1 -3"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="0" green="117" blue="2"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="2 4 1 2 -5 -7"/>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="-1 -3/2 3/2 5/2 -5/2 -4"/>
+      <polygonVertex at="1 1 4 6 -3 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 1 -4 -6 -3 -6"/>
+      <polygonVertex at="0 0 -1 -2 -3 -5"/>
+      <polygonVertex at="0 0 0 0 -3 -5"/>
+      <polygonVertex at="2 4 -1 -2 -5 -7"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-4 -6 -3 -6 -1 -1"/>
+      <polygonVertex at="-2 -3 -2 -3 -2 -3"/>
+      <polygonVertex at="-1 -3/2 -3/2 -5/2 -5/2 -4"/>
+      <polygonVertex at="-1 -2 -5 -7 -2 -4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-5 -8 1 3 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-5/2 -4 -1 -3/2 -3/2 -5/2"/>
+      <polygonVertex at="-5 -8 -1 -3 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="133" green="214" blue="164"/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="0 0 -5 -8 -3 -5"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="0 0 5 8 -3 -5"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 5 7 -2 -4"/>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+      <polygonVertex at="-5/2 -4 1 3/2 -3/2 -5/2"/>
+      <polygonVertex at="-4 -6 3 6 -1 -1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -1 -2 -3 -5"/>
+      <polygonVertex at="-2 -3 -2 -3 -2 -3"/>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-5 -8 1 3 0 0"/>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-5/2 -4 -1 -3/2 -3/2 -5/2"/>
+      <polygonVertex at="-5 -8 -1 -3 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="133" green="214" blue="164"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="4 6 3 6 1 1"/>
+      <polygonVertex at="1 2 3 5 0 0"/>
+      <polygonVertex at="0 0 3 5 0 0"/>
+      <polygonVertex at="1 2 5 7 2 4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 5 7 2 4"/>
+      <polygonVertex at="-1 -2 3 5 0 0"/>
+      <polygonVertex at="-3/2 -5/2 5/2 4 -1 -3/2"/>
+      <polygonVertex at="-4 -6 3 6 1 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="209" green="0" blue="0"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="5 8 3 5 0 0"/>
+      <polygonVertex at="3 5 0 0 -5 -8"/>
+      <polygonVertex at="-3 -5 0 0 -5 -8"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+      <polygonVertex at="-1 -2 3 5 0 0"/>
+      <polygonVertex at="1 2 3 5 0 0"/>
+      <polygonVertex at="2 3 2 3 -2 -3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-5 -7 2 4 -1 -2"/>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+      <polygonVertex at="-1 -3/2 3/2 5/2 -5/2 -4"/>
+      <polygonVertex at="-3 -6 1 1 -4 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -3 0 0 -5 -8"/>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="1 3/2 3/2 5/2 -5/2 -4"/>
+      <polygonVertex at="1 3 0 0 -5 -8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 6 1 1 -4 -6"/>
+      <polygonVertex at="2 3 2 3 -2 -3"/>
+      <polygonVertex at="3/2 5/2 5/2 4 -1 -3/2"/>
+      <polygonVertex at="5 7 2 4 -1 -2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="236" green="136" blue="139"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="3 6 1 1 -4 -6"/>
+      <polygonVertex at="2 3 2 3 -2 -3"/>
+      <polygonVertex at="3/2 5/2 5/2 4 -1 -3/2"/>
+      <polygonVertex at="5 7 2 4 -1 -2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+      <polygonVertex at="-1 -2 3 5 0 0"/>
+      <polygonVertex at="1 2 3 5 0 0"/>
+      <polygonVertex at="2 3 2 3 -2 -3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-5 -7 2 4 -1 -2"/>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+      <polygonVertex at="-1 -3/2 3/2 5/2 -5/2 -4"/>
+      <polygonVertex at="-3 -6 1 1 -4 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -3 0 0 -5 -8"/>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="1 3/2 3/2 5/2 -5/2 -4"/>
+      <polygonVertex at="1 3 0 0 -5 -8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="4 6 3 6 1 1"/>
+      <polygonVertex at="1 2 3 5 0 0"/>
+      <polygonVertex at="0 0 3 5 0 0"/>
+      <polygonVertex at="1 2 5 7 2 4"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="209" green="0" blue="0"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="2 4 -1 -2 5 7"/>
+      <polygonVertex at="0 0 -1 -2 3 5"/>
+      <polygonVertex at="-1 -3/2 -3/2 -5/2 5/2 4"/>
+      <polygonVertex at="1 1 -4 -6 3 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="236" green="136" blue="139"/>
+    <SelectManifestation>
+      <polygonVertex at="3 5 0 0 5 8"/>
+      <polygonVertex at="0 0 5 8 3 5"/>
+      <polygonVertex at="-5 -8 3 5 0 0"/>
+      <polygonVertex at="-5 -8 -3 -5 0 0"/>
+      <polygonVertex at="0 0 -5 -8 3 5"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="SELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="SELECT" panels="IGNORE" originLast="true"/>
+    <EndBlock/>
+    <Delete/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="255,179,26"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,153,63"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="235,82,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="125,54,211"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="50,50,50"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="0,179,161"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="230,245,62"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+    <Direction prototype="7/2 -5/2 -5/2 1 -2 1/2" name="0" orbit="[[16,-9,31],[-9,7,31]]" color="255,255,255"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="125,54,211"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="50,50,50"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="0,179,161"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+  <sceneModel ambientLight="51,51,51" background="140,194,231">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="183.79709645096477" far="367.59419290192955" near="0.17018249671385627" parallel="false" stereoAngle="0.0" width="82.70869340293414">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="-0.1517566912500827" y="-0.9361667963507061" z="0.3171145472400884"/>
+      <LookDirection x="0.988391245924345" y="-0.14137517912885794" z="0.055639947038114534"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="386" field="golden">
+  <EditHistory editNumber="175" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="2 3"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 2 3 2 3"/>
+    <SelectManifestation point="2 3 0 0 3 5"/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <ConvexHull3d mode=""/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 2 3 5"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+      <polygonVertex at="2 3 2 3 2 3"/>
+      <polygonVertex at="0 0 3 5 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 -3 2 3 2 3"/>
+      <polygonVertex at="-2 -3 0 0 3 5"/>
+      <polygonVertex at="0 0 1 2 3 5"/>
+      <polygonVertex at="0 0 3 5 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 2 3 5"/>
+      <polygonVertex at="-2 -3 0 0 3 5"/>
+      <polygonVertex at="0 0 -1 -2 3 5"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 2 3 5"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+      <polygonVertex at="2 3 2 3 2 3"/>
+      <polygonVertex at="0 0 3 5 2 3"/>
+    </SelectManifestation>
+    <SelectManifestation startSegment="0 0 3 5 2 3" endSegment="0 0 1 2 3 5"/>
+    <SelectManifestation point="0 0 3 5 2 3"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 1 2 3 5"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="0 0 1 2 3 5"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 2 3 5"/>
+      <polygonVertex at="-2 -3 0 0 3 5"/>
+      <polygonVertex at="0 0 -1 -2 3 5"/>
+      <polygonVertex at="2 3 0 0 3 5"/>
+    </SelectManifestation>
+    <SelectManifestation startSegment="0 0 1 2 3 5" endSegment="2 3 0 0 3 5"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 1 2 -3 -5" dir="red" index="31" len="1 2"/>
+    <StrutCreation anchor="-2 -3 -2 -3 -2 -3" dir="red" index="0" len="1 2"/>
+    <StrutCreation anchor="0 0 -1 -1 -2 -3" dir="red" index="15" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 1 2 -3 -5" endSegment="0 0 -1 -1 -2 -3"/>
+    <SelectManifestation startSegment="-2 -3 -2 -3 -2 -3" endSegment="0 0 -1 -1 -2 -3"/>
+    <SelectManifestation startSegment="0 0 -1 -1 -2 -3" endSegment="2 3 -2 -3 -2 -3"/>
+    <EndBlock/>
+    <Parallelepiped/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="DESELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="DESELECT" panels="IGNORE" originLast="true"/>
+    <EndBlock/>
+    <setItemColor red="255" green="206" blue="31"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 -1 -1 -2 -3" endSegment="2 3 -2 -3 -2 -3"/>
+    <SelectManifestation startSegment="2 3 0 0 -3 -5" endSegment="2 3 -2 -3 -2 -3"/>
+    <SelectManifestation startSegment="3 5 -2 -3 0 0" endSegment="2 3 -2 -3 -2 -3"/>
+    <EndBlock/>
+    <Parallelepiped/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="DESELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="DESELECT" panels="IGNORE" originLast="true"/>
+    <EndBlock/>
+    <setItemColor red="255" green="5" blue="5"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 -1 -1 -2 -3" endSegment="2 3 -2 -3 -2 -3"/>
+    <SelectManifestation startSegment="0 0 -3 -5 -2 -3" endSegment="2 3 -2 -3 -2 -3"/>
+    <SelectManifestation startSegment="3 5 -2 -3 0 0" endSegment="2 3 -2 -3 -2 -3"/>
+    <EndBlock/>
+    <Parallelepiped/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="DESELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="DESELECT" panels="IGNORE" originLast="true"/>
+    <SelectManifestation>
+      <polygonVertex at="1 2 1 2 -1 -2"/>
+      <polygonVertex at="1 2 -1 -1 0 0"/>
+      <polygonVertex at="0 0 -1 -1 -2 -3"/>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="255" green="5" blue="5"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 1 2 -3 -5" endSegment="0 0 -1 -1 -2 -3"/>
+    <SelectManifestation startSegment="-2 -3 -2 -3 -2 -3" endSegment="0 0 -1 -1 -2 -3"/>
+    <SelectManifestation startSegment="0 0 -1 -1 -2 -3" endSegment="1 2 -1 -1 0 0"/>
+    <EndBlock/>
+    <Parallelepiped/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="DESELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="DESELECT" panels="IGNORE" originLast="true"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="2 3 0 0 -3 -5"/>
+      <polygonVertex at="0 0 -1 -2 -3 -5"/>
+      <polygonVertex at="-2 -3 0 0 -3 -5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="255" green="206" blue="31"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-3 -5 -2 -3 0 0" endSegment="-1 -2 -3 -5 0 0"/>
+    <SelectManifestation startSegment="0 0 -3 -5 -2 -3" endSegment="-1 -2 -3 -5 0 0"/>
+    <SelectManifestation startSegment="0 0 -3 -5 2 3" endSegment="-1 -2 -3 -5 0 0"/>
+    <EndBlock/>
+    <Parallelepiped/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="DESELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="DESELECT" panels="IGNORE" originLast="true"/>
+    <SelectManifestation>
+      <polygonVertex at="-1 -1 0 0 -1 -2"/>
+      <polygonVertex at="-1 -1 -2 -3 0 0"/>
+      <polygonVertex at="1 2 -1 -1 0 0"/>
+      <polygonVertex at="1 2 1 2 -1 -2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="255" green="206" blue="31"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 -3 -5 0 0"/>
+    <SelectManifestation point="1 2 -3 -5 0 0"/>
+    <SelectManifestation startSegment="3 5 -2 -3 0 0" endSegment="1 2 -3 -5 0 0"/>
+    <SelectManifestation startSegment="1 2 -3 -5 0 0" endSegment="-1 -1 -2 -3 0 0"/>
+    <SelectManifestation startSegment="0 0 -3 -5 2 3" endSegment="1 2 -3 -5 0 0"/>
+    <EndBlock/>
+    <Parallelepiped/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="DESELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="DESELECT" panels="IGNORE" originLast="true"/>
+    <SelectManifestation>
+      <polygonVertex at="1 2 1 2 -1 -2"/>
+      <polygonVertex at="3 5 0 0 -1 -2"/>
+      <polygonVertex at="3 5 -2 -3 0 0"/>
+      <polygonVertex at="1 2 -1 -1 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="255" green="5" blue="5"/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -5 2 3 0 0"/>
+    <SelectManifestation startSegment="-3 -5 2 3 0 0" endSegment="-2 -3 2 3 -2 -3"/>
+    <SelectManifestation point="-2 -3 2 3 -2 -3"/>
+    <SelectManifestation startSegment="0 0 3 5 -2 -3" endSegment="-2 -3 2 3 -2 -3"/>
+    <SelectManifestation startSegment="0 0 3 5 -2 -3" endSegment="2 3 2 3 -2 -3"/>
+    <SelectManifestation point="0 0 3 5 -2 -3"/>
+    <SelectManifestation point="0 0 3 5 -2 -3"/>
+    <SelectManifestation startSegment="-3 -5 2 3 0 0" endSegment="-2 -3 2 3 -2 -3"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <SelectNeighbors/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+      <polygonVertex at="-2 -3 0 0 -3 -5"/>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-3 -5 2 3 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 -3 2 3 -2 -3"/>
+      <polygonVertex at="0 0 3 5 -2 -3"/>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="-2 -3 0 0 -3 -5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-3 -5 -2 -3 0 0" endSegment="-2 -3 -2 -3 -2 -3"/>
+    <SelectManifestation startSegment="-2 -3 0 0 -3 -5" endSegment="-2 -3 -2 -3 -2 -3"/>
+    <SelectManifestation startSegment="-2 -3 -2 -3 -2 -3" endSegment="-1 -1 -2 -3 0 0"/>
+    <EndBlock/>
+    <Parallelepiped/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="DESELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="DESELECT" panels="IGNORE" originLast="true"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -1 -1 2 3"/>
+      <polygonVertex at="2 3 -2 -3 2 3"/>
+      <polygonVertex at="3 5 -2 -3 0 0"/>
+      <polygonVertex at="1 2 -1 -1 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="255" green="5" blue="5"/>
+    <StrutCreation anchor="-2 -3 -2 -3 2 3" dir="red" index="1" len="1 2"/>
+    <StrutCreation anchor="-2 -3 0 0 3 5" dir="red" index="17" len="1 2"/>
+    <StrutCreation anchor="-2 -3 0 0 3 5" dir="red" index="46" len="1 2"/>
+    <StrutCreation anchor="-2 -3 0 0 3 5" dir="red" index="0" len="1 2"/>
+    <SelectManifestation startSegment="-2 -3 -2 -3 2 3" endSegment="-2 -3 0 0 3 5"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="-1 -1 0 0 1 2"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="-2 -3 2 3 2 3"/>
+    <SelectManifestation startSegment="-2 -3 0 0 3 5" endSegment="0 0 1 2 3 5"/>
+    <EndBlock/>
+    <Parallelepiped/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="DESELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="DESELECT" panels="IGNORE" originLast="true"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 -1 -1 2 3"/>
+      <polygonVertex at="2 3 -2 -3 2 3"/>
+      <polygonVertex at="3 5 -2 -3 0 0"/>
+      <polygonVertex at="1 2 -1 -1 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="255" green="5" blue="5"/>
+    <StrutCreation anchor="-1 -1 2 3 0 0" dir="red" index="46" len="1 2"/>
+    <StrutCreation anchor="-1 -1 4 6 -1 -2" dir="red" index="0" len="1 2"/>
+    <StrutCreation anchor="-1 -1 4 6 -1 -2" dir="red" index="47" len="1 2"/>
+    <StrutCreation anchor="-1 -1 4 6 -1 -2" dir="red" index="32" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-1 -1 4 6 -1 -2" endSegment="-2 -3 4 6 -3 -5"/>
+    <SelectManifestation startSegment="-1 -1 4 6 -1 -2" endSegment="-2 -3 4 6 1 1"/>
+    <SelectManifestation startSegment="-1 -1 4 6 -1 -2" endSegment="1 2 5 8 -1 -2"/>
+    <EndBlock/>
+    <Parallelepiped/>
+    <BeginBlock/>
+    <AdjustSelectionByClass balls="DESELECT" struts="IGNORE" panels="IGNORE" originLast="true"/>
+    <AdjustSelectionByClass balls="IGNORE" struts="DESELECT" panels="IGNORE" originLast="true"/>
+    <SelectManifestation>
+      <polygonVertex at="-1 -1 0 0 -1 -2"/>
+      <polygonVertex at="1 2 1 2 -1 -2"/>
+      <polygonVertex at="0 0 1 2 -3 -5"/>
+      <polygonVertex at="-2 -3 0 0 -3 -5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MapToColor colorMapper="CopyLastSelectedColor" red="255" green="206" blue="31"/>
+    <SelectManifestation startSegment="-1 -1 2 3 0 0" endSegment="-1 -1 4 6 -1 -2"/>
+    <Delete/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="255,179,26"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,153,63"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="235,82,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="125,54,211"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="50,50,50"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="0,179,161"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="230,245,62"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="125,54,211"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="50,50,50"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="0,179,161"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+  <sceneModel ambientLight="51,51,51" background="140,194,231">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="154.44012915376848" far="308.88025830753696" near="0.14300011958682268" parallel="false" stereoAngle="0.0" width="69.49805811919582">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="-0.5037922178273295" y="0.6920294424311896" z="0.5169996635056968"/>
+      <LookDirection x="-0.8514032130426946" y="-0.4989277512104894" z="-0.1618136826495836"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

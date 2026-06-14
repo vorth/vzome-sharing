@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="386" field="golden">
+  <EditHistory editNumber="478" lastStickyEdit="417">
+    <StrutCreation anchor="0 0 0 0 0 0" index="11" len="4 6"/>
+    <StrutCreation anchor="3 5 1 2 2 3" index="11" len="4 6"/>
+    <StrutCreation anchor="6 10 2 4 4 6" index="11" len="4 6"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="15 24 6 9 9 15"/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="9 15 15 24 6 9" index="21" len="4 6"/>
+    <StrutCreation anchor="11 18 12 19 7 11" index="21" len="4 6"/>
+    <StrutCreation anchor="13 21 9 14 8 13" index="21" len="4 6"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="11 18 12 19 7 11" endSegment="13 21 9 14 8 13"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="8 13 13 21 9 14" index="21" len="4 6"/>
+    <StrutCreation anchor="10 16 10 16 10 16" index="21" len="4 6"/>
+    <BeginBlock/>
+    <SelectManifestation point="10 16 10 16 10 16"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="6 9 9 15 15 24" dir="yellow" index="21" len="1 2"/>
+    <StrutCreation anchor="7 11 6 10 15 24" dir="yellow" index="21" len="1 2"/>
+    <SelectManifestation point="8 13 3 5 15 24"/>
+    <StrutCreation anchor="8 13 3 5 15 24" dir="yellow" index="21" len="1 2"/>
+    <BeginBlock/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="9 14 8 13 13 21" dir="yellow" index="21" len="1 2"/>
+    <StrutCreation anchor="10 16 5 8 13 21" dir="yellow" index="21" len="1 2"/>
+    <StrutCreation anchor="7 11 6 10 15 24" index="26" len="4 6"/>
+    <StrutCreation anchor="10 16 5 8 13 21" index="26" len="4 6"/>
+    <StrutCreation anchor="12 19 7 11 11 18" dir="yellow" index="21" len="1 2"/>
+    <StrutCreation anchor="12 19 7 11 11 18" dir="yellow" index="39" len="1 2"/>
+    <StrutCreation anchor="10 16 5 8 13 21" dir="yellow" index="39" len="1 2"/>
+    <StrutCreation anchor="8 13 3 5 15 24" index="26" len="4 6"/>
+    <StrutCreation anchor="9 14 8 13 13 21" dir="yellow" index="39" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="10 16 5 8 13 21"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-6 -9 -9 -15 15 24"/>
+    <SelectManifestation point="6 9 9 15 -15 -24"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="15 24 2 3 9 15" index="52" len="4 6"/>
+    <SelectManifestation startSegment="15 24 2 3 9 15" endSegment="16 26 4 6 6 10"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ApplyTool name="bookmark.builtin/ball at origin" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-9 -15 15 24 24 39"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="-9 -15 15 24 24 39" endSegment="-11 -18 10 16 24 39"/>
+    <DeselectAll/>
+    <SelectManifestation point="9 15 -15 -24 -24 -39"/>
+    <SelectManifestation point="-9 -15 15 24 24 39"/>
+    <SelectManifestation point="0 0 -24 -39 15 24"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 -24 -39 15 24"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <StrutCreation anchor="18 29 -19 -31 -11 -18" dir="red" index="45" len="2 3"/>
+    <StrutCreation anchor="16 26 -16 -26 -16 -26" dir="red" index="32" len="2 3"/>
+    <StrutCreation anchor="13 21 -21 -34 -14 -23" dir="red" index="1" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation point="14 23 -16 -26 -13 -21"/>
+    <SelectManifestation point="15 24 -17 -28 -11 -18"/>
+    <SelectManifestation point="13 21 -18 -29 -12 -20"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="16 26 -13 -21 -14 -23"/>
+    <SelectManifestation point="14 23 -16 -26 -13 -21"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="13 21 -14 -23 -16 -26" index="39" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="11 18 -15 -24 -17 -28"/>
+    <SelectManifestation point="12 19 -16 -26 -15 -25"/>
+    <DeselectAll/>
+    <SelectManifestation point="14 23 -16 -26 -13 -21"/>
+    <SelectManifestation point="13 21 -18 -29 -12 -20"/>
+    <SelectManifestation point="11 18 -15 -24 -17 -28"/>
+    <SelectManifestation point="12 19 -16 -26 -15 -25"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <BeginBlock/>
+    <SelectManifestation point="12 19 -16 -26 -15 -25"/>
+    <SelectManifestation startSegment="13 21 -14 -23 -16 -26" endSegment="12 19 -16 -26 -15 -25"/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="13 21 -18 -29 -12 -20" index="37" len="2 4"/>
+    <StrutCreation anchor="14 22 -19 -31 -10 -17" index="6" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="14 22 -19 -31 -10 -17"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="14 22 -19 -31 -10 -17" index="39" len="4 6"/>
+    <BeginBlock/>
+    <SelectManifestation point="12 19 -22 -36 -9 -15"/>
+    <SelectManifestation startSegment="14 22 -19 -31 -10 -17" endSegment="12 19 -22 -36 -9 -15"/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="point reflection.builtin/reflection through origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="15 24 -21 -34 -7 -12" index="53" len="4 6"/>
+    <SelectManifestation startSegment="15 24 -21 -34 -7 -12" endSegment="12 19 -22 -36 -9 -15"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="12 19 -22 -36 -9 -15" dir="yellow" index="19" len="1 2"/>
+    <SelectManifestation startSegment="12 19 -22 -36 -9 -15" endSegment="10 16 -24 -39 -11 -18"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="15 24 -21 -34 -7 -12" index="2" len="4 6"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="15 24 -21 -34 -7 -12" endSegment="15 24 -21 -34 -3 -6"/>
+    <SelectManifestation point="15 24 -21 -34 -3 -6"/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="point reflection.builtin/reflection through origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="15 24 -21 -34 -3 -6" index="2" len="2 4"/>
+    <StrutCreation anchor="15 24 -21 -34 -1 -2" index="2" len="2 4"/>
+    <StrutCreation anchor="15 24 -21 -34 1 2" index="2" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="15 24 -21 -34 -1 -2" endSegment="15 24 -21 -34 1 2"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="15 24 -21 -34 -3 -6"/>
+    <SelectManifestation point="12 19 -22 -36 -5 -9"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="point reflection.builtin/reflection through origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="15 24 -21 -34 -3 -6"/>
+    <SelectManifestation point="12 19 -22 -36 -3 -5"/>
+    <SelectManifestation point="15 24 -21 -34 -1 -2"/>
+    <SelectManifestation point="12 19 -22 -36 1 1"/>
+    <SelectManifestation point="15 24 -21 -34 1 2"/>
+    <SelectManifestation point="12 19 -22 -36 3 5"/>
+    <SelectManifestation point="15 24 -21 -34 3 6"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="15 24 -21 -34 -1 -2"/>
+    <SelectManifestation point="18 29 -21 -34 0 0"/>
+    <SelectManifestation point="15 24 -21 -34 1 2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="10 16 19 31 14 23"/>
+    <DeselectAll/>
+    <SelectManifestation point="13 21 21 34 14 23"/>
+    <SelectManifestation point="10 16 19 31 14 23"/>
+    <SelectManifestation point="9 15 18 29 16 26"/>
+    <SelectManifestation point="11 18 18 29 19 31"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="13 21 21 34 14 23" endSegment="10 16 19 31 14 23"/>
+    <SelectManifestation startSegment="9 15 18 29 16 26" endSegment="11 18 18 29 19 31"/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="21 34 6 10 -18 -29"/>
+    <SelectManifestation point="18 29 8 14 -17 -27"/>
+    <SelectManifestation point="16 26 8 13 -21 -34"/>
+    <DeselectAll/>
+    <SelectManifestation point="21 34 6 10 -18 -29"/>
+    <SelectManifestation point="16 26 9 15 -18 -29"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="21 34 6 10 -18 -29" endSegment="16 26 9 15 -18 -29"/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="point reflection.builtin/reflection through origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 30 48 0 0"/>
+    <SelectManifestation point="0 0 -30 -48 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-7 -12 -15 -24 21 34"/>
+    <SelectManifestation point="-9 -15 -15 -24 24 39"/>
+    <SelectManifestation point="-9 -15 -12 -19 22 36"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 -27 -43 -2 -3" endSegment="0 0 -28 -45 -5 -8"/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <StrutCreation anchor="19 31 -14 -23 -10 -16" index="8" len="16 26"/>
+    <SelectManifestation point="32 52 -19 -31 -2 -3"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <Polygon>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="19 31 -14 -23 -10 -16" endSegment="32 52 -19 -31 -2 -3"/>
+    <EndBlock/>
+    <Delete/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="24 39 -11 -18 -10 -16" endSegment="21 34 -16 -26 -8 -13"/>
+    <SelectManifestation startSegment="21 34 -14 -23 -13 -21" endSegment="24 39 -11 -18 -10 -16"/>
+    <SelectManifestation startSegment="21 34 -14 -23 -13 -21" endSegment="24 39 -9 -15 -15 -24"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <StrutCreation anchor="24 39 -11 -18 -10 -16" dir="yellow" index="19" len="1 2"/>
+    <SelectManifestation startSegment="21 34 -14 -23 -13 -21" endSegment="24 39 -11 -18 -10 -16"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="24 39 -9 -15 -15 -24"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="21 34 -14 -23 -13 -21" endSegment="24 39 -9 -15 -15 -24"/>
+    <SelectManifestation startSegment="24 39 -11 -18 -10 -16" endSegment="21 34 -16 -26 -8 -13"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Hide>
+    <StrutCreation anchor="19 31 -14 -23 -10 -16" index="23" len="4 6"/>
+    <StrutCreation anchor="18 29 -12 -20 -13 -21" dir="red" index="15" len="2 3"/>
+    <BeginBlock/>
+    <SelectManifestation point="18 29 -12 -20 -13 -21"/>
+    <SelectManifestation point="22 36 -13 -21 -12 -19"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="24 39 -9 -15 -15 -24" dir="yellow" index="24" len="1 1"/>
+    <StrutCreation anchor="24 39 -9 -15 -15 -24" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="22 36 -13 -21 -12 -19" index="52" len="4 6"/>
+    <BeginBlock/>
+    <SelectManifestation point="22 36 -13 -21 -12 -19"/>
+    <SelectManifestation point="24 39 -9 -15 -15 -24"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="23 38 -11 -18 -15 -24" index="23" len="2 4"/>
+    <StrutCreation anchor="23 38 -11 -18 -15 -24" index="55" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="23 37 -10 -17 -16 -26"/>
+    <SelectManifestation point="25 41 -10 -17 -16 -26"/>
+    <SelectManifestation point="23 38 -11 -18 -15 -24"/>
+    <SelectManifestation point="22 36 -13 -21 -12 -19"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="23 38 -11 -18 -15 -24"/>
+    <SelectManifestation point="18 29 -12 -20 -13 -21"/>
+    <SelectManifestation point="22 36 -13 -21 -12 -19"/>
+    <SelectManifestation point="22 36 -13 -21 -12 -19"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="18 29 -12 -20 -13 -21" dir="red" index="17" len="1 2"/>
+    <StrutCreation anchor="18 29 -12 -20 -13 -21" index="23" len="4 6"/>
+    <StrutCreation anchor="17 28 -11 -18 -15 -24" index="0" len="4 6"/>
+    <StrutCreation anchor="21 34 -11 -18 -15 -24" index="23" len="2 4"/>
+    <StrutCreation anchor="21 34 -11 -18 -15 -24" index="0" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="21 34 -11 -18 -15 -24"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="22 36 -9 -15 -12 -19"/>
+    <SelectManifestation point="21 34 -7 -12 -15 -24"/>
+    <SelectManifestation point="24 39 -9 -15 -15 -24"/>
+    <SelectManifestation point="21 34 -11 -18 -15 -24"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="16 26 -9 -15 -18 -29" index="0" len="4 6"/>
+    <StrutCreation anchor="20 32 -9 -15 -18 -29" index="8" len="4 6"/>
+    <StrutCreation anchor="20 32 -9 -15 -18 -29" dir="yellow" index="6" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="25 41 -10 -17 -16 -26"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <StrutCreation anchor="23 37 -10 -17 -16 -26" dir="yellow" index="9" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="21 34 -11 -18 -15 -24"/>
+    <SelectManifestation point="23 38 -11 -18 -15 -24"/>
+    <SelectManifestation point="23 37 -10 -17 -16 -26"/>
+    <SelectManifestation point="22 36 -13 -21 -12 -19"/>
+    <SelectManifestation point="20 32 -9 -15 -18 -29"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="32 52 -19 -31 -2 -3"/>
+      <polygonVertex at="18 29 0 0 -33 -53"/>
+      <polygonVertex at="-21 -34 -1 -2 -31 -50"/>
+      <polygonVertex at="-31 -50 -21 -34 1 2"/>
+      <polygonVertex at="2 3 -32 -52 19 31"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="21 34 -14 -23 -13 -21"/>
+    <SelectManifestation startSegment="21 34 -14 -23 -13 -21" endSegment="18 29 -12 -20 -13 -21"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="19 31 -12 -20 -15 -24"/>
+    <SelectManifestation startSegment="18 29 -12 -20 -13 -21" endSegment="19 31 -12 -20 -15 -24"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="32 52 -19 -31 -2 -3"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="5 8 0 0 -28 -45"/>
+    <SelectManifestation point="21 34 -6 -10 -18 -29"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="3 5"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 5 8 3 5"/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 5 8 3 5"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -6 -3 -5 -26 -41"/>
+    <SelectManifestation point="-4 -6 -3 -5 -28 -45"/>
+    <SelectManifestation point="-2 -3 0 0 -27 -43"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 0 0 -27 -43"/>
+    <SelectManifestation point="4 6 -3 -5 -28 -45"/>
+    <SelectManifestation point="4 6 -3 -5 -26 -41"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 5 8 3 5"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="14 22 19 31 10 17"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="4 7 -10 -16 23 37" dir="yellow" index="24" len="1 2"/>
+    <StrutCreation anchor="3 5 -12 -19 22 36" dir="yellow" index="0" len="1 2"/>
+    <StrutCreation anchor="22 36 -5 -9 -12 -19" index="47" len="4 6"/>
+    <StrutCreation anchor="7 12 -15 -24 21 34" dir="yellow" index="1" len="1 2"/>
+    <StrutCreation anchor="9 15 -12 -19 22 36" dir="yellow" index="30" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="6 10 -12 -19 21 34"/>
+    <SelectManifestation point="3 6 -15 -24 21 34"/>
+    <DeselectAll/>
+    <SelectManifestation point="5 9 -12 -19 22 36"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="6 10 -12 -19 21 34"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="6 10 -12 -19 21 34" index="26" len="4 6"/>
+    <SelectManifestation startSegment="6 10 -12 -19 21 34" endSegment="9 15 -13 -21 19 31"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="-2 -3 -25 -40 0 0" endSegment="2 3 -25 -40 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <StrutCreation anchor="0 0 2 3 25 40" dir="red" index="31" len="1 2"/>
+    <StrutCreation anchor="0 0 -2 -3 25 40" dir="red" index="1" len="1 2"/>
+    <StrutCreation anchor="-2 -3 0 0 27 43" dir="yellow" index="0" len="1 1"/>
+    <StrutCreation anchor="0 0 0 0 26 42" dir="yellow" index="8" len="1 1"/>
+    <SelectManifestation startSegment="0 0 2 3 25 40" endSegment="0 0 -2 -3 25 40"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 26 42"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 -13 -21 -21 -34"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <ApplyTool name="tool-0" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <SelectManifestation startSegment="-23 -37 -10 -17 -16 -26" endSegment="-23 -38 -11 -18 -15 -24"/>
+    <ApplyTool name="axial symmetry.builtin/symmetry around red through origin" selectInputs="true" copyColors="true"/>
+    <Delete/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,153,63"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction prototype="1 -1 -5 3 -3 1" name="0" orbit="[[-1,2,5],[7,-4,5]]" color="255,255,255"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="50,50,50"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="255,179,26"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="239,245,61"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="0,179,161"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="125,54,211"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="235,82,0"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="0,179,161"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="50,50,50"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="125,54,211"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="good view center" selectInputs="true" deleteInputs="false" copyColors="true"/>
+  </Tools>
+  <sceneModel ambientLight="51,51,51" background="175,200,220">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="731.1276471269524" far="1462.2552942539048" near="0.676970043636067" parallel="false" stereoAngle="0.0" width="329.0074412071286">
+      <LookAtPoint x="0" y="17.944271087646484" z="11.090169906616211"/>
+      <UpDirection x="0.08468076700679492" y="0.8091348632179209" z="0.5814894159178283"/>
+      <LookDirection x="-0.7917315274855249" y="0.4089650553808929" z="-0.4537717177863125"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

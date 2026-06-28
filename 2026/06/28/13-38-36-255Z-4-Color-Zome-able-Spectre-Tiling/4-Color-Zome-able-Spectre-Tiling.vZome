@@ -1,0 +1,7264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="386" field="golden">
+  <EditHistory editNumber="1123" lastStickyEdit="1003">
+    <StrutCreation anchor="0 0 0 0 0 0" index="41" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="-2 -3 -1 -1 1 2" index="2" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="-2 -3 -1 -1 1 2"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 1 2" endSegment="-2 -3 -1 -1 3 6"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="-2 -3 -1 -1 1 2"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="1 2 0 0 2 3" dir="red" index="32" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="1 2 0 0 2 3" endSegment="0 0 0 0 4 6"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="1 2 0 0 2 3"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="-2 -3 -1 -1 3 6" dir="red" index="30" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 3 6" endSegment="-4 -6 -2 -3 3 6"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 1 2" endSegment="-2 -3 -1 -1 3 6"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="-4 -6 -2 -3 3 6" dir="red" index="32" len="1 2"/>
+    <StrutCreation anchor="-5 -8 -2 -3 5 9" index="11" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 5 9" endSegment="-3 -5 -1 -2 6 11"/>
+    <SelectManifestation startSegment="-4 -6 -2 -3 3 6" endSegment="-5 -8 -2 -3 5 9"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="-3 -5 -1 -2 6 11" index="2" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 5 9" endSegment="-3 -5 -1 -2 6 11"/>
+    <SelectManifestation startSegment="-3 -5 -1 -2 6 11" endSegment="-3 -5 -1 -2 8 15"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="-3 -5 -1 -2 8 15" dir="red" index="0" len="1 2"/>
+    <StrutCreation anchor="-1 -2 0 0 8 15" dir="red" index="2" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-1 -2 0 0 8 15" endSegment="0 0 0 0 10 18"/>
+    <SelectManifestation startSegment="-3 -5 -1 -2 8 15" endSegment="-1 -2 0 0 8 15"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 10 18" index="23" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 0 0 10 18" endSegment="2 3 1 1 9 16"/>
+    <SelectManifestation startSegment="-1 -2 0 0 8 15" endSegment="0 0 0 0 10 18"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="2 3 1 1 9 16" index="47" len="2 4"/>
+    <StrutCreation anchor="2 3 1 1 7 12" index="47" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 1 1 5 8"/>
+    <SelectManifestation point="0 0 0 0 4 6"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="-2 -3 -1 -1 1 2"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="23" len="2 4"/>
+    <StrutCreation anchor="2 3 1 1 -1 -2" index="11" len="2 4"/>
+    <StrutCreation anchor="4 6 2 2 0 0" dir="red" index="17" len="1 2"/>
+    <StrutCreation anchor="5 8 2 2 -2 -3" dir="red" index="0" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="4 6 2 2 0 0" endSegment="5 8 2 2 -2 -3"/>
+    <SelectManifestation startSegment="5 8 2 2 -2 -3" endSegment="7 11 3 4 -2 -3"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="7 11 3 4 -2 -3" index="2" len="2 4"/>
+    <StrutCreation anchor="7 11 3 4 0 1" index="41" len="2 4"/>
+    <StrutCreation anchor="5 8 2 3 1 3" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="6 10 2 3 3 6" dir="red" index="32" len="1 2"/>
+    <StrutCreation anchor="5 8 2 3 5 9" dir="red" index="32" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 6 2 3 7 12"/>
+    <SelectManifestation point="2 3 1 1 7 12"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <DeselectAll/>
+    <ApplyTool name="bookmark.builtin/ball at origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="2 3 1 1 5 8"/>
+    <EndBlock/>
+    <TranslationTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 1 1 5 8"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool name="tool-1" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 1 1 -5 -8"/>
+    <SelectManifestation point="3 5 1 2 -4 -5"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <Branch>
+      <StrutCreation anchor="-6 -9 -3 -4 -2 -2" dir="yellow" index="1" len="1 1"/>
+      <SelectManifestation startSegment="-6 -9 -3 -4 -2 -2" endSegment="-7 -10 -1 -1 -2 -2"/>
+      <RotationTool full="true" corrected="true" symmetry="icosahedral" name="tool-2"/>
+    </Branch>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-7 -11 -3 -4 0 1" endSegment="-5 -8 -2 -3 1 3"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 1 3" endSegment="-5 -8 -2 -3 3 7"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 3 7" endSegment="-3 -5 -1 -1 3 7"/>
+    <SelectManifestation startSegment="-3 -5 -1 -1 3 7" endSegment="-2 -3 -1 -1 5 10"/>
+    <SelectManifestation startSegment="-6 -9 -3 -4 -2 -2" endSegment="-7 -11 -3 -4 0 1"/>
+    <SelectManifestation startSegment="-4 -6 -2 -2 -2 -2" endSegment="-6 -9 -3 -4 -2 -2"/>
+    <SelectManifestation startSegment="-4 -6 -2 -2 -4 -6" endSegment="-4 -6 -2 -2 -2 -2"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 -5 -8" endSegment="-4 -6 -2 -2 -4 -6"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 -5 -8" endSegment="-1 -1 -1 -1 -3 -5"/>
+    <SelectManifestation startSegment="-1 -1 -1 -1 -3 -5" endSegment="-2 -3 -1 -1 -1 -2"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="-2 -3 -1 -1 -1 -2"/>
+    <SelectManifestation startSegment="0 0 0 0 2 4" endSegment="0 0 0 0 0 0"/>
+    <SelectManifestation startSegment="0 0 0 0 4 8" endSegment="0 0 0 0 2 4"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 5 10" endSegment="0 0 0 0 4 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-2" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-12 -19 -5 -7 1 4"/>
+    <SelectManifestation startSegment="-12 -19 -5 -7 1 4" endSegment="-10 -16 -4 -6 2 6"/>
+    <SelectManifestation startSegment="-14 -22 -6 -8 0 2" endSegment="-12 -19 -5 -7 1 4"/>
+    <SelectManifestation point="-14 -22 -6 -8 0 2"/>
+    <SelectManifestation startSegment="-14 -22 -6 -8 -2 -2" endSegment="-14 -22 -6 -8 0 2"/>
+    <SelectManifestation startSegment="-12 -19 -5 -6 -2 -2" endSegment="-14 -22 -6 -8 -2 -2"/>
+    <SelectManifestation startSegment="-11 -17 -5 -6 -4 -5" endSegment="-12 -19 -5 -6 -2 -2"/>
+    <SelectManifestation startSegment="-10 -16 -4 -6 2 6" endSegment="-8 -13 -3 -5 1 4"/>
+    <SelectManifestation point="-8 -13 -3 -5 1 4"/>
+    <SelectManifestation startSegment="-7 -11 -3 -5 3 7" endSegment="-8 -13 -3 -5 1 4"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 3 7" endSegment="-7 -11 -3 -5 3 7"/>
+    <SelectManifestation point="-7 -11 -3 -5 3 7"/>
+    <SelectManifestation point="-10 -16 -4 -6 2 6"/>
+    <SelectManifestation point="-14 -22 -6 -8 -2 -2"/>
+    <SelectManifestation point="-12 -19 -5 -6 -2 -2"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 -1 -1 -5 -8"/>
+    <SelectManifestation point="-7 -11 -3 -4 -4 -5"/>
+    <EndBlock/>
+    <TranslationTool name="tool-3"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="-7 -11 -3 -4 0 1" endSegment="-5 -8 -2 -3 1 3"/>
+    <SelectManifestation startSegment="-6 -9 -3 -4 -2 -2" endSegment="-7 -11 -3 -4 0 1"/>
+    <SelectManifestation startSegment="-4 -6 -2 -2 -2 -2" endSegment="-6 -9 -3 -4 -2 -2"/>
+    <SelectManifestation startSegment="-4 -6 -2 -2 -4 -6" endSegment="-4 -6 -2 -2 -2 -2"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 -5 -8" endSegment="-4 -6 -2 -2 -4 -6"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 1 3" endSegment="-5 -8 -2 -3 3 7"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 3 7" endSegment="-3 -5 -1 -1 3 7"/>
+    <SelectManifestation startSegment="-3 -5 -1 -1 3 7" endSegment="-2 -3 -1 -1 5 10"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 5 10" endSegment="0 0 0 0 4 8"/>
+    <SelectManifestation startSegment="0 0 0 0 4 8" endSegment="0 0 0 0 2 4"/>
+    <EndBlock/>
+    <ApplyTool name="tool-3" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 4 8" dir="yellow" index="1" len="1 1"/>
+    <SelectManifestation startSegment="0 0 0 0 4 8" endSegment="-1 -1 2 3 4 8"/>
+    <RotationTool full="true" corrected="true" symmetry="icosahedral" name="tool-4"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -1 2 3 4 8"/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -1 2 3 4 8"/>
+    <SelectManifestation startSegment="0 0 0 0 4 8" endSegment="-1 -1 2 3 4 8"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-3 -5 -1 -1 3 7" endSegment="-2 -3 -1 -1 5 10"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 5 10" endSegment="0 0 0 0 4 8"/>
+    <SelectManifestation startSegment="0 0 0 0 4 8" endSegment="0 0 0 0 2 4"/>
+    <SelectManifestation startSegment="0 0 0 0 2 4" endSegment="0 0 0 0 0 0"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="-2 -3 -1 -1 -1 -2"/>
+    <SelectManifestation startSegment="-1 -1 -1 -1 -3 -5" endSegment="-2 -3 -1 -1 -1 -2"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 -5 -8" endSegment="-1 -1 -1 -1 -3 -5"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 -5 -8" endSegment="-4 -6 -2 -2 -4 -6"/>
+    <SelectManifestation startSegment="-4 -6 -2 -2 -4 -6" endSegment="-4 -6 -2 -2 -2 -2"/>
+    <SelectManifestation startSegment="-4 -6 -2 -2 -2 -2" endSegment="-6 -9 -3 -4 -2 -2"/>
+    <SelectManifestation startSegment="-6 -9 -3 -4 -2 -2" endSegment="-7 -11 -3 -4 0 1"/>
+    <SelectManifestation startSegment="-7 -11 -3 -4 0 1" endSegment="-5 -8 -2 -3 1 3"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 1 3" endSegment="-5 -8 -2 -3 3 7"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 3 7" endSegment="-3 -5 -1 -1 3 7"/>
+    <EndBlock/>
+    <ApplyTool name="tool-4" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="-7 -11 -3 -4 10 19" endSegment="-5 -8 -2 -3 11 21"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 11 21" endSegment="-3 -5 -1 -2 10 19"/>
+    <SelectManifestation startSegment="-3 -5 -1 -2 10 19" endSegment="-2 -3 -1 -2 12 22"/>
+    <SelectManifestation startSegment="-2 -3 -1 -2 12 22" endSegment="0 0 0 0 12 22"/>
+    <SelectManifestation startSegment="-7 -11 -3 -4 10 19" endSegment="-6 -9 -3 -4 8 16"/>
+    <SelectManifestation startSegment="-6 -9 -3 -4 8 16" endSegment="-4 -6 -2 -2 8 16"/>
+    <SelectManifestation startSegment="-4 -6 -2 -2 6 12" endSegment="-4 -6 -2 -2 8 16"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 5 10" endSegment="-4 -6 -2 -2 6 12"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="0 0 0 0 12 22" endSegment="0 0 0 0 10 18"/>
+    <SelectManifestation startSegment="0 0 0 0 10 18" endSegment="2 3 1 1 9 16"/>
+    <SelectManifestation startSegment="2 3 1 1 9 16" endSegment="1 1 1 1 7 13"/>
+    <SelectManifestation startSegment="1 1 1 1 7 13" endSegment="2 3 1 1 5 10"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ShowVertices/>
+    <DeselectAll/>
+    <StrutCreation anchor="-5 -8 -2 -3 5 11" index="11" len="2 4"/>
+    <StrutCreation anchor="-3 -5 -1 -2 6 13" dir="red" index="32" len="1 2"/>
+    <StrutCreation anchor="-4 -7 -1 -2 8 16" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="-3 -5 -1 -2 10 19" index="23" len="2 4"/>
+    <StrutCreation anchor="-1 -2 0 -1 9 17" index="11" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-3 -5 -1 -2 10 19" endSegment="-1 -2 0 -1 9 17"/>
+    <SelectManifestation startSegment="-4 -7 -1 -2 8 16" endSegment="-3 -5 -1 -2 10 19"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="1 1 1 0 10 19" dir="red" index="17" len="1 2"/>
+    <StrutCreation anchor="2 3 1 0 8 16" dir="red" index="0" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 6 2 2 8 16"/>
+    <SelectManifestation point="4 6 2 2 6 12"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -5 -1 -2 10 19"/>
+    <SelectManifestation point="-2 -3 -1 -1 -5 -8"/>
+    <EndBlock/>
+    <TranslationTool name="tool-5"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="-4 -7 -1 -2 8 16" endSegment="-3 -5 -1 -2 10 19"/>
+    <SelectManifestation startSegment="-3 -5 -1 -2 6 13" endSegment="-4 -7 -1 -2 8 16"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 5 11" endSegment="-3 -5 -1 -2 6 13"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 5 11" endSegment="-5 -8 -2 -3 3 7"/>
+    <SelectManifestation startSegment="-5 -8 -2 -3 3 7" endSegment="-3 -5 -1 -1 3 7"/>
+    <SelectManifestation startSegment="-3 -5 -1 -1 3 7" endSegment="-2 -3 -1 -1 5 10"/>
+    <SelectManifestation startSegment="-2 -3 -1 -1 5 10" endSegment="0 0 0 0 4 8"/>
+    <SelectManifestation startSegment="2 3 1 1 5 10" endSegment="0 0 0 0 4 8"/>
+    <SelectManifestation startSegment="2 3 1 1 5 10" endSegment="4 6 2 2 6 12"/>
+    <SelectManifestation startSegment="4 6 2 2 8 16" endSegment="4 6 2 2 6 12"/>
+    <SelectManifestation startSegment="2 3 1 0 8 16" endSegment="4 6 2 2 8 16"/>
+    <SelectManifestation startSegment="1 1 1 0 10 19" endSegment="2 3 1 0 8 16"/>
+    <SelectManifestation startSegment="-1 -2 0 -1 9 17" endSegment="1 1 1 0 10 19"/>
+    <SelectManifestation startSegment="-3 -5 -1 -2 10 19" endSegment="-1 -2 0 -1 9 17"/>
+    <EndBlock/>
+    <ApplyTool name="tool-5" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="3 5 1 2 -10 -17" endSegment="1 2 0 1 -11 -19"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="5 8 2 3 -7 -11" dir="red" index="0" len="1 2"/>
+    <StrutCreation anchor="7 11 3 5 -7 -11" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="8 13 3 5 -5 -8" index="23" len="2 4"/>
+    <StrutCreation anchor="10 16 4 6 -6 -10" index="11" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="8 13 3 5 -5 -8" endSegment="10 16 4 6 -6 -10"/>
+    <SelectManifestation startSegment="10 16 4 6 -6 -10" endSegment="12 19 5 7 -5 -8"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="12 19 5 7 -5 -8" dir="red" index="32" len="1 2"/>
+    <StrutCreation anchor="11 17 5 7 -3 -5" dir="red" index="30" len="1 2"/>
+    <StrutCreation anchor="9 14 4 5 -3 -5" index="2" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="9 14 4 5 -1 -1"/>
+    <SelectManifestation point="7 11 3 4 0 1"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 2 3 -5 -7"/>
+    <SelectManifestation point="9 14 4 5 -1 -1"/>
+    <EndBlock/>
+    <TranslationTool name="tool-6"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="8 13 3 5 -5 -8" endSegment="10 16 4 6 -6 -10"/>
+    <SelectManifestation startSegment="10 16 4 6 -6 -10" endSegment="12 19 5 7 -5 -8"/>
+    <SelectManifestation startSegment="12 19 5 7 -5 -8" endSegment="11 17 5 7 -3 -5"/>
+    <SelectManifestation startSegment="11 17 5 7 -3 -5" endSegment="9 14 4 5 -3 -5"/>
+    <SelectManifestation startSegment="9 14 4 5 -3 -5" endSegment="9 14 4 5 -1 -1"/>
+    <SelectManifestation startSegment="9 14 4 5 -1 -1" endSegment="7 11 3 4 0 1"/>
+    <SelectManifestation startSegment="7 11 3 4 0 1" endSegment="5 8 2 3 1 3"/>
+    <SelectManifestation startSegment="5 8 2 3 1 3" endSegment="3 5 1 2 0 1"/>
+    <EndBlock/>
+    <ApplyTool name="tool-6" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="7 11 3 5 -7 -11" endSegment="8 13 3 5 -5 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-6" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="11 17 5 7 -3 -5" endSegment="12 19 5 7 -1 -2"/>
+    <SelectManifestation startSegment="12 19 5 7 -1 -2" endSegment="14 22 6 8 -2 -4"/>
+    <SelectManifestation startSegment="14 22 6 8 -2 -4" endSegment="16 25 7 9 -1 -2"/>
+    <SelectManifestation startSegment="16 25 7 9 -1 -2" endSegment="15 23 7 9 1 1"/>
+    <SelectManifestation startSegment="15 23 7 9 1 1" endSegment="13 20 6 7 1 1"/>
+    <SelectManifestation startSegment="13 20 6 7 1 1" endSegment="13 20 6 7 3 5"/>
+    <SelectManifestation startSegment="13 20 6 7 3 5" endSegment="11 17 5 6 4 7"/>
+    <SelectManifestation startSegment="11 17 5 6 4 7" endSegment="9 14 4 5 5 9"/>
+    <EndBlock/>
+    <ApplyTool name="tool-6" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="9 14 4 5 5 9" endSegment="7 11 3 4 4 7"/>
+    <SelectManifestation startSegment="7 11 3 4 4 7" endSegment="8 13 3 4 2 4"/>
+    <SelectManifestation startSegment="8 13 3 4 2 4" endSegment="7 11 3 4 0 1"/>
+    <EndBlock/>
+    <ApplyTool name="tool-6" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <DeselectAll/>
+    <StrutCreation anchor="7 11 3 3 7 13" dir="yellow" index="1" len="1 1"/>
+    <SelectManifestation startSegment="7 11 3 3 7 13" endSegment="6 10 5 6 7 13"/>
+    <RotationTool full="true" corrected="true" symmetry="icosahedral" name="tool-7"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="7 11 3 3 7 13" endSegment="6 10 5 6 7 13"/>
+    <SelectManifestation point="6 10 5 6 7 13"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="9 14 4 5 7 13" endSegment="7 11 3 3 7 13"/>
+    <SelectManifestation startSegment="7 11 3 3 7 13" endSegment="6 9 3 3 5 10"/>
+    <SelectManifestation startSegment="4 6 2 2 6 12" endSegment="6 9 3 3 5 10"/>
+    <SelectManifestation startSegment="2 3 1 1 5 10" endSegment="4 6 2 2 6 12"/>
+    <SelectManifestation startSegment="2 3 1 1 5 10" endSegment="0 0 0 0 4 8"/>
+    <SelectManifestation startSegment="0 0 0 0 4 8" endSegment="0 0 0 0 2 4"/>
+    <SelectManifestation startSegment="2 3 1 2 2 4" endSegment="0 0 0 0 2 4"/>
+    <SelectManifestation startSegment="3 5 1 2 0 1" endSegment="2 3 1 2 2 4"/>
+    <SelectManifestation startSegment="5 8 2 3 1 3" endSegment="3 5 1 2 0 1"/>
+    <SelectManifestation startSegment="7 11 3 4 0 1" endSegment="5 8 2 3 1 3"/>
+    <SelectManifestation startSegment="8 13 3 4 2 4" endSegment="7 11 3 4 0 1"/>
+    <SelectManifestation startSegment="7 11 3 4 4 7" endSegment="8 13 3 4 2 4"/>
+    <SelectManifestation startSegment="9 14 4 5 5 9" endSegment="7 11 3 4 4 7"/>
+    <SelectManifestation startSegment="9 14 4 5 7 13" endSegment="9 14 4 5 5 9"/>
+    <EndBlock/>
+    <ApplyTool name="tool-7" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="8 12 4 4 10 18" endSegment="10 15 5 5 9 16"/>
+    <SelectManifestation startSegment="10 15 5 5 9 16" endSegment="11 17 5 5 11 19"/>
+    <SelectManifestation startSegment="11 17 5 5 11 19" endSegment="13 20 6 7 11 19"/>
+    <SelectManifestation startSegment="13 20 6 7 11 19" endSegment="13 20 6 7 9 15"/>
+    <SelectManifestation startSegment="15 23 7 8 8 13" endSegment="14 21 7 8 6 10"/>
+    <SelectManifestation startSegment="14 21 7 8 6 10" endSegment="15 23 7 8 4 7"/>
+    <SelectManifestation startSegment="13 20 6 7 3 5" endSegment="15 23 7 8 4 7"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ShowVertices/>
+    <DeselectAll/>
+    <StrutCreation anchor="8 12 4 4 12 22" dir="red" index="0" len="1 2"/>
+    <StrutCreation anchor="10 15 5 6 12 22" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="11 17 5 6 14 25" index="23" len="2 4"/>
+    <StrutCreation anchor="13 20 6 7 13 23" index="47" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="13 20 6 7 11 19"/>
+    <SelectManifestation point="13 20 6 7 9 15"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <DeselectAll/>
+    <StrutCreation anchor="11 17 5 7 -3 -5" dir="yellow" index="1" len="1 1"/>
+    <SelectManifestation startSegment="11 17 5 7 -3 -5" endSegment="10 16 7 10 -3 -5"/>
+    <RotationTool corrected="true" symmetry="icosahedral" name="tool-8"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="10 16 7 10 -3 -5"/>
+    <SelectManifestation startSegment="11 17 5 7 -3 -5" endSegment="10 16 7 10 -3 -5"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation startSegment="11 17 5 7 -3 -5" endSegment="9 14 4 5 -3 -5"/>
+    <ApplyTool name="tool-8" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="11 17 5 7 -3 -5"/>
+    <EndBlock/>
+    <StrutCreation anchor="11 17 5 7 -3 -5" dir="yellow" index="21" len="1 1"/>
+    <SelectManifestation startSegment="11 17 5 7 -3 -5" endSegment="12 18 3 4 -3 -5"/>
+    <RotationTool corrected="true" symmetry="icosahedral" name="tool-9"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="12 18 3 4 -3 -5"/>
+    <SelectManifestation startSegment="11 17 5 7 -3 -5" endSegment="12 18 3 4 -3 -5"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation startSegment="11 17 5 7 -3 -5" endSegment="9 14 4 5 -3 -5"/>
+    <ApplyTool name="tool-9" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="11 17 5 7 -3 -5" endSegment="9 14 4 5 -3 -5"/>
+    <SelectManifestation startSegment="10 16 4 6 -6 -10" endSegment="12 19 5 7 -5 -8"/>
+    <SelectManifestation startSegment="8 13 3 5 -5 -8" endSegment="10 16 4 6 -6 -10"/>
+    <SelectManifestation startSegment="7 11 3 5 -7 -11" endSegment="8 13 3 5 -5 -8"/>
+    <SelectManifestation startSegment="5 8 2 3 -7 -11" endSegment="7 11 3 5 -7 -11"/>
+    <SelectManifestation startSegment="5 8 2 3 -7 -11" endSegment="5 8 2 3 -5 -7"/>
+    <SelectManifestation startSegment="5 8 2 3 -5 -7" endSegment="3 5 1 2 -4 -5"/>
+    <SelectManifestation startSegment="3 5 1 2 -4 -5" endSegment="4 7 1 2 -2 -2"/>
+    <SelectManifestation startSegment="4 7 1 2 -2 -2" endSegment="3 5 1 2 0 1"/>
+    <SelectManifestation startSegment="5 8 2 3 1 3" endSegment="3 5 1 2 0 1"/>
+    <SelectManifestation startSegment="7 11 3 4 0 1" endSegment="5 8 2 3 1 3"/>
+    <SelectManifestation startSegment="9 14 4 5 -1 -1" endSegment="7 11 3 4 0 1"/>
+    <SelectManifestation startSegment="9 14 4 5 -3 -5" endSegment="9 14 4 5 -1 -1"/>
+    <EndBlock/>
+    <ApplyTool name="tool-9" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <DeselectAll/>
+    <StrutCreation anchor="3 5 1 2 -10 -17" dir="red" index="17" len="1 2"/>
+    <StrutCreation anchor="4 7 1 2 -12 -20" dir="red" index="0" len="1 2"/>
+    <StrutCreation anchor="6 10 2 4 -12 -20" index="47" len="2 4"/>
+    <StrutCreation anchor="6 10 2 4 -14 -24" index="23" len="2 4"/>
+    <StrutCreation anchor="8 13 3 5 -15 -26" dir="red" index="2" len="1 2"/>
+    <StrutCreation anchor="9 15 3 5 -13 -23" dir="red" index="32" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="8 13 3 5 -11 -20"/>
+    <SelectManifestation point="10 16 4 6 -10 -18"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <DeselectAll/>
+    <ApplyTool name="bookmark.builtin/ball at origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 1 2 0 1"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-10"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool name="tool-10" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 -1 -7 -12"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 -1 -7 -12"/>
+    <SelectManifestation point="2 3 1 1 -7 -12"/>
+    <SelectManifestation point="2 3 1 1 -5 -8"/>
+    <SelectManifestation point="0 0 0 0 -4 -6"/>
+    <SelectManifestation point="1 2 0 0 -2 -3"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="-1 -2 0 0 2 3"/>
+    <SelectManifestation point="-3 -5 -1 -2 2 3"/>
+    <SelectManifestation point="-3 -5 -1 -2 0 -1"/>
+    <SelectManifestation point="-5 -8 -2 -3 -1 -3"/>
+    <SelectManifestation point="-4 -6 -2 -3 -3 -6"/>
+    <SelectManifestation point="-5 -8 -2 -3 -5 -9"/>
+    <SelectManifestation point="-3 -5 -1 -2 -6 -11"/>
+    <SelectManifestation point="-1 -2 0 -1 -5 -9"/>
+    <EndBlock/>
+    <setItemColor red="255" green="0" blue="204"/>
+    <StrutCreation anchor="-1 -2 0 0 2 3" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="-2 -3 -2 -3 2 3" index="47" len="2 4"/>
+    <StrutCreation anchor="-2 -3 -2 -3 2 3" index="2" len="2 4"/>
+    <StrutCreation anchor="-2 -3 -2 -3 0 -1" index="53" len="2 4"/>
+    <StrutCreation anchor="-2 -3 -2 -3 4 7" index="41" len="2 4"/>
+    <StrutCreation anchor="-4 -6 -3 -4 -1 -3" dir="red" index="17" len="1 2"/>
+    <StrutCreation anchor="-3 -4 -3 -4 -3 -6" dir="red" index="47" len="1 2"/>
+    <StrutCreation anchor="-4 -6 -3 -4 -5 -9" index="23" len="2 4"/>
+    <StrutCreation anchor="-2 -3 -2 -3 -6 -11" index="11" len="2 4"/>
+    <StrutCreation anchor="0 0 -1 -2 -5 -9" dir="red" index="17" len="1 2"/>
+    <StrutCreation anchor="1 2 -1 -2 -7 -12" dir="yellow" index="6" len="1 1"/>
+    <StrutCreation anchor="2 3 1 1 -7 -12" dir="yellow" index="6" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 6 2 3 -7 -12"/>
+    <SelectManifestation point="2 3 1 1 -9 -16"/>
+    <SelectManifestation point="2 3 1 1 -9 -16"/>
+    <SelectManifestation point="5 8 2 3 -5 -9"/>
+    <SelectManifestation startSegment="4 6 2 3 -7 -12" endSegment="5 8 2 3 -5 -9"/>
+    <SelectManifestation startSegment="5 8 2 3 -5 -9" endSegment="7 11 3 4 -6 -11"/>
+    <SelectManifestation point="7 11 3 4 -6 -11"/>
+    <SelectManifestation startSegment="7 11 3 4 -6 -11" endSegment="7 11 3 4 -8 -15"/>
+    <SelectManifestation startSegment="7 11 3 4 -6 -11" endSegment="9 14 4 5 -5 -9"/>
+    <SelectManifestation point="9 14 4 5 -5 -9"/>
+    <SelectManifestation startSegment="9 14 4 5 -5 -9" endSegment="8 12 4 5 -3 -6"/>
+    <SelectManifestation point="8 12 4 5 -3 -6"/>
+    <SelectManifestation point="7 11 3 4 -8 -15"/>
+    <SelectManifestation startSegment="7 11 3 4 -8 -15" endSegment="7 11 3 4 -10 -19"/>
+    <SelectManifestation point="7 11 3 4 -10 -19"/>
+    <SelectManifestation startSegment="7 11 3 4 -10 -19" endSegment="9 14 4 5 -11 -21"/>
+    <SelectManifestation point="9 14 4 5 -11 -21"/>
+    <SelectManifestation point="10 16 4 5 -9 -18"/>
+    <SelectManifestation startSegment="10 16 4 5 -9 -18" endSegment="9 14 4 5 -11 -21"/>
+    <SelectManifestation startSegment="5 8 2 3 -11 -21" endSegment="7 11 3 4 -10 -19"/>
+    <SelectManifestation point="5 8 2 3 -11 -21"/>
+    <SelectManifestation startSegment="6 10 2 3 -13 -24" endSegment="5 8 2 3 -11 -21"/>
+    <SelectManifestation point="6 10 2 3 -13 -24"/>
+    <SelectManifestation startSegment="5 8 2 3 -15 -27" endSegment="6 10 2 3 -13 -24"/>
+    <SelectManifestation point="5 8 2 3 -15 -27"/>
+    <SelectManifestation startSegment="3 5 1 2 -14 -25" endSegment="5 8 2 3 -15 -27"/>
+    <SelectManifestation point="3 5 1 2 -14 -25"/>
+    <SelectManifestation startSegment="3 5 1 2 -12 -21" endSegment="3 5 1 2 -14 -25"/>
+    <SelectManifestation point="3 5 1 2 -12 -21"/>
+    <SelectManifestation point="4 6 2 3 -7 -12"/>
+    <SelectManifestation point="4 6 2 3 -7 -12"/>
+    <DeselectAll/>
+    <SelectManifestation point="3 4 3 4 -7 -12"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        5,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        5,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        -1,
+        -3,
+        1
+      ]
+    ],
+    [
+      [
+        5,
+        8,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        4,
+        6,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        5,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        -3,
+        -7,
+        1
+      ]
+    ],
+    [
+      [
+        5,
+        8,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        -4,
+        -9,
+        1
+      ]
+    ],
+    [
+      [
+        6,
+        10,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        -2,
+        -6,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -4,
+        -9,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -6,
+        -12,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -8,
+        -15,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -7,
+        -13,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -5,
+        -9,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 5,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 6,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 7,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 8,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 9,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 10,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 11,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 12,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 13,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        0,
+        2
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        2,
+        3
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        2,
+        4
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        4,
+        5
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        3,
+        6
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        6,
+        7
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        8,
+        7
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        9,
+        6
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        10,
+        9
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        11,
+        10
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        12,
+        11
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        13,
+        12
+      ],
+      "color": "#008ec2"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="2 3 2 3 -12 -21" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="7 10 5 6 -3 -6" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="9 14 5 6 -9 -18" dir="yellow" index="6" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="8 12 4 5 -3 -6"/>
+    <SelectManifestation startSegment="8 12 4 5 -3 -6" endSegment="9 14 4 5 -1 -3"/>
+    <SelectManifestation point="9 14 4 5 -1 -3"/>
+    <SelectManifestation startSegment="9 14 4 5 -1 -3" endSegment="11 17 5 6 -2 -5"/>
+    <SelectManifestation point="11 17 5 6 -2 -5"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="9 14 4 5 -1 -3" endSegment="11 17 5 6 -2 -5"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="8 12 4 5 -3 -6"/>
+    <SelectManifestation point="8 12 4 5 -3 -6"/>
+    <SelectManifestation point="7 10 5 6 -3 -6"/>
+    <DeselectAll/>
+    <SelectManifestation point="7 10 5 6 -3 -6"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        5,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        5,
+        8,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        5,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        -1,
+        -3,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        2,
+        0
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        1,
+        3
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        4,
+        1
+      ],
+      "color": "#008ec2"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="10 15 6 7 -4 -9" dir="yellow" index="6" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="14 22 6 8 -6 -12" endSegment="12 19 5 7 -7 -14"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="13 20 6 8 -4 -9"/>
+    <SelectManifestation point="13 20 6 8 -4 -9"/>
+    <DeselectAll/>
+    <SelectManifestation point="11 16 8 10 -4 -9"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -3,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -3,
+        -5,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -5,
+        -9,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        0,
+        2
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        1,
+        3
+      ],
+      "color": "#008ec2"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="14 22 6 8 -6 -12" endSegment="12 19 5 7 -7 -14"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="7 11 3 4 -8 -15" endSegment="7 11 3 4 -10 -19"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="11 17 5 6 -2 -5"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="13 20 6 7 -1 -3" endSegment="12 18 6 7 1 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="12 18 6 7 1 0"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="15 23 7 8 2 1" endSegment="17 26 8 9 3 3"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="15 23 7 8 2 1" endSegment="17 26 8 9 3 3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="12 18 6 7 1 0" endSegment="13 20 6 7 3 3"/>
+    <SelectManifestation point="12 18 6 7 1 0"/>
+    <SelectManifestation startSegment="13 20 6 7 -1 -3" endSegment="12 18 6 7 1 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="12 18 6 7 1 0" dir="red" index="17" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="13 20 6 7 -1 -3"/>
+    <DeselectAll/>
+    <SelectManifestation point="12 18 7 8 -1 -3"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        4,
+        6,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        4,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        6,
+        9,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        4,
+        6,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        3,
+        4,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 5,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        3,
+        2
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        1,
+        4
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        4,
+        3
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        5,
+        0
+      ],
+      "color": "#d91218"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <SelectParallelStruts symmetry="icosahedral" orbit="red" dir="red" index="0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-9 -14 -4 -5 -9 -15"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-11"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 -1 -7 -12"/>
+    <SelectManifestation point="1 2 -1 -2 -7 -12"/>
+    <EndBlock/>
+    <TranslationTool name="tool-12"/>
+    <DeselectAll/>
+    <ApplyTool name="tool-11" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="tool-12" deleteInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-6 -9 -4 -5 -12 -21" dir="yellow" index="6" len="1 1"/>
+    <StrutCreation anchor="6 9 3 3 7 12" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="2 3 0 -1 8 15" dir="yellow" index="16" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 0 -2 8 15"/>
+    <SelectManifestation point="1 2 -2 -4 8 15"/>
+    <EndBlock/>
+    <TranslationTool name="tool-13"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-6 -10 -2 -4 6 12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="tool-13" deleteInputs="true" copyColors="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-5 -8 -3 -4 3 6" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="-6 -9 -4 -5 -2 -3" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="-10 -15 -6 -7 -6 -9" dir="yellow" index="16" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="15 23 7 8 2 1"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="15 22 9 10 5 6" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="11 16 7 8 1 0" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="-10 -15 -7 -9 -1 0" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="-9 -14 -6 -8 4 9" dir="yellow" index="16" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation point="-14 -22 -6 -9 -1 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-15 -24 -6 -9 1 3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-14 -22 -6 -9 -1 0"/>
+    <SelectManifestation point="-14 -22 -6 -9 -1 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-11 -16 -9 -12 -1 0"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        3,
+        5,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        5,
+        9,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        2,
+        0
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        1,
+        3
+      ],
+      "color": "#008ec2"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 1 2 -14 -25"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="7 10 4 4 12 21" dir="yellow" index="16" len="1 1"/>
+    <StrutCreation anchor="3 4 1 0 13 24" dir="yellow" index="16" len="1 1"/>
+    <SelectParallelStruts symmetry="icosahedral" orbit="blue" index="41"/>
+    <BookmarkTool name="tool-14"/>
+    <setItemColor red="8" green="8" blue="8"/>
+    <ApplyTool name="tool-14" selectInputs="true" copyColors="true"/>
+    <Delete/>
+    <StrutCreation anchor="2 3 1 1 1 2" dir="green" index="23" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="2 3 1 1 1 2" endSegment="4 5 1 1 -1 0"/>
+    <SelectNeighbors/>
+    <SelectManifestation point="2 3 1 1 1 2"/>
+    <SelectManifestation point="2 3 1 1 1 2"/>
+    <DeselectAll/>
+    <SelectManifestation point="6 9 3 3 5 8"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 0 -1 6 11"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 12 4 4 4 6"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 6 2 2 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 12 5 6 -1 -3"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 12 4 4 14 24"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="14 21 7 7 7 10"/>
+    <DeselectAll/>
+    <SelectManifestation point="12 18 6 6 8 12"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [],
+  "balls": [],
+  "struts": [],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <SelectManifestation point="12 18 6 6 8 12"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [],
+  "balls": [],
+  "struts": [],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <SelectManifestation point="8 11 3 3 3 6"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation point="12 18 6 6 8 12"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="10 15 5 5 9 14"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="12 18 7 8 3 3"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 9 4 5 -10 -19"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 2 3 -14 -25"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -6 -2 -2 -10 -18"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-10 -15 -6 -7 -8 -13"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -12 -5 -6 -9 -15"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-10 -15 -7 -9 -3 -4"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-6 -9 -4 -5 -4 -7"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -6 -3 -4 5 9"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -6 -4 -6 10 18"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 6 1 0 15 27"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -12 -6 -8 6 12"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -6 -3 -4 -5 -9"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 -4 -6"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 6 3 4 -5 -9"/>
+    <DeselectAll/>
+    <SelectManifestation point="2 2 0 0 -6 -8"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation point="4 6 3 4 -5 -9"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-10 -15 -7 -9 -3 -4"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-6 -10 -6 -8 4 10"/>
+    <SelectManifestation point="-6 -10 -6 -8 4 10"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-6 -9 -5 -7 5 10"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        -4,
+        -5,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -7,
+        -14,
+        1
+      ]
+    ],
+    [
+      [
+        -6,
+        -8,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ],
+      [
+        -8,
+        -16,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -5,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -5,
+        -10,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        -9,
+        -16,
+        1
+      ]
+    ],
+    [
+      [
+        -5,
+        -6,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ],
+      [
+        -10,
+        -19,
+        1
+      ]
+    ],
+    [
+      [
+        -5,
+        -6,
+        1
+      ],
+      [
+        -3,
+        -4,
+        1
+      ],
+      [
+        -5,
+        -10,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -5,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        -10,
+        -19,
+        1
+      ]
+    ],
+    [
+      [
+        -6,
+        -8,
+        1
+      ],
+      [
+        -3,
+        -4,
+        1
+      ],
+      [
+        -3,
+        -7,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -5,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        -12,
+        -23,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -5,
+        1
+      ],
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        -2,
+        -5,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        -14,
+        -25,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -5,
+        1
+      ],
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        -3,
+        -4,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 5,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 6,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 7,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 8,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 9,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 10,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 11,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 12,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 13,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 14,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        0,
+        2
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        0,
+        3
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        1,
+        4
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        2,
+        5
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        6,
+        4
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        5,
+        7
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        8,
+        6
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        7,
+        9
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        8,
+        10
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        9,
+        11
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        12,
+        11
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        12,
+        13
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        13,
+        14
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -8 -3 -4 3 6"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-6 -9 -4 -5 -10 -17"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        14,
+        23,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        16,
+        26,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        14,
+        23,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        14,
+        24,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        16,
+        27,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        12,
+        19,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        17,
+        29,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -1,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        18,
+        29,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -2,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        11,
+        17,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        19,
+        32,
+        1
+      ]
+    ],
+    [
+      [
+        -3,
+        -3,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        16,
+        26,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        0,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        9,
+        14,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        21,
+        35,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -4,
+        1
+      ],
+      [
+        -2,
+        -4,
+        1
+      ],
+      [
+        16,
+        26,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -2,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        7,
+        11,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        9,
+        14,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        19,
+        33,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -4,
+        1
+      ],
+      [
+        -2,
+        -4,
+        1
+      ],
+      [
+        14,
+        22,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -4,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        9,
+        13,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        7,
+        10,
+        1
+      ]
+    ],
+    [
+      [
+        -6,
+        -7,
+        1
+      ],
+      [
+        -3,
+        -5,
+        1
+      ],
+      [
+        13,
+        20,
+        1
+      ]
+    ],
+    [
+      [
+        -6,
+        -7,
+        1
+      ],
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        8,
+        11,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -4,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        11,
+        17,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        5,
+        8,
+        1
+      ]
+    ],
+    [
+      [
+        -5,
+        -5,
+        1
+      ],
+      [
+        -3,
+        -5,
+        1
+      ],
+      [
+        11,
+        17,
+        1
+      ]
+    ],
+    [
+      [
+        -5,
+        -5,
+        1
+      ],
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        6,
+        8,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -4,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        6,
+        8,
+        1
+      ]
+    ],
+    [
+      [
+        -4,
+        -4,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        4,
+        4,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 5,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 6,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 7,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 8,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 9,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 10,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 11,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 12,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 13,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 14,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 15,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 16,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 17,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 18,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 19,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 20,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 21,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 22,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 23,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 24,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 25,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 26,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 27,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 28,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 29,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        0,
+        2
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        1,
+        3
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        4,
+        2
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        5,
+        2
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        4,
+        6
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        7,
+        4
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        8,
+        5
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        6,
+        9
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        10,
+        7
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        11,
+        8
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        9,
+        12
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        10,
+        13
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        11,
+        14
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        15,
+        11
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        12,
+        16
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        17,
+        13
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        18,
+        14
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        19,
+        15
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        20,
+        17
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        18,
+        21
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        18,
+        22
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        19,
+        23
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        24,
+        20
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        21,
+        25
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        22,
+        24
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        26,
+        25
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        27,
+        26
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        27,
+        28
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        28,
+        29
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 1 1 -9 -16"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-2 -3 -1 -1 -11 -20"/>
+    <SelectManifestation point="-2 -3 -1 -1 -11 -20"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-2 -4 -2 -2 -12 -20"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        2,
+        4,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        4,
+        8,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        5,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        6,
+        12,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        5,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        4,
+        8,
+        1
+      ]
+    ],
+    [
+      [
+        5,
+        7,
+        1
+      ],
+      [
+        4,
+        5,
+        1
+      ],
+      [
+        4,
+        8,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        3,
+        4,
+        1
+      ],
+      [
+        -1,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        6,
+        11,
+        1
+      ]
+    ],
+    [
+      [
+        6,
+        9,
+        1
+      ],
+      [
+        4,
+        5,
+        1
+      ],
+      [
+        6,
+        11,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        3,
+        4,
+        1
+      ],
+      [
+        -3,
+        -5,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        5,
+        9,
+        1
+      ]
+    ],
+    [
+      [
+        8,
+        11,
+        1
+      ],
+      [
+        4,
+        5,
+        1
+      ],
+      [
+        4,
+        9,
+        1
+      ]
+    ],
+    [
+      [
+        6,
+        8,
+        1
+      ],
+      [
+        3,
+        4,
+        1
+      ],
+      [
+        -5,
+        -7,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#ff00cc"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 5,
+      "color": "#ff00cc"
+    },
+    {
+      "vertex": 6,
+      "color": "#ff00cc"
+    },
+    {
+      "vertex": 7,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 8,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 9,
+      "color": "#ff00cc"
+    },
+    {
+      "vertex": 10,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 11,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 12,
+      "color": "#ff00cc"
+    },
+    {
+      "vertex": 13,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 14,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        2,
+        0
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        1,
+        3
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        1,
+        4
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        2,
+        5
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        6,
+        2
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        2,
+        7
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        8,
+        4
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        9,
+        6
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        7,
+        10
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        8,
+        11
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        12,
+        9
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        10,
+        13
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        11,
+        14
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 9 4 5 -8 -15"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="6 9 3 3 -1 -2"/>
+    <SelectManifestation point="6 9 3 3 -1 -2"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="6 8 2 2 -2 -2"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        -7,
+        -13,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        -5,
+        -9,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        -9,
+        -17,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        -4,
+        -7,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        -10,
+        -19,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        -11,
+        -19,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        -2,
+        -4,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        -1,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        -12,
+        -22,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -4,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ]
+    ],
+    [
+      [
+        -2,
+        -3,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        -14,
+        -25,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        5,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        -2,
+        -3,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 5,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 6,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 7,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 8,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 9,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 10,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 12,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 11,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        0,
+        2
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        1,
+        3
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        4,
+        2
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        2,
+        5
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        3,
+        6
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        7,
+        4
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        6,
+        8
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        6,
+        9
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        10,
+        7
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        8,
+        11
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        9,
+        12
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="12 18 8 10 -6 -12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <BookmarkTool name="tool-15"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 8 3 4 -11 -19"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <DeselectAll/>
+    <SelectManifestation point="6 9 2 1 14 25"/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 2 2 2 3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="4 5 2 3 -16 -27"/>
+    <SelectManifestation point="4 5 2 3 -16 -27"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="4 4 1 2 -17 -27"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        1,
+        3,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        18,
+        30,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        20,
+        33,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        16,
+        27,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        21,
+        35,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        14,
+        25,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        23,
+        39,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        19,
+        33,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        12,
+        21,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        3,
+        1
+      ],
+      [
+        -1,
+        -3,
+        1
+      ],
+      [
+        23,
+        39,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        4,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        12,
+        21,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        -1,
+        -3,
+        1
+      ],
+      [
+        21,
+        36,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        -1,
+        -3,
+        1
+      ],
+      [
+        25,
+        42,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        10,
+        18,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        14,
+        24,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        0,
+        -2,
+        1
+      ],
+      [
+        26,
+        44,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        9,
+        16,
+        1
+      ]
+    ],
+    [
+      [
+        6,
+        8,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        12,
+        22,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        0,
+        -2,
+        1
+      ],
+      [
+        28,
+        48,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        7,
+        12,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        4,
+        1
+      ],
+      [
+        0,
+        -2,
+        1
+      ],
+      [
+        30,
+        52,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        5,
+        1
+      ],
+      [
+        2,
+        1,
+        1
+      ],
+      [
+        28,
+        48,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        5,
+        8,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        7,
+        1
+      ],
+      [
+        2,
+        1,
+        1
+      ],
+      [
+        30,
+        51,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        4,
+        6,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        5,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        3,
+        6,
+        1
+      ]
+    ],
+    [
+      [
+        6,
+        9,
+        1
+      ],
+      [
+        2,
+        1,
+        1
+      ],
+      [
+        28,
+        49,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 5,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 6,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 7,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 8,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 9,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 10,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 11,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 12,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 13,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 14,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 15,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 16,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 17,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 18,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 19,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 20,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 21,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 22,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 23,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 24,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 25,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 26,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 27,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        0,
+        2
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        3,
+        1
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        2,
+        4
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        5,
+        3
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        3,
+        6
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        7,
+        4
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        5,
+        8
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        9,
+        7
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        8,
+        10
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        11,
+        8
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        12,
+        9
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        9,
+        13
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        14,
+        11
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        15,
+        12
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        13,
+        16
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        17,
+        14
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        15,
+        18
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        17,
+        19
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        20,
+        17
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        18,
+        21
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        20,
+        22
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        23,
+        21
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        21,
+        24
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        22,
+        25
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        26,
+        23
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        27,
+        26
+      ],
+      "color": "#d91218"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <ApplyTool name="tool-15" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="8 12 5 6 -11 -21"/>
+    <SelectManifestation point="8 12 5 6 -11 -21"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="8 9 2 3 -14 -21"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        3,
+        4,
+        1
+      ],
+      [
+        5,
+        9,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        4,
+        7,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        4,
+        1
+      ],
+      [
+        3,
+        4,
+        1
+      ],
+      [
+        7,
+        12,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        7,
+        12,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        9,
+        16,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        10,
+        18,
+        1
+      ]
+    ],
+    [
+      [
+        3,
+        4,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        12,
+        21,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        6,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        14,
+        24,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        12,
+        21,
+        1
+      ]
+    ],
+    [
+      [
+        6,
+        8,
+        1
+      ],
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        12,
+        22,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        0,
+        -1,
+        1
+      ],
+      [
+        14,
+        25,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 5,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 6,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 8,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 9,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 10,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 11,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 12,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 13,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 7,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        0,
+        2
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        1,
+        3
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        4,
+        2
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        5,
+        3
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        4,
+        6
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        5,
+        7
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        6,
+        8
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        8,
+        9
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        9,
+        10
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        9,
+        11
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        10,
+        12
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        11,
+        13
+      ],
+      "color": "#008ec2"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 12 4 4 8 12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="8 12 4 4 4 6"/>
+    <SelectManifestation point="8 12 4 4 4 6"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="8 10 2 2 2 6"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        4,
+        6,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        5,
+        8,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        3,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        7,
+        12,
+        1
+      ]
+    ],
+    [
+      [
+        4,
+        5,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        3,
+        6,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        9,
+        16,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 6,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 7,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 5,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        1,
+        0
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        0,
+        2
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        3,
+        1
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        1,
+        4
+      ],
+      "color": "#00993f"
+    },
+    {
+      "vertices": [
+        2,
+        5
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        6,
+        3
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        5,
+        7
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="12 18 6 6 8 12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="12 18 6 6 8 12"/>
+    <SelectManifestation point="12 18 6 6 8 12"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="12 15 3 3 5 12"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -2,
+        -2,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#00993f"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="14 21 7 7 5 6"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="14 17 4 5 -2 1"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field": "golden",
+  "vertices": [
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        3,
+        5,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        -1,
+        -2,
+        1
+      ],
+      [
+        5,
+        9,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        3,
+        5,
+        1
+      ]
+    ],
+    [
+      [
+        2,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ]
+  ],
+  "balls": [
+    {
+      "vertex": 0,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 1,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 2,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 3,
+      "color": "#f2f2f2"
+    },
+    {
+      "vertex": 4,
+      "color": "#f2f2f2"
+    }
+  ],
+  "struts": [
+    {
+      "vertices": [
+        0,
+        1
+      ],
+      "color": "#008ec2"
+    },
+    {
+      "vertices": [
+        2,
+        0
+      ],
+      "color": "#ffb31a"
+    },
+    {
+      "vertices": [
+        3,
+        2
+      ],
+      "color": "#d91218"
+    },
+    {
+      "vertices": [
+        4,
+        3
+      ],
+      "color": "#008ec2"
+    }
+  ],
+  "panels": []
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,153,63"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction prototype="0 0 8 -5 5 -4" name="1" orbit="[[0,0,1],[12,-7,11]]" color="255,255,255"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction prototype="-3 1 -4 2 1 0" name="0" orbit="[[0,0,1],[2,-1,3]]" color="255,255,255"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="50,50,50"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="255,179,26"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="239,245,61"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="0,179,161"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="125,54,211"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="235,82,0"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="0,179,161"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="50,50,50"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="125,54,211"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="translation 0" hidden="true" selectInputs="false" deleteInputs="true" copyColors="true"/>
+    <Tool id="tool-1" label="translation 1" selectInputs="false" deleteInputs="true" copyColors="true"/>
+    <Tool id="tool-10" label="translation 10" selectInputs="false" deleteInputs="true" copyColors="true"/>
+    <Tool id="tool-11" label="bookmark 11" selectInputs="true" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-12" label="translation 12" selectInputs="false" deleteInputs="true" copyColors="true"/>
+    <Tool id="tool-13" label="translation 13" selectInputs="false" deleteInputs="true" copyColors="true"/>
+    <Tool id="tool-14" label="bookmark 14" selectInputs="true" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-15" label="bookmark 15" selectInputs="true" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-2" label="axial symmetry 2" selectInputs="true" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-3" label="translation 3" selectInputs="false" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-4" label="axial symmetry 4" selectInputs="true" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-5" label="translation 5" selectInputs="false" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-6" label="translation 6" selectInputs="false" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-7" label="axial symmetry 7" selectInputs="true" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-8" label="rotation 8" hidden="true" selectInputs="false" deleteInputs="false" copyColors="true"/>
+    <Tool id="tool-9" label="rotation 9" selectInputs="false" deleteInputs="false" copyColors="true"/>
+  </Tools>
+  <sceneModel ambientLight="51,51,51" background="175,200,220">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="327.62729453098956" far="655.2545890619791" near="0.30335860604721254" parallel="false" stereoAngle="0.0" width="147.43228253894532">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="0.5853567791490049" y="0.7507831752028972" z="-0.30607526024910037"/>
+      <LookDirection x="0.7313184241171587" y="-0.6519082217209213" z="-0.2004720254785229"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

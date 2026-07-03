@@ -1,0 +1,3271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="386" field="golden">
+  <EditHistory editNumber="776" lastStickyEdit="776">
+    <StrutCreation anchor="0 0 0 0 0 0" index="0" len="2 2"/>
+    <StrutCreation anchor="2 2 0 0 0 0" index="21" len="2 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="43" len="2 2"/>
+    <StrutCreation anchor="-1 0 -2 -3 1 1" dir="green" index="18" len="2 2"/>
+    <StrutCreation anchor="0 3 -3 -5 1 2" index="39" len="2 2"/>
+    <StrutCreation anchor="-1 2 -4 -7 1 3" index="21" len="2 2"/>
+    <StrutCreation anchor="0 3 -5 -9 1 4" dir="green" index="0" len="2 2"/>
+    <StrutCreation anchor="2 6 -4 -8 0 4" dir="green" index="18" len="2 2"/>
+    <StrutCreation anchor="3 9 -5 -10 0 5" index="6" len="2 2"/>
+    <StrutCreation anchor="4 10 -4 -8 0 4" index="0" len="2 2"/>
+    <StrutCreation anchor="6 12 -4 -8 0 4" dir="green" index="46" len="2 2"/>
+    <StrutCreation anchor="7 12 -2 -5 -1 3" dir="green" index="54" len="2 2"/>
+    <StrutCreation anchor="6 9 -1 -3 -1 2" dir="green" index="54" len="2 2"/>
+    <StrutCreation anchor="5 6 0 -1 -1 1" dir="green" index="42" len="2 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="46" len="2 2"/>
+    <StrutCreation anchor="1 0 2 3 -1 -1" dir="green" index="3" len="2 2"/>
+    <StrutCreation anchor="2 3 3 5 -1 -2" index="54" len="2 2"/>
+    <StrutCreation anchor="1 2 4 7 -1 -3" index="6" len="2 2"/>
+    <StrutCreation anchor="6 9 -1 -3 -1 2" index="6" len="2 2"/>
+    <StrutCreation anchor="7 10 0 -1 -1 1" index="54" len="2 2"/>
+    <StrutCreation anchor="6 9 1 1 -1 0" index="54" len="2 2"/>
+    <StrutCreation anchor="5 8 2 3 -1 -1" index="45" len="2 2"/>
+    <StrutCreation anchor="3 6 2 3 -1 -1" dir="green" index="46" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 5 9 -1 -4"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="1 0 2 3 -1 -1" dir="green" index="0" len="2 2"/>
+    <StrutCreation anchor="3 3 3 4 -2 -1" index="54" len="2 2"/>
+    <StrutCreation anchor="2 2 4 6 -2 -2" index="6" len="2 2"/>
+    <StrutCreation anchor="3 3 5 8 -2 -3" dir="green" index="18" len="2 2"/>
+    <StrutCreation anchor="3 3 5 8 -2 -3" index="6" len="2 2"/>
+    <StrutCreation anchor="4 4 6 10 -2 -4" index="0" len="2 2"/>
+    <StrutCreation anchor="6 6 6 10 -2 -4" dir="green" index="46" len="2 2"/>
+    <StrutCreation anchor="7 6 8 13 -3 -5" dir="green" index="0" len="2 2"/>
+    <StrutCreation anchor="9 9 9 14 -4 -5" index="21" len="2 2"/>
+    <StrutCreation anchor="10 10 8 12 -4 -4" index="39" len="2 2"/>
+    <StrutCreation anchor="9 9 7 10 -4 -3" dir="green" index="18" len="2 2"/>
+    <StrutCreation anchor="10 12 6 8 -4 -2" dir="green" index="43" len="2 2"/>
+    <StrutCreation anchor="9 12 4 5 -3 -1" dir="green" index="43" len="2 2"/>
+    <StrutCreation anchor="8 12 2 2 -2 0" dir="green" index="42" len="2 2"/>
+    <StrutCreation anchor="9 12 4 5 -3 -1" index="0" len="2 2"/>
+    <StrutCreation anchor="11 14 4 5 -3 -1" index="21" len="2 2"/>
+    <StrutCreation anchor="12 15 3 3 -3 0" dir="green" index="0" len="2 2"/>
+    <StrutCreation anchor="14 18 4 4 -4 0" dir="green" index="18" len="2 2"/>
+    <StrutCreation anchor="15 21 3 2 -4 1" index="39" len="2 2"/>
+    <StrutCreation anchor="14 20 2 0 -4 2" index="45" len="2 2"/>
+    <StrutCreation anchor="12 18 2 0 -4 2" dir="green" index="43" len="2 2"/>
+    <StrutCreation anchor="11 18 0 -3 -3 3" dir="green" index="42" len="2 2"/>
+    <StrutCreation anchor="9 15 -1 -4 -2 3" dir="green" index="42" len="2 2"/>
+    <StrutCreation anchor="14 18 4 4 -4 0" dir="green" index="46" len="2 2"/>
+    <StrutCreation anchor="15 18 6 7 -5 -1" dir="green" index="46" len="2 2"/>
+    <StrutCreation anchor="16 18 8 10 -6 -2" dir="green" index="54" len="2 2"/>
+    <StrutCreation anchor="15 15 9 12 -6 -3" index="6" len="2 2"/>
+    <StrutCreation anchor="16 16 10 14 -6 -4" index="54" len="2 2"/>
+    <StrutCreation anchor="15 15 11 16 -6 -5" dir="green" index="42" len="2 2"/>
+    <StrutCreation anchor="10 10 8 12 -4 -4" index="0" len="2 2"/>
+    <StrutCreation anchor="13 12 10 15 -5 -5" dir="green" index="43" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="8 12 2 2 -2 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectAll originLast="true"/>
+    <SelectManifestation point="8 12 2 2 -2 0"/>
+    <SelectManifestation point="8 12 2 2 -2 0"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool name="bookmark.builtin/ball at origin" selectInputs="true" copyColors="true"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-9", "-12", "1" ], [ "-4", "-5", "1" ], [ "3", "1", "1" ] ], [ [ "-8", "-12", "1" ], [ "-2", "-2", "1" ], [ "2", "0", "1" ] ], [ [ "-7", "-12", "1" ], [ "0", "1", "1" ], [ "1", "-1", "1" ] ], [ [ "-9", "-10", "1" ], [ "-6", "-9", "1" ], [ "3", "3", "1" ] ], [ [ "-8", "-9", "1" ], [ "-7", "-11", "1" ], [ "3", "4", "1" ] ], [ [ "-8", "-9", "1" ], [ "-5", "-7", "1" ], [ "3", "2", "1" ] ], [ [ "-6", "-10", "1" ], [ "-2", "-2", "1" ], [ "2", "0", "1" ] ], [ [ "-6", "-10", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "-5", "-9", "1" ], [ "-3", "-4", "1" ], [ "2", "1", "1" ] ], [ [ "-5", "-9", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "-5", "-9", "1" ], [ "3", "6", "1" ], [ "0", "-3", "1" ] ], [ [ "-4", "-8", "1" ], [ "4", "8", "1" ], [ "0", "-4", "1" ] ], [ [ "-6", "-6", "1" ], [ "-6", "-10", "1" ], [ "2", "4", "1" ] ], [ [ "-5", "-6", "1" ], [ "0", "1", "1" ], [ "1", "-1", "1" ] ], [ [ "-4", "-6", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "-3", "-6", "1" ], [ "-2", "-3", "1" ], [ "1", "1", "1" ] ], [ [ "-2", "-6", "1" ], [ "4", "8", "1" ], [ "0", "-4", "1" ] ], [ [ "-1", "-6", "1" ], [ "6", "11", "1" ], [ "-1", "-5", "1" ] ], [ [ "-5", "-3", "1" ], [ "-7", "-12", "1" ], [ "2", "5", "1" ] ], [ [ "-3", "-4", "1" ], [ "0", "1", "1" ], [ "1", "-1", "1" ] ], [ [ "-4", "-2", "1" ], [ "-6", "-10", "1" ], [ "2", "4", "1" ] ], [ [ "-2", "-3", "1" ], [ "-3", "-5", "1" ], [ "1", "2", "1" ] ], [ [ "-2", "-3", "1" ], [ "-1", "-1", "1" ], [ "1", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "-2", "-3", "1" ], [ "1", "1", "1" ] ], [ [ "1", "-3", "1" ], [ "5", "8", "1" ], [ "-2", "-3", "1" ] ], [ [ "1", "-3", "1" ], [ "7", "12", "1" ], [ "-2", "-5", "1" ] ], [ [ "-2", "0", "1" ], [ "-6", "-10", "1" ], [ "2", "4", "1" ] ], [ [ "2", "-2", "1" ], [ "6", "10", "1" ], [ "-2", "-4", "1" ] ], [ [ "-1", "0", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "0", "1" ], [ "2", "3", "1" ], [ "-1", "-1", "1" ] ], [ [ "2", "0", "1" ], [ "4", "6", "1" ], [ "-2", "-2", "1" ] ], [ [ "4", "0", "1" ], [ "6", "10", "1" ], [ "-2", "-4", "1" ] ], [ [ "5", "0", "1" ], [ "8", "13", "1" ], [ "-3", "-5", "1" ] ], [ [ "1", "3", "1" ], [ "-3", "-6", "1" ], [ "0", "3", "1" ] ], [ [ "3", "2", "1" ], [ "2", "3", "1" ], [ "-1", "-1", "1" ] ], [ [ "4", "3", "1" ], [ "1", "1", "1" ], [ "-1", "0", "1" ] ], [ [ "7", "3", "1" ], [ "7", "10", "1" ], [ "-4", "-3", "1" ] ], [ [ "7", "3", "1" ], [ "9", "14", "1" ], [ "-4", "-5", "1" ] ], [ [ "3", "6", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "4", "6", "1" ], [ "0", "-2", "1" ], [ "-2", "2", "1" ] ], [ [ "8", "4", "1" ], [ "8", "12", "1" ], [ "-4", "-4", "1" ] ], [ [ "6", "6", "1" ], [ "2", "2", "1" ], [ "-2", "0", "1" ] ], [ [ "7", "6", "1" ], [ "4", "5", "1" ], [ "-3", "-1", "1" ] ], [ [ "8", "6", "1" ], [ "6", "8", "1" ], [ "-4", "-2", "1" ] ], [ [ "6", "8", "1" ], [ "0", "-2", "1" ], [ "-2", "2", "1" ] ], [ [ "7", "9", "1" ], [ "1", "0", "1" ], [ "-2", "1", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 26,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 28,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 23,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 22,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 25,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 27,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 24,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 31,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 30,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 35,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 36,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 42,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 46,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 45,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 40,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 39,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 34,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 43,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 44,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 37,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 41,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 38,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 33,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 32,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 29,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 12 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 12, 18 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 26 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 26, 28 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 28, 21 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 21, 15 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 15, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 21, 23 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 23, 22 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 22, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 14 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 14 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 10, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 17 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 17, 25 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 25, 27 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 27, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 24, 31 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 31, 30 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 30, 29 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 29, 22 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 30, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 36 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 36, 42 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 42, 46 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 46, 45 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 40 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 40, 39 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 39, 34 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 34, 28 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 42, 43 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 43, 44 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 44, 37 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 37, 41 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 41, 38 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 33 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 27, 32 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 33, 32 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 6 6 8 -4 -2"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="8 6 6 8 -4 -2" endSegment="7 3 7 10 -4 -3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="6 6 2 2 -2 0" endSegment="7 9 1 0 -2 1"/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="6 6 2 2 -2 0" endSegment="7 9 1 0 -2 1"/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="6 6 2 2 -2 0" endSegment="7 9 1 0 -2 1"/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="6 6 2 2 -2 0" endSegment="7 9 1 0 -2 1"/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="6 6 2 2 -2 0" endSegment="7 9 1 0 -2 1"/>
+    <SelectManifestation point="2 -2 6 10 -2 -4"/>
+    <DeselectAll/>
+    <SelectManifestation point="7 3 7 10 -4 -3"/>
+    <DeselectAll/>
+    <SelectManifestation point="8 4 8 12 -4 -4"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "2", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "2", "2", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "3", "2", "1" ], [ "2", "3", "1" ], [ "-1", "-1", "1" ] ], [ [ "1", "4", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "2", "5", "1" ], [ "-5", "-9", "1" ], [ "1", "4", "1" ] ], [ [ "5", "5", "1" ], [ "1", "0", "1" ], [ "-2", "1", "1" ] ], [ [ "5", "5", "1" ], [ "3", "4", "1" ], [ "-2", "-1", "1" ] ], [ [ "6", "6", "1" ], [ "2", "2", "1" ], [ "-2", "0", "1" ] ], [ [ "4", "8", "1" ], [ "-4", "-8", "1" ], [ "0", "4", "1" ] ], [ [ "5", "8", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "6", "8", "1" ], [ "0", "-2", "1" ], [ "-2", "2", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 11, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 10, 11 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 10 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 2 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-6 -6 -6 -10 2 4"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="-9 -12 -4 -5 3 1" endSegment="-8 -9 -5 -7 3 2"/>
+    <SelectManifestation point="-9 -12 -4 -5 3 1"/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-9 -12 -4 -5 3 1"/>
+    <SelectManifestation point="-9 -12 -4 -5 3 1"/>
+    <DeselectAll/>
+    <SelectManifestation point="6 6 2 2 -2 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "0", "1" ], [ "2", "3", "1" ], [ "-1", "-1", "1" ] ], [ [ "0", "2", "1" ], [ "-2", "-4", "1" ], [ "0", "2", "1" ] ], [ [ "1", "3", "1" ], [ "-3", "-6", "1" ], [ "0", "3", "1" ] ], [ [ "1", "3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "3", "6", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "4", "9", "1" ], [ "-3", "-7", "1" ], [ "-1", "4", "1" ] ], [ [ "5", "10", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "7", "12", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "8", "12", "1" ], [ "0", "-2", "1" ], [ "-2", "2", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -3 -3 -5 1 2"/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="-2 -3 -3 -5 1 2" endSegment="-1 -2 -2 -3 1 1"/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="-2 -3 -3 -5 1 2" endSegment="-1 -2 -2 -3 1 1"/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="1 3 -3 -6 0 3" endSegment="-1 0 -4 -7 1 3"/>
+    <SelectManifestation startSegment="-2 -3 -3 -5 1 2" endSegment="-1 -2 -2 -3 1 1"/>
+    <SelectManifestation point="-2 -3 -3 -5 1 2"/>
+    <SelectManifestation point="-2 -3 -3 -5 1 2"/>
+    <SelectManifestation point="-5 -9 -3 -4 2 1"/>
+    <SelectManifestation point="10 9 3 3 -3 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="10 9 3 3 -3 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "2", "3", "1" ], [ "1", "1", "1" ], [ "-1", "0", "1" ] ], [ [ "3", "6", "1" ], [ "0", "-1", "1" ], [ "-1", "1", "1" ] ], [ [ "3", "9", "1" ], [ "-3", "-6", "1" ], [ "0", "3", "1" ] ], [ [ "4", "9", "1" ], [ "-1", "-3", "1" ], [ "-1", "2", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 0 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 1 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="10 15 -1 -5 -3 4"/>
+    <SelectManifestation startSegment="10 15 -1 -5 -3 4" endSegment="11 16 0 -3 -3 3"/>
+    <SelectManifestation point="11 16 0 -3 -3 3"/>
+    <SelectManifestation startSegment="10 15 -1 -5 -3 4" endSegment="11 16 0 -3 -3 3"/>
+    <SelectManifestation point="11 16 0 -3 -3 3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="6 8 0 -2 -2 2" endSegment="4 6 0 -2 -2 2"/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="6 8 0 -2 -2 2" endSegment="4 6 0 -2 -2 2"/>
+    <SelectNeighbors/>
+    <SelectManifestation startSegment="6 8 0 -2 -2 2" endSegment="4 6 0 -2 -2 2"/>
+    <SelectManifestation point="6 6 2 2 -2 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="3 6 -2 -5 -1 3"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "2", "1" ], [ "-2", "-4", "1" ], [ "0", "2", "1" ] ], [ [ "1", "3", "1" ], [ "-3", "-6", "1" ], [ "0", "3", "1" ] ], [ [ "1", "3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "3", "6", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "6", "6", "1" ], [ "2", "2", "1" ], [ "-2", "0", "1" ] ], [ [ "4", "9", "1" ], [ "-3", "-7", "1" ], [ "-1", "4", "1" ] ], [ [ "5", "10", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "7", "9", "1" ], [ "1", "0", "1" ], [ "-2", "1", "1" ] ], [ [ "7", "12", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "8", "12", "1" ], [ "0", "-2", "1" ], [ "-2", "2", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 4, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 10 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-5 -3 -7 -12 2 5" dir="green" index="18" len="2 2"/>
+    <StrutCreation anchor="-4 0 -8 -14 2 6" dir="green" index="0" len="2 2"/>
+    <StrutCreation anchor="-2 3 -7 -13 1 6" index="21" len="2 2"/>
+    <StrutCreation anchor="-1 4 -8 -15 1 7" index="0" len="2 2"/>
+    <StrutCreation anchor="4 9 -5 -11 -1 6" dir="green" index="42" len="2 2"/>
+    <StrutCreation anchor="2 6 -6 -12 0 6" dir="green" index="43" len="2 2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-2 -3 -3 -5 1 2" endSegment="-3 -6 -2 -3 1 1"/>
+    <SelectManifestation startSegment="-3 -6 -2 -3 1 1" endSegment="-5 -9 -3 -4 2 1"/>
+    <SelectManifestation startSegment="-6 -10 -2 -2 2 0" endSegment="-5 -9 -3 -4 2 1"/>
+    <SelectManifestation startSegment="-8 -12 -2 -2 2 0" endSegment="-6 -10 -2 -2 2 0"/>
+    <SelectManifestation startSegment="-8 -12 -2 -2 2 0" endSegment="-9 -12 -4 -5 3 1"/>
+    <SelectManifestation startSegment="-9 -12 -4 -5 3 1" endSegment="-8 -9 -5 -7 3 2"/>
+    <SelectManifestation startSegment="-8 -9 -5 -7 3 2" endSegment="-9 -10 -6 -9 3 3"/>
+    <SelectManifestation startSegment="-9 -10 -6 -9 3 3" endSegment="-8 -9 -7 -11 3 4"/>
+    <SelectManifestation startSegment="-8 -9 -7 -11 3 4" endSegment="-6 -6 -6 -10 2 4"/>
+    <SelectManifestation startSegment="-6 -6 -6 -10 2 4" endSegment="-5 -3 -7 -12 2 5"/>
+    <SelectManifestation startSegment="-5 -3 -7 -12 2 5" endSegment="-4 -2 -6 -10 2 4"/>
+    <SelectManifestation startSegment="-4 -2 -6 -10 2 4" endSegment="-2 0 -6 -10 2 4"/>
+    <SelectManifestation startSegment="-2 0 -6 -10 2 4" endSegment="-1 0 -4 -7 1 3"/>
+    <SelectManifestation startSegment="-1 0 -4 -7 1 3" endSegment="-2 -3 -3 -5 1 2"/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-3 -6 -2 -3 1 1"/>
+    <SelectManifestation point="-3 -6 -2 -3 1 1"/>
+    <DeselectAll/>
+    <SelectManifestation point="-6 -6 -6 -10 2 4"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-6", "-6", "1" ], [ "-2", "-2", "1" ], [ "2", "0", "1" ] ], [ [ "-5", "-6", "1" ], [ "0", "1", "1" ], [ "1", "-1", "1" ] ], [ [ "-6", "-4", "1" ], [ "-4", "-6", "1" ], [ "2", "2", "1" ] ], [ [ "-5", "-3", "1" ], [ "-5", "-8", "1" ], [ "2", "3", "1" ] ], [ [ "-5", "-3", "1" ], [ "-3", "-4", "1" ], [ "2", "1", "1" ] ], [ [ "-3", "-4", "1" ], [ "0", "1", "1" ], [ "1", "-1", "1" ] ], [ [ "-2", "-3", "1" ], [ "-1", "-1", "1" ], [ "1", "0", "1" ] ], [ [ "-3", "0", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "-2", "3", "1" ], [ "-5", "-9", "1" ], [ "1", "4", "1" ] ], [ [ "-1", "4", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "1", "3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "1", "6", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "2", "6", "1" ], [ "-2", "-4", "1" ], [ "0", "2", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 12, 13 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 10, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 11, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 13, 11 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <BeginBlock/>
+    <SelectManifestation point="-4 0 -8 -14 2 6"/>
+    <SelectManifestation point="-4 0 -8 -14 2 6"/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -6 6 11 -1 -5"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-8", "-12", "1" ], [ "0", "2", "1" ], [ "2", "-2", "1" ] ], [ [ "-7", "-12", "1" ], [ "2", "5", "1" ], [ "1", "-3", "1" ] ], [ [ "-8", "-10", "1" ], [ "-2", "-2", "1" ], [ "2", "0", "1" ] ], [ [ "-7", "-9", "1" ], [ "-3", "-4", "1" ], [ "2", "1", "1" ] ], [ [ "-7", "-9", "1" ], [ "-1", "0", "1" ], [ "2", "-1", "1" ] ], [ [ "-5", "-10", "1" ], [ "2", "5", "1" ], [ "1", "-3", "1" ] ], [ [ "-4", "-9", "1" ], [ "1", "3", "1" ], [ "1", "-2", "1" ] ], [ [ "-5", "-6", "1" ], [ "-2", "-3", "1" ], [ "1", "1", "1" ] ], [ [ "-2", "-6", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "-4", "-3", "1" ], [ "-3", "-5", "1" ], [ "1", "2", "1" ] ], [ [ "-3", "-2", "1" ], [ "-2", "-3", "1" ], [ "1", "1", "1" ] ], [ [ "-1", "-3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "-1", "0", "1" ], [ "-2", "-3", "1" ], [ "1", "1", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 11, 13 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 11 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 13 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-8 -15 3 7 1 -4" dir="green" index="42" len="2 2"/>
+    <StrutCreation anchor="-10 -18 2 6 2 -4" dir="green" index="43" len="2 2"/>
+    <StrutCreation anchor="-11 -18 0 3 3 -3" index="45" len="2 2"/>
+    <StrutCreation anchor="-13 -20 0 3 3 -3" index="39" len="2 2"/>
+    <StrutCreation anchor="-14 -21 -1 1 3 -2" dir="green" index="18" len="2 2"/>
+    <StrutCreation anchor="-13 -18 -2 -1 3 -1" dir="green" index="0" len="2 2"/>
+    <StrutCreation anchor="-11 -15 -1 0 2 -1" index="21" len="2 2"/>
+    <StrutCreation anchor="-10 -14 -2 -2 2 0" index="0" len="2 2"/>
+    <StrutCreation anchor="-13 -18 -2 -1 3 -1" dir="green" index="43" len="2 2"/>
+    <StrutCreation anchor="-14 -18 -4 -4 4 0" dir="green" index="43" len="2 2"/>
+    <StrutCreation anchor="-15 -18 -6 -7 5 1" dir="green" index="18" len="2 2"/>
+    <StrutCreation anchor="-14 -15 -7 -9 5 2" index="39" len="2 2"/>
+    <StrutCreation anchor="-15 -16 -8 -11 5 3" index="21" len="2 2"/>
+    <StrutCreation anchor="-14 -15 -9 -13 5 4" dir="green" index="0" len="2 2"/>
+    <StrutCreation anchor="-3 -12 8 15 -1 -7" dir="green" index="46" len="2 2"/>
+    <StrutCreation anchor="-2 -12 10 18 -2 -8" index="0" len="2 2"/>
+    <StrutCreation anchor="0 -10 10 18 -2 -8" index="6" len="2 2"/>
+    <StrutCreation anchor="1 -9 11 20 -2 -9" dir="green" index="18" len="2 2"/>
+    <StrutCreation anchor="2 -6 10 18 -2 -8" dir="green" index="0" len="2 2"/>
+    <StrutCreation anchor="4 -3 11 19 -3 -8" index="21" len="2 2"/>
+    <StrutCreation anchor="5 -2 10 17 -3 -7" index="39" len="2 2"/>
+    <StrutCreation anchor="4 -3 9 15 -3 -6" dir="green" index="18" len="2 2"/>
+    <Snapshot id="0"/>
+    <SelectParallelStruts symmetry="icosahedral" orbit="green" dir="green" index="43"/>
+    <Branch>
+      <BeginBlock/>
+      <SelectNeighbors/>
+      <AdjustSelectionByClass balls="IGNORE" struts="DESELECT" panels="IGNORE" originLast="true"/>
+      <EndBlock/>
+      <BookmarkTool name="tool-0"/>
+    </Branch>
+    <Delete/>
+    <StrutCreation anchor="-5 -6 0 1 1 -1" dir="green" index="46" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -6 0 1 1 -1"/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -9 3 6 0 -3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-4 -6 2 4 0 -2"/>
+    <SelectManifestation point="-4 -6 2 4 0 -2"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-5 -5 3 6 0 -3"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-6", "-12", "1" ], [ "0", "2", "1" ], [ "2", "-2", "1" ] ], [ [ "-5", "-12", "1" ], [ "4", "9", "1" ], [ "1", "-5", "1" ] ], [ [ "-5", "-10", "1" ], [ "2", "5", "1" ], [ "1", "-3", "1" ] ], [ [ "-4", "-9", "1" ], [ "1", "3", "1" ], [ "1", "-2", "1" ] ], [ [ "-4", "-9", "1" ], [ "3", "7", "1" ], [ "1", "-4", "1" ] ], [ [ "-3", "-6", "1" ], [ "-2", "-3", "1" ], [ "1", "1", "1" ] ], [ [ "-2", "-6", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "-2", "-4", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "-1", "-3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "0", "-2", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "2", "0", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 11 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="46" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="7 9 1 0 -2 1"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="1 0 2 3 -1 -1"/>
+    <SelectManifestation point="1 0 2 3 -1 -1"/>
+    <SelectManifestation point="1 0 2 3 -1 -1"/>
+    <SelectManifestation point="1 0 2 3 -1 -1"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 1 3 5 -1 -2"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "2", "2", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "3", "3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "3", "6", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "5", "6", "1" ], [ "0", "-1", "1" ], [ "-1", "1", "1" ] ], [ [ "5", "8", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "6", "9", "1" ], [ "-3", "-7", "1" ], [ "-1", "4", "1" ] ], [ [ "6", "9", "1" ], [ "-1", "-3", "1" ], [ "-1", "2", "1" ] ], [ [ "8", "12", "1" ], [ "-2", "-6", "1" ], [ "-2", "4", "1" ] ], [ [ "9", "15", "1" ], [ "-3", "-8", "1" ], [ "-2", "5", "1" ] ], [ [ "10", "16", "1" ], [ "-2", "-6", "1" ], [ "-2", "4", "1" ] ], [ [ "10", "18", "1" ], [ "-4", "-10", "1" ], [ "-2", "6", "1" ] ], [ [ "12", "18", "1" ], [ "-2", "-6", "1" ], [ "-2", "4", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 10, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <StrutCreation anchor="-11 -17 3 8 2 -5" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="-8 -11 1 3 1 -2" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="3 7 1 0 -2 1" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="10 19 -1 -5 -3 4" dir="green" index="43" len="2 4"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-8 -12 -2 -2 2 0" dir="green" index="43" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="-6 -6 -6 -10 2 4" endSegment="-5 -3 -7 -12 2 5"/>
+    <SelectManifestation point="-5 -3 -7 -12 2 5"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-9 -12 -4 -5 3 1"/>
+    <SelectManifestation point="-9 -12 -4 -5 3 1"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-8 -13 -5 -7 3 2"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-2", "0", "1" ], [ "-2", "-4", "1" ], [ "0", "2", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "2", "1" ], [ "-2", "-4", "1" ], [ "0", "2", "1" ] ], [ [ "1", "3", "1" ], [ "-3", "-6", "1" ], [ "0", "3", "1" ] ], [ [ "1", "3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "3", "6", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "4", "9", "1" ], [ "-3", "-7", "1" ], [ "-1", "4", "1" ] ], [ [ "5", "10", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "5", "12", "1" ], [ "-4", "-9", "1" ], [ "-1", "5", "1" ] ], [ [ "7", "12", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "7", "15", "1" ], [ "-3", "-8", "1" ], [ "-2", "5", "1" ] ], [ [ "8", "16", "1" ], [ "-4", "-10", "1" ], [ "-2", "6", "1" ] ], [ [ "10", "18", "1" ], [ "-4", "-10", "1" ], [ "-2", "6", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 5, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 10 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-1 0 -4 -7 1 3" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="2 6 -6 -12 0 6" dir="green" index="43" len="2 4"/>
+    <SelectManifestation point="-14 -18 -4 -4 4 0"/>
+    <Delete/>
+    <StrutCreation anchor="-13 -18 -2 -1 3 -1" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="-13 -19 -5 -6 4 1" dir="green" index="43" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-12 -10 -10 -16 4 6"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-15 -18 -6 -7 5 1"/>
+    <SelectManifestation point="-15 -18 -6 -7 5 1"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-13 -20 -8 -11 5 3"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "2", "1" ], [ "-2", "-4", "1" ], [ "0", "2", "1" ] ], [ [ "1", "3", "1" ], [ "-3", "-6", "1" ], [ "0", "3", "1" ] ], [ [ "1", "3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "3", "6", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "3", "8", "1" ], [ "-4", "-9", "1" ], [ "-1", "5", "1" ] ], [ [ "4", "9", "1" ], [ "-5", "-11", "1" ], [ "-1", "6", "1" ] ], [ [ "4", "9", "1" ], [ "-3", "-7", "1" ], [ "-1", "4", "1" ] ], [ [ "6", "12", "1" ], [ "-4", "-10", "1" ], [ "-2", "6", "1" ] ], [ [ "7", "15", "1" ], [ "-5", "-12", "1" ], [ "-2", "7", "1" ] ], [ [ "8", "16", "1" ], [ "-4", "-10", "1" ], [ "-2", "6", "1" ] ], [ [ "10", "18", "1" ], [ "-4", "-10", "1" ], [ "-2", "6", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 5, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 3 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-10 -13 -7 -11 3 4" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="-3 -1 -9 -16 2 7" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="12 19 1 -1 -3 2" dir="green" index="46" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="12 12 4 4 -4 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="13 12 6 7 -5 -1"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="12 12 4 4 -4 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="14 18 2 0 -4 2"/>
+    <SelectManifestation point="14 18 2 0 -4 2"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="12 20 4 4 -4 0"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-7", "-12", "1" ], [ "2", "5", "1" ], [ "1", "-3", "1" ] ], [ [ "-5", "-10", "1" ], [ "2", "5", "1" ], [ "1", "-3", "1" ] ], [ [ "-4", "-9", "1" ], [ "1", "3", "1" ], [ "1", "-2", "1" ] ], [ [ "-2", "-6", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "-1", "-3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 2, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="5 8 6 9 -3 -3" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="-10 -17 7 15 1 -8" dir="green" index="46" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -6 6 11 -1 -5"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-10 -16 10 20 0 -10"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "2", "2", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "3", "3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "5", "6", "1" ], [ "0", "-1", "1" ], [ "-1", "1", "1" ] ], [ [ "6", "9", "1" ], [ "-1", "-3", "1" ], [ "-1", "2", "1" ] ], [ [ "7", "12", "1" ], [ "-2", "-5", "1" ], [ "-1", "3", "1" ] ], [ [ "9", "15", "1" ], [ "-3", "-8", "1" ], [ "-2", "5", "1" ] ], [ [ "9", "15", "1" ], [ "-1", "-4", "1" ], [ "-2", "3", "1" ] ], [ [ "10", "16", "1" ], [ "-2", "-6", "1" ], [ "-2", "4", "1" ] ], [ [ "10", "18", "1" ], [ "-4", "-10", "1" ], [ "-2", "6", "1" ] ], [ [ "12", "18", "1" ], [ "-2", "-6", "1" ], [ "-2", "4", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 5, 7 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-3 -4 8 15 -1 -7" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="0 2 6 10 -2 -4" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="5 8 6 9 -3 -3" dir="green" index="46" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 -3 11 19 -3 -8"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="5 9 9 14 -4 -5"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-10", "-18", "1" ], [ "4", "10", "1" ], [ "2", "-6", "1" ] ], [ [ "-8", "-16", "1" ], [ "4", "10", "1" ], [ "2", "-6", "1" ] ], [ [ "-7", "-15", "1" ], [ "5", "12", "1" ], [ "2", "-7", "1" ] ], [ [ "-6", "-12", "1" ], [ "4", "10", "1" ], [ "2", "-6", "1" ] ], [ [ "-4", "-9", "1" ], [ "3", "7", "1" ], [ "1", "-4", "1" ] ], [ [ "-4", "-9", "1" ], [ "5", "11", "1" ], [ "1", "-6", "1" ] ], [ [ "-3", "-8", "1" ], [ "4", "9", "1" ], [ "1", "-5", "1" ] ], [ [ "-3", "-6", "1" ], [ "2", "5", "1" ], [ "1", "-3", "1" ] ], [ [ "-1", "-3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "-1", "-3", "1" ], [ "3", "6", "1" ], [ "0", "-3", "1" ] ], [ [ "0", "-2", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "2", "0", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 7 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 10, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 8 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-5 -9 13 24 -2 -11" dir="green" index="43" len="2 4"/>
+    <StrutCreation anchor="2 3 11 19 -3 -8" dir="green" index="43" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="13 9 9 12 -6 -3"/>
+    <DeselectAll/>
+    <SelectManifestation point="13 9 11 16 -6 -5"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="10 14 6 8 -4 -2" dir="green" index="46" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="10 15 9 13 -5 -4"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="10 15 9 13 -5 -4" dir="green" index="46" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="10 16 12 18 -6 -6"/>
+    <DeselectAll/>
+    <SelectManifestation point="10 16 12 18 -6 -6"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-6", "1" ], [ "2", "5", "1" ], [ "1", "-3", "1" ] ], [ [ "-1", "-3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "-1", "-3", "1" ], [ "3", "6", "1" ], [ "0", "-3", "1" ] ], [ [ "0", "-2", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="7 10 14 23 -5 -9" dir="green" index="43" len="2 4"/>
+    <Snapshot id="1"/>
+    <SelectParallelStruts symmetry="icosahedral" orbit="green" dir="green" index="42"/>
+    <Delete/>
+    <SelectManifestation point="1 3 -3 -6 0 3"/>
+    <Delete/>
+    <StrutCreation anchor="-1 0 -4 -7 1 3" dir="green" index="0" len="2 4"/>
+    <StrutCreation anchor="2 5 -3 -5 1 2" dir="green" index="0" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="5 8 6 9 -3 -3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="3 6 -2 -5 -1 3"/>
+    <SelectManifestation point="3 6 -2 -5 -1 3"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="5 10 -2 -3 1 1"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "0", "1" ], [ "12", "21", "1" ], [ "-3", "-9", "1" ] ], [ [ "1", "0", "1" ], [ "14", "25", "1" ], [ "-3", "-11", "1" ] ], [ [ "0", "1", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "0", "2", "1" ], [ "-2", "-4", "1" ], [ "0", "2", "1" ] ], [ [ "2", "1", "1" ], [ "5", "9", "1" ], [ "-1", "-4", "1" ] ], [ [ "2", "1", "1" ], [ "13", "23", "1" ], [ "-3", "-10", "1" ] ], [ [ "2", "2", "1" ], [ "8", "14", "1" ], [ "-2", "-6", "1" ] ], [ [ "1", "3", "1" ], [ "-3", "-6", "1" ], [ "0", "3", "1" ] ], [ [ "1", "3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "2", "3", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "2", "3", "1" ], [ "11", "19", "1" ], [ "-3", "-8", "1" ] ], [ [ "4", "3", "1" ], [ "13", "23", "1" ], [ "-3", "-10", "1" ] ], [ [ "3", "4", "1" ], [ "2", "3", "1" ], [ "-1", "-1", "1" ] ], [ [ "3", "4", "1" ], [ "4", "7", "1" ], [ "-1", "-3", "1" ] ], [ [ "4", "4", "1" ], [ "8", "14", "1" ], [ "-2", "-6", "1" ] ], [ [ "4", "4", "1" ], [ "16", "28", "1" ], [ "-4", "-12", "1" ] ], [ [ "5", "5", "1" ], [ "7", "12", "1" ], [ "-2", "-5", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 11 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 15, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 14 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 11, 1 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 14, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 16, 12 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-3 -1 -9 -16 2 7" dir="green" index="0" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 6 -6 -12 0 6"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 4 -8 -14 2 6"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "3", "3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "3", "4", "1" ], [ "2", "3", "1" ], [ "-1", "-1", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 2 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="3 8 -6 -11 1 5" dir="green" index="0" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="9 16 0 -3 -3 3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="6 12 -4 -10 -2 6"/>
+    <SelectManifestation point="6 12 -4 -10 -2 6"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="6 13 -5 -9 1 4" dir="green" index="0" len="2 4"/>
+    <SelectManifestation point="9 18 -4 -7 1 3"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "2", "1", "1" ], [ "5", "9", "1" ], [ "-1", "-4", "1" ] ], [ [ "3", "1", "1" ], [ "17", "30", "1" ], [ "-4", "-13", "1" ] ], [ [ "3", "1", "1" ], [ "19", "34", "1" ], [ "-4", "-15", "1" ] ], [ [ "1", "3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "4", "2", "1" ], [ "10", "18", "1" ], [ "-2", "-8", "1" ] ], [ [ "4", "2", "1" ], [ "18", "32", "1" ], [ "-4", "-14", "1" ] ], [ [ "2", "4", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "4", "3", "1" ], [ "13", "23", "1" ], [ "-3", "-10", "1" ] ], [ [ "3", "4", "1" ], [ "4", "7", "1" ], [ "-1", "-3", "1" ] ], [ [ "4", "4", "1" ], [ "16", "28", "1" ], [ "-4", "-12", "1" ] ], [ [ "4", "5", "1" ], [ "5", "9", "1" ], [ "-1", "-4", "1" ] ], [ [ "5", "5", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ], [ [ "4", "6", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "4", "7", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "6", "7", "1" ], [ "5", "9", "1" ], [ "-1", "-4", "1" ] ], [ [ "6", "8", "1" ], [ "8", "14", "1" ], [ "-2", "-6", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 14, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 14, 13 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 11, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 16 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 12 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 12, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 10 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 10, 2 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 3 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="13 20 6 11 -1 -5" dir="green" index="42" len="2 4"/>
+    <StrutCreation anchor="11 19 1 2 0 -1" dir="green" index="42" len="2 4"/>
+    <StrutCreation anchor="12 19 15 27 -3 -12" dir="green" index="42" len="2 4"/>
+    <StrutCreation anchor="-2 -3 -1 -1 1 0" dir="green" index="0" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 8 14 -2 -6"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="1 2 0 1 1 -1"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-1", "-1", "1" ], [ "7", "12", "1" ], [ "-2", "-5", "1" ] ], [ [ "-1", "-1", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "8", "14", "1" ], [ "-2", "-6", "1" ] ], [ [ "1", "0", "1" ], [ "12", "21", "1" ], [ "-3", "-9", "1" ] ], [ [ "1", "0", "1" ], [ "14", "25", "1" ], [ "-3", "-11", "1" ] ], [ [ "0", "1", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "0", "2", "1" ], [ "6", "10", "1" ], [ "-2", "-4", "1" ] ], [ [ "2", "1", "1" ], [ "13", "23", "1" ], [ "-3", "-10", "1" ] ], [ [ "2", "2", "1" ], [ "8", "14", "1" ], [ "-2", "-6", "1" ] ], [ [ "2", "3", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "2", "3", "1" ], [ "11", "19", "1" ], [ "-3", "-8", "1" ] ], [ [ "3", "4", "1" ], [ "2", "3", "1" ], [ "-1", "-1", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 7 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 11, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 11 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="4 6 2 4 0 -2" dir="green" index="0" len="2 4"/>
+    <StrutCreation anchor="3 5 11 20 -2 -9" dir="green" index="0" len="2 4"/>
+    <StrutCreation anchor="-1 -3 13 24 -2 -11" dir="green" index="0" len="2 4"/>
+    <StrutCreation anchor="-3 -6 -2 -3 1 1" dir="green" index="42" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -13 -7 -11 3 4"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-5 -9 -3 -4 2 1"/>
+    <SelectManifestation point="-5 -9 -3 -4 2 1"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-6 -11 -3 -5 1 2"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-6", "-6", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "-5", "-5", "1" ], [ "-7", "-12", "1" ], [ "2", "5", "1" ] ], [ [ "-5", "-5", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "-5", "-4", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "-5", "-3", "1" ], [ "-9", "-16", "1" ], [ "2", "7", "1" ] ], [ [ "-3", "-4", "1" ], [ "-2", "-3", "1" ], [ "1", "1", "1" ] ], [ [ "-3", "-3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "-4", "-2", "1" ], [ "-10", "-18", "1" ], [ "2", "8", "1" ] ], [ [ "-4", "-2", "1" ], [ "-8", "-14", "1" ], [ "2", "6", "1" ] ], [ [ "-3", "-2", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "-3", "-2", "1" ], [ "4", "7", "1" ], [ "-1", "-3", "1" ] ], [ [ "-2", "-1", "1" ], [ "-5", "-9", "1" ], [ "1", "4", "1" ] ], [ [ "-2", "-1", "1" ], [ "-3", "-5", "1" ], [ "1", "2", "1" ] ], [ [ "-1", "-1", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 12 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 13, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-11 -16 -10 -17 3 7" dir="green" index="42" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-13 -18 -2 -1 3 -1"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-14 -21 -11 -19 3 8"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-2", "-4", "1" ], [ "10", "18", "1" ], [ "-2", "-8", "1" ] ], [ [ "-1", "-3", "1" ], [ "3", "6", "1" ], [ "0", "-3", "1" ] ], [ [ "-1", "-3", "1" ], [ "11", "20", "1" ], [ "-2", "-9", "1" ] ], [ [ "-1", "-2", "1" ], [ "6", "11", "1" ], [ "-1", "-5", "1" ] ], [ [ "-1", "-1", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "-1", "-1", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ], [ [ "1", "-1", "1" ], [ "11", "20", "1" ], [ "-2", "-9", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "1", "0", "1" ], [ "14", "25", "1" ], [ "-3", "-11", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 0, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-12 -17 -1 -1 1 0" dir="green" index="42" len="2 4"/>
+    <StrutCreation anchor="-6 -8 2 4 0 -2" dir="green" index="42" len="2 4"/>
+    <StrutCreation anchor="0 1 9 17 -1 -8" dir="green" index="42" len="2 4"/>
+    <StrutCreation anchor="-5 -10 10 19 -1 -9" dir="green" index="42" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-9 -14 6 13 1 -7"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-8 -15 9 17 -1 -8"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-4", "1" ], [ "-2", "-3", "1" ], [ "1", "1", "1" ] ], [ [ "-3", "-3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "-3", "-2", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "-2", "-1", "1" ], [ "-5", "-9", "1" ], [ "1", "4", "1" ] ], [ [ "-2", "-1", "1" ], [ "-3", "-5", "1" ], [ "1", "2", "1" ] ], [ [ "-1", "-1", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 4, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-7 -11 5 10 0 -5" dir="green" index="42" len="2 4"/>
+    <StrutCreation anchor="-10 -16 4 8 0 -4" dir="green" index="42" len="2 4"/>
+    <Snapshot id="2"/>
+    <StrutCreation anchor="-5 -7 -7 -12 2 5" dir="green" index="42" len="2 4"/>
+    <StrutCreation anchor="-7 -8 -12 -21 3 9" dir="green" index="42" len="2 4"/>
+    <Snapshot id="3"/>
+    <AdjustSelectionByOrbitLength symmetry="icosahedral" orbit="green" length="2 2" struts="SELECT" panels="IGNORE"/>
+    <Delete/>
+    <StrutCreation anchor="-9 -15 -5 -8 2 3" dir="green" index="18" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-14 -21 -11 -19 3 8"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-8 -12 -6 -10 2 4"/>
+    <SelectManifestation point="-8 -12 -6 -10 2 4"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-6 -11 -7 -11 3 4"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-7", "-10", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "-6", "-9", "1" ], [ "-5", "-9", "1" ], [ "1", "4", "1" ] ], [ [ "-6", "-9", "1" ], [ "-3", "-5", "1" ], [ "1", "2", "1" ] ], [ [ "-3", "-4", "1" ], [ "-4", "-7", "1" ], [ "1", "3", "1" ] ], [ [ "-3", "-3", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "-1", "-1", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "0", "0", "1" ], [ "-2", "-4", "1" ], [ "0", "2", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "3", "5", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 1 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 6 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-15 -24 -8 -13 3 5" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="-9 -15 -11 -18 4 7" dir="green" index="18" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -13 -13 -23 3 10"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-6 -11 -13 -21 5 8"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-1", "-1", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ], [ [ "0", "0", "1" ], [ "-2", "-4", "1" ], [ "0", "2", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "3", "5", "1" ], [ "-1", "-2", "1" ], [ "0", "1", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-3 -6 -14 -23 5 9" dir="green" index="18" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 8 -6 -11 1 5"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 -2 -16 -26 6 10"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "4", "1" ], [ "4", "7", "1" ], [ "-1", "-3", "1" ] ], [ [ "6", "9", "1" ], [ "5", "9", "1" ], [ "-1", "-4", "1" ] ], [ [ "7", "10", "1" ], [ "4", "7", "1" ], [ "-1", "-3", "1" ] ], [ [ "9", "12", "1" ], [ "4", "7", "1" ], [ "-1", "-3", "1" ] ], [ [ "9", "13", "1" ], [ "7", "12", "1" ], [ "-2", "-5", "1" ] ], [ [ "11", "17", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ], [ [ "12", "18", "1" ], [ "8", "14", "1" ], [ "-2", "-6", "1" ] ], [ [ "12", "18", "1" ], [ "10", "18", "1" ], [ "-2", "-8", "1" ] ], [ [ "15", "23", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 9 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 11 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 2 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-3 -6 -8 -13 3 5" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="0 -2 -10 -16 4 6" dir="green" index="18" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="5 10 -2 -3 1 1"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 -2 -10 -16 4 6"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "4", "1" ], [ "4", "7", "1" ], [ "-1", "-3", "1" ] ], [ [ "6", "9", "1" ], [ "5", "9", "1" ], [ "-1", "-4", "1" ] ], [ [ "9", "14", "1" ], [ "6", "11", "1" ], [ "-1", "-5", "1" ] ], [ [ "9", "15", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ], [ [ "11", "17", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ], [ [ "12", "18", "1" ], [ "8", "14", "1" ], [ "-2", "-6", "1" ] ], [ [ "12", "18", "1" ], [ "10", "18", "1" ], [ "-2", "-8", "1" ] ], [ [ "15", "23", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 4, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 2 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 8 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-3 -6 -2 -3 1 1" dir="green" index="18" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="7 12 6 11 -1 -5"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectManifestation point="-2 -3 -3 -5 1 2"/>
+    <SelectManifestation point="-2 -3 -3 -5 1 2"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 -2 -4 -6 2 2"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-3", "1" ], [ "3", "6", "1" ], [ "0", "-3", "1" ] ], [ [ "-3", "-2", "1" ], [ "6", "11", "1" ], [ "-1", "-5", "1" ] ], [ [ "-1", "-1", "1" ], [ "3", "6", "1" ], [ "0", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "1", "1", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "5", "1" ], [ "3", "6", "1" ], [ "0", "-3", "1" ] ], [ [ "3", "6", "1" ], [ "6", "11", "1" ], [ "-1", "-5", "1" ] ], [ [ "3", "7", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ], [ [ "5", "8", "1" ], [ "6", "11", "1" ], [ "-1", "-5", "1" ] ], [ [ "6", "9", "1" ], [ "5", "9", "1" ], [ "-1", "-4", "1" ] ], [ [ "9", "14", "1" ], [ "6", "11", "1" ], [ "-1", "-5", "1" ] ], [ [ "9", "15", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ], [ [ "9", "16", "1" ], [ "12", "21", "1" ], [ "-3", "-9", "1" ] ], [ [ "11", "17", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ], [ [ "12", "18", "1" ], [ "8", "14", "1" ], [ "-2", "-6", "1" ] ], [ [ "15", "23", "1" ], [ "9", "16", "1" ], [ "-2", "-7", "1" ] ], [ [ "15", "24", "1" ], [ "12", "21", "1" ], [ "-3", "-9", "1" ] ], [ [ "15", "25", "1" ], [ "15", "26", "1" ], [ "-4", "-11", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 12, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 11 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 12, 13 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 14, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 11 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 16, 15 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 9, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 17 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 18 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 4, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -2 -4 -6 2 2" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="9 12 2 5 1 -3" dir="green" index="18" len="2 4"/>
+    <SelectManifestation point="14 23 5 9 -1 -4"/>
+    <Delete/>
+    <StrutCreation anchor="9 12 -4 -5 3 1" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="15 21 -7 -10 4 3" dir="green" index="18" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="13 24 -4 -7 1 3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="18 25 -9 -13 5 4"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "4", "1" ], [ "4", "7", "1" ], [ "-1", "-3", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 2 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="15 21 -1 0 2 -1" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="18 25 -3 -3 3 0" dir="green" index="18" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="15 25 1 2 0 -1"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="18 25 -3 -3 3 0"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "4", "1" ], [ "4", "7", "1" ], [ "-1", "-3", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="15 21 5 10 0 -5" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="18 25 3 7 1 -4" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="-6 -8 4 8 0 -4" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="0 1 7 13 -1 -6" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="6 10 10 18 -2 -8" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="12 19 13 23 -3 -10" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="-15 -22 -2 -3 1 1" dir="green" index="54" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -16 4 8 0 -4"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-18 -26 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "3", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "3", "4", "1" ], [ "4", "7", "1" ], [ "-1", "-3", "1" ] ], [ [ "5", "8", "1" ], [ "6", "11", "1" ], [ "-1", "-5", "1" ] ], [ [ "6", "9", "1" ], [ "5", "9", "1" ], [ "-1", "-4", "1" ] ], [ [ "6", "9", "1" ], [ "7", "13", "1" ], [ "-1", "-6", "1" ] ], [ [ "9", "14", "1" ], [ "6", "11", "1" ], [ "-1", "-5", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 4, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 2 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-9 -12 6 11 -1 -5" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="-3 -4 8 15 -1 -7" dir="green" index="54" len="2 4"/>
+    <StrutCreation anchor="-6 -8 10 18 -2 -8" dir="green" index="54" len="2 4"/>
+    <SelectManifestation point="-4 -7 9 17 -1 -8"/>
+    <Delete/>
+    <StrutCreation anchor="-12 -17 7 13 -1 -6" dir="green" index="54" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-5 -9 13 24 -2 -11"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-15 -21 9 16 -2 -7"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "1", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "2", "3", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "3", "4", "1" ], [ "2", "3", "1" ], [ "-1", "-1", "1" ] ], [ [ "6", "9", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "6", "10", "1" ], [ "6", "10", "1" ], [ "-2", "-4", "1" ] ], [ [ "8", "12", "1" ], [ "6", "10", "1" ], [ "-2", "-4", "1" ] ], [ [ "9", "13", "1" ], [ "7", "12", "1" ], [ "-2", "-5", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 5, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 3 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <StrutCreation anchor="-6 -8 16 28 -4 -12" dir="green" index="18" len="2 4"/>
+    <StrutCreation anchor="3 5 11 20 -2 -9" dir="green" index="54" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 2 14 26 -2 -12"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 1 13 23 -3 -10"/>
+    <ImportColoredMeshJson scale="1 0">
+      {
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-5", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "2", "4", "1" ], [ "0", "-2", "1" ] ], [ [ "1", "1", "1" ], [ "1", "2", "1" ], [ "0", "-1", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 2, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+
+    </ImportColoredMeshJson>
+    <DeselectAll/>
+    <Snapshot id="4"/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,153,63"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="50,50,50"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="255,179,26"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="239,245,61"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="0,179,161"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="125,54,211"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="235,82,0"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="0,179,161"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="50,50,50"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="125,54,211"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="bookmark 0" selectInputs="true" deleteInputs="false" copyColors="true"/>
+  </Tools>
+  <sceneModel ambientLight="51,51,51" background="175,200,220">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="407.02703857421875" far="814.0540771484375" near="0.37687688756872106" parallel="false" stereoAngle="0.0" width="183.16216735839845">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="0.11577300976148583" y="0.9489751148109967" z="-0.2933306013361415"/>
+      <LookDirection x="0.10435056257383367" y="-0.3053024765914257" z="-0.9465206589809154"/>
+    </ViewModel>
+  </Viewing>
+  <notes>
+    <page title="" snapshot="0">
+      <ViewModel distance="369.64280316865194" far="739.2856063373039" near="0.34226185478578885" parallel="false" stereoAngle="0.0" width="166.33926142589337">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0.10250830647602631" y="0.9179092730576559" z="-0.38332051019764485"/>
+        <LookDirection x="0.11456366717008211" y="-0.3936804139441028" z="-0.9120805325415857"/>
+      </ViewModel>
+      <content xml:space="preserve">
+       </content>
+    </page>
+    <page title="" snapshot="1">
+      <ViewModel distance="369.64280316865194" far="739.2856063373039" near="0.34226185478578885" parallel="false" stereoAngle="0.0" width="166.33926142589337">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0.10250830647602628" y="0.9179092730576559" z="-0.38332051019764485"/>
+        <LookDirection x="0.11456366717008211" y="-0.3936804139441028" z="-0.9120805325415857"/>
+      </ViewModel>
+      <content xml:space="preserve">
+       </content>
+    </page>
+    <page title="" snapshot="3">
+      <ViewModel distance="369.64280316865194" far="739.2856063373039" near="0.34226185478578885" parallel="false" stereoAngle="0.0" width="166.33926142589337">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0.10250830647602627" y="0.9179092730576559" z="-0.38332051019764485"/>
+        <LookDirection x="0.11456366717008208" y="-0.3936804139441028" z="-0.9120805325415857"/>
+      </ViewModel>
+      <content xml:space="preserve">
+       </content>
+    </page>
+    <page title="" snapshot="4">
+      <ViewModel distance="369.64280316865194" far="739.2856063373039" near="0.34226185478578885" parallel="false" stereoAngle="0.0" width="166.33926142589337">
+        <LookAtPoint x="0" y="0" z="0"/>
+        <UpDirection x="0.10250830647602624" y="0.9179092730576559" z="-0.38332051019764485"/>
+        <LookDirection x="0.11456366717008207" y="-0.3936804139441028" z="-0.9120805325415857"/>
+      </ViewModel>
+      <content xml:space="preserve">
+       </content>
+    </page>
+  </notes>
+</vzome:vZome>

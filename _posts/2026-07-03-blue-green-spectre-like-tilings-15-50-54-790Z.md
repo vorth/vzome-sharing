@@ -1,8 +1,8 @@
 ---
-title: blue green spectre-like tilings
-description: A 3D design created in vZome.  Use your mouse or touch to interact.
+title: Spectre-like Tilings in Blue and Green
+description: Exploring the zonohedral properties of the Spectre tile
 image: https://vorth.github.io/vzome-sharing/2026/07/03/15-50-54-790Z-blue-green-spectre-like-tilings/blue-green-spectre-like-tilings.png
-published: false
+published: true
 layout: vzome
 ---
 
@@ -12,7 +12,13 @@ layout: vzome
  
 {% endcomment %}
 
-A 3D design created in vZome.  Use your mouse or touch to interact.
+The now-famous Spectre tile is zonohedral: every edge has a parallel copy halfway around the periphery.
+As usual with zonohedra, this means that the shape can be stretched along any (or several) of those zones.
+Of course, that will destroy the symmetry of the tiles.
+
+Furthermore, in the Spectre tile the zones come in two triplets, with the members of each triplet separated by 120 degrees.
+This means we can preserve *most* of the symmetry by stretching a triple of zones by the same amount.
+What is lost is the congruent shape of the reversed tile.
 
 <figure style="width: 87%; margin: 5%">
   
@@ -24,6 +30,6 @@ A 3D design created in vZome.  Use your mouse or touch to interact.
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
-    blue green spectre-like tilings
+    Stretching green zones
   </figcaption>
 </figure>

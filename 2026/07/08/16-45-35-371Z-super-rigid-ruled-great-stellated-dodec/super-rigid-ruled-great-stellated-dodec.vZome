@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="386" field="golden">
+  <EditHistory editNumber="175" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="7" len="1 1"/>
+    <SelectManifestation startSegment="0 0 0 0 0 0" endSegment="0 0 1 1 2 3"/>
+    <Delete/>
+    <SelectManifestation point="0 0 1 1 2 3"/>
+    <Symmetry>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 2 3 5 8"/>
+    <SelectManifestation point="5 8 0 0 -2 -3"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 2 3 5 8"/>
+    <SelectManifestation point="3 5 -3 -5 -3 -5"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <Symmetry>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 2 3 5 8" endSegment="3 5 -3 -5 -3 -5"/>
+    <SelectManifestation startSegment="0 0 -2 -3 5 8" endSegment="3 5 3 5 -3 -5"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 -2 -3 -5 -8" endSegment="3 5 3 5 3 5"/>
+    <SelectManifestation startSegment="3 5 3 5 3 5" endSegment="-2 -3 -5 -8 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 -2 -3 5 8" endSegment="3 5 3 5 -3 -5"/>
+    <SelectManifestation startSegment="0 0 2 3 5 8" endSegment="3 5 -3 -5 -3 -5"/>
+    <EndBlock/>
+    <StrutIntersection/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="0 0 2 3 5 8" endSegment="3 5 -3 -5 -3 -5"/>
+    <EndBlock/>
+    <Symmetry>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Symmetry>
+    <Delete/>
+    <SelectManifestation point="1 2 0 0 2 3"/>
+    <Symmetry>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 3 5 3 5"/>
+    <SelectManifestation point="2 3 1 2 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="2 3 1 2 0 0" index="10" len="2 2"/>
+    <StrutCreation anchor="2 4 2 3 1 2" index="10" len="0 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 4 2 4 2 3"/>
+    <SelectManifestation point="3 5 3 5 3 5"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <DeselectAll/>
+    <StrutCreation anchor="1 2 0 0 2 3" index="9" len="2 2"/>
+    <StrutCreation anchor="2 3 1 2 2 4" index="9" len="0 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 2 3 3 4"/>
+    <SelectManifestation point="3 5 3 5 3 5"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation startSegment="2 4 2 3 1 2" endSegment="3 4 2 4 2 3"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="2 4 2 3 1 2" index="21" len="0 2"/>
+    <BeginBlock/>
+    <SelectManifestation startSegment="2 4 2 3 1 2" endSegment="2 5 1 2 2 2"/>
+    <SelectManifestation startSegment="2 3 1 2 0 0" endSegment="2 4 2 3 1 2"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="3 4 2 4 2 3" index="16" len="0 2"/>
+    <StrutCreation anchor="3 4 2 2 2 3" index="16" len="2 0"/>
+    <StrutCreation anchor="2 5 1 2 2 2" index="21" len="2 0"/>
+    <SelectAll originLast="true"/>
+    <Symmetry>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 4 2 2 2 3"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <ApplyTool name="scaling.builtin/scale up" deleteInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="7 12 3 5 4 6"/>
+    <SelectManifestation point="7 11 4 6 5 8"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 13 2 3 4 7"/>
+    <SelectManifestation point="7 11 2 4 5 8"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="7 11 4 6 5 8"/>
+    <SelectManifestation point="6 10 5 8 7 11"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="7 11 2 4 5 8"/>
+    <SelectManifestation point="5 8 3 5 6 10"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Symmetry>
+      <Boolean value="true" attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 5 8 -13 -21"/>
+    <SelectManifestation point="2 3 4 7 -8 -13"/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -8 7 11 6 10"/>
+    <SelectManifestation point="-7 -11 6 10 5 8"/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -4 5 8 7 11"/>
+    <SelectManifestation point="0 0 5 8 3 5"/>
+    <DeselectAll/>
+    <SelectManifestation point="3 5 0 0 5 8"/>
+    <SelectManifestation point="7 11 -2 -4 5 8"/>
+    <SelectManifestation point="7 12 -3 -5 4 6"/>
+    <SelectManifestation point="5 8 -3 -5 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 -3 -5 6 10"/>
+    <SelectManifestation point="7 11 -4 -6 5 8"/>
+    <SelectManifestation point="6 10 -5 -8 3 5"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 10 -5 -8 7 11"/>
+    <SelectManifestation point="7 11 -6 -10 5 8"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 -3 -5 10 16"/>
+    <SelectManifestation point="1 1 0 0 9 14"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <ApplyTool name="point reflection.builtin/reflection through origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 -3 -5 6 10"/>
+    <SelectManifestation point="2 3 -2 -3 8 13"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="8 13 -8 -13 8 13"/>
+    <SelectManifestation point="4 6 -5 -8 7 11"/>
+    <SelectManifestation point="2 3 -4 -7 8 13"/>
+    <SelectManifestation point="0 0 -5 -8 13 21"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <DeselectAll/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,153,63"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="50,50,50"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="255,179,26"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="239,245,61"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="0,179,161"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="125,54,211"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="235,82,0"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="0,179,161"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="50,50,50"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="125,54,211"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+  <sceneModel ambientLight="51,51,51" background="175,200,220">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="237.29860060563755" far="474.5972012112751" near="0.21972092648670144" parallel="false" stereoAngle="0.0" width="106.7843702725369">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="-0.45778479330458965" y="0.0851428100474356" z="0.884976714335636"/>
+      <LookDirection x="0.7926286256653805" y="0.4899601205017262" z="0.36287593209490243"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

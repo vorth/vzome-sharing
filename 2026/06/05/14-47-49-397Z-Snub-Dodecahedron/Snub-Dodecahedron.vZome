@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="386" field="snubDodec">
+  <EditHistory editNumber="5" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" dir="snubVertex" index="40" len="21 30 18 30 -18 -27"/>
+    <SelectManifestation point="-24 -42 -6 -9 12 21 9 18 -9 -15 3 3 21 33 15 24 -15 -24"/>
+    <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true" copyColors="true"/>
+    <ConvexHull3d mode="noPanels"/>
+    <DeselectAll/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction name="blue" orbit="[[0,0,0,0,0,0,1],[0,0,0,0,0,0,1]]" color="0,142,194"/>
+    <Direction name="yellow" orbit="[[0,0,0,0,0,0,1],[2,-1,0,0,0,0,1]]" color="255,179,26"/>
+    <Direction name="red" orbit="[[-1,1,0,0,0,0,1],[0,0,0,0,0,0,1]]" color="217,18,24"/>
+    <Direction name="green" orbit="[[2,-1,0,0,0,0,1],[5,-3,0,0,0,0,1]]" color="0,153,63"/>
+    <Direction name="orange" orbit="[[-4,3,0,0,0,0,5],[3,-1,0,0,0,0,5]]" color="235,82,0"/>
+    <Direction name="purple" orbit="[[2,-1,0,0,0,0,1],[0,0,0,0,0,0,1]]" color="125,54,211"/>
+    <Direction name="black" orbit="[[-2,3,0,0,0,0,11],[-7,5,0,0,0,0,11]]" color="50,50,50"/>
+    <Direction name="lavender" orbit="[[-3,2,0,0,0,0,1],[-3,2,0,0,0,0,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,0,0,0,0,5],[0,0,0,0,0,0,1]]" color="100,113,0"/>
+    <Direction name="maroon" orbit="[[5,-3,0,0,0,0,1],[0,0,0,0,0,0,1]]" color="117,0,50"/>
+    <Direction name="rose" orbit="[[0,0,0,0,0,0,1],[-4,3,0,0,0,0,5]]" color="255,51,143"/>
+    <Direction name="navy" orbit="[[-1,1,0,0,0,0,2],[2,-1,0,0,0,0,2]]" color="0,0,153"/>
+    <Direction name="turquoise" orbit="[[2,-1,0,0,0,0,2],[-3,2,0,0,0,0,2]]" color="0,179,161"/>
+    <Direction name="coral" orbit="[[-3,2,0,0,0,0,2],[-1,1,0,0,0,0,2]]" color="255,126,106"/>
+    <Direction name="sulfur" orbit="[[-1,1,0,0,0,0,3],[0,0,0,0,0,0,1]]" color="230,245,62"/>
+    <Direction name="sand" orbit="[[-8,5,0,0,0,0,1],[5,-3,0,0,0,0,1]]" color="154,117,74"/>
+    <Direction name="apple" orbit="[[2,-1,0,0,0,0,3],[-1,1,0,0,0,0,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,0,0,0,0,2],[2,-1,0,0,0,0,2]]" color="136,37,0"/>
+    <Direction name="spruce" orbit="[[-5,4,0,0,0,0,11],[-5,4,0,0,0,0,11]]" color="18,73,48"/>
+    <Direction name="brown" orbit="[[2,-1,0,0,0,0,3],[5,-3,0,0,0,0,3]]" color="107,53,26"/>
+    <Direction name="snubPentagon" orbit="[[-38,23,6,-4,20,-12,1],[23,-15,-4,2,-12,8,1]]" color="187,57,48"/>
+    <Direction name="snubTriangle" orbit="[[72,9,4,36,-48,-6,71],[135,-63,-28,32,-90,42,71]]" color="87,188,48"/>
+    <Direction name="snubDiagonal" orbit="[[4,5,-18,16,-20,8,11],[21,-15,-34,18,-28,20,11]]" color="228,225,199"/>
+    <Direction name="snubFaceNormal" orbit="[[0,3,0,0,0,-1,1],[5,-1,0,2,-3,0,1]]" color="216,216,208"/>
+    <Direction name="snubVertex" orbit="[[0,-3,-1,-1,0,2,1],[-1,-1,0,1,0,0,1]]" color="204,204,0"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+      <Direction name="blue" orbit="[[0,0,0,0,0,0,1],[0,0,0,0,0,0,1]]" color="0,142,194"/>
+      <Direction name="green" orbit="[[0,0,0,0,0,0,1],[-1,0,0,0,0,0,1]]" color="0,153,63"/>
+      <Direction name="yellow" orbit="[[1,0,0,0,0,0,1],[-1,0,0,0,0,0,1]]" color="255,179,26"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+  <sceneModel ambientLight="51,51,51" background="140,194,231">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="117.89772303829153" far="235.79544607658306" near="0.10916455836878845" parallel="false" stereoAngle="0.0" width="53.05397536723119">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="0" y="1" z="0"/>
+      <LookDirection x="0" y="0" z="-1"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

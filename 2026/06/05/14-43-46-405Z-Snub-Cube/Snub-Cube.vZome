@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="386" field="snubCube">
+  <EditHistory editNumber="5" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" symm="octahedral" dir="snubVertex" index="4" len="1 1 1"/>
+    <SelectManifestation point="0 0 1 0 1 0 1 1 1"/>
+    <ApplyTool name="octahedral.builtin/octahedral around origin" selectInputs="true" copyColors="true"/>
+    <ConvexHull3d mode="noPanels"/>
+    <DeselectAll/>
+  </EditHistory>
+  <SymmetrySystem name="octahedral" renderingStyle="disdyakis dodec">
+    <Direction name="blue" orbit="[[0,0,0,1],[0,0,0,1]]" color="0,142,194"/>
+    <Direction name="green" orbit="[[0,0,0,1],[-1,0,0,1]]" color="0,153,63"/>
+    <Direction name="yellow" orbit="[[1,0,0,1],[-1,0,0,1]]" color="255,179,26"/>
+    <Direction name="snubSquare" orbit="[[0,2,-1,1],[0,0,0,1]]" color="255,255,255"/>
+    <Direction name="snubTriangle" orbit="[[1,2,-1,2],[-1,2,-1,2]]" color="87,188,48"/>
+    <Direction name="snubDiagonal" orbit="[[0,-1,1,2],[0,1,-1,2]]" color="228,225,199"/>
+    <Direction name="snubFaceNormal" orbit="[[-2,2,1,7],[1,6,-4,7]]" color="216,216,208"/>
+    <Direction name="snubVertex" orbit="[[-1,-1,1,1],[0,-2,1,1]]" color="204,204,0"/>
+    <Direction name="snubSquareMid" orbit="[[-1,1,0,2],[1,3,-2,2]]" color="255,255,255"/>
+    <Direction name="snubTriangleMid" orbit="[[-1,1,0,1],[1,1,-1,1]]" color="255,255,255"/>
+  </SymmetrySystem>
+  <OtherSymmetries/>
+  <Tools/>
+  <sceneModel ambientLight="51,51,51" background="140,194,231">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="77.75506997121349" far="155.51013994242697" near="0.071995435158531" parallel="false" stereoAngle="0.0" width="34.98978148704607">
+      <LookAtPoint x="0" y="0" z="0"/>
+      <UpDirection x="0" y="1" z="0"/>
+      <LookDirection x="0" y="0" z="-1"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>

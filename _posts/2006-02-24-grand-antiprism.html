@@ -126,3 +126,78 @@ published: true
     grand antiprism, alternate Zometool projection
  </figcaption>
 </figure>
+
+<h2>Update, 2026-09-08</h2>
+
+<p>
+	That last model is incorrect!
+</p>
+<p>
+	Nan Ma and Paulo Freire recently did some <a href="https://www.nan.ma/zomeable-4polytopes/output/uniform/grand_antiprism/VIEWER.html">AI-assisted projections of the grand antiprism,</a> and
+	concluded that my vertex-first projection above cannot be correct.  In Nan's words:
+	<quote>
+       The reason is that each 4D vertex only belongs to one ring. By central symmetry, two antipodal 4D vertices belong to the same ring. The 3D origin is projected from two antipodal 4D points. So only one ring of pentagons should include the 3D origin as a pentagonal vertex.
+	</quote>
+	Put another way, a 3D vertex must either adjoin one pentagon or two, never zero or four.
+</p>
+<p>
+	Nan and I proceeded to race to create a paneled-pentagon vertex-first projection.  I used my 20-year-old
+	method of removing vertices and edges from a 600-cell projection, being more careful this time!  Here is my result, potentially with some
+	edges and even vertices remaining that should be removed.  I've attempted to 3-color the vertices: black and white for those on one
+	antiprism ring or the other, greenish-gray where two such 4D vertices project to the same 3D point.
+</p>
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2026/09/07/04-21-08-725Z-Corrected-Grand-Antiprism/Corrected-Grand-Antiprism.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2026/09/07/04-21-08-725Z-Corrected-Grand-Antiprism/Corrected-Grand-Antiprism.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    Corrected vertex-first projection
+ </figcaption>
+</figure>
+
+<p>
+	Nan's AI efforts also produced a <a href="https://www.nan.ma/vzome-sharing/2026/09/06/grand_antiprism_vertex_first_with_pentagons-21-56-55.html">projection with pentagons</a>, for comparison.
+	They appear to match, except for some stray edges I failed to remove.
+</p>
+
+<h3>Hidden-Cell-Removed Projections</h3>
+
+All of the prior projections on this page show both hemi-hyperspheres of the grand antiprism in the
+interior of the projection; you're seeing both the "front" (near to camera) and "back" (far from camera)
+3D surfaces projected to the same volume.  It can be a little hard to see the structure of the polytope.
+A hidden-cell-removed projection simply removes the back surface; you should be able to pick out parts of the two
+rings of pentagonal antiprisms, and the tetrahedra linking them.  Naturally, you can only see roughly half
+of each ring.
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2026/09/07/04-40-39-849Z-HCR-Grand-Antiprism/HCR-Grand-Antiprism.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2026/09/07/04-40-39-849Z-HCR-Grand-Antiprism/HCR-Grand-Antiprism.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    HCR vertex-first projection
+ </figcaption>
+</figure>
+
+Since 2006, I have learned more about these orthogonal projections of 4D polytopes.
+Among the many possible green-quaternion projections of the grand antiprism,
+there should be one that is tetrahedron-first, with a regular green-strut tetrahedron at the center.
+I believe I have captured it here, though again I probably have not removed all the necessary struts.
+This, too, is a HCR projection.
+
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://vorth.github.io/vzome-sharing/2026/09/07/05-42-13-812Z-tetrahedron-first-grand-antiprism/tetrahedron-first-grand-antiprism.vZome" >
+   <img  style="width: 100%"
+      src="https://vorth.github.io/vzome-sharing/2026/09/07/05-42-13-812Z-tetrahedron-first-grand-antiprism/tetrahedron-first-grand-antiprism.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    HCR tetrahedron-first projection
+ </figcaption>
+</figure>
+
+

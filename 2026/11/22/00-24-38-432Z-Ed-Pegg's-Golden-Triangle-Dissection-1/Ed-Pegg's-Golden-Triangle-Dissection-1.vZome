@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" edition="online" version="1.0" buildNumber="409" field="golden">
+  <EditHistory editNumber="22" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" index="41" len="2 2"/>
+    <StrutCreation anchor="0 0 0 0 0 0" index="8" len="2 2"/>
+    <StrutCreation anchor="1 2 0 -1 1 1" index="45" len="2 4"/>
+    <StrutCreation anchor="-1 -2 0 -1 1 1" index="40" len="2 4"/>
+    <StrutCreation anchor="1 2 0 -1 1 1" index="41" len="4 6"/>
+    <StrutCreation anchor="1 2 0 -1 1 1" index="8" len="4 6"/>
+    <StrutCreation anchor="-2 -3 -1 -3 3 4" index="0" len="6 10"/>
+    <StrutCreation anchor="-2 -3 -1 -3 3 4" index="40" len="4 6"/>
+    <StrutCreation anchor="-3 -5 -3 -6 6 9" index="8" len="4 6"/>
+    <StrutCreation anchor="-3 -5 -3 -6 6 9" index="41" len="4 6"/>
+    <StrutCreation anchor="-6 -10 -4 -8 8 12" index="56" len="4 6"/>
+    <StrutCreation anchor="-9 -15 -3 -6 6 9" index="41" len="4 6"/>
+    <StrutCreation anchor="-12 -20 -4 -8 8 12" index="0" len="6 10"/>
+    <StrutCreation anchor="-6 -10 -4 -8 8 12" index="0" len="6 10"/>
+    <StrutCreation anchor="-2 -3 -1 -3 3 4" index="37" len="6 10"/>
+    <StrutCreation anchor="4 7 -1 -3 3 4" index="37" len="6 10"/>
+    <StrutCreation anchor="-3 -5 -3 -6 6 9" index="45" len="6 10"/>
+    <StrutCreation anchor="-2 -3 -1 -3 3 4" index="8" len="10 16"/>
+    <StrutCreation anchor="-9 -15 -3 -6 6 9" index="23" len="10 16"/>
+    <StrutCreation anchor="4 7 -1 -3 3 4" index="8" len="10 16"/>
+    <StrutCreation anchor="12 20 -4 -8 8 12" index="45" len="6 10"/>
+    <StrutCreation anchor="6 10 -4 -8 8 12" index="45" len="6 10"/>
+  </EditHistory>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+    <Direction name="yellow" orbit="[[0,0,1],[2,-1,1]]" color="255,179,26"/>
+    <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+    <Direction name="green" orbit="[[2,-1,1],[5,-3,1]]" color="0,153,63"/>
+    <Direction name="orange" orbit="[[-4,3,5],[3,-1,5]]" color="235,82,0"/>
+    <Direction name="purple" orbit="[[2,-1,1],[0,0,1]]" color="125,54,211"/>
+    <Direction name="black" orbit="[[-2,3,11],[-7,5,11]]" color="50,50,50"/>
+    <Direction name="lavender" orbit="[[-3,2,1],[-3,2,1]]" color="175,135,255"/>
+    <Direction name="olive" orbit="[[3,-1,5],[0,0,1]]" color="100,113,0"/>
+    <Direction name="maroon" orbit="[[5,-3,1],[0,0,1]]" color="117,0,50"/>
+    <Direction name="rose" orbit="[[0,0,1],[-4,3,5]]" color="255,51,143"/>
+    <Direction name="navy" orbit="[[-1,1,2],[2,-1,2]]" color="0,0,153"/>
+    <Direction name="turquoise" orbit="[[2,-1,2],[-3,2,2]]" color="0,179,161"/>
+    <Direction name="coral" orbit="[[-3,2,2],[-1,1,2]]" color="255,126,106"/>
+    <Direction name="sulfur" orbit="[[-1,1,3],[0,0,1]]" color="230,245,62"/>
+    <Direction name="sand" orbit="[[-8,5,1],[5,-3,1]]" color="154,117,74"/>
+    <Direction name="apple" orbit="[[2,-1,3],[-1,1,3]]" color="116,195,0"/>
+    <Direction name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]" color="136,37,0"/>
+    <Direction name="spruce" orbit="[[-5,4,11],[-5,4,11]]" color="18,73,48"/>
+    <Direction name="brown" orbit="[[2,-1,3],[5,-3,3]]" color="107,53,26"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction name="blue" orbit="[[0,0,1],[0,0,1]]" color="0,142,194"/>
+      <Direction name="yellow" orbit="[[1,0,1],[-1,0,1]]" color="255,179,26"/>
+      <Direction name="green" orbit="[[0,0,1],[-1,0,1]]" color="0,153,63"/>
+      <Direction name="lavender" orbit="[[1,2,1],[-1,0,1]]" color="175,135,255"/>
+      <Direction name="olive" orbit="[[1,0,1],[3,-2,1]]" color="100,113,0"/>
+      <Direction name="maroon" orbit="[[-1,2,1],[1,0,1]]" color="117,0,50"/>
+      <Direction name="brown" orbit="[[1,0,1],[-2,0,1]]" color="107,53,26"/>
+      <Direction name="red" orbit="[[-1,1,1],[0,0,1]]" color="217,18,24"/>
+      <Direction name="purple" orbit="[[0,0,1],[2,-1,1]]" color="125,54,211"/>
+      <Direction name="black" orbit="[[0,1,1],[1,-1,1]]" color="50,50,50"/>
+      <Direction name="turquoise" orbit="[[-1,2,1],[1,-2,1]]" color="0,179,161"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+  <sceneModel ambientLight="51,51,51" background="140,194,231">
+    <directionalLight color="253,253,253" x="1" y="-1" z="-0.3"/>
+    <directionalLight color="181,181,181" x="-1" y="0" z="-0.2"/>
+    <directionalLight color="48,48,48" x="0" y="0" z="-1"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="235.86474045739507" far="471.72948091479014" near="0.21839327820129173" parallel="false" stereoAngle="0.0" width="106.13913320582779">
+      <LookAtPoint x="-1.0244118264788404" y="-9.298406187590984" z="13.391053822624592"/>
+      <UpDirection x="-0.010221869800165493" y="0.5677633286535527" z="-0.8231283715278117"/>
+      <LookDirection x="0.04264173562509904" y="-0.8221750639922439" z="-0.5676353112097843"/>
+    </ViewModel>
+  </Viewing>
+  <notes/>
+</vzome:vZome>
